@@ -23,14 +23,15 @@ Article                                                       Sections
     8-A.  Small loans to owners of multiple
             dwellings to remove substandard or
             insanitary conditions......................... 450 - 457
-    8-B.  Loans to owners of one to four unit
-            private and multiple dwellings................ 470 - 478
+    8-B.  Loans to owner-occupants of one to
+            four unit private and multiple
+            dwellings..................................... 470 - 478
     9.    Acquisition of property......................... 500 - 508
    10.    Sale or lease of projects....................... 550 - 560
    11.    Housing development fund companies.............. 570 - 582
    12.    New York city housing development
             corporation................................... 650 - 670
-   13.    Miscellaneous................................... 600 - 614
+   13.    Miscellaneous................................... 600 - 609
    15.    Participation loans to owners of
             multiple dwellings by private investors
             and municipalities utilizing federal
@@ -51,16 +52,10 @@ Article                                                       Sections
             program..................................... 1120 - 1123
    21.    Infrastructure development demonstration
             program..................................... 1130 - 1133
-   22.    Affordable housing development loans.......... 1150 - 1153
+   22.    Affordable housing develpment loans........... 1150 - 1153
    24.    National affordable housing act
             program..................................... 1170 - 1174
-   25.    New York access to home program............... 1200 - 1203
+   25.    New York access to home program............... 1200 - 1202
    26.    New York main street program.................. 1220 - 1222
    27.    Rural and urban community investment fund
             program..................................... 1230 - 1232
-   29.    Residential emergency services to offer home
-            repairs to the elderly program.............. 1260 - 1262
-   30.    New York access to home for heroes program.... 1270 - 1272
-   31.    Housing our neighbors with dignity program.... 1280 - 1282
-   32.    New York housing for the future homeownership
-            and rental housing programs................. 1290 - 1291
