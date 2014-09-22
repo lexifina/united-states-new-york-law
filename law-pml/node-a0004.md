@@ -1,24 +1,27 @@
                                ARTICLE IV
                     QUARTER HORSE RACING AND BREEDING
-Section 401. General powers of commission.
+Section 401. General powers of state racing and wagering board.
         402. Incorporation.
         403. Filing of information concerning stock transfers; necessity
-               for commission approval.
+               for board's approval.
         404. Right to hold quarter horse race meetings and races.
         405. Pari-mutuel betting at quarter horse races.
+        406. State admission tax.
         407. Licenses for quarter horse race meetings.
         408. Officials at quarter horse race meetings.
         409. Licenses for participants and employees at quarter horse
                race meetings.
-        410. Power of commission to impose fines and penalties.
+        410. Power of state racing and wagering board to impose fines
+               and penalties.
         411. Refunds.
-        412. Special police officers.
+        412. Special policemen.
         413. Place and manner of conducting pari-mutuel betting.
         414. Construction.
         415. Bond required of corporation or association conducting
                pari-mutuel betting.
         416. Books and records of pari-mutuel betting.
-        417. Filing of certain agreements with commission.
+        417. Filing of certain agreements with state racing and wagering
+               board.
         418. Disposition of pari-mutuel pools.
         419. Revocation of license.
         420. Hearing of refusal or revocation of license.

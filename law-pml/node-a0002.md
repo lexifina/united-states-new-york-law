@@ -26,12 +26,12 @@ Section 201.   Incorporation.
         220-a. Corporations continued.
         221.   New York Jockey Injury Compensation Fund, Inc.
         221-a. Health insurance for jockeys.
-        221-b. Health insurance for trainers.
         222.   Notice to be posted upon grounds.
-        223.   Special police officers.
+        223.   Special policemen.
         224.   Penalty for unlawful racing and betting.
         225.   Registration of race horses.
         226.   Increased or additional entrance fees.
+        227.   Admission tax.
         228.   Pension plans for backstretch employees.
         229.   Backstretch employees drug and alcohol rehabilitation
                  eligibility.
@@ -63,7 +63,8 @@ Section 201.   Incorporation.
         247.   Racing zones.
         248.   Racing season; allotment of dates for racing.
         249.   Pari-mutuel employees to be citizens and residents.
-        250.   Power of commission to impose penalties.
+        250.   Power of state racing and wagering board to impose
+                 penalties.
         251.   Definitions.
         252.   New York state thoroughbred breeding and development
                  fund.
