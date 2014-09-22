@@ -33,13 +33,13 @@ Article
                                        TITLE C
                      PARKS, RECREATION AND HISTORIC PRESERVATION
    13.    General provisions (§§ 13.01-13.31)
-   14.    Historic Preservation (§§ 14.01-14.12)
+   14.    Historic Preservation (§§ 14.01-14.09)
    15.    Park and recreation land acquisition bond acts
             (§§ 15.01-15.13)
    17.    Outdoor recreation development bond act (§§ 17.01-17.11)
    19.    Historic sites (§§ 19.01-19.11)
-   19-A.  Property held by the office of parks, recreation and historic
-            preservation (§§ 19.13-19.29)
+   19-A.  Title to property held by the office of parks, recreation and
+            historic preservation (§§ 19.13-19.29)
    20.    New York State park preserve system (§§ 20.01-20.03)
                                        TITLE D
                                      SNOWMOBILES
@@ -58,3 +58,7 @@ Article
             (§§ 33.01-33.03)
    35.    New York State System of Heritage Areas (§§ 35.01-35.15)
    39.    Niagara River Greenway Commission (§§ 39.01-39.19)
+   41.    Michigan Street African American Heritage Corridor Commission
+            (§§ 41.01-41.19)
+   43.    Niagara Falls Underground Railroad Heritage Commission
+            (§§ 43.01-43.19)
