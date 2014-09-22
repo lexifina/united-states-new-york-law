@@ -1,2 +1,26 @@
-# Art. XVII, § 2. State board of social welfare; powers and duties
-§2. The state board of social welfare shall be continued. It shall visit and inspect, or cause to be visited and inspected by members of its staff, all public and private institutions, whether state, county, municipal, incorporated or not incorporated, which are in receipt of public funds and which are of a charitable, eleemosynary, correctional or reformatory character, including all reformatories for juveniles and institutions or agencies exercising custody of dependent, neglected or delinquent children, but excepting state institutions for the education and support of the blind, the deaf and the dumb, and excepting also such institutions as are hereinafter made subject to the visitation and inspection of the department of mental hygiene or the state commission of correction. As to institutions, whether incorporated or not incorporated, having inmates, but not in receipt of public funds, which are of a charitable, eleemosynary, correctional or reformatory character, and agencies, whether incorporated or not incorporated, not in receipt of public funds, which exercise custody of dependent, neglected or delinquent children, the state board of social welfare shall make inspections, or cause inspections to be made by members of its staff, but solely as to matters directly affecting the health, safety, treatment and training of their inmates, or of the children under their custody. Subject to the control of the legislature and pursuant to the procedure prescribed by general law, the state board of social welfare may make rules and regulations, not inconsistent with this constitution, with respect to all of the functions, powers and duties with which the department and the state board of social welfare are herein or shall be charged. (New. Derived in part from former §11 of Art. 8. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)
+  § 2. The state board of social welfare shall be continued. It shall
+visit and inspect, or cause to be visited and inspected by members of
+its staff, all public and private institutions, whether state, county,
+municipal, incorporated or not incorporated, which are in receipt of
+public funds and which are of a charitable, eleemosynary, correctional
+or reformatory character, including all reformatories for juveniles and
+institutions or agencies exercising custody of dependent, neglected or
+delinquent children, but excepting state institutions for the education
+and support of the blind, the deaf and the dumb, and excepting also such
+institutions as are hereinafter made subject to the visitation and
+inspection of the department of mental hygiene or the state commission
+of correction. As to institutions, whether incorporated or not
+incorporated, having inmates, but not in receipt of public funds, which
+are of a charitable, eleemosynary, correctional or reformatory
+character, and agencies, whether incorporated or not incorporated, not
+in receipt of public funds, which exercise custody of dependent,
+neglected or delinquent children, the state board of social welfare
+shall make inspections, or cause inspections to be made by members of
+its staff, but solely as to matters directly affecting the health,
+safety, treatment and training of their inmates, or of the children
+under their custody. Subject to the control of the legislature and
+pursuant to the procedure prescribed by general law, the state board of
+social welfare may make rules and regulations, not inconsistent with
+this constitution, with respect to all of the functions, powers and
+duties with which the department and the state board of social welfare
+are herein or shall be charged.

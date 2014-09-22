@@ -1,2 +1,5 @@
-# Art. VII, § 5. Restrictions on consideration of other appropriations
-§5. Neither house of the legislature shall consider any other bill making an appropriation until all the appropriation bills submitted by the governor shall have been finally acted on by both houses, except on message from the governor certifying to the necessity of the immediate passage of such a bill. (New. Derived in part from former §4 of Art. 4-a. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)
+  § 5. Neither house of the legislature shall consider any other bill
+making an appropriation until all the appropriation bills submitted by
+the governor shall have been finally acted on by both houses, except on
+message from the governor certifying to the necessity of the immediate
+passage of such a bill.

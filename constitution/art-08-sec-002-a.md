@@ -1,12 +1,64 @@
-# Art. VIII, § 2-a. Local indebtedness for water supply, sewage and drainage facilities and purposes; allocations and exclusions of indebtedness
-§2-a. Notwithstanding the provisions of section one of this article, the legislature by general or special law and subject to such conditions as it shall impose:
-A. May authorize any county, city, town or village or any county or town on behalf of an improvement district to contract indebtedness to provide a supply of water, in excess of its own needs, for sale to any other public corporation or improvement district;
-B. May authorize two or more public corporations and improvement districts to provide for a common supply of water and may authorize any such corporation, or any county or town on behalf of an improvement district, to contract joint indebtedness for such purpose or to contract indebtedness for specific proportions of the cost;
-C. May authorize any county, city, town or village or any county or town on behalf of an improvement district to contract indebtedness to provide facilities, in excess of its own needs, for the conveyance, treatment and disposal of sewage from any other public corporation or improvement district;
-D. May authorize two or more public corporations and improvement districts to provide for the common conveyance, treatment and disposal of sewage and may authorize any such corporation, or any county or town on behalf of an improvement district, to contract joint indebtedness for such purpose or to contract indebtedness for specific proportions of the cost;
-E. May authorize any county, city, town or village or any county or town on behalf of an improvement district to contract indebtedness to provide facilities, in excess of its own needs, for drainage purposes from any other public corporation or improvement district.
-F. May authorize two or more public corporations and improvement districts to provide for a common drainage system and may authorize any such corporation, or any county or town on behalf of an improvement district, to contract joint indebtedness for such purpose or to contract indebtedness for specific proportions of the cost.
-Indebtedness contracted by a county, city, town or village pursuant to this section shall be for a county, city, town or village purpose, respectively. In ascertaining the power of a county, city, town or village to contract indebtedness, any indebtedness contracted pursuant to paragraphs A and B of this section shall be excluded.
-The legislature shall provide the method by which a fair proportion of joint indebtedness contracted pursuant to paragraphs D and F of this section shall be allocated to any county, city, town or village.
-The legislature by general law in terms and in effect applying alike to all counties, to all cities, to all towns and/or to all villages also may provide that all or any part of indebtedness contracted or proposed to be contracted by any county, city, town or village pursuant to paragraphs D and F of this section for a revenue producing public improvement or service may be excluded periodically in ascertaining the power of such county, city, town or village to contract indebtedness. The amount of any such exclusion shall have a reasonable relation to the extent to which such public improvement or service shall have yielded or is expected to yield revenues sufficient to provide for the payment of the interest on and amortization of or payment of indebtedness contracted or proposed to be contracted for such public improvement or service, after deducting all costs of operation, maintenance and repairs thereof. The legislature shall provide the method by which a fair proportion of joint indebtedness proposed to be contracted pursuant to paragraphs D and F of this section shall be allocated to any county, city, town or village for the purpose of determining the amount of any such exclusion. The provisions of paragraph C of section five and section ten-a of this article shall not apply to indebtedness contracted pursuant to paragraphs D and F of this section.
-The legislature may provide that any allocation of indebtedness, or determination of the amount of any exclusion of indebtedness, made pursuant to this section shall be conclusive if made or approved by the state comptroller. (Section added by vote of the people November 3, 1953. Paragraphs C-F added, next unnumbered paragraph amended, and three concluding unnumbered paragraphs added by amendment approved by vote of the people November 8, 1955.)
+  § 2-a. Notwithstanding the provisions of section one of this article,
+the legislature by general or special law and subject to such conditions
+as it shall impose:
+  A. May authorize any county, city, town or village or any county or
+town on behalf of an improvement district to contract indebtedness to
+provide a supply of water, in excess of its own needs, for sale to any
+other public corporation or improvement district;
+  B. May authorize two or more public corporations and improvement
+districts to provide for a common supply of water and may authorize any
+such corporation, or any county or town on behalf of an improvement
+district, to contract joint indebtedness for such purpose or to contract
+indebtedness for specific proportions of the cost;
+  C. May authorize any county, city, town or village or any county or
+town on behalf of an improvement district to contract indebtedness to
+provide facilities, in excess of its own needs, for the conveyance,
+treatment and disposal of sewage from any other public corporation or
+improvement district;
+  D. May authorize two or more public corporations and improvement
+districts to provide for the common conveyance, treatment and disposal
+of sewage and may authorize any such corporation, or any county or town
+on behalf of an improvement district, to contract joint indebtedness for
+such purpose or to contract indebtedness for specific proportions of the
+cost;
+  E. May authorize any county, city, town or village or any county or
+town on behalf of an improvement district to contract indebtedness to
+provide facilities, in excess of its own needs, for drainage purposes
+from any other public corporation or improvement district.
+  F. May authorize two or more public corporations and improvement
+districts to provide for a common drainage system and may authorize any
+such corporation, or any county or town on behalf of an improvement
+district, to contract joint indebtedness for such purpose or to contract
+indebtedness for specific proportions of the cost.
+  Indebtedness contracted by a county, city, town or village pursuant to
+this section shall be for a county, city, town or village purpose,
+respectively. In ascertaining the power of a county, city, town or
+village to contract indebtedness, any indebtedness contracted pursuant
+to paragraphs A and B of this section shall be excluded.
+  The legislature shall provide the method by which a fair proportion of
+joint indebtedness contracted pursuant to paragraphs D and F of this
+section shall be allocated to any county, city, town or village.
+  The legislature by general law in terms and in effect applying alike
+to all counties, to all cities, to all towns and/or to all villages also
+may provide that all or any part of indebtedness contracted or proposed
+to be contracted by any county, city, town or village pursuant to
+paragraphs D and F of this section for a revenue producing public
+improvement or service may be excluded periodically in ascertaining the
+power of such county, city, town or village to contract indebtedness.
+The amount of any such exclusion shall have a reasonable relation to the
+extent to which such public improvement or service shall have yielded or
+is expected to yield revenues sufficient to provide for the payment of
+the interest on and amortization of or payment of indebtedness
+contracted or proposed to be contracted for such public improvement or
+service, after deducting all costs of operation, maintenance and repairs
+thereof. The legislature shall provide the method by which a fair
+proportion of joint indebtedness proposed to be contracted pursuant to
+paragraphs D and F of this section shall be allocated to any county,
+city, town or village for the purpose of determining the amount of any
+such exclusion. The provisions of paragraph C of section five and
+section ten-a of this article shall not apply to indebtedness contracted
+pursuant to paragraphs D and F of this section.
+  The legislature may provide that any allocation of indebtedness, or
+determination of the amount of any exclusion of indebtedness, made
+pursuant to this section shall be conclusive if made or approved by the
+state comptroller.

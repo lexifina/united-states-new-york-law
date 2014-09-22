@@ -1,13 +1,69 @@
-# Art. VI, § 26. Temporary assignments of judges and justices
-§26. a. A justice of the supreme court may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in any judicial district or to the court of claims. A justice of the supreme court in the city of New York may be temporarily assigned to the family court in the city of New York or to the surrogate's court in any county within the city of New York when required to dispose of the business of such court.
-b. A judge of the court of claims may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in any judicial district.
-c. A judge of the county court may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in the judicial department of his or her residence or to the county court or the family court in any county or to the surrogate's court in any county outside the city of New York or to a court for the city of New York established pursuant to section fifteen of this article.
-d. A judge of the surrogate's court in any county within the city of New York may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in the judicial department of his or her residence.
-e. A judge of the surrogate's court in any county outside the city of New York may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in the judicial department of his or her residence or to the county court or the family court in any county or to a court for the city of New York established pursuant to section fifteen of this article.
-f. A judge of the family court may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in the judicial department of his or her residence or to the county court or the family court in any county or to the surrogate's court in any county outside of the city of New York or to a court for the city of New York established pursuant to section fifteen of this article.
-g. A judge of a court for the city of New York established pursuant to section fifteen of this article may perform the duties of office or hold court in any county and may be temporarily assigned to the supreme court in the judicial department of his or her residence or to the county court or the family court in any county or to the other court for the city of New York established pursuant to section fifteen of this article.
-h. A judge of the district court in any county may perform the duties of office or hold court in any county and may be temporarily assigned to the county court in the judicial department of his or her residence or to a court for the city of New York established pursuant to section fifteen of this article or to the district court in any county.
-i. Temporary assignments of all the foregoing judges or justices listed in this section, and of judges of the city courts pursuant to paragraph two of subdivision j of this section, shall be made by the chief administrator of the courts in accordance with standards and administrative policies established pursuant to section twenty-eight of this article.
-j. (1) The legislature may provide for temporary assignments within the county of residence or any adjoining county, of judges of town, village or city courts outside the city of New York.
-(2) In addition to any temporary assignments to which a judge of a city court may be subject pursuant to paragraph one of this subdivision, such judge also may be temporarily assigned by the chief administrator of the courts to the county court, the family court or the district court within his or her county of residence or any adjoining county provided he or she is not permitted to practice law.
-k. While temporarily assigned pursuant to the provisions of this section, any judge or justice shall have the powers, duties and jurisdiction of a judge or justice of the court to which assigned. After the expiration of any temporary assignment, as provided in this section, the judge or justice assigned shall have all the powers, duties and jurisdiction of a judge or justice of the court to which he or she was assigned with respect to matters pending before him or her during the term of such temporary assignment. (Subdivision i amended by vote of the people November 8, 1977; subdivision f amended by vote of the people November 8, 1983; further amended by vote of the people November 6, 2001.)
+  § 26. a. A justice of the supreme court may perform the duties of
+office or hold court in any county and may be temporarily assigned to
+the supreme court in any judicial district or to the court of claims. A
+justice of the supreme court in the city of New York may be temporarily
+assigned to the family court in the city of New York or to the
+surrogate's court in any county within the city of New York when
+required to dispose of the business of such court.
+  b. A judge of the court of claims may perform the duties of office or
+hold court in any county and may be temporarily assigned to the supreme
+court in any judicial district.
+  c. A judge of the county court may perform the duties of office or
+hold court in any county and may be temporarily assigned to the supreme
+court in the judicial department of his or her residence or to the
+county court or the family court in any county or to the surrogate's
+court in any county outside the city of New York or to a court for the
+city of New York established pursuant to section fifteen of this
+article.
+  d. A judge of the surrogate's court in any county within the city of
+New York may perform the duties of office or hold court in any county
+and may be temporarily assigned to the supreme court in the judicial
+department of his or her residence.
+  e. A judge of the surrogate's court in any county outside the city of
+New York may perform the duties of office or hold court in any county
+and may be temporarily assigned to the supreme court in the judicial
+department of his or her residence or to the county court or the family
+court in any county or to a court for the city of New York established
+pursuant to section fifteen of this article.
+  f. A judge of the family court may perform the duties of office or
+hold court in any county and may be temporarily assigned to the supreme
+court in the judicial department of his or her residence or to the
+county court or the family court in any county or to the surrogate's
+court in any county outside of the city of New York or to a court for
+the city of New York established pursuant to section fifteen of this
+article.
+  g. A judge of a court for the city of New York established pursuant to
+section fifteen of this article may perform the duties of office or hold
+court in any county and may be temporarily assigned to the supreme court
+in the judicial department of his or her residence or to the county
+court or the family court in any county or to the other court for the
+city of New York established pursuant to section fifteen of this
+article.
+  h. A judge of the district court in any county may perform the duties
+of office or hold court in any county and may be temporarily assigned to
+the county court in the judicial department of his or her residence or
+to a court for the city of New York established pursuant to section
+fifteen of this article or to the district court in any county.
+  i. Temporary assignments of all the foregoing judges or justices
+listed in this section, and of judges of the city courts pursuant to
+paragraph two of subdivision j of this section, shall be made by the
+chief administrator of the courts in accordance with standards and
+administrative policies established pursuant to section twenty-eight of
+this article.
+  j. (1) The legislature may provide for temporary assignments within
+the county of residence or any adjoining county, of judges of town,
+village or city courts outside the city of New York.
+  (2) In addition to any temporary assignments to which a judge of a
+city court may be subject pursuant to paragraph one of this subdivision,
+such judge also may be temporarily assigned by the chief administrator
+of the courts to the county court, the family court or the district
+court within his or her county of residence or any adjoining county
+provided he or she is not permitted to practice law.
+  k. While temporarily assigned pursuant to the provisions of this
+section, any judge or justice shall have the powers, duties and
+jurisdiction of a judge or justice of the court to which assigned. After
+the expiration of any temporary assignment, as provided in this section,
+the judge or justice assigned shall have all the powers, duties and
+jurisdiction of a judge or justice of the court to which he or she was
+assigned with respect to matters pending before him or her during the
+term of such temporary assignment.

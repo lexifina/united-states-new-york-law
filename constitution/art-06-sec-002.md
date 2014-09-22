@@ -1,12 +1,112 @@
-# Art. VI, § 2. Court of appeals; organization; designations; vacancies, how filled; commission on judicial nomination
-§2. a. The court of appeals is continued. It shall consist of the chief judge and the six elected associate judges now in office, who shall hold their offices until the expiration of their respective terms, and their successors, and such justices of the supreme court as may be designated for service in said court as hereinafter provided. The official terms of the chief judge and the six associate judges shall be fourteen years.
-Five members of the court shall constitute a quorum, and the concurrence of four shall be necessary to a decision; but no more than seven judges shall sit in any case. In case of the temporary absence or inability to act of any judge of the court of appeals, the court may designate any justice of the supreme court to serve as associate judge of the court during such absence or inability to act. The court shall have power to appoint and to remove its clerk. The powers and jurisdiction of the court shall not be suspended for want of appointment when the number of judges is sufficient to constitute a quorum.
-b. Whenever and as often as the court of appeals shall certify to the governor that the court is unable, by reason of the accumulation of causes pending therein, to hear and dispose of the same with reasonable speed, the governor shall designate such number of justices of the supreme court as may be so certified to be necessary, but not more than four, to serve as associate judges of the court of appeals. The justices so designated shall be relieved, while so serving, from their duties as justices of the supreme court, and shall serve as associate judges of the court of appeals until the court shall certify that the need for the services of any such justices no longer exists, whereupon they shall return to the supreme court. The governor may fill vacancies among such designated judges. No such justices shall serve as associate judge of the court of appeals except while holding the office of justice of the supreme court. The designation of a justice of the supreme court as an associate judge of the court of appeals shall not be deemed to affect his or her existing office any longer than until the expiration of his or her designation as such associate judge, nor to create a vacancy.
-c. There shall be a commission on judicial nomination to evaluate the qualifications of candidates for appointment to the court of appeals and to prepare a written report and recommend to the governor those persons who by their character, temperament, professional aptitude and experience are well qualified to hold such judicial office. The legislature shall provide by law for the organization and procedure of the judicial nominating commission.
-d. (l) The commission on judicial nomination shall consist of twelve members of whom four shall be appointed by the governor, four by the chief judge of the court of appeals, and one each by the speaker of the assembly, the temporary president of the senate, the minority leader of the senate, and the minority leader of the assembly. Of the four members appointed by the governor, no more than two shall be enrolled in the same political party, two shall be members of the bar of the state, and two shall not be members of the bar of the state. Of the four members appointed by the chief judge of the court of appeals, no more than two shall be enrolled in the same political party, two shall be members of the bar of the state, and two shall not be members of the bar of the state. No member of the commission shall hold or have held any judicial office or hold any elected public office for which he or she receives compensation during his or her period of service, except that the governor and the chief judge may each appoint no more than one former judge or justice of the unified court system to such commission. No member of the commission shall hold any office in any political party. No member of the judicial nominating commission shall be eligible for appointment to judicial office in any court of the state during the member's period of service or within one year thereafter.
-(2) The members first appointed by the governor shall have respectively one, two, three and four year terms as the governor shall designate. The members first appointed by the chief judge of the court of appeals shall have respectively one, two, three and four year terms as the chief judge shall designate. The member first appointed by the temporary president of the senate shall have a one-year term. The member first appointed by the minority leader of the senate shall have a two-year term. The member first appointed by the speaker of the assembly shall have a four-year term. The member first appointed by the minority leader of the assembly shall have a three-year term. Each subsequent appointment shall be for a term of four years.
-(3) The commission shall designate one of their number to serve as chairperson.
-(4) The commission shall consider the qualifications of candidates for appointment to the offices of judge and chief judge of the court of appeals and, whenever a vacancy in those offices occurs, shall prepare a written report and recommend to the governor persons who are well qualified for those judicial offices.
-e. The governor shall appoint, with the advice and consent of the senate, from among those recommended by the judicial nominating commission, a person to fill the office of chief judge or associate judge, as the case may be, whenever a vacancy occurs in the court of appeals; provided, however, that no person may be appointed a judge of the court of appeals unless such person is a resident of the state and has been admitted to the practice of law in this state for at least ten years. The governor shall transmit to the senate the written report of the commission on judicial nomination relating to the nominee.
-f. When a vacancy occurs in the office of chief judge or associate judge of the court of appeals and the senate is not in session to give its advice and consent to an appointment to fill the vacancy, the governor shall fill the vacancy by interim appointment upon the recommendation of a commission on judicial nomination as provided in this section. An interim appointment shall continue until the senate shall pass upon the governor's selection. If the senate confirms an appointment, the judge shall serve a term as provided in subdivision a of this section commencing from the date of his or her interim appointment. If the senate rejects an appointment, a vacancy in the office shall occur sixty days after such rejection. If an interim appointment to the court of appeals be made from among the justices of the supreme court or the appellate divisions thereof, that appointment shall not affect the justice's existing office, nor create a vacancy in the supreme court, or the appellate division thereof, unless such appointment is confirmed by the senate and the appointee shall assume such office. If an interim appointment of chief judge of the court of appeals be made from among the associate judges, an interim appointment of associate judge shall be made in like manner; in such case, the appointment as chief judge shall not affect the existing office of associate judge, unless such appointment as chief judge is confirmed by the senate and the appointee shall assume such office.
-g. The provisions of subdivisions c, d, e and f of this section shall not apply to temporary designations or assignments of judges or justices. (Subdivision a amended, subdivision c repealed and new subdivisions c through g added by vote of the people November 8, 1977; further amended by vote of the people November 6, 2001.)
+  § 2. a. The court of appeals is continued. It shall consist of the
+chief judge and the six elected associate judges now in office, who
+shall hold their offices until the expiration of their respective terms,
+and their successors, and such justices of the supreme court as may be
+designated for service in said court as hereinafter provided. The
+official terms of the chief judge and the six associate judges shall be
+fourteen years.
+  Five members of the court shall constitute a quorum, and the
+concurrence of four shall be necessary to a decision; but no more than
+seven judges shall sit in any case. In case of the temporary absence or
+inability to act of any judge of the court of appeals, the court may
+designate any justice of the supreme court to serve as associate judge
+of the court during such absence or inability to act. The court shall
+have power to appoint and to remove its clerk. The powers and
+jurisdiction of the court shall not be suspended for want of appointment
+when the number of judges is sufficient to constitute a quorum.
+  b. Whenever and as often as the court of appeals shall certify to the
+governor that the court is unable, by reason of the accumulation of
+causes pending therein, to hear and dispose of the same with reasonable
+speed, the governor shall designate such number of justices of the
+supreme court as may be so certified to be necessary, but not more than
+four, to serve as associate judges of the court of appeals. The justices
+so designated shall be relieved, while so serving, from their duties as
+justices of the supreme court, and shall serve as associate judges of
+the court of appeals until the court shall certify that the need for the
+services of any such justices no longer exists, whereupon they shall
+return to the supreme court. The governor may fill vacancies among such
+designated judges. No such justices shall serve as associate judge of
+the court of appeals except while holding the office of justice of the
+supreme court. The designation of a justice of the supreme court as an
+associate judge of the court of appeals shall not be deemed to affect
+his or her existing office any longer than until the expiration of his
+or her designation as such associate judge, nor to create a vacancy.
+  c. There shall be a commission on judicial nomination to evaluate the
+qualifications of candidates for appointment to the court of appeals and
+to prepare a written report and recommend to the governor those persons
+who by their character, temperament, professional aptitude and
+experience are well qualified to hold such judicial office. The
+legislature shall provide by law for the organization and procedure of
+the judicial nominating commission.
+  d. (1) The commission on judicial nomination shall consist of twelve
+members of whom four shall be appointed by the governor, four by the
+chief judge of the court of appeals, and one each by the speaker of the
+assembly, the temporary president of the senate, the minority leader of
+the senate, and the minority leader of the assembly. Of the four members
+appointed by the governor, no more than two shall be enrolled in the
+same political party, two shall be members of the bar of the state, and
+two shall not be members of the bar of the state. Of the four members
+appointed by the chief judge of the court of appeals, no more than two
+shall be enrolled in the same political party, two shall be members of
+the bar of the state, and two shall not be members of the bar of the
+state. No member of the commission shall hold or have held any judicial
+office or hold any elected public office for which he or she receives
+compensation during his or her period of service, except that the
+governor and the chief judge may each appoint no more than one former
+judge or justice of the unified court system to such commission. No
+member of the commission shall hold any office in any political party.
+No member of the judicial nominating commission shall be eligible for
+appointment to judicial office in any court of the state during the
+member's period of service or within one year thereafter.
+  (2) The members first appointed by the governor shall have
+respectively one, two, three and four year terms as the governor shall
+designate. The members first appointed by the chief judge of the court
+of appeals shall have respectively one, two, three and four year terms
+as the chief judge shall designate. The member first appointed by the
+temporary president of the senate shall have a one-year term. The member
+first appointed by the minority leader of the senate shall have a
+two-year term. The member first appointed by the speaker of the assembly
+shall have a four-year term. The member first appointed by the minority
+leader of the assembly shall have a three-year term. Each subsequent
+appointment shall be for a term of four years.
+  (3) The commission shall designate one of their number to serve as
+chairperson.
+  (4) The commission shall consider the qualifications of candidates for
+appointment to the offices of judge and chief judge of the court of
+appeals and, whenever a vacancy in those offices occurs, shall prepare a
+written report and recommend to the governor persons who are well
+qualified for those judicial offices.
+  e. The governor shall appoint, with the advice and consent of the
+senate, from among those recommended by the judicial nominating
+commission, a person to fill the office of chief judge or associate
+judge, as the case may be, whenever a vacancy occurs in the court of
+appeals; provided, however, that no person may be appointed a judge of
+the court of appeals unless such person is a resident of the state and
+has been admitted to the practice of law in this state for at least ten
+years. The governor shall transmit to the senate the written report of
+the commission on judicial nomination relating to the nominee.
+  f. When a vacancy occurs in the office of chief judge or associate
+judge of the court of appeals and the senate is not in session to give
+its advice and consent to an appointment to fill the vacancy, the
+governor shall fill the vacancy by interim appointment upon the
+recommendation of a commission on judicial nomination as provided in
+this section. An interim appointment shall continue until the senate
+shall pass upon the governor's selection. If the senate confirms an
+appointment, the judge shall serve a term as provided in subdivision a
+of this section commencing from the date of his or her interim
+appointment. If the senate rejects an appointment, a vacancy in the
+office shall occur sixty days after such rejection. If an interim
+appointment to the court of appeals be made from among the justices of
+the supreme court or the appellate divisions thereof, that appointment
+shall not affect the justice's existing office, nor create a vacancy in
+the supreme court, or the appellate division thereof, unless such
+appointment is confirmed by the senate and the appointee shall assume
+such office. If an interim appointment of chief judge of the court of
+appeals be made from among the associate judges, an interim appointment
+of associate judge shall be made in like manner; in such case, the
+appointment as chief judge shall not affect the existing office of
+associate judge, unless such appointment as chief judge is confirmed by
+the senate and the appointee shall assume such office.
+  g. The provisions of subdivisions c, d, e and f of this section shall
+not apply to temporary designations or assignments of judges or
+justices.

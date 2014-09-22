@@ -1,5 +1,22 @@
-# Art. VI, § 17. Town, village and city courts; jurisdiction; judges
-§17. a. Courts for towns, villages and cities outside the city of New York are continued and shall have the jurisdiction prescribed by the legislature but not in any respect greater than the jurisdiction of the district court as provided in section sixteen of this article.
-b. The legislature may regulate such courts, establish uniform jurisdiction, practice and procedure for city courts outside the city of New York and may discontinue any village or city court outside the city of New York existing on the effective date of this article. The legislature may discontinue any town court existing on the effective date of this article only with the approval of a majority of the total votes cast at a general election on the question of a proposed discontinuance of the court in each such town affected thereby.
-c. The legislature may abolish the legislative functions on town boards of justices of the peace and provide that town councilmen be elected in their stead.
-d. The number of the judges of each of such town, village and city courts and the classification and duties of the judges shall be prescribed by the legislature. The terms, method of selection and method of filling vacancies for the judges of such courts shall be prescribed by the legislature, provided, however, that the justices of town courts shall be chosen by the electors of the town for terms of four years from and including the first day of January next after their election.
+  § 17. a. Courts for towns, villages and cities outside the city of New
+York are continued and shall have the jurisdiction prescribed by the
+legislature but not in any respect greater than the jurisdiction of the
+district court as provided in section sixteen of this article.
+  b. The legislature may regulate such courts, establish uniform
+jurisdiction, practice and procedure for city courts outside the city of
+New York and may discontinue any village or city court outside the city
+of New York existing on the effective date of this article. The
+legislature may discontinue any town court existing on the effective
+date of this article only with the approval of a majority of the total
+votes cast at a general election on the question of a proposed
+discontinuance of the court in each such town affected thereby.
+  c. The legislature may abolish the legislative functions on town
+boards of justices of the peace and provide that town councilmen be
+elected in their stead.
+  d. The number of the judges of each of such town, village and city
+courts and the classification and duties of the judges shall be
+prescribed by the legislature. The terms, method of selection and method
+of filling vacancies for the judges of such courts shall be prescribed
+by the legislature, provided, however, that the justices of town courts
+shall be chosen by the electors of the town for terms of four years from
+and including the first day of January next after their election.

@@ -1,2 +1,8 @@
-# Art. XI, § 3. Use of public property or money in aid of denominational schools prohibited; transportation of children authorized
-§3. Neither the state nor any subdivision thereof, shall use its property or credit or any public money, or authorize or permit either to be used, directly or indirectly, in aid or maintenance, other than for examination or inspection, of any school or institution of learning wholly or in part under the control or direction of any religious denomination, or in which any denominational tenet or doctrine is taught, but the legislature may provide for the transportation of children to and from any school or institution of learning. (Formerly §4 of Art. 9. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Formerly §4, renumbered §3 without change by amendment approved by vote of the people November 6, 1962; former § 4 repealed by same amendment.)
+  § 3. Neither the state nor any subdivision thereof, shall use its
+property or credit or any public money, or authorize or permit either to
+be used, directly or indirectly, in aid or maintenance, other than for
+examination or inspection, of any school or institution of learning
+wholly or in part under the control or direction of any religious
+denomination, or in which any denominational tenet or doctrine is
+taught, but the legislature may provide for the transportation of
+children to and from any school or institution of learning.

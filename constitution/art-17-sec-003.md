@@ -1,2 +1,4 @@
-# Art. XVII, § 3. Public health
-§3. The protection and promotion of the health of the inhabitants of the state are matters of public concern and provision therefor shall be made by the state and by such of its subdivisions and in such manner, and by such means as the legislature shall from time to time determine. (New. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)
+  § 3. The protection and promotion of the health of the inhabitants of
+the state are matters of public concern and provision therefor shall be
+made by the state and by such of its subdivisions and in such manner,
+and by such means as the legislature shall from time to time determine.

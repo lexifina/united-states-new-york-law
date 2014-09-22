@@ -1,2 +1,6 @@
-# Art. XIII, § 7. Compensation of officers
-§7. Each of the state officers named in this constitution shall, during his or her continuance in office, receive a compensation, to be fixed by law, which shall not be increased or diminished during the term for which he or she shall have been elected or appointed; nor shall he or she receive to his or her use any fees or perquisites of office or other compensation. (Formerly §9 of Art. 10. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Formerly §12, renumbered §7 without change by amendment approved by vote of the people November 6, 1962; former §7 repealed by same amendment; further amended as §12 by vote of the people November 5, 1963; further amended by vote of the people November 6, 2001.)
+  § 7. Each of the state officers named in this constitution shall,
+during his or her continuance in office, receive a compensation, to be
+fixed by law, which shall not be increased or diminished during the term
+for which he or she shall have been elected or appointed; nor shall he
+or she receive to his or her use any fees or perquisites of office or
+other compensation.

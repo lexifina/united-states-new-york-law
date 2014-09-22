@@ -1,2 +1,8 @@
-# Art. VI, § 33. Existing laws; duty of legislature to implement article
-§33. Existing provisions of law not inconsistent with this article shall continue in force until repealed, amended, modified or superseded in accordance with the provisions of this article. The legislature shall enact appropriate laws to carry into effect the purposes and provisions of this article, and may, for the purpose of implementing, supplementing or clarifying any of its provisions, enact any laws, not inconsistent with the provisions of this article, necessary or desirable in promoting the objectives of this article.
+  § 33. Existing provisions of law not inconsistent with this article
+shall continue in force until repealed, amended, modified or superseded
+in accordance with the provisions of this article. The legislature shall
+enact appropriate laws to carry into effect the purposes and provisions
+of this article, and may, for the purpose of implementing, supplementing
+or clarifying any of its provisions, enact any laws, not inconsistent
+with the provisions of this article, necessary or desirable in promoting
+the objectives of this article.

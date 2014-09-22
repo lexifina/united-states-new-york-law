@@ -1,2 +1,25 @@
-# Art. XVI, § 6. Public improvements or services; contract of indebtedness; creation of public corporations
-§6. Notwithstanding any provision of this or any other article of this constitution to the contrary, the legislature may by law authorize a county, city, town or village, or combination thereof acting together, to undertake the development of public improvements or services, including the acquisition of land, for the purpose of redevelopment of economically unproductive, blighted or deteriorated areas and, in furtherance thereof, to contract indebtedness. Any such indebtedness shall be contracted by any such county, city, town or village, or combination thereof acting together, without the pledge of its faith and credit, or the faith and credit of the state, for the payment of the principal thereof and the interest thereon, and such indebtedness may be paid without restriction as to the amount or relative amount of annual installments. The amount of any indebtedness contracted under this section may be excluded in ascertaining the power of such county, city, town or village to contract indebtedness within the provisions of this constitution relating thereto. Any county, city, town or village contracting indebtedness pursuant to this section for redevelopment of an economically unproductive, blighted or deteriorated area shall pledge to the payment thereof that portion of the taxes raised by it on real estate in such area which, in any year, is attributed to the increase in value of taxable real estate resulting from such redevelopment. The legislature may further authorize any county, city, town or village, or combination thereof acting together, to carry out the powers and duties conferred by this section by means of a public corporation created therefor. (New. Added by vote of the people November 8, 1983; amended by vote of the people November 6, 2001.)
+  § 6. Notwithstanding any provision of this or any other article of
+this constitution to the contrary, the legislature may by law authorize
+a county, city, town or village, or combination thereof acting together,
+to undertake the development of public improvements or services,
+including the acquisition of land, for the purpose of redevelopment of
+economically unproductive, blighted or deteriorated areas and, in
+furtherance thereof, to contract indebtedness. Any such indebtedness
+shall be contracted by any such county, city, town or village, or
+combination thereof acting together, without the pledge of its faith and
+credit, or the faith and credit of the state, for the payment of the
+principal thereof and the interest thereon, and such indebtedness may be
+paid without restriction as to the amount or relative amount of annual
+installments. The amount of any indebtedness contracted under this
+section may be excluded in ascertaining the power of such county, city,
+town or village to contract indebtedness within the provisions of this
+constitution relating thereto. Any county, city, town or village
+contracting indebtedness pursuant to this section for redevelopment of
+an economically unproductive, blighted or deteriorated area shall pledge
+to the payment thereof that portion of the taxes raised by it on real
+estate in such area which, in any year, is attributed to the increase in
+value of taxable real estate resulting from such redevelopment. The
+legislature may further authorize any county, city, town or village, or
+combination thereof acting together, to carry out the powers and duties
+conferred by this section by means of a public corporation created
+therefor.

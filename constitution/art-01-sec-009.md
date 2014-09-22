@@ -1,3 +1,52 @@
-# Art. I, § 9. Right to assemble and petition; divorce; lotteries; pool-selling and gambling; laws to prevent; pari-mutuel betting on horse races permitted; games of chance, bingo or lotto authorized under certain restrictions
-§9. 1. No law shall be passed abridging the rights of the people peaceably to assemble and to petition the government, or any department thereof; nor shall any divorce be granted otherwise than by due judicial proceedings; except as hereinafter provided, no lottery or the sale of lottery tickets, pool-selling, bookmaking, or any other kind of gambling, except lotteries operated by the state and the sale of lottery tickets in connection therewith as may be authorized and prescribed by the legislature, the net proceeds of which shall be applied exclusively to or in aid or support of education in this state as the legislature may prescribe, except pari-mutuel betting on horse races as may be prescribed by the legislature and from which the state shall derive a reasonable revenue for the support of government, and except casino gambling at no more than seven facilities as authorized and prescribed by the legislature shall hereafter be authorized or allowed within this state; and the legislature shall pass appropriate laws to prevent offenses against any of the provisions of this section. (Amendment approved by vote of the people November 5, 2013.)
-2. Notwithstanding the foregoing provisions of this section, any city, town or village within the state may by an approving vote of the majority of the qualified electors in such municipality voting on a proposition therefor submitted at a general or special election authorize, subject to state legislative supervision and control, the conduct of one or both of the following categories of games of chance commonly known as: (a) bingo or lotto, in which prizes are awarded on the basis of designated numbers or symbols on a card conforming to numbers or symbols selected at random; (b) games in which prizes are awarded on the basis of a winning number or numbers, color or colors, or symbol or symbols determined by chance from among those previously selected or played, whether determined as the result of the spinning of a wheel, a drawing or otherwise by chance. If authorized, such games shall be subject to the following restrictions, among others which may be prescribed by the legislature: (1) only bona fide religious, charitable or nonprofit organizations of veterans, volunteer firefighter and similar non-profit organizations shall be permitted to conduct such games; (2) the entire net proceeds of any game shall be exclusively devoted to the lawful purposes of such organizations; (3) no person except a bona fide member of any such organization shall participate in the management or operation of such game; and (4) no person shall receive any remuneration for participating in the management or operation of any such game. Unless otherwise provided by law, no single prize shall exceed two hundred fifty dollars, nor shall any series of prizes on one occasion aggregate more than one thousand dollars. The legislature shall pass appropriate laws to effectuate the purposes of this subdivision, ensure that such games are rigidly regulated to prevent commercialized gambling, prevent participation by criminal and other undesirable elements and the diversion of funds from the purposes authorized hereunder and establish a method by which a municipality which has authorized such games may rescind or revoke such authorization. Unless permitted by the legislature, no municipality shall have the power to pass local laws or ordinances relating to such games. Nothing in this section shall prevent the legislature from passing laws more restrictive than any of the provisions of this section. (Amendment approved by vote of the people November 7, 1939; further amended by vote of the people November 5, 1957; November 8, 1966; November 4, 1975; November 6, 1984; November 6, 2001.)
+  § 9. 1. No law shall be passed abridging the rights of the people
+peaceably to assemble and to petition the government, or any department
+thereof; nor shall any divorce be granted otherwise than by due judicial
+proceedings; except as hereinafter provided, no lottery or the sale of
+lottery tickets, pool-selling, book-making, or any other kind of
+gambling, except lotteries operated by the state and the sale of lottery
+tickets in connection therewith as may be authorized and prescribed by
+the legislature, the net proceeds of which shall be applied exclusively
+to or in aid or support of education in this state as the legislature
+may prescribe, except pari-mutuel betting on horse races as may be
+prescribed by the legislature and from which the state shall derive a
+reasonable revenue for the support of government, and except casino
+gambling at no more than seven facilities as authorized and prescribed
+by the legislature shall hereafter be authorized or allowed within this
+state; and the legislature shall pass appropriate laws to prevent
+offenses against any of the provisions of this section.
+  2. Notwithstanding the foregoing provisions of this section, any city,
+town or village within the state may by an approving vote of the
+majority of the qualified electors in such municipality voting on a
+proposition therefor submitted at a general or special election
+authorize, subject to state legislative supervision and control, the
+conduct of one or both of the following categories of games of chance
+commonly known as: (a) bingo or lotto, in which prizes are awarded on
+the basis of designated numbers or symbols on a card conforming to
+numbers or symbols selected at random; (b) games in which prizes are
+awarded on the basis of a winning number or numbers, color or colors, or
+symbol or symbols determined by chance from among those previously
+selected or played, whether determined as the result of the spinning of
+a wheel, a drawing or otherwise by chance. If authorized, such games
+shall be subject to the following restrictions, among others which may
+be prescribed by the legislature: (1) only bona fide religious,
+charitable or non-profit organizations of veterans, volunteer
+firefighter and similar non-profit organizations shall be permitted to
+conduct such games; (2) the entire net proceeds of any game shall be
+exclusively devoted to the lawful purposes of such organizations; (3) no
+person except a bona fide member of any such organization shall
+participate in the management or operation of such game; and (4) no
+person shall receive any remuneration for participating in the
+management or operation of any such game. Unless otherwise provided by
+law, no single prize shall exceed two hundred fifty dollars, nor shall
+any series of prizes on one occasion aggregate more than one thousand
+dollars. The legislature shall pass appropriate laws to effectuate the
+purposes of this subdivision, ensure that such games are rigidly
+regulated to prevent commercialized gambling, prevent participation by
+criminal and other undesirable elements and the diversion of funds from
+the purposes authorized hereunder and establish a method by which a
+municipality which has authorized such games may rescind or revoke such
+authorization. Unless permitted by the legislature, no municipality
+shall have the power to pass local laws or ordinances relating to such
+games. Nothing in this section shall prevent the legislature from
+passing laws more restrictive than any of the provisions of this
+section.

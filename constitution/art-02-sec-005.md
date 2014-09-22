@@ -1,2 +1,6 @@
-# Art. II, § 5. Registration and election laws to be passed
-§5. Laws shall be made for ascertaining, by proper proofs, the citizens who shall be entitled to the right of suffrage hereby established, and for the registration of voters; which registration shall be completed at least ten days before each election. Such registration shall not be required for town and village elections except by express provision of law. (Formerly §4. Renumbered by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; amended by vote of the people November 6, 1951; further amended by vote of the people November 8, 1955; November 8, 1966; November 7, 1995.)
+  § 5. Laws shall be made for ascertaining, by proper proofs, the
+citizens who shall be entitled to the right of suffrage hereby
+established, and for the registration of voters; which registration
+shall be completed at least ten days before each election. Such
+registration shall not be required for town and village elections except
+by express provision of law.

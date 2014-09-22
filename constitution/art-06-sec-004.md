@@ -1,12 +1,78 @@
-# Art. VI, § 4. Judicial departments; appellate divisions, how constituted; governor to designate justices; temporary assignments; jurisdiction
-§4. a. The state shall be divided into four judicial departments. The first department shall consist of the counties within the first judicial district of the state. The second department shall consist of the counties within the second, ninth, tenth and eleventh judicial districts of the state. The third department shall consist of the counties within the third, fourth and sixth judicial districts of the state. The fourth department shall consist of the counties within the fifth, seventh and eighth judicial districts of the state. Each department shall be bounded by the lines of judicial districts. Once every ten years the legislature may alter the boundaries of the judicial departments, but without changing the number thereof.
-b. The appellate divisions of the supreme court are continued, and shall consist of seven justices of the supreme court in each of the first and second departments, and five justices in each of the other departments. In each appellate division, four justices shall constitute a quorum, and the concurrence of three shall be necessary to a decision. No more than five justices shall sit in any case.
-c. The governor shall designate the presiding justice of each appellate division, who shall act as such during his or her term of office and shall be a resident of the department. The other justices of the appellate divisions shall be designated by the governor, from all the justices elected to the supreme court, for terms of five years or the unexpired portions of their respective terms of office, if less than five years.
-d. The justices heretofore designated shall continue to sit in the appellate divisions until the terms of their respective designations shall expire. From time to time as the terms of the designations expire, or vacancies occur, the governor shall make new designations. The governor may also, on request of any appellate division, make temporary designations in case of the absence or inability to act of any justice in such appellate division, for service only during such absence or inability to act.
-e. In case any appellate division shall certify to the governor that one or more additional justices are needed for the speedy disposition of the business before it, the governor may designate an additional justice or additional justices; but when the need for such additional justice or justices shall no longer exist, the appellate division shall so certify to the governor, and thereupon service under such designation or designations shall cease.
-f. A majority of the justices designated to sit in any appellate division shall at all times be residents of the department.
-g. Whenever the appellate division in any department shall be unable to dispose of its business within a reasonable time, a majority of the presiding justices of the several departments, at a meeting called by the presiding justice of the department in arrears, may transfer any pending appeals from such department to any other department for hearing and determination.
-h. A justice of the appellate division of the supreme court in any department may be temporarily designated by the presiding justice of his or her department to the appellate division in another judicial department upon agreement by the presiding justices of the appellate division of the departments concerned.
-i. In the event that the disqualification, absence or inability to act of justices in any appellate division prevents there being a quorum of justices qualified to hear an appeal, the justices qualified to hear the appeal may transfer it to the appellate division in another department for hearing and determination. In the event that the justices in any appellate division qualified to hear an appeal are equally divided, said justices may transfer the appeal to the appellate division in another department for hearing and determination. Each appellate division shall have power to appoint and remove its clerk.
-j. No justice of the appellate division shall, within the department to which he or she may be designated to perform the duties of an appellate justice, exercise any of the powers of a justice of the supreme court, other than those of a justice out of court, and those pertaining to the appellate division, except that the justice may decide causes or proceedings theretofore submitted, or hear and decide motions submitted by consent of counsel, but any such justice, when not actually engaged in performing the duties of such appellate justice in the department to which he or she is designated, may hold any term of the supreme court and exercise any of the powers of a justice of the supreme court in any judicial district in any other department of the state.
-k. The appellate divisions of the supreme court shall have all the jurisdiction possessed by them on the effective date of this article and such additional jurisdiction as may be prescribed by law, provided, however, that the right to appeal to the appellate divisions from a judgment or order which does not finally determine an action or special proceeding may be limited or conditioned by law. (Subdivision e amended by vote of the people November 8, 1977; further amended by vote of the people November 6, 2001.)
+  § 4. a. The state shall be divided into four judicial departments. The
+first department shall consist of the counties within the first judicial
+district of the state. The second department shall consist of the
+counties within the second, ninth, tenth and eleventh judicial districts
+of the state. The third department shall consist of the counties within
+the third, fourth and sixth judicial districts of the state. The fourth
+department shall consist of the counties within the fifth, seventh and
+eighth judicial districts of the state. Each department shall be bounded
+by the lines of judicial districts. Once every ten years the legislature
+may alter the boundaries of the judicial departments, but without
+changing the number thereof.
+  b. The appellate divisions of the supreme court are continued, and
+shall consist of seven justices of the supreme court in each of the
+first and second departments, and five justices in each of the other
+departments.  In each appellate division, four justices shall constitute
+a quorum, and the concurrence of three shall be necessary to a decision.
+No more than five justices shall sit in any case.
+  c. The governor shall designate the presiding justice of each
+appellate division, who shall act as such during his or her term of
+office and shall be a resident of the department. The other justices of
+the appellate divisions shall be designated by the governor, from all
+the justices elected to the supreme court, for terms of five years or
+the unexpired portions of their respective terms of office, if less than
+five years.
+  d. The justices heretofore designated shall continue to sit in the
+appellate divisions until the terms of their respective designations
+shall expire. From time to time as the terms of the designations expire,
+or vacancies occur, the governor shall make new designations. The
+governor may also, on request of any appellate division, make temporary
+designations in case of the absence or inability to act of any justice
+in such appellate division, for service only during such absence or
+inability to act.
+  e. In case any appellate division shall certify to the governor that
+one or more additional justices are needed for the speedy disposition of
+the business before it, the governor may designate an additional justice
+or additional justices; but when the need for such additional justice or
+justices shall no longer exist, the appellate division shall so certify
+to the governor, and thereupon service under such designation or
+designations shall cease.
+  f. A majority of the justices designated to sit in any appellate
+division shall at all times be residents of the department.
+  g. Whenever the appellate division in any department shall be unable
+to dispose of its business within a reasonable time, a majority of the
+presiding justices of the several departments, at a meeting called by
+the presiding justice of the department in arrears, may transfer any
+pending appeals from such department to any other department for hearing
+and determination.
+  h. A justice of the appellate division of the supreme court in any
+department may be temporarily designated by the presiding justice of his
+or her department to the appellate division in another judicial
+department upon agreement by the presiding justices of the appellate
+division of the departments concerned.
+  i. In the event that the disqualification, absence or inability to act
+of justices in any appellate division prevents there being a quorum of
+justices qualified to hear an appeal, the justices qualified to hear the
+appeal may transfer it to the appellate division in another department
+for hearing and determination. In the event that the justices in any
+appellate division qualified to hear an appeal are equally divided, said
+justices may transfer the appeal to the appellate division in another
+department for hearing and determination. Each appellate division shall
+have power to appoint and remove its clerk.
+  j. No justice of the appellate division shall, within the department
+to which he or she may be designated to perform the duties of an
+appellate justice, exercise any of the powers of a justice of the
+supreme court, other than those of a justice out of court, and those
+pertaining to the appellate division, except that the justice may decide
+causes or proceedings theretofore submitted, or hear and decide motions
+submitted by consent of counsel, but any such justice, when not actually
+engaged in performing the duties of such appellate justice in the
+department to which he or she is designated, may hold any term of the
+supreme court and exercise any of the powers of a justice of the supreme
+court in any judicial district in any other department of the state.
+  k. The appellate divisions of the supreme court shall have all the
+jurisdiction possessed by them on the effective date of this article and
+such additional jurisdiction as may be prescribed by law, provided,
+however, that the right to appeal to the appellate divisions from a
+judgment or order which does not finally determine an action or special
+proceeding may be limited or conditioned by law.
