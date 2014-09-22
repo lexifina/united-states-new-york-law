@@ -15,3 +15,4 @@ Section 2-100.   Party committees; provision for.
                    for filing statement as to.
         2-122.   National party conventions; delegates, election.
         2-124.   Party names and emblems; provision for.
+        2-126.   Party funds; restrictions on expenditures.
