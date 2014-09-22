@@ -15,19 +15,12 @@ Section 60.     Town board constituted.
         64-d.   Payment in lieu of taxes for property acquired for open
                   space purposes.
         64-e.   Peconic Bay region community preservation funds.
-        64-ee.  Peconic Bay region septic system replacement loan
-                  program.
         64-f.   Town of Brookhaven community preservation fund.
         64-g.   Town of Warwick preservation funds.
         64-h.   Town of Red Hook preservation funds.
         64-i.   Town of Chatham preservation funds.
         64-i*2. Town of Fishkill preservation funds.
         64-j.   Town of Northeast preservation funds.
-        64-k.   Peconic Bay region community housing fund.
-        64-l.   Town of Chester preservation funds.
-        64-l*2. Town of Orangetown preservation funds.
-        64-l*3. Town of Copake preservation funds.
-        64-m.   Town of Clarkstown preservation funds.
         65.     Actions and proceedings by and against towns.
         65-a.   Liability of towns and town superintendents of highways
                   in certain actions.
