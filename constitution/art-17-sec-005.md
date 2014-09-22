@@ -1,2 +1,7 @@
-# Art. XVII, § 5. Institutions for detention of criminals; probation; parole; state commission of correction
-§5. The legislature may provide for the maintenance and support of institutions for the detention of persons charged with or convicted of crime and for systems of probation and parole of persons convicted of crime. There shall be a state commission of correction, which shall visit and inspect or cause to be visited and inspected by members of its staff, all institutions used for the detention of sane adults charged with or convicted of crime. (New. Derived in part from former §11 of Art. 8. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Amended by vote of the people November 6, 1973.)
+  § 5. The legislature may provide for the maintenance and support of
+institutions for the detention of persons charged with or convicted of
+crime and for systems of probation and parole of persons convicted of
+crime. There shall be a state commission of correction, which shall
+visit and inspect, or cause to be visited and inspected by members of
+its staff, all institutions used for the detention of sane adults
+charged with or convicted of crime.

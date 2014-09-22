@@ -1,2 +1,8 @@
-# Art. X, § 1. Corporations; formation of
-Section 1. Corporations may be formed under general law; but shall not be created by special act, except for municipal purposes, and in cases where, in the judgment of the legislature, the objects of the corporation cannot be attained under general laws. All general laws and special acts passed pursuant to this section may be altered from time to time or repealed. (Formerly §1 of Art. 8. Renumbered by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)
+                                ARTICLE X
+                              Corporations
+  Section 1. Corporations may be formed under general laws; but shall
+not be created by special act, except for municipal purposes, and in
+cases where, in the judgment of the legislature, the objects of the
+corporation cannot be attained under general laws. All general laws and
+special acts passed pursuant to this section may be altered from time to
+time or repealed.

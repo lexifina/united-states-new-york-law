@@ -1,2 +1,18 @@
-# Art. III, § 24. Prison labor; contract system abolished
-§24. The legislature shall, by law, provide for the occupation and employment of prisoners sentenced to the several state prisons, penitentiaries, jails and reformatories in the state; and no person in any such prison, penitentiary, jail or reformatory, shall be required or allowed to work, while under sentence thereto, at any trade, industry or occupation, wherein or whereby his or her work, or the product or profit of his or her work, shall be farmed out, contracted, given or sold to any person, firm, association or corporation, provided that the legislature may provide by law that such prisoners may voluntarily perform work for nonprofit organizations. As used in this section, the term "nonprofit organization" means an organization operated exclusively for religious, charitable, or educational purposes, no part of the net earnings of which inures to the benefit of any private shareholder or individual. This section shall not be construed to prevent the legislature from providing that convicts may work for, and that the products of their labor may be disposed of to, the state or any political division thereof, or for or to any public institution owned or managed and controlled by the state, or any political division thereof. (Formerly §29. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; further amended by vote of the people November 6, 2001; November 3, 2009.)
+  § 24. The legislature shall, by law, provide for the occupation and
+employment of prisoners sentenced to the several state prisons,
+penitentiaries, jails and reformatories in the state; and no person in
+any such prison, penitentiary, jail or reformatory, shall be required or
+allowed to work, while under sentence thereto, at any trade, industry or
+occupation, wherein or whereby his or her work, or the product or profit
+of his or her work, shall be farmed out, contracted, given or sold to
+any person, firm, association or corporation, provided that the
+legislature may provide by law that such prisoners may voluntarily
+perform work for nonprofit organizations. As used in this section, the
+term "nonprofit organization" means an organization operated exclusively
+for religious, charitable, or educational purposes, no part of the net
+earnings of which inures to the benefit of any private shareholder or
+individual. This section shall not be construed to prevent the
+legislature from providing that convicts may work for, and that the
+products of their labor may be disposed of to, the state or any
+political division thereof, or for or to any public institution owned or
+managed and controlled by the state, or any political division thereof.

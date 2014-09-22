@@ -1,2 +1,5 @@
-# Art. XX, § 1. Time of taking effect
-Section 1. This constitution shall be in force from and including the first day of January, one thousand nine hundred thirty-nine, except as herein otherwise provided. (Formerly §1 of Art. 15. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.) DONE in Convention at the Capitol in the city of Albany, the twenty-fifth day of August, in the year one thousand nine hundred thirty-eight, and of the Independence of the United States of America the one hundred and sixty-third. IN WITNESS WHEREOF, we have hereunto subscribed our names. FREDERICK E. CRANE, President and Delegate-at-Large U.H. Boyden, Secretary
+                               ARTICLE XX
+                           When to Take Effect
+  Section 1. This constitution shall be in force from and including the
+first day of January, one thousand nine hundred thirty-nine, except as
+herein otherwise provided.

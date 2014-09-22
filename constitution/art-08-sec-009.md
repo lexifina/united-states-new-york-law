@@ -1,2 +1,6 @@
-# Art. VIII, § 9. When debt-incurring power of certain counties shall cease
-§9. Whenever the boundaries of any city are the same as those of a county, or when any city includes within its boundaries more than one county, the power of any county wholly included within such city to contract indebtedness shall cease, but the indebtedness of such county shall not, for the purposes of this article, be included as a part of the city indebtedness. (Derived in part from former §10. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)
+  § 9. Whenever the boundaries of any city are the same as those of a
+county, or when any city includes within its boundaries more than one
+county, the power of any county wholly included within such city to
+contract indebtedness shall cease, but the indebtedness of such county
+shall not, for the purposes of this article, be included as a part of
+the city indebtedness.

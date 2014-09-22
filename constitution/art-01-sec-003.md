@@ -1,2 +1,7 @@
-# Art. I, § 3. Freedom of worship; religious liberty
-§3. The free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever be allowed in this state to all humankind; and no person shall be rendered incompetent to be a witness on account of his or her opinions on matters of religious belief; but the liberty of conscience hereby secured shall not be so construed as to excuse acts of licentiousness, or justify practices inconsistent with the peace or safety of this state. (Amended by vote of the people November 6, 2001.)
+  § 3. The free exercise and enjoyment of religious profession and
+worship, without discrimination or preference, shall forever be allowed
+in this state to all humankind; and no person shall be rendered
+incompetent to be a witness on account of his or her opinions on matters
+of religious belief; but the liberty of conscience hereby secured shall
+not be so construed as to excuse acts of licentiousness, or justify
+practices inconsistent with the peace or safety of this state.

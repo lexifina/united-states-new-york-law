@@ -1,2 +1,23 @@
-# Art. III, § 7. Qualifications of members; prohibitions on certain civil appointments; acceptance to vacate seat
-§7. No person shall serve as a member of the legislature unless he or she is a citizen of the United States and has been a resident of the state of New York for five years, and, except as hereinafter otherwise prescribed, of the assembly or senate district for the twelve months immediately preceding his or her election; if elected a senator or member of assembly at the first election next ensuing after a readjustment or alteration of the senate or assembly districts becomes effective, a person, to be eligible to serve as such, must have been a resident of the county in which the senate or assembly district is contained for the twelve months immediately preceding his or her election. No member of the legislature shall, during the time for which he or she was elected, receive any civil appointment from the governor, the governor and the senate, the legislature or from any city government, to an office which shall have been created, or the emoluments whereof shall have been increased during such time. If a member of the legislature be elected to congress, or appointed to any office, civil or military, under the government of the United States, the state of New York, or under any city government except as a member of the national guard or naval militia of the state, or of the reserve forces of the United States, his or her acceptance thereof shall vacate his or her seat in the legislature, providing, however, that a member of the legislature may be appointed commissioner of deeds or to any office in which he or she shall receive no compensation. (New. Derived in part from former §§7 and 8. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; amended by vote of the people November 2, 1943.)
+  § 7. No person shall serve as a member of the legislature unless he or
+she is a citizen of the United States and has been a resident of the
+state of New York for five years, and, except as hereinafter otherwise
+prescribed, of the assembly or senate district for the twelve months
+immediately preceding his or her election; if elected a senator or
+member of assembly at the first election next ensuing after a
+readjustment or alteration of the senate or assembly districts becomes
+effective, a person, to be eligible to serve as such, must have been a
+resident of the county in which the senate or assembly district is
+contained for the twelve months immediately preceding his or her
+election. No member of the legislature shall, during the time for which
+he or she was elected, receive any civil appointment from the governor,
+the governor and the senate, the legislature or from any city
+government, to an office which shall have been created, or the
+emoluments whereof shall have been increased during such time. If a
+member of the legislature be elected to congress, or appointed to any
+office, civil or military, under the government of the United States,
+the state of New York, or under any city government except as a member
+of the national guard or naval militia of the state, or of the reserve
+forces of the United States, his or her acceptance thereof shall vacate
+his or her seat in the legislature, providing, however, that a member of
+the legislature may be appointed commissioner of deeds or to any office
+in which he or she shall receive no compensation.

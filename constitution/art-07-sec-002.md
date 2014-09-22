@@ -1,2 +1,13 @@
-# Art. VII, § 2. Executive budget
-§2. Annually, on or before the first day of February in each year following the year fixed by the constitution for the election of governor and lieutenant governor, and on or before the second Tuesday following the first day of the annual meeting of the legislature, in all other years, the governor shall submit to the legislature a budget containing a complete plan of expenditures proposed to be made before the close of the ensuing fiscal year and all moneys and revenues estimated to be available therefor, together with an explanation of the basis of such estimates and recommendations as to proposed legislation, if any, which the governor may deem necessary to provide moneys and revenues sufficient to meet such proposed expenditures. It shall also contain such other recommendations and information as the governor may deem proper and such additional information as may be required by law. (New. Derived in part from former §2 of Art. 4-a. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; amended by vote of the people November 2, 1965; November 6, 2001.)
+  § 2. Annually, on or before the first day of February in each year
+following the year fixed by the constitution for the election of
+governor and lieutenant governor, and on or before the second Tuesday
+following the first day of the annual meeting of the legislature, in all
+other years, the governor shall submit to the legislature a budget
+containing a complete plan of expenditures proposed to be made before
+the close of the ensuing fiscal year and all moneys and revenues
+estimated to be available therefor, together with an explanation of the
+basis of such estimates and recommendations as to proposed legislation,
+if any, which the governor may deem necessary to provide moneys and
+revenues sufficient to meet such proposed expenditures. It shall also
+contain such other recommendations and information as the governor may
+deem proper and such additional information as may be required by law.

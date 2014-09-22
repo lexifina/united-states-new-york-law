@@ -1,4 +1,56 @@
-# Art. XIII, § 13. Law enforcement and other officers
-§13. (a) Except in counties in the city of New York and except as authorized in section one of article nine of this constitution, registers in counties having registers shall be chosen by the electors of the respective counties once in every three years and whenever the occurring of vacancies shall require; the sheriff and the clerk of each county shall be chosen by the electors once in every three or four years as the legislature shall direct. Sheriffs shall hold no other office. They may be required by law to renew their security, from time to time; and in default of giving such new security, their offices shall be deemed vacant. The governor may remove any elective sheriff, county clerk, district attorney or register within the term for which he or she shall have been elected; but before so doing the governor shall give to such officer a copy of the charges against him or her and an opportunity of being heard in his or her defense. In each county a district attorney shall be chosen by the electors once in every three or four years as the legislature shall direct. The clerk of each county in the city of New York shall be appointed, and be subject to removal, by the appellate division of the supreme court in the judicial department in which the county is located. In addition to his or her powers and duties as clerk of the supreme court, he or she shall have power to select, draw, summon and empanel grand and petit jurors in the manner and under the conditions now or hereafter prescribed by law, and shall have such other powers and duties as shall be prescribed by the city from time to time by local law.
-(b) Any district attorney who shall fail faithfully to prosecute a person charged with the violation in his or her county of any provision of this article which may come to his or her knowledge, shall be removed from office by the governor, after due notice and an opportunity of being heard in his or her defense. The expenses which shall be incurred by any county, in investigating and prosecuting any charge of bribery or attempting to bribe any person holding office under the laws of this state, within such county, or of receiving bribes by any such person in said county, shall be a charge against the state, and their payment by the state shall be provided for by law.
-(c) The city of New York is hereby vested with power from time to time to abolish by local law, as defined by the legislature, the office of any county officer within the city other than judges, clerks of counties and district attorneys, and to assign any or all functions of such officers to city officers, courts or clerks of counties, and to prescribe the powers, duties, qualifications, number, mode of selection and removal, terms of office and compensation of the persons holding such offices and the employees therein, and to assign to city officers any powers or duties of clerks of counties not assigned by this constitution. The legislature shall not pass any law affecting any such matters in relation to such offices within the city of New York except on message from the governor declaring that an emergency exists and the concurrent action of two-thirds of the members of each house, except that existing laws regarding each such office shall continue in force, and may be amended or repealed by the legislature as heretofore, until the power herein granted to the city has been exercised with respect to that office. The provisions of article nine shall not prevent the legislature from passing general or special laws prescribing or affecting powers and duties of such city officers or such courts or clerks to whom or which functions of such county officers shall have been so assigned, in so far as such powers or duties embrace subjects not relating to property, affairs or government of such city. (Added by vote of the people November 5, 1963. Subdivisions (a), (b) and (c), formerly §§5, 6 and 8 of Art. 9. Subdivision (a) amended by vote of the people November 7, 1972; subdivision (a) further amended by vote of the people November 6, 1984; November 7, 1989; further amended by vote of the people November 6, 2001.)
+  § 13. (a) Except in counties in the city of New York and except as
+authorized in section one of article nine of this constitution,
+registers in counties having registers shall be chosen by the electors
+of the respective counties once in every three years and whenever the
+occurring of vacancies shall require; the sheriff and the clerk of each
+county shall be chosen by the electors once in every three or four years
+as the legislature shall direct. Sheriffs shall hold no other office.
+They may be required by law to renew their security, from time to time;
+and in default of giving such new security, their offices shall be
+deemed vacant. The governor may remove any elective sheriff, county
+clerk, district attorney or register within the term for which he or she
+shall have been elected; but before so doing the governor shall give to
+such officer a copy of the charges against him or her and an opportunity
+of being heard in his or her defense. In each county a district attorney
+shall be chosen by the electors once in every three or four years as the
+legislature shall direct. The clerk of each county in the city of New
+York shall be appointed, and be subject to removal, by the appellate
+division of the supreme court in the judicial department in which the
+county is located. In addition to his or her powers and duties as clerk
+of the supreme court, he or she shall have power to select, draw, summon
+and empanel grand and petit jurors in the manner and under the
+conditions now or hereafter prescribed by law, and shall have such other
+powers and duties as shall be prescribed by the city from time to time
+by local law.
+  (b) Any district attorney who shall fail faithfully to prosecute a
+person charged with the violation in his or her county of any provision
+of this article which may come to his or her knowledge, shall be removed
+from office by the governor, after due notice and an opportunity of
+being heard in his or her defense. The expenses which shall be incurred
+by any county, in investigating and prosecuting any charge of bribery or
+attempting to bribe any person holding office under the laws of this
+state, within such county, or of receiving bribes by any such person in
+said county, shall be a charge against the state, and their payment by
+the state shall be provided for by law.
+  (c) The city of New York is hereby vested with power from time to time
+to abolish by local law, as defined by the legislature, the office of
+any county officer within the city other than judges, clerks of counties
+and district attorneys, and to assign any or all functions of such
+officers to city officers, courts or clerks of counties, and to
+prescribe the powers, duties, qualifications, number, mode of selection
+and removal, terms of office and compensation of the persons holding
+such offices and the employees therein, and to assign to city officers
+any powers or duties of clerks of counties not assigned by this
+constitution. The legislature shall not pass any law affecting any such
+matters in relation to such offices within the city of New York except
+on message from the governor declaring that an emergency exists and the
+concurrent action of two-thirds of the members of each house, except
+that existing laws regarding each such office shall continue in force,
+and may be amended or repealed by the legislature as heretofore, until
+the power herein granted to the city has been exercised with respect to
+that office. The provisions of article nine shall not prevent the
+legislature from passing general or special laws prescribing or
+affecting powers and duties of such city officers or such courts or
+clerks to whom or which functions of such county officers shall have
+been so assigned, in so far as such powers or duties embrace subjects
+not relating to property, affairs or government of such city.

@@ -1,3 +1,17 @@
-# Art. VII, § 17. Authorizing the legislature to establish a fund or funds for tax revenue stabilization reserves; regulating payments thereto and withdrawals therefrom
-§17. The legislature may establish a fund or funds to aid in the stabilization of the tax revenues of the state available for expenditure or distribution. Any law creating such a fund shall specify the tax or taxes to which such fund relates, and shall prescribe the method of determining the amount of revenue from any such tax or taxes which shall constitute a norm of each fiscal year. Such part as shall be prescribed by law of any revenue derived from such tax or taxes during a fiscal year in excess of such norm shall be paid into such fund. No moneys shall at any time be withdrawn from such fund unless the revenue derived from such tax or taxes during a fiscal year shall fall below the norm for such year; in which event such amount as may be prescribed by law, but in no event an amount exceeding the difference between such revenue and such norm, shall be paid from such fund into the general fund.
-No law changing the method of determining a norm or prescribing the amount to be paid into such a fund or to be paid from such a fund into the general fund may become effective until three years from the date of its enactment. (Added by amendment approved by vote of the people November 2, 1943.)
+  § 17. The legislature may establish a fund or funds to aid in the
+stabilization of the tax revenues of the state available for expenditure
+or distribution. Any law creating such a fund shall specify the tax or
+taxes to which such fund relates, and shall prescribe the method of
+determining the amount of revenue from any such tax or taxes which shall
+constitute a norm of each fiscal year. Such part as shall be prescribed
+by law of any revenue derived from such tax or taxes during a fiscal
+year in excess of such norm shall be paid into such fund. No moneys
+shall at any time be withdrawn from such fund unless the revenue derived
+from such tax or taxes during a fiscal year shall fall below the norm
+for such year; in which event such amount as may be prescribed by law,
+but in no event an amount exceeding the difference between such revenue
+and such norm, shall be paid from such fund into the general fund.
+  No law changing the method of determining a norm or prescribing the
+amount to be paid into such a fund or to be paid from such a fund into
+the general fund may become effective until three years from the date of
+its enactment.

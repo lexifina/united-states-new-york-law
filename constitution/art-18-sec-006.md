@@ -1,2 +1,10 @@
-# Art. XVIII, § 6. Loans and subsidies; restrictions on and preference in occupancy of projects
-§6. No loan, or subsidy shall be made by the state to aid any project unless such project is in conformity with a plan or undertaking for the clearance, replanning and reconstruction or rehabilitation of a substandard and unsanitary area or areas and for recreational and other facilities incidental or appurtenant thereto. The legislature may provide additional conditions to the making of such loans or subsidies consistent with the purposes of this article. The occupancy of any such project shall be restricted to persons of low income as defined by law and preference shall be given to persons who live or shall have lived in such area or areas.
+  § 6. No loan, or subsidy shall be made by the state to aid any project
+unless such project is in conformity with a plan or undertaking for the
+clearance, replanning and reconstruction or rehabilitation of a
+sub-standard and unsanitary area or areas and for recreational and other
+facilities incidental or appurtenant thereto. The legislature may
+provide additional conditions to the making of such loans or subsidies
+consistent with the purposes of this article. The occupancy of any such
+project shall be restricted to persons of low income as defined by law
+and preference shall be given to persons who live or shall have lived in
+such area or areas.

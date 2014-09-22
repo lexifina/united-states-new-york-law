@@ -1,4 +1,14 @@
-# Art. VII, § 3. Budget bills; appearances before legislature
-§3. At the time of submitting the budget to the legislature the governor shall submit a bill or bills containing all the proposed appropriations and reappropriations included in the budget and the proposed legislation, if any, recommended therein.
-The governor may at any time within thirty days thereafter and, with the consent of the legislature, at any time before the adjournment thereof, amend or supplement the budget and submit amendments to any bills submitted by him or her or submit supplemental bills.
-The governor and the heads of departments shall have the right, and it shall be the duty of the heads of departments when requested by either house of the legislature or an appropriate committee thereof, to appear and be heard in respect to the budget during the consideration thereof, and to answer inquiries relevant thereto. The procedure for such appearances and inquiries shall be provided by law. (New. Derived in part from former §§2 and 3 of Art. 4-a. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; amended by vote of the people November 6, 2001.)
+  § 3. At the time of submitting the budget to the legislature the
+governor shall submit a bill or bills containing all the proposed
+appropriations and reappropriations included in the budget and the
+proposed legislation, if any, recommended therein.
+  The governor may at any time within thirty days thereafter and, with
+the consent of the legislature, at any time before the adjournment
+thereof, amend or supplement the budget and submit amendments to any
+bills submitted by him or her or submit supplemental bills.
+  The governor and the heads of departments shall have the right, and it
+shall be the duty of the heads of departments when requested by either
+house of the legislature or an appropriate committee thereof, to appear
+and be heard in respect to the budget during the consideration thereof,
+and to answer inquiries relevant thereto. The procedure for such
+appearances and inquiries shall be provided by law.

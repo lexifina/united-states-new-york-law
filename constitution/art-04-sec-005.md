@@ -1,5 +1,13 @@
-# Art. IV, § 5. When lieutenant-governor to act as governor
-§5. In case of the removal of the governor from office or of his or her death or resignation, the lieutenant-governor shall become governor for the remainder of the term.
-In case the governor-elect shall decline to serve or shall die, the lieutenant-governor-elect shall become governor for the full term.
-In case the governor is impeached, is absent from the state or is otherwise unable to discharge the powers and duties of the office of governor, the lieutenant-governor shall act as governor until the inability shall cease or until the term of the governor shall expire.
-In case of the failure of the governor-elect to take the oath of office at the commencement of his or her term, the lieutenant-governor-elect shall act as governor until the governor shall take the oath. (Formerly §6. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; further amended by vote of the people November 8, 1949; November 5, 1963; November 6, 2001.)
+  § 5. In case of the removal of the governor from office or of his or
+her death or resignation, the lieutenant-governor shall become governor
+for the remainder of the term.
+  In case the governor-elect shall decline to serve or shall die, the
+lieutenant-governor-elect shall become governor for the full term.
+  In case the governor is impeached, is absent from the state or is
+otherwise unable to discharge the powers and duties of the office of
+governor, the lieutenant-governor shall act as governor until the
+inability shall cease or until the term of the governor shall expire.
+  In case of the failure of the governor-elect to take the oath of
+office at the commencement of his or her term, the
+lieutenant-governor-elect shall act as governor until the governor shall
+take the oath.

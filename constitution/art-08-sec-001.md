@@ -1,3 +1,58 @@
-# Art. VIII, § 1. Gift or loan of property or credit of local subdivisions prohibited; exceptions for enumerated purposes
-Section 1. No county, city, town, village or school district shall give or loan any money or property to or in aid of any individual, or private corporation or association, or private undertaking, or become directly or indirectly the owner of stock in, or bonds of, any private corporation or association; nor shall any county, city, town, village or school district give or loan its credit to or in aid of any individual, or public or private corporation or association, or private undertaking, except that two or more such units may join together pursuant to law in providing any municipal facility, service, activity or undertaking which each of such units has the power to provide separately. Each such unit may be authorized by the legislature to contract joint or several indebtedness, pledge its or their faith and credit for the payment of such indebtedness for such joint undertaking and levy real estate or other authorized taxes or impose charges therefor subject to the provisions of this constitution otherwise restricting the power of such units to contract indebtedness or to levy taxes on real estate. The legislature shall have power to provide by law for the manner and the proportion in which indebtedness arising out of such joint undertakings shall be incurred by such units and shall have power to provide a method by which such indebtedness shall be determined, allocated and apportioned among such units and such indebtedness treated for purposes of exclusion from applicable constitutional limitations, provided that in no event shall more than the total amount of indebtedness incurred for such joint undertaking be included in ascertaining the power of all such participating units to incur indebtedness. Such law may provide that such determination, allocation and apportionment shall be conclusive if made or approved by the comptroller. This provision shall not prevent a county from contracting indebtedness for the purpose of advancing to a town or school district, pursuant to law, the amount of unpaid taxes returned to it.
-Subject to the limitations on indebtedness and taxation applying to any county, city, town or village nothing in this constitution contained shall prevent a county, city or town from making such provision for the aid, care and support of the needy as may be authorized by law, nor prevent any such county, city or town from providing for the care, support, maintenance and secular education of inmates of orphan asylums, homes for dependent children or correctional institutions and of children placed in family homes by authorized agencies, whether under public or private control, or from providing health and welfare services for all children, nor shall anything in this constitution contained prevent a county, city, town or village from increasing the pension benefits payable to retired members of a police department or fire department or to widows, dependent children or dependent parents of members or retired members of a police department or fire department; or prevent the city of New York from increasing the pension benefits payable to widows, dependent children or dependent parents of members or retired members of the relief and pension fund of the department of street cleaning of the city of New York. Payments by counties, cities or towns to charitable, eleemosynary, correctional and reformatory institutions and agencies, wholly or partly under private control, for care, support and maintenance, may be authorized, but shall not be required, by the legislature. No such payments shall be made for any person cared for by any such institution or agency, nor for a child placed in a family home, who is not received and retained therein pursuant to rules established by the state board of social welfare or other state department having the power of inspection thereof. (Formerly §10. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; further amended by vote of the people November 3, 1959; November 5, 1963; November 2, 1965.)
+                              ARTICLE VIII
+                             Local Finances
+  Section 1. No county, city, town, village or school district shall
+give or loan any money or property to or in aid of any individual, or
+private corporation or association, or private undertaking, or become
+directly or indirectly the owner of stock in, or bonds of, any private
+corporation or association; nor shall any county, city, town, village or
+school district give or loan its credit to or in aid of any individual,
+or public or private corporation or association, or private undertaking,
+except that two or more such units may join together pursuant to law in
+providing any municipal facility, service, activity or undertaking which
+each of such units has the power to provide separately. Each such unit
+may be authorized by the legislature to contract joint or several
+indebtedness, pledge its or their faith and credit for the payment of
+such indebtedness for such joint undertaking and levy real estate or
+other authorized taxes or impose charges therefor subject to the
+provisions of this constitution otherwise restricting the power of such
+units to contract indebtedness or to levy taxes on real estate. The
+legislature shall have power to provide by law for the manner and the
+proportion in which indebtedness arising out of such joint undertakings
+shall be incurred by such units and shall have power to provide a method
+by which such indebtedness shall be determined, allocated and
+apportioned among such units and such indebtedness treated for purposes
+of exclusion from applicable constitutional limitations, provided that
+in no event shall more than the total amount of indebtedness incurred
+for such joint undertaking be included in ascertaining the power of all
+such participating units to incur indebtedness. Such law may provide
+that such determination, allocation and apportionment shall be
+conclusive if made or approved by the comptroller. This provision shall
+not prevent a county from contracting indebtedness for the purpose of
+advancing to a town or school district, pursuant to law, the amount of
+unpaid taxes returned to it.
+  Subject to the limitations on indebtedness and taxation applying to
+any county, city, town or village nothing in this constitution contained
+shall prevent a county, city or town from making such provision for the
+aid, care and support of the needy as may be authorized by law, nor
+prevent any such county, city or town from providing for the care,
+support, maintenance and secular education of inmates of orphan asylums,
+homes for dependent children or correctional institutions and of
+children placed in family homes by authorized agencies, whether under
+public or private control, or from providing health and welfare services
+for all children, nor shall anything in this constitution contained
+prevent a county, city, town or village from increasing the pension
+benefits payable to retired members of a police department or fire
+department or to widows, dependent children or dependent parents of
+members or retired members of a police department or fire department; or
+prevent the city of New York from increasing the pension benefits
+payable to widows, dependent children or dependent parents of members or
+retired members of the relief and pension fund of the department of
+street cleaning of the city of New York. Payments by counties, cities or
+towns to charitable, eleemosynary, correctional and reformatory
+institutions and agencies, wholly or partly under private control, for
+care, support and maintenance, may be authorized, but shall not be
+required, by the legislature. No such payments shall be made for any
+person cared for by any such institution or agency, nor for a child
+placed in a family home, who is not received and retained therein
+pursuant to rules established by the state board of social welfare or
+other state department having the power of inspection thereof.

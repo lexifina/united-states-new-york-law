@@ -1,2 +1,33 @@
-# Art. VIII, § 3. Restrictions on creation and indebtedness of certain corporations
-§3. No municipal or other corporation (other than a county, city, town, village, school district or fire district, or a river improvement, river regulating, or drainage district, established by or under the supervision of the department of conservation) possessing the power (a) to contract indebtedness and (b) to levy taxes or benefit assessments upon real estate or to require the levy of such taxes or assessments, shall hereafter be established or created, but nothing herein shall prevent the creation of improvement districts in counties and towns, provided that the county or town or towns in which such districts are located shall pledge its or their faith and credit for the payment of the principal of and interest on all indebtedness to be contracted for the purposes of such districts, and in ascertaining the power of any such county or town to contract indebtedness, such indebtedness shall be included, unless such indebtedness would, under the provisions of this article, be excluded in ascertaining the power of a county or town to contract indebtedness. No such corporation now existing shall hereafter contract any indebtedness without the consent, granted in such manner as may be prescribed by general law, of the city or village within which, or of the town within any unincorporated area of which any real estate may be subject to such taxes or assessments. If the real estate subject to such taxes or assessments is wholly within a city, village or the unincorporated area of a town, in ascertaining the power of such city, village or town to contract indebtedness, there shall be included any indebtedness hereafter contracted by such corporation, unless such indebtedness would, under the provisions of this article, be excluded if contracted by such city, village or town. If only part of the real estate subject to such taxes or assessments is within a city, village or the unincorporated area of a town, in ascertaining the power of such city, village or town to contract indebtedness, there shall be included the proportion, determined as prescribed by general law, of any indebtedness hereafter contracted by such corporation, unless such indebtedness would, under the provisions of this article, be excluded if contracted by such city, village or town. (New. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)
+  § 3. No municipal or other corporation (other than a county, city,
+town, village, school district or fire district, or a river improvement,
+river regulating, or drainage district, established by or under the
+supervision of the department of conservation) possessing the power (a)
+to contract indebtedness and (b) to levy taxes or benefit assessments
+upon real estate or to require the levy of such taxes or assessments,
+shall hereafter be established or created, but nothing herein shall
+prevent the creation of improvement districts in counties and towns,
+provided that the county or town or towns in which such districts are
+located shall pledge its or their faith and credit for the payment of
+the principal of and interest on all indebtedness to be contracted for
+the purposes of such districts, and in ascertaining the power of any
+such county or town to contract indebtedness, such indebtedness shall be
+included, unless such indebtedness would, under the provisions of this
+article, be excluded in ascertaining the power of a county or town to
+contract indebtedness. No such corporation now existing shall hereafter
+contract any indebtedness without the consent, granted in such manner as
+may be prescribed by general law, of the city or village within which,
+or of the town within any unincorporated area of which any real estate
+may be subject to such taxes or assessments. If the real estate subject
+to such taxes or assessments is wholly within a city, village or the
+unincorporated area of a town, in ascertaining the power of such city,
+village or town to contract indebtedness, there shall be included any
+indebtedness hereafter contracted by such corporation, unless such
+indebtedness would, under the provisions of this article, be excluded if
+contracted by such city, village or town. If only part of the real
+estate subject to such taxes or assessments is within a city, village or
+the unincorporated area of a town, in ascertaining the power of such
+city, village or town to contract indebtedness, there shall be included
+the proportion, determined as prescribed by general law, of any
+indebtedness hereafter contracted by such corporation, unless such
+indebtedness would, under the provisions of this article, be excluded if
+contracted by such city, village or town.

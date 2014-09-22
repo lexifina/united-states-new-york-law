@@ -1,2 +1,7 @@
-# Art. II, § 2. Absentee voting
-§2. The legislature may, by general law, provide a manner in which, and the time and place at which, qualified voters who, on the occurrence of any election, may be absent from the county of their residence or, if residents of the city of New York, from the city, and qualified voters who, on the occurrence of any election, may be unable to appear personally at the polling place because of illness or physical disability, may vote and for the return and canvass of their votes. (Formerly §1-a. Renumbered by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; amended by vote of the people November 4, 1947; November 8, 1955; November 5, 1963.)
+  § 2. The legislature may, by general law, provide a manner in which,
+and the time and place at which, qualified voters who, on the occurrence
+of any election, may be absent from the county of their residence or, if
+residents of the city of New York, from the city, and qualified voters
+who, on the occurrence of any election, may be unable to appear
+personally at the polling place because of illness or physical
+disability, may vote and for the return and canvass of their votes.
