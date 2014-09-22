@@ -1,0 +1,19 @@
+                               ARTICLE XI
+                            STATE PURCHASING
+Section 160.   Definitions.
+        161.   State procurement council.
+        162.   Preferred sources.
+        163.   Purchasing services and commodities.
+        163-a. Vendor preparation of specifications for technology
+                 procurements; prohibitions.
+        163-b. Environmentally-sensitive cleaning and maintenance
+                 products.
+        164.   Exemptions.
+        165.   Purchasing restrictions.
+        165-a. Iran divestment.
+        166.   Requirements for financed equipment acquisition or
+                 financed creation or improvement of information
+                 technology systems and related research and
+                 development.
+        167.   Transfer and disposal of personal property.
+        168.   The management of surplus computer equipment.
