@@ -1,0 +1,18 @@
+  § 50-hh. Changing number of laymen trustees. An incorporated church to
+which this article is applicable may, by a majority vote of the duly
+qualified voters at an annual corporate meeting, change the number of
+its laymen trustees to three, six or nine, and classify them so that the
+terms of one-third of such number so changed expire each year. No such
+change shall affect the terms of the laymen trustees then in office, and
+if the change reduces the number of laymen trustees, it shall not take
+effect until the number of laymen trustees whose terms of office
+continue for one or more years after an annual election of trustees, is
+less than the number determined upon. Whenever the number of laymen
+trustees so holding over is less than the number so determined,
+sufficient laymen trustees shall be elected, in addition to those so
+holding over, to make the number of laymen trustees for the ensuing year
+equal to the number so determined. The laymen trustees so elected up to
+and including one-third of the number so determined shall hold office
+for a term of three years, the remainder up to and including one-third
+of the number so determined, for two years and the remainder, for one
+year.
