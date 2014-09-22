@@ -1,0 +1,22 @@
+                                ARTICLE 6
+                            PAYMENT OF WAGES
+Section 190.   Definitions.
+        191.   Frequency of payments.
+        191-a. Definitions.
+        191-b. Contracts with sales representatives.
+        191-c. Payment of sales commission.
+        192.   Cash payment of wages.
+        193.   Deductions from wages.
+        194.   Differential in rate of pay because of sex prohibited.
+        195.   Notice and record-keeping requirements.
+        196.   Powers of commissioner.
+        196-a. Complaints by employees to commissioner.
+        196-d. Gratuities.
+        197.   Civil penalty.
+        198.   Costs, remedies.
+        198-a. Criminal penalties.
+        198-b. "Kick-back" of wages prohibited.
+        198-c. Benefits or wage supplements.
+        198-d. Posting regulations on illegal wage deductions.
+        199.   Rules and regulations.
+        199-a. Notification of process.

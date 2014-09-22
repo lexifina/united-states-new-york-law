@@ -1,0 +1,25 @@
+                               ARTICLE 20
+                   NEW YORK STATE LABOR RELATIONS ACT
+Section 700.   Findings and policy.
+        701.   Definitions.
+        702.   Special mediators.
+        702-a. Settlement of labor disputes.
+        703.   Rights of employees.
+        704.   Unfair labor practices.
+        704-a. Unfair practices; performing arts.
+        705.   Representatives and elections.
+        706.   Prevention of unfair labor practices.
+        707.   Judicial review.
+        708.   Investigatory powers.
+        709.   Punitive provision.
+        710.   Public records and proceedings.
+        711.   Cooperation.
+        712.   Repeal of inconsistent provisions.
+        713.   Limitations.
+        714.   Separability.
+        715.   Application of article.
+        716.   Grievances and disputes in non-profitmaking hospitals and
+                 residential care centers.
+        717.   State mediation board, state labor relations board, and
+                 state employment relations board abolished.
+        718.   Short title.
