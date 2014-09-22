@@ -1,1 +1,2 @@
                                 ARTICLE 1
+                           GENERAL PROVISIONS
