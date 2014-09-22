@@ -1,9 +1,8 @@
                                 ARTICLE 9
-            HOSPITALIZATION OF PERSONS WITH A MENTAL ILLNESS
+                   HOSPITALIZATION OF THE MENTALLY ILL
 Section 9.01 Definitions.
         9.03 Admission to a hospital.
-        9.05 Examining physicians, examining psychiatric nurse
-               practitioners and medical certificates.
+        9.05 Examining physicians and medical certificates.
         9.07 Notice to all patients of their rights and of the
                availability of the mental hygiene legal service.
         9.09 Notices to mental hygiene legal service concerning minors.
@@ -29,12 +28,12 @@ Section 9.01 Definitions.
                treatment.
         9.40 Emergency observation, care and treatment in comprehensive
                psychiatric emergency programs.
-        9.41 Emergency assessment for immediate observation, care, and
+        9.41 Emergency admissions for immediate observation, care, and
                treatment; powers of certain peace officers and police
                officers.
-        9.43 Emergency assessment for immediate observation, care, and
+        9.43 Emergency admissions for immediate observation, care, and
                treatment; powers of courts.
-        9.45 Emergency assessment for immediate observation, care, and
+        9.45 Emergency admissions for immediate observation, care, and
                treatment; powers of directors of community services.
         9.46 Reports of substantial risk or threat of harm by mental
                health professionals.
@@ -56,4 +55,3 @@ Section 9.01 Definitions.
         9.60 Assisted outpatient treatment.
         9.61 Involuntary outpatient treatment.
         9.63 Transportation of persons to or between hospitals.
-        9.64 Notice of admission determination to community provider.

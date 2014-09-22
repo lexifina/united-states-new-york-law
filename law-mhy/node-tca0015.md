@@ -1,5 +1,5 @@
                                ARTICLE 15
-     ADMISSION OF PEOPLE WITH DEVELOPMENTAL DISABILITIES TO SCHOOLS
+              ADMISSION OF THE MENTALLY RETARDED TO SCHOOLS
 Section 15.01 Definitions.
         15.03 Admission to a school.
         15.05 Examining physician or psychologist and medical
