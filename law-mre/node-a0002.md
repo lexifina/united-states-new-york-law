@@ -7,4 +7,3 @@ Section 8.  General application to all dwellings.
         12. Uncompleted dwellings.
         13. Prohibited uses.
         15. Smoke detecting devices.
-        16. Multiple residence emergency information.

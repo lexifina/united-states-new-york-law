@@ -3,7 +3,6 @@
 Section 300.   Registry of owner.
         301.   Permits.
         302.   Certificate of occupancy.
-        302-a. Unlawful occupation.
         303.   Enforcement.
         304.   Penalties for violations.
         305.   Nuisances.
