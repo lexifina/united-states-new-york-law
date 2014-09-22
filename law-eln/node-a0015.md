@@ -6,11 +6,10 @@ Section 15-100. Application of article.
         15-106. Special village elections for officers.
         15-108. Designation and nomination of candidates.
         15-110. Election districts.
-        15-112. Registers and poll-books; how used.
-        15-114. Number of voting machines.
+        15-112. Registers and poll books; how used.
+        15-114. Number and use of voting machines.
         15-116. Inspectors of election.
         15-118. Registration of voters.
-        15-119. Early mail voting at village elections.
         15-120. Absentee voting at village elections.
         15-122. Absentee voting at village elections for persons unable
                   to appear because of illness or physical disability.
@@ -24,5 +23,3 @@ Section 15-100. Application of article.
         15-136. Refusal of officer to surrender his office.
         15-138. Judicial review of matters relating to village
                   elections.
-        15-140. Transmission of publicly available data to the New York
-                  voting and elections database.

@@ -13,7 +13,7 @@ Section 10-102. Military voters; definitions.
                   polling place.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
-        10-122. Military voter; early mail or absentee ballot, right to.
+        10-122. Military voter; absentee ballot, right to.
         10-124. Military voting; state board of elections; regulatory
                   powers.
         10-125. Military voters; prohibiting refusal to accept voter
