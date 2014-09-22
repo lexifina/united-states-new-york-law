@@ -16,8 +16,3 @@ Section 600.   Construction.
         608-a. Rent regulation of rehabilitated multiple dwellings
                  acquired and reconveyed by the federal government.
         609.   When to take effect.
-        610.   Rental assistance and legal regulated rents.
-        611.   Rent stabilization and regulatory agreements.
-        612.   Compliance monitoring.
-        613.   Charges.
-        614.   Servicing loans.
