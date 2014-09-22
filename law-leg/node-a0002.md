@@ -7,15 +7,13 @@ Section 2.    Exemption of members and officers from arrest.
         5-a.  Allowances for member serving as an officer of either
                 house of the legislature or in a special capacity
                 therein.
-        5-b.  Limit on outside earned income by members.
         6.    Officers and employees of the senate.
         7.    Officers and employees of the assembly.
         7-a.  Legislative library, librarian and assistants.
         7-b.  Legislative emergency health station.
         7-c.  Member of assembly defined.
         7-d.  Employees of the legislature.
-        7-e.  Assistive listening system for the deaf and hard of
-                hearing.
+        7-e.  Assistive listening system for the hearing impaired.
         7-f.  Assembly historian.
         7-g.  Senate historian.
         8.    Appointments to be filed with the comptroller.
