@@ -16,7 +16,7 @@ Article 1.    Short   title;   definitions;  application;  certificates;
         5.    Corporate finance. (§§ 501-521)
         5-A.  Prudent  management  of  institutional  funds   act.   (§§
                 550-558).
-        6.    Members. (§§ 601-624)
+        6.    Members. (§§ 601-623)
         7.    Directors and officers. (§§ 701-726)
         8.    Amendments and changes. (§§ 801-805)
         9.    Merger or consolidation. (§§ 901-910)
@@ -25,5 +25,5 @@ Article 1.    Short   title;   definitions;  application;  certificates;
         12.   Receivership. (§§ 1201-1218)
         13.   Foreign corporations. (§§ 1301-1321)
         14.   Special not-for-profit corporations. (§§ 1401-1412)
-        15.   Public cemetery corporations. (§§ 1501-1518)
+        15.   Public cemetery corporations. (§§ 1501-1516)
         16.   Land banks. (§§ 1600-1617)

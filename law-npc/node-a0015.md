@@ -1,4 +1,4 @@
-                               ARTICLE 15
+                              ARTICLE   15
                       PUBLIC CEMETERY CORPORATIONS
 Section 1501.   Declaration of policy.
         1502.   Definitions.
@@ -7,15 +7,10 @@ Section 1501.   Declaration of policy.
         1505.   Special requirements of incorporation.
         1505-a. Additional requirements for incorporation of
                   crematories.
-        1505-b. Additional requirements for incorporation of natural
-                  organic reduction facilities.
         1506.   Cemetery lands.
         1506-a. Cemetery corporations; restrictions.
         1506-b. Transfer of lands of Valley View Rural Cemetery.
         1506-c. Abandoned cemetery maintenance by cemetery corporations.
-        1506-d. Additional requirements for merger or consolidation of
-                  cemetery corporations in certain circumstances.
-        1506-e. Lease of cemetery lands.
         1507.   Trust funds.
         1507-a. State cemetery board citizens advisory council.
         1508.   Reports by cemeteries.
@@ -24,7 +19,6 @@ Section 1501.   Declaration of policy.
         1510.   Cemetery duties.
         1510-a. Repair or removal of monuments.
         1510-b. Availability for interment on six-day basis.
-        1510-c. Form of authorizations.
         1511.   Cemetery indebtedness.
         1512.   Rights of lot owners.
         1513.   Sale of burial rights.
@@ -34,5 +28,3 @@ Section 1501.   Declaration of policy.
         1515.   Actions affecting cemetery corporations.
         1516.   Sale of monuments.
         1517.   Crematory operations.
-        1518.   Crematory operations during emergency declaration.
-        1518*2. Natural organic reduction facility operations.
