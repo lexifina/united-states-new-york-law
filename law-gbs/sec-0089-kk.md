@@ -1,0 +1,4 @@
+  § 89-kk. Severability. If any provision of this article or if any
+application thereof to any person or circumstance is held invalid, the
+remainder of this article and the application of the provision to other
+persons and circumstances shall not be affected thereby.
