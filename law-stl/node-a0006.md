@@ -5,6 +5,7 @@ Section 70.   Description of the arms of the state and the state flag.
         72.   Prohibition of other pictorial devices.
         73.   Great seal of the state.
         74.   Use of the great seal.
+        74-a. New York state collectible series panel.
         75.   State flower.
         76.   State tree.
         77.   State gem.
@@ -21,9 +22,3 @@ Section 70.   Description of the arms of the state and the state flag.
         87.   State reptile.
         87*2. State bush.
         88.   State slogan.
-        89.   State snack.
-        90.   State dog.
-        91.   State hymn of remembrance in honor of all American
-                veterans.
-        92.   State sport.
-        93.   Purple Heart state.
