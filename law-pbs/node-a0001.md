@@ -5,8 +5,6 @@ Section 1.    Short title.
         3.    Department of public service.
         3-a.  Transfer of lands.
         3-b.  Long Island office of the department.
-        3-c.  Office of renewable energy siting and electric
-                transmission.
         4.    The public service commission.
         4-b.  Removals.
         5.    Jurisdiction, powers and duties of public service
@@ -43,5 +41,3 @@ Section 1.    Short title.
         25-a. Combination gas and electric corporations; administrative
                 sanctions; recovery of penalties.
         26.   Enforcement proceedings.
-        27.   Public availability of certain competitive requests for
-                proposals.
