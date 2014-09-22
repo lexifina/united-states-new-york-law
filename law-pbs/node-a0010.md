@@ -14,4 +14,3 @@ Section 160. Definitions.
         171. Jurisdiction of courts.
         172. Powers of municipalities and state agencies.
         173. Applicability to public authorities.
-        174. Major steam electric generating facilities certificates.

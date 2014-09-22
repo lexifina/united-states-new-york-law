@@ -14,14 +14,12 @@ Section 105.   Purposes of article.
                  affiliated interests.
         111.   Additional information in annual reports; disclosure of
                  stockholdings.
-        111-a. Additional information in annual reports; disclosure of
-                 compensation.
         112.   Judicial enforcement of rate-fixing orders of the
                  commission.
         112-a. Appointment of temporary operator.
         113.   Reparations and refunds.
         114.   Temporary rates.
-        114-a. Costs not to be included in rates.
+        114-a. Rates not to include cost of legislative lobbying.
         115.   Public letting of contracts.
         116.   Discontinuance of water service to multiple dwellings.
         117.   Consumer deposits.
@@ -32,5 +30,3 @@ Section 105.   Purposes of article.
                  trenches and conduits.
         119-b. Protection of underground facilities.
         119-c. Tax reduction benefit to ratepayers.
-        119-d. Maintenance of utility poles.
-        119-e. Utility pole attachment report.
