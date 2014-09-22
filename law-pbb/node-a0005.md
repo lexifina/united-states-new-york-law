@@ -3,9 +3,3 @@
 Section 140. Fire and emergency protection in public buildings.
         141. Display of foreign flags on public buildings.
         142. Water conservation in public buildings.
-        143. Lighting restrictions.
-        144. Lactation room in public buildings.
-        145. Gender neutral single-occupancy bathrooms.
-        146. Prohibit symbols of hate.
-        147. Municipal officers or employees prohibited from displaying
-               political advertisements on public property.
