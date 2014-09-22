@@ -21,4 +21,5 @@ title.
   4. "Taxation" means an ad valorem levy or special assessment for which
 public utility mass real property is otherwise liable pursuant to this
 chapter.
-  * NB Repealed January 1, 2031
+  * NB Effective January 1, 2015
+  * NB Repealed January 1, 2019

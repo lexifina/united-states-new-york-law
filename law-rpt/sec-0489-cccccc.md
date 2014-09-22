@@ -46,49 +46,10 @@ provided for utility property.
   (c) Restricted activity. No benefits pursuant to this title shall be
 granted for construction work on property any part of which is to be
 used for a restricted activity.
-  (d) Self-storage facilities. For purposes of this title, "self-storage
-facility" shall mean any real property or a portion thereof that is
-designed and used for the purpose of occupying storage space by
-occupants who are to have access thereto for the purpose of storing and
-removing personal property, pursuant to subdivision one of section one
-hundred eighty-two of the lien law. No benefits shall be granted
-pursuant to this title for construction work on real property where any
-portion of such property is to be used as a self-storage facility.
-  (e) Parking facility. No benefits shall be granted pursuant to this
-title for construction work on real property where any portion of such
-property is to be used as a parking facility, except where a parking
-facility is associated with residential construction work on a separate
-tax lot, as described in rules of the commissioner, and such residential
-construction work is subject to financial assistance from the local
-housing agency of a city that has enacted a local law pursuant to this
-title. For the purposes of this paragraph, the term "financial
-assistance" means loans, grants, tax credits, tax exemptions, tax
-abatements, subsidies, mortgages, debt forgiveness, and land conveyances
-for less than appraised value provided in accordance with a regulatory
-agreement entered into with such local housing agency, except that
-"financial assistance" shall not include as-of-right assistance or
-benefits. For the purposes of this title, "parking facility" means any
-real property or portion thereof in a city on which exists a facility
-operated in a manner that requires a license for the operation of a
-garage or parking lot issued by the consumer and worker protection
-agency of such city.
-  (f) Storage warehouse. No benefits shall be granted pursuant to this
-title for construction work on real property where any portion of such
-property is to be used as a storage warehouse. For the purposes of this
-title, "storage warehouse" means any real property or portion thereof in
-a city on which exists a building or structure which a consumer's
-household goods are received for storage for compensation, except ware-
-houses in which such goods are stored by or on behalf of a merchant for
-resale or other use in the course of the merchant's business, operated
-in a manner that requires a license for the operation of a storage ware-
-house issued by the consumer and worker protection agency of such city.
   4. Hotel uses. Benefits shall be available for commercial construction
 work or renovation construction work on a building or structure for the
 property's square footage used to provide lodging and support services
-for transient guests, provided the applicant is not otherwise
-disqualified pursuant to paragraph (c) of subdivision five of this
-section, or section four hundred eighty-nine-eeeeee or four hundred
-eighty-nine-iiiiii of this title.
+for transient guests.
   5. Filing requirements. (a) Time to file. (i) Preliminary application.
 (A) Building permit. No benefits pursuant to this title shall be granted
 for any construction work unless the applicant filed a preliminary
@@ -110,25 +71,7 @@ department.
 benefits no later than one year from the date of issuance of the first
 building permit for construction work, or, where construction work does
 not require a building permit, no later than one year from the date of
-commencement of construction. Abatement benefits shall not be granted
-until the applicant files the final application. If the final
-application is not filed within such one year period, abatement benefits
-shall not be granted until such application is filed, and the department
-may delay the granting of such benefits, at the department's discretion,
-to investigate the reason for the late filing.
-  (iii) Notwithstanding any provision of law to the contrary, the time
-limit to file a final application for benefits as specified in
-subparagraph (ii) of this paragraph shall not apply to brand-new
-construction from the ground up located on property purchased from the
-city of New York where such property which is the site of the new
-construction was purchased from the city of New York for the purposes of
-an eligible development pursuant to this article and where the sales
-agreement with the city of New York for such property includes a
-restriction preventing the sale or transfer of such property for a
-period of five years or more and where the first valuation and
-assessment for the purposes of property taxes occurred within that
-period of restriction from sale, provided the project meets the other
-requirements of this title.
+commencement of construction.
   (b) Who may file for benefits. An applicant shall be:
   (i) obligated to pay real property tax on the property, either by
 virtue of ownership or contract; or
@@ -148,26 +91,16 @@ general partner of the applicant or such person was finally adjudicated
 by a court of competent jurisdiction to have violated section two
 hundred thirty-five of the real property law or any section of article
 one hundred fifty of the penal law or any similar arson law of another
-state with respect to any building, or finally adjudicated by a
-competent authority, agency, or a court of competent jurisdiction to
-have violated any state, city, or municipal business regulations or
-ordinances related to payment of taxes, payment of wages, or fraudulent
-representation to governmental entities, or was an officer, director or
+state with respect to any building, or was an officer, director or
 general partner of a person at the time such person was finally
-adjudicated to have violated such state, city, or municipal laws,
-business regulations, and ordinances related to payment of taxes,
-payment of wages, or fraudulent representation to governmental entities;
-and
+adjudicated to have violated such law; and
   (ii) a statement setting forth any pending charges alleging violation
 of section two hundred thirty-five of the real property law or any
 section of article one hundred fifty of the penal law or any similar
-arson law of another jurisdiction with respect to any building and
-pending charges alleging violation of state, city, or municipal business
-regulations or ordinances related to payment of taxes, payment of wages,
-or fraudulent representation to governmental entities by the applicant
-or any person owning a substantial interest in the property as defined
-in subparagraph (iii) of this paragraph, or any officer, director or
-general partner of the applicant or such person.
+arson law of another jurisdiction with respect to any building by the
+applicant or any person owning a substantial interest in the property as
+defined in subparagraph (iii) of this paragraph, or any officer,
+director or general partner of the applicant or such person.
   (iii) "Substantial interest" as used in this subdivision shall mean
 ownership and control of an interest of ten percent or more in a
 property or any person owning a property.
@@ -203,4 +136,4 @@ starting with the date the exemption ceases, and continuing until the
 abatement benefit period expires, receive the abatement benefits to
 which such recipient is entitled in the tax year that corresponds to the
 year of the benefit period provided in subdivision three of section four
-hundred eighty-nine-bbbbbb of this title.
+hundred eighty-nine- bbbbbb of this title.

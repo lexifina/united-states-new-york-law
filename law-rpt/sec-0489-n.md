@@ -21,5 +21,4 @@ been made in accordance with the provisions of this section.
 notice to hear complaints in relation to the tentative determination of
 the railroad ceiling. The provisions of section five hundred twelve of
 this chapter shall apply so far as may be practicable to a hearing under
-this section. Nothing contained in this subdivision shall be construed
-to require a hearing to be conducted when no complaints have been filed.
+this section.
