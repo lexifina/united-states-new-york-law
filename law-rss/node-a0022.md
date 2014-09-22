@@ -2,7 +2,6 @@
                   POLICE AND FIRE RETIREMENT PROVISIONS
 Section 1200.   Definitions.
         1201.   Applicability.
-        1201-a. Retirement plan.
         1202.   Vesting.
         1203.   Overtime.
         1204.   Member contributions.

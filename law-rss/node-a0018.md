@@ -10,5 +10,3 @@ Section 800.   Definitions.
         806.   Exclusion.
         807.   Alternate means of authentication.
         808.   Preservation of records.
-        809.   Effect and rebuttal of certain medical presumptions
-                 pertaining to diseases of the heart.
