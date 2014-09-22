@@ -40,15 +40,12 @@ endangered.
 emergency basis, the agency shall issue a rural area flexibility
 analysis regarding the rule being proposed for adoption or the emergency
 rule being adopted. A copy of such analysis and any finding, and reasons
-for such finding, pursuant to this section, shall be submitted in
-writing, and may be transmitted electronically in accordance with
-article three of the state technology law, to the governor, the
-temporary president of the senate, the speaker of the assembly, the
-office for regulatory and management assistance and the administrative
-regulations review commission at the time such analysis is submitted or
-electronically transmitted to the secretary of state for publication
-and, upon written or electronic request, a copy shall be sent or
-electronically transmitted to any other person. Each rural area
+for such finding, pursuant to this section, shall be submitted to the
+governor, the temporary president of the senate, the speaker of the
+assembly, the office for regulatory and management assistance and the
+administrative regulations review commission at the time such analysis
+is submitted to the secretary of state for publication and, upon written
+request, a copy shall be sent to any other person. Each rural area
 flexibility analysis shall contain:
   (a) A description of the types and an estimate of the number of rural
 areas to which the rule will apply;
@@ -92,13 +89,13 @@ statements if quantification is not practicable or reliable.
 analysis is required, the agency shall assure that public and private
 interests in rural areas have been given an opportunity to participate
 in the rule making through such activities as:
-  (a) the publication of a general notice of the proposed rule making;
-  (b) notification of public and private interests in rural areas
+  (i) the publication of a general notice of the proposed rule making;
+  (ii) notification of public and private interests in rural areas
 directly affected by the proposed rule;
-  (c) the conduct of special public hearings or meetings concerning the
-proposed rule for those public and private interests affected by the
+  (iii) the conduct of special public hearings or meetings concerning
+the proposed rule for those public and private interests affected by the
 rule; and
-  (d) the adoption or modification of agency procedural rules that will
+  (iv) the adoption or modification of agency procedural rules that will
 minimize the cost or complexity of participation in the rule making.
   8. Each agency shall issue a revised rural area flexibility analysis
 when:
