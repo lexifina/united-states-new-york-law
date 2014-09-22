@@ -7,11 +7,11 @@ Section  9.    Definitions.
         13.    Treatment and care of injured employees.
         13-a.  Selection of authorized physician by employee.
         13-aa. Medical appeals unit.
-        13-b.  Authorization of providers, medical bureaus and
+        13-b.  Authorization of physicians, medical bureaus and
                  laboratories by the chair.
         13-c.  Licensing of compensation medical bureaus and
                  laboratories.
-        13-d.  Removal of providers from lists of those authorized to
+        13-d.  Removal of physicians from lists of those authorized to
                  render medical care or to conduct independent medical
                  examinations.
         13-e.  Revocation of licenses of compensation medical bureaus
@@ -31,16 +31,13 @@ Section  9.    Definitions.
         13-n.  Mandatory registration of entities which derive income
                  from independent medical examinations.
         13-o.  Pharmaceutical fee schedule.
-        13-p.  Comprehensive prescription drug formulary.
         14.    Weekly wages basis of compensation.
         14-a.  Double compensation and death benefits when minors
                  illegally employed.
         15.    Schedule in case of disability.
         15-a.  Assessment on insolvent group self-insured trusts.
         16.    Death benefits.
-        16-a.  Death benefits due to diesel exposure.
-        17.    Noncitizens.
-        17-a.  Limited English proficiency.
+        17.    Aliens.
         18.    Notice of injury or death.
         18-a.  Notice: The New York Jockey Injury Compensation Fund,
                  Inc.
@@ -57,7 +54,6 @@ Section  9.    Definitions.
         21-a.  Temporary payment of compensation.
         22.    Modification of awards, decisions or orders.
         23.    Appeals.
-        23-a.  Mistakes, defects and irregularities.
         24.    Costs and fees.
         24-a.  Representation before the workers' compensation board.
         25.    Compensation, how payable.
