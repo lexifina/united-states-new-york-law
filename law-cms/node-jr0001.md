@@ -1,0 +1,2 @@
+JOINT RULE I
+  
