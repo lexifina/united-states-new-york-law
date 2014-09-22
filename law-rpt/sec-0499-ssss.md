@@ -8,4 +8,5 @@ operations of the local public utility mass real property owner, and
 with prior notice and appointment, and not otherwise limited by federal
 law or regulations, have access to inspect locations where the local
 public utility mass real property is situated.
-  * NB Repealed January 1, 2031
+  * NB Effective January 1, 2015
+  * NB Repealed January 1, 2019

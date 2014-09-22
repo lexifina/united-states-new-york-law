@@ -36,7 +36,7 @@ rata share of tax for which an abatement was claimed during the tax year
 in which such conversion occurred.
   (d) Where the property is receiving the additional industrial
 abatement pursuant to paragraph (e) of subdivision three of section four
-hundred eighty-nine-bbbbbb of this title, such additional industrial
+hundred eighty- nine-bbbbbb of this title, such additional industrial
 abatement shall cease from the date of conversion to commercial
 property.
   3. Conversion to restricted use. Any applicant whose property has been

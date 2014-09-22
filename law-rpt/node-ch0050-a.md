@@ -38,6 +38,4 @@ Article    1.  Short title; definitions.
                  limitation on increases in assessments therein.
           19.  Preservation of class share of taxes other than in
                  special assessing units.
-        19-a.  Special deferments and installment payments during the
-                 covid-19 state of emergency.
           20.  Construction; laws repealed; effective date.
