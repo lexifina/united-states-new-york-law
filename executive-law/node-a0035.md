@@ -1,0 +1,54 @@
+                               ARTICLE 35
+                  DIVISION OF CRIMINAL JUSTICE SERVICES
+Section 835.     Definitions.
+        836.     Division of criminal justice services; commissioner,
+                   organization and employees.
+        837.     Functions, powers and duties of division.
+        837-a.   Additional functions, powers and duties of the
+                   division.
+        837-b.   Duties of courts and peace officers.
+        837-c.   Processing requests submitted by police departments.
+        837-d.   Soft body ballistic armor vests for police officers.
+        837-e.   Statewide central register for missing children.
+        837-f.   Missing and exploited children clearinghouse.
+        837-f-1. Missing vulnerable adults clearinghouse.
+        837-g.   Livery vehicle safety training program establishment.
+        837-h.   Livery vehicle safety training program; standards;
+                   eligibility; reports.
+        837-i.   Uniform parking ticket.
+        837-j.   Parking violations enforcement and disposition program.
+        837-k.   Safe house for children.
+        837-l.   Capital prosecution extraordinary assistance program.
+        837-m.   Reporting duties of law enforcement departments with
+                   respect to missing children and vulnerable adults.
+        837-m*2. Criminal history records search for certain employment,
+                   appointments, licenses or permits in the city of New
+                   York.
+        837-n.   Criminal history information of caregivers;
+                   requirements.
+        837-o.   Search for arson and sex offense conviction records of
+                   volunteer firefighter applicants.
+        837-p.   Criminal history records search for certain licenses
+                   and registrations in the county of Westchester.
+        837-q.   Payments to Westchester county for policing special
+                   parkways.
+        837-r.   Office of sex offender management.
+        838.     Identification of unknown dead and missing persons.
+        839.     Municipal police training council.
+        840.     Functions, powers and duties of council.
+        841.     Functions, powers and duties of the commissioner with
+                   respect to the council.
+        841-a.   Security guard advisory council.
+        841-b.   Functions, powers and duties of council.
+        841-c.   Functions, powers and duties of the commissioner with
+                   respect to the council.
+        841-d.   Saving clause.
+        842.     Council rules and regulations promulgated by governor.
+        843.     Division homepage on the internet.
+        844-b.   New York state committee for the coordination of police
+                   services to elderly persons.
+        845.     Central state registry of police officers and peace
+                   officers.
+        845-b.   Requests for criminal history information.
+        846.     Programs for the aging.
+        846*2.   Programs for the aging.

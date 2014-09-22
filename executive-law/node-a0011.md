@@ -1,0 +1,42 @@
+                               ARTICLE 11
+                        DIVISION OF STATE POLICE
+Section 210.   Division of state police.
+        211.   Employees.
+        212.   Equipment.
+        213.   Acquisition of real property.
+        214.   Establishment of training school.
+        214-a. Child abuse prevention.
+        214-b. Family offense intervention.
+        214-c. Elder abuse awareness.
+        215.   Organization; salaries; qualifications; appointment;
+                 term; rules and regulations.
+        216.   Bureau of criminal investigation.
+        216-a. Scientific crime detection laboratory.
+        216-b. Salary increments.
+        216-c. Holiday compensation.
+        216-d. Consumer product protection.
+        217.   Communication.
+        218.   Installation, operation and maintenance of basic system;
+                 personnel.
+        219.   Availability.
+        220.   Orders, rules or regulations.
+        221.   System of criminal justice information.
+        221-a. Computer system to carry information of orders of
+                 protection and warrants of arrest.
+        221-b. Reporting to New York state violent crimes analysis
+                 program.
+        221-c. Statewide repository of data relating to unlawful
+                 methamphetamine laboratories.
+        221-d. Discovery of an unlawful methamphetamine laboratory.
+        222.   Radio communication system.
+        223.   Duties and powers of the superintendent of state police
+                 and of members of the state police.
+        224.   Verification of complaint.
+        225.   Enforcement of conservation law.
+        225-a. Lost and found property.
+        226.   Employment of state police in towns, villages, police
+                 districts.
+        227.   Disability benefits.
+        227-a. Death benefits.
+        229.   Retirement for cause.
+        230.   Gun trafficking interdiction program.
