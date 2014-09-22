@@ -1,0 +1,15 @@
+  § 489-ggg. Continuation of tax exemption; termination of tax
+exemption. The tax exemption approved by the board shall continue in
+accordance with this title, provided that the applicant files an annual
+certificate of continuing use stating that the structure and property
+continue to be used for the industrial or commercial purposes justifying
+the issuance of the certificate of eligibility.  The certificate of
+continuing use shall be filed with the tax commission on such form or
+forms and containing such information as shall be prescribed by the tax
+commission. The tax commission shall have authority to terminate a tax
+exemption on failure of an applicant to file an annual certificate of
+continuing use or on the recommendation of the finance commissioner who,
+in reviewing the certificate filed by an applicant, has determined that
+the structure or property has ceased to be used for the industrial or
+commercial purposes justifying the issuance of the certificate of
+eligibility.
