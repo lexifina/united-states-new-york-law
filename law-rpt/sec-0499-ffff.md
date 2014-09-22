@@ -15,16 +15,14 @@ following functions, powers and duties to be exercised in accordance
 with this title:
   (a) to receive, review, approve and deny applications for tax
 abatement;
-  (b) to inspect solar electric generating systems or electric energy
-storage equipment and any related structures and equipment;
+  (b) to inspect solar electric generating systems and any related
+structures and equipment;
   (c) to establish permit or certification requirements to determine
-when the solar electric generating system or electric energy storage
-equipment has been placed in service, such as certification by an
-architect, engineer or other certified or licensed professional whom a
-designated agency designates by rule;
+when the solar electric generating system has been placed in service,
+such as certification by an architect, engineer or other certified or
+licensed professional whom a designated agency designates by rule;
   (d) to establish guidance and procedures for determining or certifying
-eligible solar electric generating system or electric energy storage
-equipment expenditures;
+eligible solar electric generating system expenditures;
   (e) to prescribe forms and make and promulgate rules to carry out the
 purposes of this title;
   (f) to make the determinations provided for in sections four hundred

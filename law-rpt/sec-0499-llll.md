@@ -12,4 +12,5 @@ service lives of assets and other relevant factors.
 made upon application by a public utility mass real property owner.
 Every such application shall be submitted with the annual report
 required by section four hundred ninety-nine-rrrr of this title.
-  * NB Repealed January 1, 2031
+  * NB Effective January 1, 2015
+  * NB Repealed January 1, 2019
