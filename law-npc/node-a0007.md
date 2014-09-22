@@ -18,13 +18,12 @@ Section 701.   Board of directors.
         715.   Related party transactions.
         715-a. Conflict of interest policy.
         715-b. Whistleblower policy.
-        716.   Loans to directors, officers and key persons.
-        717.   Duty of directors, officers and key persons.
-        718.   List of directors, officers and key persons.
+        716.   Loans to directors and officers.
+        717.   Duty of directors and officers.
+        718.   List of directors and officers.
         719.   Liability of directors in certain cases.
-        720.   Actions against directors, officers and key persons.
-        720-a. Liability of directors, officers, trustees and key
-                 persons.
+        720.   Actions against directors, officers and key employees.
+        720-a. Liability of directors, officers and trustees.
         721.   Nonexclusivity of statutory provisions for
                  indemnification of directors and officers.
         722.   Authorization for indemnification of directors and
