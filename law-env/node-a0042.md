@@ -1,0 +1,17 @@
+                               ARTICLE 42
+        * HISTORIC SARATOGA-WASHINGTON ON THE HUDSON PARTNERSHIP
+  * NB Effective until notification of receipt by the commissioner of
+environmental conservation
+                * HISTORIC HUDSON-HOOSIC RIVERS PARTNERSHIP
+  * NB Effective upon notification of receipt by the commissioner of
+environmental conservation
+Section 42-0101. Definitions.
+        42-0103. The Historic Saratoga-Washington on the Hudson
+                   Partnership.
+        42-0105. The Historic Saratoga-Washington on the Hudson Reserve.
+        42-0107. Powers and duties of the partnership.
+        42-0109. Stewardship plan.
+        42-0111. Appropriations by municipalities.
+        42-0113. Cooperation of state agencies.
+        42-0115. Stewardship fund.
+        42-0117. Siena College revolutionary war institute.

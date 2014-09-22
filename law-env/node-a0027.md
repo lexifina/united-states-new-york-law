@@ -1,0 +1,27 @@
+                               ARTICLE 27
+   COLLECTION, TREATMENT AND DISPOSAL OF REFUSE AND OTHER SOLID WASTE
+Title   1.   Solid and hazardous waste management policy and planning
+        3.   Waste transporter permits
+        4.   Marketing of recyclable materials
+        5.   State aid for implementation of resource recovery and other
+               improved solid waste management systems
+        7.   Solid waste management and resource recovery facilities
+        9.   Industrial hazardous waste management
+       10.   Litter and solid waste control
+       11.   Industrial siting hazardous waste facilities
+       13.   Inactive hazardous waste disposal sites
+       14.   Brownfield cleanup program
+       15.   Storage, treatment, disposal and transportation of
+               regulated medical waste
+       17.   Lead-acid battery recycling
+       18.   Rechargeable battery recycling
+       19.   Waste tire management and recycling
+       21.   Mercury-added consumer products
+       23.   Vehicle dismantling facilities
+       23*2. Wireless telephone recycling
+       24.   Environmental tests reporting requirements
+       25.   Phase-out of creosote
+       26.   Electronic equipment recycling and reuse
+       27.   Plastic bag reduction, reuse and recycling
+       27*2. Drug management and disposal
+       29.   Mercury thermostat collection act
