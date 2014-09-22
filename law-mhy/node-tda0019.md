@@ -2,6 +2,8 @@
                 OFFICE OF ALCOHOLISM AND SUBSTANCE ABUSE
 Section 19.01   Declaration of policy.
         19.03   Definitions.
+        19.05   Advisory council on alcoholism and substance abuse
+                  services.
         19.06   Advisory council on underage alcohol consumption and
                   youth substance abuse.
         19.07   Office of alcoholism and substance abuse services; scope
@@ -19,9 +21,10 @@ Section 19.01   Declaration of policy.
         19.16   Methadone Registry.
         19.17   Programs, services, and operation of facilities in the
                   office of alcoholism and substance abuse services.
-        19.18-b Certified peer recovery advocate services program.
-        19.18-c Corrections-based substance use disorder treatment and
-                  transition services.
+        19.18   Opioid addiction treatment and hospital diversion
+                  demonstration program.
+        19.18-a Heroin and opioid addiction wraparound services
+                  demonstration program.
         19.19   Personnel of the office.
         19.20   Review of criminal history information concerning
                   certain prospective employees and volunteers.
@@ -37,13 +40,9 @@ Section 19.01   Declaration of policy.
         19.27   Methamphetamine awareness and education program.
         19.28   Receipt and disbursement of federal funds.
         19.29   Gifts.
-        19.31   Medication assisted treatment training requirement.
         19.35   Actions against persons rendering professional services
                   at the request of the office; defense and
                   indemnification.
         19.40   Provision of chemical dependence services.
         19.41   Facilities; receivership.
         19.42   Medical advisory panel.
-        19.43   Retaliatory personnel actions.
-        19.45   Substance use disorder education and recovery grants.
-        19.45*2 The council for treatment equity.

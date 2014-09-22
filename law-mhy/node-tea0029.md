@@ -22,8 +22,6 @@ Section 29.01 Regulations and forms.
                 services.
         29.25 Sale or delivery of alcoholic beverages to patients
                 prohibited.
-        29.27 Incarcerated individual-patients placed in the custody of
-                the department.
-        29.28 Payment of costs for prosecution of incarcerated
-                individual-patients.
+        29.27 Inmate-patients placed in the custody of the department.
+        29.28 Payment of costs for prosecution of inmate-patients.
         29.29 Incident reporting procedures.
