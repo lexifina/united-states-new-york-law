@@ -25,7 +25,7 @@ Article 1.    Short title (§§ 1--1-a).
         6-A.  County judges, surrogates and certain district attorneys
                 (§§ 182-188).
         7.    County court (§§ 190-208).
-        7-A.  Judicial administration (§§ 210--219-e).
+        7-A.  Judicial administration (§§ 210--219-c).
         7-B.  Compensation of judges and justices of the unified court
                 system (§§ 220-224).
         7-C.  Of the court for the trial of impeachments (§§ 240-248).
@@ -36,14 +36,12 @@ Article 1.    Short title (§§ 1--1-a).
        10-A.  Grand jury stenographers (§§ 321-330).
        10.    Attendants, officers and messengers (§§ 340-352).
        11.    Criers (§§ 360-364).
-       12.    Interpreters (§§ 380-391).
+       12.    Interpreters (§§ 380-390).
        13.    Sheriffs and constables (§§ 400--411-b).
        13-A.  Judicial proceedings for the removal of public officers by
                 impeachment (§§ 415-428).
        14.    Law reporting (§§ 430-438).
        15.    Attorneys and counsellors (§§ 460-499).
-       15-A.  State commission on prosecutorial conduct (§§
-                499-a--499-j).
        16.    Selection of jurors (§§ 500-528).
        19.    Contempts (§§ 750-781).
        20.    Collection of fines (§§ 790-796).
@@ -52,10 +50,5 @@ Article 1.    Short title (§§ 1--1-a).
        21-A.  Community dispute resolution centers program
                 (§§ 849-a--849-g).
        21-B.  Justice court assistance program (§§ 849-h--849-k).
-       21-C.  Court-appointed special advocates program (§§
-                849-l--849-m).
        22.    Judicial hearing officers (§§ 850-854).
-       22-A.  Judicial wellness or assistance committees (§ 857).
-       22-B.  Hope card act (§ 858).
-       22-C.  New York state judicial security act (§ 859).
        23.    Laws repealed; when to take effect (§§ 860-861).
