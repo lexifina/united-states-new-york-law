@@ -1,0 +1,12 @@
+  § 2799-vvv. Audit and annual report. In conformity with the provisions
+of section five of article ten of the constitution, the accounts of the
+authority shall be subject to the supervision of the state comptroller
+and an annual audit shall be performed by an independent certified
+accountant. In addition to the reporting requirements of article nine of
+this chapter, the authority shall annually submit to the governor and
+the state comptroller and to the chairperson of the senate finance
+committee and the chairperson of the assembly ways and means committee a
+detailed report pursuant to the provisions of section two thousand eight
+hundred of title one of article nine of this chapter, and a copy of such
+report shall be filed with the clerk of the Syracuse common council and
+the mayor.

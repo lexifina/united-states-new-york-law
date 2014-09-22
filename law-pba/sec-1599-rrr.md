@@ -1,0 +1,8 @@
+  * § 1599-rrr. Termination of the authority. Whenever all of the bonds
+issued by the authority shall have been redeemed or cancelled, the
+authority shall cease to exist and all rights, titles and interest and
+all obligations and liabilities thereof vested in or possessed by the
+authority shall thereupon vest in and be possessed by the village of
+Mount Kisco.
+  * NB Authority ceased to exist 06/01/1976
+  * NB There are 2 § 1599-rrr's

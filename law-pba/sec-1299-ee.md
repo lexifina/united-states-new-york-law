@@ -1,0 +1,11 @@
+  § 1299-ee. Purposes of the authority. 1. The purposes of the authority
+shall be the continuance, further development and improvement of
+transportation and other services related thereto within the
+Rochester-Genesee regional transportation district, by railroad,
+omnibus, marine and air, in accordance with the provisions of this
+title.
+  2. It is hereby found and declared that such purposes are in all
+respects for the benefit of the people of the state of New York and the
+authority shall be regarded as performing an essential governmental
+function in carrying out its purposes and in exercising the powers
+granted by this title.

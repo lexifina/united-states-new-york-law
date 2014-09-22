@@ -1,0 +1,65 @@
+  § 2049-ii. Remedies of bondholders. Subject to any resolution or
+resolutions adopted pursuant to subdivision three of section two
+thousand forty-nine-hh of this title:
+  1. In the event that the authority shall default in the payment of
+principal or of interest on any issue of bonds after the same shall
+become due, whether at maturity or upon call for redemption, and such
+default shall continue for a period of thirty days, or in the event that
+the authority shall fail or refuse to comply with the provisions of this
+title or shall default in any agreement made with the holders of any
+issue of bonds, the holders of twenty-five percent in the aggregate
+principal amount of the bonds of such issue then outstanding, by
+instrument or instruments filed in the office of the clerk of the county
+in which the principal office of the authority is located and proved or
+acknowledged in the same manner as a deed to be recorded, may appoint a
+trustee to represent the holders of such bonds for the purpose herein
+provided.
+  2. Such trustee may, and upon written request of the holder of
+twenty-five per centum in principal amount of such bonds outstanding,
+shall in his or its own name:
+  (a) By action or proceeding in accordance with the civil practice law
+and rules, enforce all rights of the bondholders, including the right to
+require the authority to collect rents, rates and charges adequate to
+carry out any agreement as to, or pledge of, such rents, rates and
+charges and to require the authority to carry out any other agreements
+with the holders of such bonds to perform its duties under this title;
+  (b) Bring an action or proceeding upon such bonds;
+  (c) By action or proceeding, require the authority to account as if it
+were the trustee of an express trust for the holders of such bonds;
+  (d) By action or proceeding, enjoin any acts or things which may be
+unlawful or in violation of the rights of the holders of such bonds; and
+  (e) Declare all such bonds due and payable, and if all defaults shall
+be made good, then with the consent of the holders of twenty-five per
+centum of the principal amount of such bonds then outstanding, to annul
+such declaration and its consequences.
+  3. Such trustee shall in addition to the foregoing have and possess
+all of the powers necessary or appropriate for the exercise of any
+functions specifically set forth herein or incident to the general
+representation of bondholders in the enforcement and protection of their
+rights.
+  4. The supreme court shall have jurisdiction of any action or
+proceeding by the trustee on behalf of such bondholders. The venue of
+any such action or proceeding shall be laid in the county where the
+principal office of the authority is located.
+  5. Before declaring the principal of bonds due and payable, the
+trustee shall first give thirty days notice in writing to the authority.
+  6. Any such trustee whether or not the issue of bonds represented by
+such trustee has been declared due and payable, shall be entitled as of
+right to the appointment of a receiver of any part or parts of the
+project, the revenues of which are pledged for the security of the bonds
+of such issue, and such receiver may enter and take possession of such
+part or parts of the project and, subject to any pledge or agreement
+with holders of such bonds, shall take possession of all moneys and
+other property derived from such part or parts of the project and
+proceed with any construction thereon or the acquisition of any
+property, real or personal, in connection therewith that the authority
+is under obligation to do, and to operate, maintain and reconstruct such
+part or parts of the project and collect and receive all revenues
+thereafter arising therefrom, subject to any pledge thereof or agreement
+with bondholders relating thereto, and perform the public duties and
+carry out the agreements and obligations of the authority under the
+direction of the court. In any suit, action or proceeding by the
+trustee, the fees, counsel fees and expenses of the trustee and of the
+receiver, if any, shall constitute taxable disbursements and all costs
+and disbursements allowed by the court shall be a first charge on any
+revenues derived from the project.
