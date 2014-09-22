@@ -1,0 +1,15 @@
+                                ARTICLE 5
+                            Right of Privacy
+Section 50.   Right of privacy.
+        50-a. Personnel records of police officers, firefighters and
+                correction officers.
+        50-b. Right of privacy; victims of sex offenses or offenses
+                involving the transmission of the human immunodeficiency
+                virus.
+        50-c. Private right of action.
+        50-d. Personnel records of court officers.
+        50-e. Personnel records of bridge and tunnel officers, sergeants
+                and lieutenants.
+        51.   Action for injunction and for damages.
+        52.   Televising, broadcasting or taking motion pictures of
+                certain proceedings prohibited.
