@@ -22,10 +22,8 @@ Section 60.10 Rules of evidence; in general.
                 defendants.
         60.46 Rules of evidence; family offense proceedings in family
                 court.
-        60.47 Possession of condoms; receipt into evidence.
         60.48 Rules of evidence; admissibility of evidence of victim's
                 manner of dress in sex offense cases.
-        60.49 Possession of opioid antagonists; receipt into evidence.
         60.50 Rules of evidence; statements of defendants;
                 corroboration.
         60.55 Rules of evidence; psychiatric testimony in certain cases.
