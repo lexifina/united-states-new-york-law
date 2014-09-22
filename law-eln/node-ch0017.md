@@ -36,8 +36,6 @@ Section 1-100. Short title.
         1-102. Applicability of chapter.
         1-104. Definitions.
         1-106. Filing of papers; when received.
-        1-108. Expenses  related  to  local  mandatory  and   permissive
-                 referendum.
                                 ARTICLE 2
                            PARTY ORGANIZATION
 Section 2-100.   Party committees; provision for.
@@ -54,6 +52,7 @@ Section 2-100.   Party committees; provision for.
                  for filing statement as to.
         2-122.   National party conventions; delegates, election.
         2-124.   Party names and emblems; provision for.
+        2-126.   Party funds; restrictions on expenditures.
                                 ARTICLE 3
                            ELECTION OFFICIALS
                                  TITLE I
@@ -71,9 +70,6 @@ Section 3-100. New   York   state   board   of   elections;  membership;
                  franchise.
         3-108. Disaster; additional day for voting.
         3-110. Time allowed employees to vote.
-        3-112. State   board   of   elections;   uniform  standards  for
-                 processing data requests and  duty  to  send  data  and
-                 information to statewide database.
                                 TITLE II
                            BOARD OF ELECTIONS
 Section 3-200. Boards   of   elections;   creation,   qualifications  of
@@ -99,7 +95,6 @@ Section 3-200. Boards   of   elections;   creation,   qualifications  of
 Section 3-300. Board employees; appointment.
         3-302. Voting  machine  technicians and custodians; appointment,
                  duties.
-        3-304. Board employees; conflicts of interest.
                                 TITLE IV
                    ELECTION INSPECTORS AND POLL CLERKS
 Section 3-400. Election inspectors and poll clerks; provision for.
@@ -107,62 +102,61 @@ Section 3-400. Election inspectors and poll clerks; provision for.
         3-402. Election inspectors and poll clerks; authority.
         3-404. Election inspectors and poll clerks; designation.
         3-406. Election inspectors and poll clerks; additional.
-        3-408. Election inspectors  and  clerks;  additional  clerks  to
+        3-408. Election  inspectors  and  clerks;  additional  clerks to
                  count absentee ballots.
         3-410. Election inspectors and poll clerks; certification.
         3-412. Election inspectors and poll clerks; training.
-        3-414. Election  inspectors  and  poll  clerks;  oath of office,
+        3-414. Election inspectors and  poll  clerks;  oath  of  office,
                  certificate of appointment.
-        3-416. Election   inspectors,   poll   clerks    and    election
+        3-416. Election    inspectors,    poll   clerks   and   election
                  coordinators; removal.
         3-418. Election inspectors and poll clerks; emergency provisions
                  for filling vacancies or absences.
-        3-420. Election    inspectors,    poll   clerks   and   election
+        3-420. Election   inspectors,   poll   clerks    and    election
                  coordinators; compensation.
                                  TITLE V
                           ALTERNATE PROVISIONS
-Section 3-500. Alternative poll site staffing plan.
-        3-502. Nassau county; board of elections, special provisions.
+Section 3-502. Nassau county; board of elections, special provisions.
         3-504. Suffolk county; board of elections, special provisions.
         3-506. Boards of elections; voting materials in Russian.
                                 ARTICLE 4
                 PROCEEDINGS PRELIMINARY TO REGISTRATION,
                         ENROLLMENT AND ELECTIONS
 Section 4-100. Election district; creation and alteration.
-        4-102. Maps; congressional, senatorial,  assembly  and  election
+        4-102. Maps;  congressional,  senatorial,  assembly and election
                  districts.
         4-104. Registration and polling places; designation of.
-        4-106. Certification  of  offices  to  be  filled  at general or
-                 special elections; state board  of  elections,  county,
+        4-106. Certification of offices  to  be  filled  at  general  or
+                 special  elections;  state  board of elections, county,
                  city, village and town clerks.
-        4-108. Certification  of  proposed constitutional amendments and
+        4-108. Certification of proposed constitutional  amendments  and
                  questions.
         4-110. Certification of primary election candidates; state board
                  of elections.
         4-112. Certification of nominations; state board of elections.
-        4-114. Determination of candidates and questions;  county  board
+        4-114. Determination  of  candidates and questions; county board
                  of elections.
-        4-116. Constitutional  amendments  and questions; publication of
+        4-116. Constitutional amendments and questions;  publication  of
                  by state board of elections and secretary of state.
         4-117. Check of registrants and information notice by mail.
-        4-118. Notice of primary election; publication of  by  board  of
+        4-118. Notice  of  primary  election; publication of by board of
                  elections.
         4-119. Publication of list of places for registration.
         4-120. Notices of general and special elections; publication of.
-        4-122. Lists   of   nomination;   publication  of  by  board  of
+        4-122. Lists  of  nomination;  publication  of   by   board   of
                  elections.
-        4-124. City of New York; publications within made  necessary  by
+        4-124. City  of  New York; publications within made necessary by
                  this law.
-        4-126. Delivery  of election laws to clerks, boards and election
+        4-126. Delivery of election laws to clerks, boards and  election
                  officers.
-        4-128. Supplies; furnished by board of elections or  city,  town
+        4-128. Supplies;  furnished  by board of elections or city, town
                  or village clerk.
         4-130. Supplies for registration; manner and time of delivery.
         4-132. Polling places; equipment for.
-        4-134. Preparation   and   delivery  of  ballots,  supplies  and
+        4-134. Preparation  and  delivery  of  ballots,   supplies   and
                  equipment for use at elections.
         4-136. Election expenses; payment of.
-        4-138. Expenses of boards of elections outside  New  York  City;
+        4-138. Expenses  of  boards  of elections outside New York City;
                  apportionment of.
                                 ARTICLE 5
                   REGISTRATION AND ENROLLMENT OF VOTERS
@@ -175,7 +169,7 @@ Section 5-100. Registration; required.
                                 TITLE II
                        REGISTRATION AND ENROLLMENT
 Section 5-202. Local registration; provision for.
-        5-204. Local  registration;  general  provisions for the conduct
+        5-204. Local registration; general provisions  for  the  conduct
                  of.
         5-206. Watchers.
         5-208. Transfer of registration and enrollment.
@@ -190,7 +184,7 @@ Section 5-202. Local registration; provision for.
         5-218. Registration; challenges.
         5-220. Registration; challenge after registered.
         5-222. Statement of temporary absence.
-        5-224. Registration of voters unlawfully  denied  the  right  to
+        5-224. Registration  of  voters  unlawfully  denied the right to
                  register.
         5-226. Registration; voter registered in wrong district.
         5-228. Registration; certificates of local registration.
@@ -199,10 +193,9 @@ Section 5-202. Local registration; provision for.
                                ENROLLMENT
 Section 5-300. Enrollment; generally.
         5-302. Enrollment; completion.
-        5-304. Enrollment;  change  of  enrollment  or new enrollment by
+        5-304. Enrollment; change of enrollment  or  new  enrollment  by
                  previously registered voters.
         5-306. Enrollment; correction of.
-        5-308. Enrollment; automatic voter registration.
         5-310. Enrollment; forms of affidavits, mailing requirements.
                                 TITLE IV
                       CANCELLATION OF REGISTRATION
@@ -241,31 +234,6 @@ Section 5-700. Checks on registration.
         5-708. Change of voter status; reports of.
         5-710. Check of registrants; personal.
         5-712. Confirmation notices.
-                               TITLE VIII
-             ELECTRONIC PERSONAL VOTER REGISTRATION PROCESS
-Section 5-800. Electronic voter registration transmittal system.
-        5-802. Online voter registration application.
-        5-804. Failure  to  provide  exemplar  signature  not to prevent
-                 registration.
-                                TITLE IX
-                      AUTOMATIC VOTER REGISTRATION
-Section 5-900. Integrated   personal   voter   registration  application
-                 required.
-        5-902. Failure to receive  exemplar  signature  not  to  prevent
-                 registration.
-        5-904. Presumption of innocent authorized error.
-        5-906. Forms.
-                                 TITLE X
- MULTISTATE VOTER LIST MAINTENANCE ORGANIZATION MEMBERSHIP AUTHORIZATION
-Section 5-1000. Joining    a    multistate    voter   list   maintenance
-                  organization.
-        5-1001. Designating a member representative.
-        5-1002. Authorization  to  share   registration   records   with
-                  multistate voter list maintenance organization.
-        5-1003. Use   of   information  from  a  multistate  voter  list
-                  maintenance organization.
-        5-1004. Withdrawal from  a  multistate  voter  list  maintenance
-                  organization.
                                 ARTICLE 6
                 DESIGNATION AND NOMINATION OF CANDIDATES
 Section 6-100. Nominations and designations; generally.
@@ -333,7 +301,6 @@ Section 7-100. Ballots; provision for.
         7-114. Ballots; form for primary election.
         7-116. Ballots; order of names on.
         7-118. Ballots; facsimile and sample.
-        7-119. Ballots; early mail voters.
         7-120. Ballots; emergency use, to be furnished.
         7-121. Ballots which are counted by machine.
         7-122. Ballots; absentee voters.
@@ -364,7 +331,6 @@ Section 8-100. Elections; dates of and hours for voting.
         8-102. Polls; opening of.
         8-104. Polls.
         8-106. Polling places; attendance for educational purposes.
-        8-108. Change of polling place.
                                 TITLE II
                            ELECTION INSPECTORS
 Section 8-202. Board of inspectors; conduct of.
@@ -388,45 +354,27 @@ Section 8-400. Absentee voting; application for ballot.
         8-404. Absentee   voting;   hospitalized    veterans,    special
                  provisions.
         8-406. Absentee ballots, delivery of.
-        8-407. Voting  by residents of nursing homes, residential health
+        8-407.  Voting by residents of nursing homes, residential health
                  care facilities, facilities operated  or  licensed,  or
                  under  the  jurisdiction  of,  the department of mental
                  hygiene or hospitals  or  facilities  operated  by  the
                  Veteran's Administration of the United States.
         8-410. Absentee voting; method of.
         8-412. Absentee ballots; deadline for receipt.
-        8-414. Online absentee ballot tracking system.
-        8-416. Absentee ballot drop boxes.
                                  TITLE V
                            CHALLENGING VOTERS
 Section 8-500. Watchers; provision for.
         8-502. Challenges; generally.
         8-504. Challenges; of voter at the polling place.
-        8-506. Challenges;   early  mail,  absentee,  military,  special
-                 federal and special presidential ballots.
+        8-506. Challenges;   absentee,  military,  special  federal  and
+                 special presidential ballots.
         8-508. Challenge report; preparation of.
-        8-510. Challenge report; completion of and procedure after.
-                                TITLE VI
-                              EARLY VOTING
-Section 8-600. Early voting.
-        8-602. State board of elections; powers  and  duties  for  early
-                 voting.
-                                TITLE VII
-                            EARLY MAIL VOTING
-Section 8-700. Early voting by mail; application for ballot.
-        8-702. Early  voting  by mail; review of application by board of
-                 elections.
-        8-704. Early mail ballots; delivery of.
-        8-706. Electronic  early  mail  ballot  application  transmittal
-                 system.
-        8-708. Early voting by mail; method of.
-        8-710. Early mail ballots; deadline for receipt, and delivery to
-                 polling place.
-        8-712. Online early mail ballot tracking system.
-                                        ARTICLE 9
-                                    CANVASS OF RESULTS
-                                         TITLE I
-                                CANVASS AT POLLING PLACES
+        8-510. Challenge  report;   completion   of   and   closing   of
+                 registration poll ledgers.
+                                ARTICLE 9
+                           CANVASS OF RESULTS
+                                 TITLE I
+                        CANVASS AT POLLING PLACES
 Section 9-100. Canvass; required.
         9-102. Canvass; general provisions for.
         9-104. Casting  of  ballot;  absentee, military, special federal
@@ -450,13 +398,16 @@ Section 9-200. Canvass of primary returns by board of elections; notices
         9-202. Canvass  of  primary returns by state board of elections;
                  convention rolls.
         9-204. County boards of canvassers.
-        9-206. Canvass of  election  district  returns  of  general  and
+        9-206. Canvass  of  election  district  returns  of  general and
                  special elections.
         9-208. Provisions  for  recanvass  of  vote  in  every  election
-                 district  in  the   state;   procedure   in   case   of
+                 district   in   the   state;   procedure   in  case  of
                  discrepancy.
-        9-209. Canvass  of  early  mail,  absentee, military and special
-                 ballots, and ballots cast in affidavit envelopes.
+        9-209. Canvass of absentee, military  and  special  ballots  and
+                 ballots  cast  by voters with registration poll records
+                 missing on days of election or voters who have not  had
+                 their  identity  previously  verified or who have moved
+                 after registering.
         9-210. Statements of canvass by canvassing boards.
         9-211. Audit of voter verifiable audit records.
         9-212. Determinations by county canvassing boards.
@@ -481,7 +432,7 @@ Section 10-102. Military voters; definitions.
                   polling place.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
-        10-122. Military voter; early mail or absentee ballot, right to.
+        10-122. Military voter; absentee ballot, right to.
         10-124. Military  voting;  division  for  servicemen's   voting;
                   regulatory powers.
         10-126. Military voting; applicability of general provisions.
@@ -519,7 +470,6 @@ Section 11-300. Special ballots on account of religious scruples.
         11-302. Special ballots for board of election employees.
         11-304. Special ballots; method of casting and counting.
         11-306. Special ballots; victims of domestic violence.
-        11-308. Special ballots for emergency responders.
                                ARTICLE 12
            PRESIDENTIAL ELECTORS AND FEDERAL ELECTED OFFICERS
                                  TITLE I
@@ -543,14 +493,14 @@ Section 12-400. Short title.
         12-402. Adoption and text of compact.
                                ARTICLE 13
                         ANNUAL POLITICAL CALENDAR
-Section 13-104. Special provisions as to the time for holding a  primary
-                  election  in the city of New York in the year nineteen
+Section 13-104. Special  provisions as to the time for holding a primary
+                  election in the city of New York in the year  nineteen
                   hundred eighty-one.
-        13-106. Special provisions as to the time for holding a  primary
-                  election  in the city of New York in the year nineteen
+        13-106. Special  provisions as to the time for holding a primary
+                  election in the city of New York in the year  nineteen
                   hundred eighty-one.
-        13-108. Special provisions as to the time for holding a  primary
-                  election  in the city of New York in the year nineteen
+        13-108. Special  provisions as to the time for holding a primary
+                  election in the city of New York in the year  nineteen
                   hundred eighty-one.
         13-110. Special  provisions as to the time for holding a primary
                   election in the city of New York in the year  nineteen
@@ -562,8 +512,6 @@ Section 13-104. Special provisions as to the time for holding a  primary
                   election in the city of New York in the year  nineteen
                   hundred eighty-one.
                                ARTICLE 14
-          CAMPAIGN RECEIPTS AND EXPENDITURES; PUBLIC FINANCING
-                                 TITLE I
                    CAMPAIGN RECEIPTS AND EXPENDITURES
 Section 14-100. Definitions.
         14-102. Statements    of   campaign   receipts,   contributions,
@@ -587,26 +535,6 @@ Section 14-100. Definitions.
         14-127. Notice of civil penalty to authorizing candidate.
         14-128. Disposition of anonymous contributions.
         14-130. Campaign funds for personal use.
-        14-132. Disposition of campaign funds.
-                                TITLE II
-                            PUBLIC FINANCING
-Section 14-200.   Legislative findings and intent.
-        14-200-a. Definitions.
-        14-201.   Political committee registration.
-        14-202.   Proof of compliance.
-        14-203.   Eligibility.
-        14-204.   Limits on public financing.
-        14-205.   Payment of public matching funds.
-        14-206.   Use  of  public  matching  funds;  qualified  campaign
-                    expenditures.
-        14-207.   Composition, powers, and duties of the public campaign
-                    finance board.
-        14-208.   Audits and repayments.
-        14-209.   Enforcement  and  penalties  for  violations and other
-                    proceedings.
-        14-210.   Reports.
-        14-211.   Debates for candidates for statewide office.
-        14-212.   Severability.
                                ARTICLE 15
                             VILLAGE ELECTIONS
 Section 15-100. Application of article.
@@ -619,7 +547,6 @@ Section 15-100. Application of article.
         15-114. Number of voting machines.
         15-116. Inspectors of election.
         15-118. Registration of voters.
-        15-119. Early mail voting at village elections.
         15-120. Absentee voting at village elections.
         15-122. Absentee  voting at village elections for persons unable
                   to appear because of illness or physical disability.
@@ -633,12 +560,10 @@ Section 15-100. Application of article.
         15-136. Refusal of officer to surrender his office.
         15-138. Judicial   review   of   matters   relating  to  village
                   elections.
-        15-140. Transmission of publicly available data to the New  York
-                  voting and elections database.
                                ARTICLE 16
                           JUDICIAL PROCEEDINGS
 Section 16-100. Jurisdiction; supreme court, county court.
-        16-102. Proceedings  as to designations and nominations, primary
+        16-102. Proceedings as to designations and nominations,  primary
                   elections, etc.
         16-104. Proceedings as to form of ballot, party name, etc.
         16-106. Proceedings as to the casting and canvass of ballots.
@@ -646,18 +571,16 @@ Section 16-100. Jurisdiction; supreme court, county court.
         16-110. Proceedings as to enrollment.
         16-112. Proceedings for examination or preservation of ballots.
         16-113. Audit of voter verifiable records.
-        16-114. Proceedings to compel filing of statements or  corrected
+        16-114. Proceedings  to compel filing of statements or corrected
                   statements  of  campaign  receipts,  expenditures  and
                   contributions.
-        16-115. Proceedings with respect to utilizing certain  buildings
+        16-115. Proceedings  with respect to utilizing certain buildings
                   as polling places.
         16-116. Proceedings; provisions in relation thereto.
-        16-118. Proceedings  to  review  removal  of committee member or
+        16-118. Proceedings to review removal  of  committee  member  or
                   officer.
         16-120. Enforcement proceedings.
                                ARTICLE 17
-                    PROTECTING THE ELECTIVE FRANCHISE
-                                 TITLE 1
                   VIOLATIONS OF THE ELECTIVE FRANCHISE
 Section 17-100. Definitions.
         17-102. Misdemeanors   at,   or   in  connection  with,  primary
@@ -679,18 +602,18 @@ Section 17-100. Definitions.
         17-122. Misconduct in relation to petitions.
         17-124. Failure to deliver official ballots.
         17-126. Misconduct of election officers.
-        17-128. Violations  of  election  law  by  public   officer   or
+        17-128. Violations   of   election  law  by  public  officer  or
                   employee.
         17-130. Misdemeanor in relation to elections.
         17-132. Illegal voting.
         17-134. Unlawful use of pasters.
         17-136. False returns; unlawful acts respecting returns.
-        17-140. Furnishing  money  or entertainment to induce attendance
+        17-140. Furnishing money or entertainment to  induce  attendance
                   at polls.
         17-142. Giving consideration for franchise.
         17-144. Receiving consideration for franchise.
         17-146. Offender a competent witness; witnesses' immunity.
-        17-148. Bribery or intimidation of elector in  military  service
+        17-148. Bribery  or  intimidation of elector in military service
                   of the United States.
         17-150. Duress and intimidation of voters.
         17-152. Conspiracy to promote or prevent election.
@@ -699,24 +622,9 @@ Section 17-100. Definitions.
         17-158. Corrupt use of position or authority.
         17-160. Procuring fraudulent documents in order to vote.
         17-162. Judicial candidates not to contribute.
-        17-164. Political  contributions  by  owners  of  polling places
+        17-164. Political contributions  by  owners  of  polling  places
                   prohibited.
         17-166. Penalty.
-        17-168. Crimes against  the  elective  franchise  not  otherwise
+        17-168. Crimes  against  the  elective  franchise  not otherwise
                   provided for.
         17-170. Destroying or delaying election returns.
-                                 TITLE 2
-               JOHN R. LEWIS VOTING RIGHTS ACT OF NEW YORK
-Section 17-200. Legislative purpose and statement of public policy.
-        17-202. Interpretation of laws related to the elective franchise.
-        17-204. Definitions.
-        17-206. Prohibitions on voter disfranchisement.
-        17-208. Assistance for language-minority groups.
-        17-210. Preclearance.
-        17-212. Prohibition against voter intimidation, deception or
-                  obstruction.
-        17-214. Authority to issue subpoenas.
-        17-216. Expedited judicial proceedings and preliminary relief.
-        17-218. Attorneys' fees.
-        17-220. Applicability.
-        17-222. Severability.
