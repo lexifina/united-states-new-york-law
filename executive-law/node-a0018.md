@@ -21,4 +21,6 @@ Section 370.   Short title.
         382.   Remedies.
         382-a. Buildings with truss type construction; notice
                  requirements and enforcement.
+        382-b. Residential buildings with truss type, pre-engineered
+                 wood or timber construction; notice requirements.
         383.   Construction with other laws; severability.
