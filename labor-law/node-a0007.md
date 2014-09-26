@@ -33,6 +33,7 @@ Section 200.   General duty to protect health and safety of employees;
         202-i. Leave of absence for military spouses.
         202-j. Leave of absence for blood donation granted to employees.
         202-k. Protection of persons employed in the broadcast industry.
+        202-l. Leave of absence for volunteer emergency responders.
         203.   Washrooms, washing facilities and waterclosets for
                  elevator employees.
         203-a. Seats in certain passenger elevators or relief for the
