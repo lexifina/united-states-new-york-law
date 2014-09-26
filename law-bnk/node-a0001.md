@@ -68,3 +68,4 @@ Section 1.     Short title.
         9-s.   Preauthorized electronic fund transfers.
         9-t.   Unsolicited mail-loan checks.
         9-u.   ATM transactions by persons using foreign bank accounts.
+        9-v.   Savings promotion prize giveaway.
