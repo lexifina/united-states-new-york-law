@@ -18,11 +18,18 @@ payable in such tax year, or (iii) sixty-two thousand five hundred
 dollars; or
   (c) if the solar electric generating system is placed in service on or
 after January first, two thousand thirteen, and before January first,
-two thousand fifteen, for each year of the compliance period such tax
+two thousand fourteen, for each year of the compliance period such tax
 abatement shall be the lesser of (i) two and five-tenths percent of
 eligible solar electric generating system expenditures, (ii) the amount
 of taxes payable in such tax year, or (iii) sixty-two thousand five
 hundred dollars.
+  (d) if the solar electric generating system is placed in service on or
+after January first, two thousand fourteen, and before January first,
+two thousand seventeen, for each year of the compliance period such tax
+abatement shall be the lesser of (i) five percent of eligible solar
+electric generating system expenditures, (ii) the amount of taxes
+payable in such tax year, or (iii) sixty-two thousand five hundred
+dollars.
   2. Such tax abatement shall commence on July first following the
 approval of an application for tax abatement by a designated agency, and
 may not be carried over to any subsequent tax year.
