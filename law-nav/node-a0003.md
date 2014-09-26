@@ -28,6 +28,7 @@ Section 30.    Navigation, jurisdiction over.
         35-a.  Floating objects other than aids to navigation.
         35-b.  Markers for skin or scuba divers.
         35-c.  Real time and wind water level telemetry system.
+        35-d.  Aquatic invasive species signs at public boat launches.
         36.    Removal of unauthorized floating object.
         37.    Public use of privately owned navigable waters.
         38.    Lake George water levels.
