@@ -35,4 +35,4 @@ Section 170.10 Arraignment upon information, simplified traffic
         170.70 Release of defendant upon failure to replace misdemeanor
                  complaint by information.
         170.80 Proceedings regarding certain prostitution charges;
-                 certain teenagers.
+                 certain persons aged sixteen or seventeen.
