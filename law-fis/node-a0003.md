@@ -15,3 +15,4 @@ Section 301.   Powers of the superintendent.
         309.   Injunction to restrain violation of this chapter.
         310.   Certificates as evidence; affirmation of documents and
                  testimony.
+        311.   Financial literacy education.
