@@ -89,7 +89,7 @@ Article  1.      Short title; definitions (§§ 1-2).
         XV-A.    Municipal urban renewal agencies, organization and
                    powers (§§ 550-563).
         XV-B.    Municipal urban renewal agencies, created
-                   (§§ 570--680-e).
+                   (§§ 570--680-d).
         15-C.    Grievance procedure for municipal employees
                    (§§ 681-685).
         16.      Urban development action area act (§§ 690-698).
