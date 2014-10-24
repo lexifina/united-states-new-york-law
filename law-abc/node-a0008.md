@@ -68,6 +68,8 @@ Section 100.     Alcoholic beverages generally.
                    or sale of alcoholic beverages.
         128-a.   Police officers allowed to work in licensed premises in
                    certain cases.
+        128-b.   Police officers allowed to serve as an officer of a
+                   volunteer firefighters' organization.
         129.     Surrender of license; notice to police officials.
         130.     Penalties for violations of chapter.
         131.     New York alcoholic beverage control problem premises
