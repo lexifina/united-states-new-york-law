@@ -2,6 +2,10 @@
                        MEDICAL AND HEALTH SERVICE
 Section 901.   School health services to be provided.
         902.   Employment of health professionals.
+        902-a. Treatment of students diagnosed with diabetes by school
+                 personnel.
+        902-b. Treatment by licensed school personnel of students
+                 diagnosed with allergies.
         903.   Students to furnish health certificates; and dental
                  health certificates.
         904.   Examinations by health appraisal.
@@ -18,9 +22,15 @@ Section 901.   School health services to be provided.
         913.   Medical examinations of teachers and other employees.
         914.   Immunization of children.
         915.   Prohibiting the sale of certain sweetened foods.
-        916.   Pupils afflicted with asthma.
+        916.   Pupils with asthma or another respiratory disease
+                 requiring rescue inhaler treatment.
+        916-a. Pupils with allergies.
+        916-b. Pupils with diabetes.
         917.   On-site cardiac automated external defibrillator.
         918.   School district nutrition advisory committees.
         919.   On-site nebulizers.
         920.   Public schools; infestation of bedbugs (Cimex
                  lectularius).
+        921.   Training of unlicensed school personnel to administer
+                 certain medications.
+        921*2. On-site epinephrine auto-injector.
