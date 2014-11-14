@@ -259,3 +259,4 @@ Section 70.        Classification of funds.
         99-u.      New York state gaming commission account.
         99-u*2.    New York state teen health education fund.
         99-v.      Mortgage settlement proceeds trust fund.
+        99-v*2.    Homeless veterans assistance fund.
