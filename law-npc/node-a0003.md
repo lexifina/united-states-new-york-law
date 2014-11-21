@@ -4,8 +4,9 @@ Section 301. Corporate name; general.
         302. Corporate name; exceptions.
         303. Reservation of name.
         304. Statutory designation of secretary of state as agent of
-               domestic corporations and authorized foreign corporations
-               for service of process.
+               domestic corporations formed under article four of this
+               chapter and authorized foreign corporations for service
+               of process.
         305. Registered agent for service of process.
         306. Service of process.
         307. Service of process on unauthorized foreign corporation.
