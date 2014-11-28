@@ -24,4 +24,5 @@ Section 380.    Short title.
         380-r.  Disclosures to governmental agencies.
         380-s.  Theft of identity.
         380-t.  Security freeze.
-        380-u.  Severability.
+        380-u.  Security record freeze for protected minors.
+        380-v.  Severability.
