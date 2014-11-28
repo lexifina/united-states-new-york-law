@@ -13,6 +13,8 @@ Section 155.     Office of fire prevention and control; creation; state
         156-f.   Evacuation drills.
         156-g.   Establishment of teams for urban search and rescue,
                    specialty rescue and incident support.
+        156-h.   Registration and fees for manufacturers, distributors,
+                   wholesalers, and retailers of sparkling devices.
         157.     Granting authority.
         158.     Firefighting training.
         159.     Advisory council for fire prevention and control.

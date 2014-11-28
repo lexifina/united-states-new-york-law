@@ -40,3 +40,4 @@ Section 210.   Division of state police.
         227-a. Death benefits.
         229.   Retirement for cause.
         230.   Gun trafficking interdiction program.
+        231.   Uniform identification cards for retired police officers.
