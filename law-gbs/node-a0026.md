@@ -51,6 +51,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         392-h.     Trash receptacles; dumpsters.
         392-i.     Prices reduced to reflect change in sales tax
                      computation.
+        392-j.      Sales of sparkling devices.
         393.       Lime; standard barrels.
         393-a.     Non fire rated wood paneling.
         393-b.     Written solicitation.
@@ -177,6 +178,7 @@ Section 390.       Substitution of spurious oils for internal combustion
                      information.
         399-i.     Prohibit the sale of unsafe cribs and restrict use of
                      such cribs in certain settings.
+        399-j.     Safety standards; moveable soccer goals.
         399-m.     Disclosures in advertisement and sale of unassembled
                      goods.
         399-n.     Approval of electrical devices.
