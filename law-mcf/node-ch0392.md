@@ -16,6 +16,8 @@ Section 1.    Short title.
                 appropriations.
         7-a.  Secured hospital projects reserve funds and
                 appropriations.
+        7-c.  Secured hospital projects reserve funds and
+                appropriations.
         8.    Health facilities reserve funds and appropriations.
         9.    Special provisions relating to the municipal health
                 facilities improvement program.
