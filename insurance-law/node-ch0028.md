@@ -3,7 +3,7 @@
 ARTICLE   1. General provisions. (§§ 101-110)
           2. Organization of the department of financial services. (§§
                201-214)
-          3. Administrative and procedural provisions. (§§ 301-341)
+          3. Administrative and procedural provisions. (§§ 301-342)
           4. Insurance frauds prevention. (§§ 401-411)
          11. Licensing of insurers. (§§ 1101-1125)
          12. Organization and corporate procedure. (§§ 1201-1221)
@@ -76,7 +76,7 @@ ARTICLE   1. General provisions. (§§ 101-110)
          75. Life insurance guaranty fund. (§§ 7501-7507)
          76. Property/casualty security funds. (§§ 7601-7614)
          77. The life insurance company guaranty corporation of New York
-               act.  (§§ 7701-7718)
+               act.  (§§ 7701-7719)
          78. Viatical settlements. (§§ 7801-7820)
          79. Service contracts. (§§ 7901-7913)
          80. Mutual holding company. (§§ 8001-8021)

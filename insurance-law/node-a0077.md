@@ -18,5 +18,6 @@ Section 7701. Short title.
         7715. Tax exemptions.
         7716. Immunity and indemnification.
         7717. Stay of proceedings; reopening default judgments.
-        7718. Prohibited  advertisement  of  the  corporation in sale of
+        7718. Prohibited advertisement of the corporation in sale of
                 insurance.
+        7719. Resolution facility.

@@ -37,3 +37,4 @@ Section 301. Regulations by superintendent.
         337. Annual consumer guide on automobile insurance.
         340. Report of claims that may result in a monetary award.
         341. Notification regarding qualified health insurance plans.
+        342. Public awareness to finance long term care.
