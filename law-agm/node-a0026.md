@@ -11,6 +11,7 @@ Section 350.   Definitions.
                  temperatures.
         353-e. Companion animal grooming facilities; prohibited
                  practices.
+        353-f. Companion animal piercing and tattooing prohibited.
         354.   Sale of baby chicks and baby rabbits.
         355.   Abandonment of animals.
         356.   Failure to provide proper food and drink to impounded
