@@ -6,7 +6,7 @@ Section 6430. General provisions.
         6432. Sexual assault, domestic violence and stalking prevention
                 information.
         6433. Campus crime reporting and statistics.
-        6434. Investigation of violent felony offenses.
+        6434. Investigation of crimes and crime reporting.
         6435. Appointment of private college security officers.
         6436. Bias related crime prevention information.
         6437. Prohibition on the marketing of credit cards.
