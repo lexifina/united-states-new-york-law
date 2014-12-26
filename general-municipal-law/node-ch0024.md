@@ -48,7 +48,6 @@ Article  1.      Short title; definitions (§§ 1-2).
                    ambulance workers (§§ 219-j--219-p).
         11-AAAA. Supplemental service awards for volunteer ambulance
                    workers and firefighters (§§ 219-q--219-t).
-        12.      Railroad aid bonds (§§ 220-233).
         12-a.    City and village planning commissions (§§ 234--239-a).
         12-B.    County planning boards and regional planning councils
                    (§§ 239-b--239-nn).
@@ -98,7 +97,7 @@ Article  1.      Short title; definitions (§§ 1-2).
         17-A.    Consolidation and dissolution of local government (§§
                    750-793).
         18.      Conflicts of interest of municipal officers and
-                   employees (§§ 800-813).
+                   employees (§§ 800-812).
         18-A.    Industrial development (§§ 850-928).
         18-B.    New York state empire zones (§§ 955-969)
         18-C.    Municipal redevelopment law (§§ 970-a--970-r).
