@@ -30,6 +30,7 @@ Section 64.    Application of article.
         66-l.  Net energy metering for residential, farm service and
                  non-residential wind electric generating systems.
         66-m.  Green jobs-green New York on-bill recovery.
+        66-n.  Net metering study.
         67.    Inspection of gas and electric meters.
         67-a.  Charges for past services.
         68.    Certificate of public convenience and necessity.
