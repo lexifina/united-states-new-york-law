@@ -4,6 +4,7 @@ Section 450.   Incorporation; organization certificate.
         450-a. Designation of low income credit union.
         450-b. Designation of student branches.
         451.   Proposed bylaws.
+        451-a. Qualifications for membership.
         452.   When corporate existence begins; conditions precedent to
                  commencing business.
         453.   Corporate credit unions.
