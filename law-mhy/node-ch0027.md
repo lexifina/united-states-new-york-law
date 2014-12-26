@@ -21,7 +21,7 @@ Article   1 Short title and definitions (§§ 1.01-1.03).
           5 Department of mental hygiene (§§ 5.01-5.09).
                                         TITLE B
                                    MENTAL HEALTH ACT
-Article   7 Office of mental health (§§ 7.01-7.43).
+Article   7 Office of mental health (§§ 7.01-7.45).
           9 Hospitalization of the mentally ill (§§ 9.01-9.63)
          10 Sex offenders requiring civil commitment or supervision
               (§§ 10.01-10.17)
@@ -34,7 +34,7 @@ Article  13 Office for people with developmental disabilities (§§
          16 Regulation and quality of services (§§ 16.00-16.37).
                                         TITLE D
                           ALCOHOLISM AND SUBSTANCE ABUSE ACT
-Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.42).
+Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.43).
          22 Chemical dependence programs, treatment facilities, and
               services (§§ 22.01-22.11).
          25.Funding for services of the office of alcoholism and

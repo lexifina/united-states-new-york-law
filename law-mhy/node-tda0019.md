@@ -46,3 +46,4 @@ Section 19.01   Declaration of policy.
         19.40   Provision of chemical dependence services.
         19.41   Facilities; receivership.
         19.42   Medical advisory panel.
+        19.43   Retaliatory personnel actions.
