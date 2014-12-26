@@ -93,8 +93,9 @@ Article   1.      Short title; definitions; matters of public interest
          26.      Animals (§§ 350-379).
          26-A.    Care of animals by pet dealers (§§ 400-407).
          26-B     Animal response teams (§ 410).
-         27.      Saving clauses; laws repealed; when to take effect
-                    (§§ 450-455).
          28.      Special powers and duties of the department with
                     respect to retail food stores, food service
                     establishments and food warehouses (§ 500).
+         29.      Growth of industrial hemp (§§ 505-508).
+         30.      Saving clauses; laws repealed; when to take effect
+                    (§§ 550-555).
