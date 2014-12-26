@@ -48,6 +48,10 @@ Section 600.     Application.
                    supervising fire marshals, supervising fire marshals,
                    fire marshals and fire marshal trainees in Nassau
                    county.
+        605-e.   Accidental disability retirement for ambulance medical
+                   technician supervisors, ambulance medical technician
+                   coordinators and ambulance medical technicians in
+                   Nassau county.
         606.     Death benefits.
         606-a.   Death benefit for vested members who die prior to
                    retirement.
