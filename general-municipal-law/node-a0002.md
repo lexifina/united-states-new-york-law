@@ -49,13 +49,6 @@ Section 3.   Compensation for property of a municipal corporation,
         11.  Temporary investments.
         12.  Deposits of public authorities, public benefit corporations
                and other corporations.
-        13.  Municipal taxes of railroads payable to county treasurer.
-        14.  Appointment of railroad commissioners.
-        15.  Oath and undertaking of commissioners.
-        16.  Abolition of office of railroad commissioners.
-        17.  Exchange or sale of railroad stock and bonds.
-        18.  Annual report of commissioners and payment of bonds.
-        19.  Accounts and loans by commissioners.
         20.  Special population census: population data.
         21.  Cancellation of unpaid checks or drafts.
         22.  Claims against fire insurance proceeds; procedure.
