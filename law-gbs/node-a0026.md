@@ -174,6 +174,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         399-f.     Laundromat refund procedures.
         399-ff.    Petting zoos.
         399-g.     Labeling of solder.
+        399-gg.    Packaging of electronic liquid.
         399-h.     Disposal of records containing personal identifying
                      information.
         399-i.     Prohibit the sale of unsafe cribs and restrict use of
