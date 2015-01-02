@@ -57,7 +57,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        25-A.  New York state worker adjustment and retraining
                 notification act.  (§§ 860--860-i)
        25-B.  The New York state construction industry fair play act.
-                (§§ 861--861-f)
+                (§§ 861--861-g)
        25-C.  The New York state commercial goods transportation
                 industry fair play act. (§§ 862--862-e)
        26.    Safety in skiing. (§§ 865-868)

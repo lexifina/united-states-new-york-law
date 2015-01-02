@@ -1,4 +1,4 @@
-                               ARTICLE 25-B
+                              ARTICLE 25-B
          THE NEW YORK STATE CONSTRUCTION INDUSTRY FAIR PLAY ACT
 Section 861.   Short title.
         861-a. Legislative findings and intent.
@@ -8,3 +8,4 @@ Section 861.   Short title.
                          and subcontractors.
         861-e. Violations and penalties.
         861-f. Retaliation.
+        861-g. Contractor accountability.
