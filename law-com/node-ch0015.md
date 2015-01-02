@@ -24,6 +24,7 @@ Assembly, do enact as follows:
   6.     New York State Economic Development Power Allocation Board 182
   6-A    Western New York Power Proceeds Allocation Act             189-a
   7.     Industrial Effectiveness Program                           190
+  7-A.   Northern New York Power Proceeds Allocation Act            197-a
   8.     Economic Development Skills Training Program               200
   9.     Entrepreneurial Assistance                                 210
   9-A.   Come Home to New York Program                              215
