@@ -6,8 +6,8 @@ Section 220.   Construction.
         223.   Prohibition against discrimination.
         223-a. Discrimination against persons who have certain household
                  pets.
-        223-b. Discrimination against hearing impaired persons who have
-                 hearing dogs.
+        223-b. Discrimination against a person with a hearing impairment
+                 who has a hearing dog.
         224.   Pending actions or proceedings.
         225.   Saving clause.
         226.   Transfer of records.
