@@ -1,15 +1,15 @@
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2013-2014
-  Rules of the Assembly for the years 2013--2014, as adopted by Assembly
-Resolution number 6 of 2013.
+                                2015-2016
+  Rules of the Assembly for the years 2015--2016, as adopted by Assembly
+Resolution number 6 of 2015.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
 (Assembly) of 2009.
-                                 1/9/13
+                                 1/7/15
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
