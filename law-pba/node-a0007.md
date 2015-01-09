@@ -15,7 +15,6 @@ Title 2.   White Plains Parking Authority (Secs. 1425-1443).
 16.        Village    of    Mount   Kisco   Parking   Authority   (Secs.
         1599-aaa--1599-ttt).
 16.        Jamestown Parking Authority (Secs. 1599-aaa--1599-ttt).
-18.        Village of Suffern Parking Authority (Secs. 1600--1600-s).
 18.        Tarrytown Parking Authority (Secs. 1600-a--1600-t).
 20.        Village   of   Port   Chester   Parking   Authority    (Secs.
         1620-a--1620-t).
