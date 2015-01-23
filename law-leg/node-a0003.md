@@ -20,4 +20,3 @@ Section  40.   Certificate of presiding officer.
          53.   Budget review process.
          54.   Report on the budget.
          54-a. Scheduling of legislative consideration of budget bills.
-         54-b. Reorganization plan.
