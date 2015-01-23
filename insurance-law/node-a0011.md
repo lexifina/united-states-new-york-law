@@ -30,11 +30,6 @@ Section 1101.   Definitions; doing an insurance business.
         1121.   Voucher insurance program.
         1122.   New York state health insurance continuation assistance
                   demonstration project.
-        1123.   Health insurance demonstration program for independent
-                  workers.
-        1123-a. Health insurance demonstration program for former
-                  employees.
         1124.   Institutions of higher education exempt; certificate of
                   authority.
         1124*2. Managed care health savings account.
-        1125.   Freelancers health plan demonstration program.
