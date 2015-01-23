@@ -6,4 +6,3 @@ Section 650. Statement of policy.
         653. Powers and duties.
         654. Actions by other officers, departments, boards, commissions
                or agencies.
-        666. Mandate and regulatory relief council.

@@ -13,7 +13,6 @@ The People of the State of New York, represented in Senate and Assembly,
           2-B. State   and   local   natural   and   man-made   disaster
                  preparedness (§§ 20--29-j).
           3.   Executive department (§§ 30-32).
-          3-A. Executive reorganization act of 2011 (§§ 33--39-b).
           4.   Department of audit and control (§§ 40-50).
           4-A. Office of the state inspector general (§§ 51-55).
           5.   Department of law (§§ 60-74).
@@ -81,7 +80,7 @@ The People of the State of New York, represented in Senate and Assembly,
          21-B. Manufactured homes (§§ 600-612)
          22.   Crime victims board (§§ 620-635).
          23.   Fair treatment standards for crime victims (§§ 640-649).
-         24.   Office of employee relations (§§ 650-666).
+         24.   Office of employee relations (§§ 650-654).
          25.   Most integrated setting coordinating council
                  (§§ 700-703).
          26.   Division of homeland security and emergency services
