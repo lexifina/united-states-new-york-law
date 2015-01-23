@@ -60,7 +60,6 @@ Section 70.        Classification of funds.
         92-q*2.    The institute for the Hudson River Collection fund.
         92-r.      Local government assistance tax fund.
         92-s.      Environmental protection fund.
-        92-t.      New York state campaign finance fund.
         92-u.      New York state canal system development fund.
         92-v.      Linked deposit program fund.
         92-w.      Missing and exploited children clearinghouse fund.
