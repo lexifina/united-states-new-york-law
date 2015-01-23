@@ -14,7 +14,7 @@ Article  1.    Short title (§ 1).
                  (§§ 2-33).
          2-A.  Procedure for convening extraordinary sessions of the
                  legislature by petition (§§ 34-39).
-         3.    The enactment and publication of laws (§§ 40--54-b).
+         3.    The enactment and publication of laws (§§ 40--54-a).
          3-A.  Requests from local governments for enactment of special
                  laws (§§ 55-56).
          4.    Legislative committees; testimony in legislative
