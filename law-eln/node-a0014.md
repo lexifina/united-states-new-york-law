@@ -1,9 +1,4 @@
-                              * ARTICLE 14
-         CAMPAIGN RECEIPTS AND EXPENDITURES; MATCHING FINANCING
-Title   I. Campaign receipts and expenditures.
-       II. Matching financing.
-  * NB Effective until December 31, 2014
-                               * ARTICLE 14
+                               ARTICLE 14
                    CAMPAIGN RECEIPTS AND EXPENDITURES
 Section 14-100. Definitions.
         14-102. Statements of campaign receipts, contributions,
@@ -28,4 +23,3 @@ Section 14-100. Definitions.
         14-127. Notice of civil penalty to authorizing candidate.
         14-128. Disposition of anonymous contributions.
         14-130. Campaign funds for personal use.
-  * NB Effective December 31, 2014
