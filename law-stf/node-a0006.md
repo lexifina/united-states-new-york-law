@@ -220,6 +220,7 @@ Section 70.        Classification of funds.
         97-oooo.   Basic health program trust fund.
         97-oooo*2. Smart schools bond fund.
         97-pppp.   Wage theft prevention enforcement account.
+        97-pppp*2. Mold assessment and remediation account.
         97-xxxx.   State health innovation plan account.
         98.        Investment of state funds.
         98-a.      Investment of general funds, bond proceeds, and other
