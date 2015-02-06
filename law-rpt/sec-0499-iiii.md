@@ -16,5 +16,4 @@ subject to the approval of the director of the budget. Each owner of
 local public utility mass real property shall be authorized to challenge
 any such charges pursuant to article seventy-eight of the civil practice
 law and rules.
-  * NB Effective January 1, 2015
   * NB Repealed January 1, 2019

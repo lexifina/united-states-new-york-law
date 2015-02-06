@@ -34,5 +34,4 @@ best information available to the commissioner.
   6. If an owner of local public utility mass real property makes
 reasonable efforts to file an annual report, such owner shall not be
 subject to any charge or fine pursuant to this section.
-  * NB Effective January 1, 2015
   * NB Repealed January 1, 2019

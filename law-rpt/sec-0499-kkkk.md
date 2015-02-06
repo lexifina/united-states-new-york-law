@@ -31,5 +31,4 @@ level of assessment and/or to take into account any additions or
 retirements to public utility mass real property or litigation affecting
 the value or taxable status of the local public utility mass real
 property initiated prior to the effective date of this section.
-  * NB Effective January 1, 2015
   * NB Repealed January 1, 2019
