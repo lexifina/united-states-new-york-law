@@ -31,5 +31,4 @@ section to hear complaints in relation to the tentative determination of
 the assessment ceiling. The provisions of section five hundred twelve of
 this chapter shall apply so far as may be practicable to a hearing under
 this section.
-  * NB Effective January 1, 2015
   * NB Repealed January 1, 2019
