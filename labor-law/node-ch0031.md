@@ -69,4 +69,6 @@ Article 1.    Short title; definitions. (§§ 1-4)
        30.    Asbestos or products containing asbestos; licensing.
                 (§§ 900-910)
        31.    New York professional employer act. (§§ 915-924)
+       32.    Licensing of mold inspection, assessment and remediation
+                specialists and minimum work standards. (§§ 930-948)
        40.    When to take effect. (§ 1200)
