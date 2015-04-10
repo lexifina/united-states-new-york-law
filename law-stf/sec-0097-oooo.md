@@ -13,5 +13,4 @@ hundred sixty-nine-gg of the social services law, except to the extent
 that the provisions of such section conflict or are inconsistent with
 federal law, in which case the provisions of such federal law shall
 supersede such state law provisions.
-  * NB Effective April 1, 2015
   * NB There are 2 § 97-oooo's
