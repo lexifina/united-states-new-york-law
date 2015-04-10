@@ -1,4 +1,4 @@
-                               * ARTICLE 6
+                                ARTICLE 6
               EMERGENCY MEDICAL SERVICES AND SURPRISE BILLS
 Section 601. Dispute resolution process established.
         602. Applicability.
@@ -9,4 +9,3 @@ Section 601. Dispute resolution process established.
                for insureds.
         607. Dispute resolution for surprise bills.
         608. Payment for independent dispute resolution entity.
-  * NB Effective March 31, 2015
