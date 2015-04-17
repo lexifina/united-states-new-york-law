@@ -74,6 +74,7 @@ Section 70.        Classification of funds.
                      assistance fund.
         93.        Capital projects fund.
         93-a.      New York state storm recovery capital fund.
+        93-b.      Dedicated infrastructure investment fund.
         94.        Court facilities incentive aid fund.
         94-a.      New York city county clerks' operations offset fund.
         94-b.      Judiciary data processing offset fund.
@@ -260,3 +261,4 @@ Section 70.        Classification of funds.
         99-u*2.    New York state teen health education fund.
         99-v.      Mortgage settlement proceeds trust fund.
         99-v*2.    Homeless veterans assistance fund.
+        99-w.      Transit assistance for capital investments fund.
