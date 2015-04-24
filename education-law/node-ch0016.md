@@ -52,9 +52,9 @@ Article
              Part I - Corporate structure (§§ 651-660.)
              Part II - Student financial aid (§§ 661--679-f.)
               Subpart I - General provisions (§§ 661--665-a.)
-              Subpart II - General awards (§§ 666--669-e.)
+              Subpart II - General awards (§§ 666--669-g.)
               Subpart III - Academic performance awards (§§ 670-679.)
-              Subpart IV - Other awards (§§ 679-a--679-f.)
+              Subpart IV - Other awards (§§ 679-a--679-g.)
              Part III - Student loans (§§ 680--683-b.)
              Part IV - Miscellaneous provisions (§§ 686--689-a.)
              Part V - The New York higher education loan program
@@ -67,7 +67,7 @@ Article
    15-C    Textbook access act (§§ 720-724.)
    16      Computer technology (§§ 751-755.)
    17      Instruction in certain subjects (§§ 801-816.)
-   19      Medical and health service (§§ 901-920.)
+   19      Medical and health service (§§ 901-921.)
    21      Vocational rehabilitation (§§ 1001-1009.)
    23      Career education in counties (§§ 1101-1116.)
              Part I - Vocational education and extension boards
@@ -176,7 +176,7 @@ Article
              college property used for educational purposes
              (§§ 6430-6438.)
   130      Arthur O. Eve Opportunity for higher education
-             (§§ 6451-6455.)
+             (§§ 6451-6456.)
                                TITLE VIII
                              THE PROFESSIONS
   130*     General provisions (§§ 6500-6516.)

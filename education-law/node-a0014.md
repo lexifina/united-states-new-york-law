@@ -58,6 +58,10 @@ Section 666.    Tuition awards for part-time undergraduate students.
                   program.
         669-e.  New York state science, technology, engineering and
                   mathematics incentive program.
+        669-f.  New York state masters-in-education teacher incentive
+                  scholarship program.
+        669-g.  The New York state achievement and investment in merit
+                  scholarship (NY-AIMS).
                                SUBPART III
                        ACADEMIC PERFORMANCE AWARDS
 Section 670.    Regents college scholarships.
@@ -91,6 +95,8 @@ Section 679-a.  New York state licensed social worker loan forgiveness
         679-e.  New York state district attorney and indigent legal
                   services attorney loan forgiveness program.
         679-f.  New York state young farmers loan forgiveness incentive
+                  program.
+        679-g.  New York state get on your feet loan forgiveness
                   program.
                                 PART III
                               STUDENT LOANS

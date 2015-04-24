@@ -44,7 +44,7 @@ Article
              Part I - Corporate structure (§§ 651-660.)
              Part II - Student financial aid (§§ 661--679-e.)
               Subpart I - General provisions (§§ 661--665-a.)
-              Subpart II - General awards (§§ 666--669-d.)
+              Subpart II - General awards (§§ 666--669-g.)
               Subpart III - Academic performance awards (§§ 670-679.)
               Subpart IV - Other awards (§§ 679-a--679-e.)
              Part III - Student loans (§§ 680--683-b.)
