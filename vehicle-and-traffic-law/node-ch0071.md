@@ -101,8 +101,8 @@ Article
         school districts ...........................................1670
 43.   Traffic safety boards ....................................... 1672
 44.   Traffic-control devices ..................................... 1680
-44-a. Authority of the Nassau county district court
-        judicial hearing officer ...................................1690
+44-A. Authority of the Nassau and Suffolk county district court and
+        Buffalo city court judicial hearing officer ................1690
 IX.   Penalties and disposition of fines and forfeitures .......... 1800
 Article
 45.   Penalties and disposition of fines and forfeitures .......... 1800
