@@ -17,6 +17,10 @@ Section 201.    Corporate name and objects.
         209.    Academic examinations; admission and fees.
         209-a.  Applications for admission to college.
         210.    Registrations.
+        210-a.  Admission requirements for graduate-level teacher and
+                  educational leader programs.
+        210-b.  Graduate-level teacher and educational leadership
+                  program deregistration and suspension.
         211.    Review of regents learning standards.
         211-a.  Enhanced state accountability system.
         211-b.  Consequences for consistent lack of improvement in
@@ -24,6 +28,7 @@ Section 201.    Corporate name and objects.
         211-c.  Distinguished educators.
         211-d.  Contract for excellence.
         211-e.  Educational partnership organizations.
+        211-f.  Takeover and restructuring failing schools.
         212.    Fees.
         212-a.  Return of deposits for professional and graduate
                   schools.

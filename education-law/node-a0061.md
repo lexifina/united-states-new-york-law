@@ -22,6 +22,12 @@ Section 3001.   Qualifications of teachers.
         3005-a. Leave of absence for teaching purposes.
         3005-b. Leave of absence for personal illness.
         3006.   Commissioner of education to issue certificates.
+        3006-a. Registration and continuing teacher and leader education
+                  requirements for holders of professional certificates
+                  in the classroom teaching service, holders of level
+                  III teaching assistant certificates, holders of
+                  professional certificates in the educational
+                  leadership service.
         3007.   Endorsement of foreign certificates and diplomas.
         3008.   Certification of teachers by local authorities.
         3009.   Unqualified teachers shall not be paid from school
@@ -32,6 +38,7 @@ Section 3001.   Qualifications of teachers.
         3012-a. Elementary tenure area.
         3012-c. Annual professional performance review of classroom
                   teachers and building principals.
+        3012-d. Annual teacher and principal evaluations.
         3013.   Abolition of office or position.
         3014.   Tenure: boards of cooperative educational services.
         3014-a. Teachers' rights as a result of a board or boards of
@@ -56,6 +63,8 @@ Section 3001.   Qualifications of teachers.
         3019-a. Notice of termination of service by teachers.
         3020.   Discipline of teachers.
         3020-a. Disciplinary procedures and penalties.
+        3020-b. Streamlined removal procedures for teachers rated
+                  ineffective.
         3021.   Removal of superintendents, teachers and employees for
                   treasonable or seditious acts or utterances.
         3022.   Elimination of subversive persons from the public school

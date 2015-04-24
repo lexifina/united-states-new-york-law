@@ -18,4 +18,4 @@ Article 115    Cornell University (§§ 5701-5716).
         129-A  Regulation by colleges of conduct on campuses and other
                  college property used for educational purposes
                  (§§ 6430-6438).
-        130    Opportunity for higher education (§§ 6451-6455).
+        130    Opportunity for higher education (§§ 6451-6456).
