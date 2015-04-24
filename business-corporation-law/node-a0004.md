@@ -8,5 +8,5 @@ Section 401.   Incorporators.
         406.   Filing of a certificate of incorporation; facility for
                  alcoholism or alcohol abuse, substance abuse, substance
                  dependence, or chemical abuse or dependence.
-        408.   Biennial statement; filing.
+        408.   Statement; filing.
         409.   Penalty for failure to file; cure.
