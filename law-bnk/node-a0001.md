@@ -69,3 +69,4 @@ Section 1.     Short title.
         9-t.   Unsolicited mail-loan checks.
         9-u.   ATM transactions by persons using foreign bank accounts.
         9-v.   Savings promotion prize giveaway.
+        9-w.   Standard financial aid award letter.
