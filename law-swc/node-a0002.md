@@ -2,6 +2,7 @@
           STATE SOIL AND WATER CONSERVATION COMMITTEE, SOIL AND
             WATER CONSERVATION DISTRICTS, AND OTHER FUNCTIONS
 Section 4.    State soil and water conservation committee.
+        4-a.  Farm drain tile revolving loan program.
         5.    Creation of soil and water conservation districts.
         6.    Designation of district directors.
         7.    Appointment, qualifications, compensation and tenure of
