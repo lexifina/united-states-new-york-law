@@ -5,11 +5,10 @@ and finance a special fund to be known as the school tax relief fund.
 thereto from the general fund or from any other fund or sources pursuant
 to law.
   3. The monies in such fund shall be appropriated for school property
-tax exemptions and local property tax rebates granted pursuant to the
-real property tax law and the tax law and payable pursuant to section
-thirty-six hundred nine of the education law, for payments to the city
-of New York pursuant to section fifty-four-f of this chapter, and
-pursuant to section one hundred seventy-eight of the tax law.
+tax exemptions granted pursuant to the real property tax law and payable
+pursuant to section thirty-six hundred nine-e of the education law, and
+for payments to the city of New York pursuant to section fifty-four-f of
+this chapter.
   4. All payments from the fund shall be made on the audit and warrant
 of the comptroller on vouchers approved by the commissioner of the state
 education department.

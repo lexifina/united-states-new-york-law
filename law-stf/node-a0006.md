@@ -19,6 +19,7 @@ Section 70.        Classification of funds.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
         83.        Conservation fund.
+        83-a.      Habitat conservation and access account.
         84.        The United States Olympic Committee/Lake Placid
                      Olympic Training Center Fund.
         84-a.      Olympic games guaranty fund.
@@ -262,3 +263,4 @@ Section 70.        Classification of funds.
         99-v.      Mortgage settlement proceeds trust fund.
         99-v*2.    Homeless veterans assistance fund.
         99-w.      Transit assistance for capital investments fund.
+        99-w*2.    SUNY DSRIP escrow fund.

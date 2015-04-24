@@ -77,3 +77,27 @@ to the commission for regulatory investigations.
   c. section one thousand three hundred fifty of the racing, pari-mutuel
 wagering and breeding law shall be exclusively appropriated to the
 commission for costs regulation.
+  6. a. Moneys appropriated from the fund for the two thousand
+fourteen--two thousand fifteen and two thousand fifteen--two thousand
+sixteen school years, for the purposes of providing aid pursuant to
+paragraph a of subdivision three of this section shall be apportioned
+and paid by the education department on or after April first, two
+thousand fifteen.
+  b. Each school district eligible to receive total foundation aid
+pursuant to section thirty-six hundred two of the education law shall
+receive a commercial gaming grant in an amount equal to the product of
+the amount of the appropriation of such commercial gaming grants for the
+current state fiscal year multiplied by the district's commercial gaming
+ratio. The "commercial gaming ratio" shall be equal to the quotient of
+the moneys apportioned for such district pursuant to section thirty-six
+hundred nine-a of the education law as set forth in the school aid
+computer listing produced by the commissioner in support of the enacted
+state budget for the current school year, divided by the sum of such
+moneys apportioned for all school districts as set forth in such school
+aid computer listing in support of the enacted state budget for the
+current school year.
+  Moneys to be appropriated from the fund in any state fiscal year,
+commencing on and after April first, two thousand fifteen, for the
+purposes of providing aid pursuant to this subparagraph shall be
+apportioned and paid by the education department pursuant to section
+thirty-six hundred nine-h of the education law.
