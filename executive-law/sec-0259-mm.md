@@ -634,4 +634,4 @@ such obligations, duties, powers or jurisdiction shall remain in the
 compacting state and shall be exercised by the agency thereof to which
 such obligations, duties, powers or jurisdiction are delegated by law in
 effect at the time this compact becomes effective.
-  * NB Repealed September 1, 2015
+  * NB Repealed September 1, 2017
