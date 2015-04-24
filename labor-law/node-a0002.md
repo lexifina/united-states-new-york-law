@@ -31,8 +31,8 @@ Section 10.   Department of labor; commissioner of labor.
         23.   Administrative regulations.
         24.   Delegation of powers by commissioner.
         25.   Power to enter and inspect premises.
-        25-a. Power to administer the New York youth works tax credit
-                program.
+        25-a. Power to administer the urban youth jobs program tax
+                credit.
         25-b. Power to administer the workers with disabilities tax
                 credit program.
         26.   Examination of books and papers.

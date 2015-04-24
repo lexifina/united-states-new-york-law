@@ -5,7 +5,6 @@ Section 915. Short title.
         917. Continuing obligations.
         918. Registration required.
         919. Registration process.
-        920. Fees.
         921. Minimum net worth, bonding and reporting.
         922. General requirements and provisions.
         923. Unemployment compensation insurance.
