@@ -73,7 +73,7 @@ Article  1.      Short title; definitions (§§ 1-2).
         14-A.    Gas and electric service (§§ 360-366).
         14-AA.   School district exploration for natural gas fields
                    (§ 368).
-        14-B.    Traffic violations bureaus (§§ 370-374).
+        14-B.    Traffic violations bureaus (§§ 370--374-a).
         14-BB.   Bureaus of administrative adjudication (§§ 380-387).
         14-C.    Revenue-producing undertakings (§§ 400-416).
         14-D.    Jails. (§§ 430-431).
