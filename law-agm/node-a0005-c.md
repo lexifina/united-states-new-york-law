@@ -4,7 +4,7 @@ Section 96-x.    Declaration of policy and purposes.
         96-y.    Definitions.
         96-z.    Exemptions.
         96-z-1.  License required.
-        96-z-2.  Application and fees.
+        96-z-2.  Application.
         96-z-3.  Granting, suspending or revoking licenses.
         96-z-4.  Review.
         96-z-5.  Rules and regulations.
