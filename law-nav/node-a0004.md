@@ -1,5 +1,4 @@
                                 ARTICLE 4
-                                 VESSELS
                         PART 1--VESSELS, GENERAL
 Section 40.           Equipment.
         40-a.         Manufacture and sale of outboard motors.
