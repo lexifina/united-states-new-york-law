@@ -34,3 +34,4 @@ Section 901.   School health services to be provided.
         921.   Training of unlicensed school personnel to administer
                  certain medications.
         921*2. On-site epinephrine auto-injector.
+        922.   Opioid overdose prevention.
