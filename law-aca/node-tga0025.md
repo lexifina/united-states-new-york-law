@@ -20,7 +20,7 @@ Section 25.01. Legislative findings.
         25.31. Suspension or revocation of licenses.
         25.33. Private right of action.
         25.35. Criminal penalties.
-  * NB Effective until May 15, 2015
+  * NB Effective until May 15, 2016
                               * ARTICLE 25
                              THEATRE TICKETS
 Section 25.01. Matters of public interest.
@@ -38,4 +38,4 @@ Section 25.01. Matters of public interest.
         25.24. Automated ticket purchasing software.
         25.25. Violations; penalties.
         25.27. Unlawful charges in connection with theatre tickets.
-  * NB Effective May 15, 2015
+  * NB Effective May 15, 2016
