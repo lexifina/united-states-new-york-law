@@ -134,7 +134,7 @@ one of this section have been satisfied, expenditures on improvements to
 the common areas of an eligible building shall be included only if work
 on such improvements commenced and the expenditures are made on or after
 July first, two thousand five and on or before December thirty-first,
-two thousand sixteen; provided, however, that expenditures on
+two thousand eighteen; provided, however, that expenditures on
 improvements to the common areas of an eligible building made prior to
 three years before the lease commencement date shall not be included.
   (b) The landlord may allocate expenditures on improvements to the
