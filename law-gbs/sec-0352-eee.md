@@ -321,4 +321,4 @@ local legislative body of such city, town or village, elect that the
 provisions hereof shall be applicable therein. A certified copy of such
 resolution shall be filed in the office of the attorney general at
 Albany and shall become effective on the date of such filing.
-  * NB Expires June 23, 2015
+  * NB Expires June 16, 2019
