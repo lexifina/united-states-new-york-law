@@ -12,7 +12,7 @@ subdivision five of section four hundred eighty-nine-cccccc of such
 title two-F, whichever is applicable, of the real property tax law have
 not been satisfied, provided that application for such benefits was made
 after the thirtieth day of June, nineteen hundred ninety-five and before
-the first day of July, two thousand fifteen, that construction or
+the first day of July, two thousand seventeen, that construction or
 renovation of such building or structure was described in such
 application, that such building or structure has been substantially
 improved by such construction or renovation, and (i) that the minimum
@@ -24,7 +24,7 @@ real property tax law for construction of a new building or structure;
 or
   (2) has obtained approval after the thirtieth day of June, nineteen
 hundred ninety-five and before the first day of July, two thousand
-fifteen, for financing by an industrial development agency established
+seventeen, for financing by an industrial development agency established
 pursuant to article eighteen-A of the general municipal law, provided
 that such financing has been used in whole or in part to substantially
 improve such building or structure by construction or renovation, that
@@ -41,12 +41,12 @@ for which was approved in accordance with the applicable provisions of
 the charter of such city or by the board of directors of such
 corporation, as the case may be, and such approval was obtained after
 the thirtieth day of June, nineteen hundred ninety-five and before the
-first day of July, two thousand fifteen, provided that expenditures have
-been made for improvements to such real property in excess of twenty per
-centum of the value at which such real property was assessed for tax
-purposes for the tax year in which such improvements commenced, and that
-such expenditures have been made within thirty-six months after the
-effective date of such lease; or
+first day of July, two thousand seventeen, provided that expenditures
+have been made for improvements to such real property in excess of
+twenty per centum of the value at which such real property was assessed
+for tax purposes for the tax year in which such improvements commenced,
+and that such expenditures have been made within thirty-six months after
+the effective date of such lease; or
   (4) is eligible to obtain benefits under title two-E of article four
 of the real property tax law, or would be eligible to receive benefits
 under such title except that such property is exempt from real property
