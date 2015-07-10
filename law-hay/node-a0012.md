@@ -199,6 +199,9 @@ Section 340-a.     Designation of state interstate routes.
         343-aa*5.  Portion of the state highway system to be designated
                      as the "Genesee and Orleans Veterans' Memorial
                      Highway".
+        343-aaa.   Portion of the state highway system to be designated
+                     as the "Lieutenant Colonel Todd J. Clark Memorial
+                     Highway".
         343-b.     Portion of the state highway system to be designated
                      as "The 94th Infantry Division Memorial Highway".
         343-bb.    Portion of the state highway system to be designated
@@ -536,5 +539,16 @@ Section 340-a.     Designation of state interstate routes.
                      Highway".
         344-c*7.   Portion of the state highway system to be designated
                      as the "Detective John M. Falcone Memorial
+                     Highway".
+        344-d.     Portion of the state highway system to be designated
+                     as the "Specialist David R. Fahey Jr. Memorial
+                     Bridge".
+        344-d*2.   Portion of the state highway system to be designated
+                     as the "Captain John J. Levulis Memorial Highway".
+        344-d*3.   Portion of state highway system to be designated as
+                     the "Sergeant Elisha R. Parker Veterans Memorial
+                     Highway".
+        344-d*4.   Portion of the state highway system to be designated
+                     as the "Marine Captain Eric A. Jones Memorial
                      Highway".
         345-a.     Abandonment and transfer of state highways.
