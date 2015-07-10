@@ -36,7 +36,7 @@ The People of the State of New York, represented in Senate and Assembly,
          10.   Office of general services (§§ 200-203).
          10-B. New York State office of science, technology and academic
                  research (§§ 209--209-t).
-         11.   Division of state police (§§ 210-231).
+         11.   Division of state police (§§ 210-232).
          12.   Division of probation and correctional alternatives
                  (§§ 240-249).
          12-A. Probation officers and related matters (§§ 255-258).

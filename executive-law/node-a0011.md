@@ -41,3 +41,4 @@ Section 210.   Division of state police.
         229.   Retirement for cause.
         230.   Gun trafficking interdiction program.
         231.   Uniform identification cards for retired police officers.
+        232.   Sexual assault victims unit.
