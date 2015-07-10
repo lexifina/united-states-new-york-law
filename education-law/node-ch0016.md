@@ -175,6 +175,10 @@ Article
   129-A    Regulation by colleges of conduct on campuses and other
              college property used for educational purposes
              (§§ 6430-6438.)
+  129-B    Implementation by colleges and universities of sexual
+             assault, dating violence, domestic violence and stalking
+             prevention and response policies and procedures
+             (§§ 6439-6449.)
   130      Arthur O. Eve Opportunity for higher education
              (§§ 6451-6456.)
                                TITLE VIII
