@@ -13,4 +13,4 @@ Section 6439. Definitions.
         6447. Student onboarding and ongoing education.
         6448. Privacy in legal challenges.
         6449. Reporting aggregate data to the department.
-  * NB Effective October 2, 2014
+  * NB Effective October 5, 2015
