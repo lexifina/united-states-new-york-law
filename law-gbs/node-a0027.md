@@ -1,4 +1,4 @@
-                                ARTICLE 27
+                               ARTICLE 27
                   LICENSING OF NAIL SPECIALTY, NATURAL
                  HAIR STYLING, ESTHETICS AND COSMETOLOGY
 Section 400.   Definitions.
@@ -9,14 +9,15 @@ Section 400.   Definitions.
         404-a. Monomeric methyl methacrylate.
         404-b. Nail specialty; owner responsibilities.
         405.   Appearance enhancement business license; requirements.
-        406.   License  application;  procedure; requirements; temporary
+        406.   License application; procedure; requirements; temporary
                  license.
         407.   Examinations.
         408.   Licenses; display; renewal; duplicates.
+        408-a. Trainee.
         409.   Fees.
         410.   Administration.
         411.   Denial of license; complaints; notice of hearing.
-        412.   Civil penalties.
+        412.   Penalties.
         413.   Judicial review.
         414.   Official acts used as evidence.
         415.   Disposition of moneys.
