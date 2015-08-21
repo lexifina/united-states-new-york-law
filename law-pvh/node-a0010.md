@@ -1,4 +1,4 @@
-                                ARTICLE X
+                               ARTICLE 10
                         SALE OR LEASE OF PROJECTS
 Section 550.  Application of article.
         551.  Definitions.
