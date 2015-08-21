@@ -551,4 +551,32 @@ Section 340-a.     Designation of state interstate routes.
         344-d*4.   Portion of the state highway system to be designated
                      as the "Marine Captain Eric A. Jones Memorial
                      Highway".
+        344-d*5.   Portion of the state highway system to be designated
+                     as the "Trooper Christopher G. Skinner Memorial
+                     Bridge".
+        344-d*6.   Portion of the state highway system to be designated
+                     and known as the "Police Officer Arthur Lopez
+                     Memorial Bridge".
+        344-d*7.   Portion of the state highway system to be designated
+                     as the "Deputy Sheriff Glenn Searles Memorial
+                     Bridge".
+        344-d*8.   Portion of state highway system to be designated as
+                     the "Oneida County Vietnam Veterans Memorial
+                     Highway".
+        344-d*9.   Portion of the state highway system to be designated
+                     as the "Susan Foster Myers Memorial Bridge".
+        344-d*10.  Portion of the state highway system to be designated
+                     as the "Springwater Veterans Memorial Highway".
+        344-d*11.  Portion of the state highway system to be designated
+                     as the "Livonia Veterans Memorial Highway".
+        344-d*12.  Portion of the state highway system to be designated
+                     as the "Canadice Veterans Memorial Highway".
+        344-d*13.  Portion of the state highway system to be designated
+                     as the "Rush Veterans Memorial Highway".
+        344-d*14.  Portion of the state highway system to be designated
+                     as the "Mendon Veterans Memorial Highway".
+        344-d*15.  Portion of the state highway system to be designated
+                     as the "Henrietta Veterans Memorial Highway".
+        344-d*16.  Portion of the state highway system to be designated
+                     as the "Brighton Veterans Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
