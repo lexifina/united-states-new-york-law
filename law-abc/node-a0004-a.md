@@ -5,3 +5,4 @@ Section 58.   Cider producers' or wholesalers' license.
         58-b. Retail sale of cider by wholesale licensees.
         58-c. Farm cidery license.
         59.   Authorization for sale of cider by retail licensees.
+        59-a. Cider tasting.
