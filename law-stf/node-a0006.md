@@ -216,6 +216,8 @@ Section 70.        Classification of funds.
         97-iiii.   Patient safety center account.
         97-jjjj.   Education assessment account.
         97-kkkk.   Intervenor account.
+        97-llll.   Interstate reciprocity for post-secondary distance
+                     education account.
         97-mmmm.   Veterans remembrance and cemetery maintenance and
                      operation fund.
         97-nnnn.   Commercial gaming revenue fund.
