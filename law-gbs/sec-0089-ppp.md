@@ -31,7 +31,7 @@ recognized by the division.
   13. "Qualified firearms training course" means a minimum forty-seven
 hour firearms training course for armored car guards that is specific
 and germane to the armored car carrier industry, recognized by the
-division in consultation with the board.
+division in consultation with the armored car carrier industry.
   14. "Peace officer" has the meaning ascribed to that term by
 subdivision thirty-three of section 1.20 of the criminal procedure law,
 who is employed full-time as a peace officer and who has successfully
