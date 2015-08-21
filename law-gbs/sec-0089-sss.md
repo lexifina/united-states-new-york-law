@@ -12,8 +12,7 @@ such course by any armored car guard.
   3. Nothing herein shall be construed to prohibit an armored car
 carrier from voluntarily providing training programs and courses which
 exceed the minimum requirements provided by this section.
-  4. The commissioner, upon the recommendation and with the general
-advice of the board, shall waive the training requirements specified in
+  4. The commissioner shall waive the training requirements specified in
 subdivision one of this section, with respect to applicants employed by
 armored car carriers, if the applicant provides appropriate
 documentation to demonstrate that he or she was or is subject to
