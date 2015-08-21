@@ -1,7 +1,6 @@
                                ARTICLE 14
-                  Prevention and Control of Disease in
-                  Trees and Plants; Insect Pests; Sale
-                         of Fruit-bearing Trees
+  Prevention and Control of Disease in Trees and Plants; Insect Pests;
+                       Sale of Fruit-bearing Trees
 Section 161.   Definitions.
         162.   Nursery stock; common carriers.
         163.   Prevention of introduction of injurious insects, noxious
@@ -22,5 +21,4 @@ Section 161.   Definitions.
                  elm disease in municipalities.
         169-a. Spraying fruit trees or crops with poison.
         169-b. Fees.
-        169-c. Plant industry advisory committee.
         169-d. Apiary industry advisory committee.
