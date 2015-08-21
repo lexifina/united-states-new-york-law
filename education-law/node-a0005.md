@@ -21,6 +21,8 @@ Section 201.    Corporate name and objects.
                   educational leader programs.
         210-b.  Graduate-level teacher and educational leadership
                   program deregistration and suspension.
+        210-c.  Interstate reciprocity agreement for post-secondary
+                  distance education programs.
         211.    Review of regents learning standards.
         211-a.  Enhanced state accountability system.
         211-b.  Consequences for consistent lack of improvement in
