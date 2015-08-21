@@ -9,6 +9,7 @@ Section 50.   Kinds of licenses.
                 premises.
         54-a. License to sell beer and wine products at retail for
                 consumption off the premises.
+        54-b. Beer tasting.
         55.   License to sell beer at retail for consumption on the
                 premises.
         55-a. License to sell beer at retail, in certain counties, for
