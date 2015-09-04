@@ -32,6 +32,8 @@ Article   1.   Short title, applicability and definitions. (101-107.)
          20.   Mistakes, defects, irregularities and extensions of time.
                  (2001-2005.)
          21.   Papers. (2101-2106.)
+         21-A. Filing of papers in the courts by facsimile transmission
+                 and by electronic means. (2110-2112)
          22.   Stay, motions, orders and mandates.
                  (2201, 2211-2215, 2217-2223.)
          23.   Subpoenas, oaths and affirmations. (2301-2309.)
