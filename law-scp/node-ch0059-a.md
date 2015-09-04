@@ -10,7 +10,7 @@ Assembly, do enact as follows:
                      SURROGATE'S COURT PROCEDURE ACT
                             TABLE OF CONTENTS
                                                                 Sections
-Article 1.    General  ........................................  101-106
+Article 1.    General  ........................................  101-107
 Article 2.    Jurisdiction and Powers  ........................  201-212
 Article 3.    Proceedings, Pleadings and Process  .............  301-316
 Article 4.    Appearance;   Protection   of   Persons  under
