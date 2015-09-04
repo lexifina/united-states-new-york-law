@@ -6,7 +6,7 @@ change therein or termination thereof to each unit owner. In the case of
 a qualified leasehold condominium, such insurance shall be required in
 any event, and shall be in an amount equal to full replacement cost of
 the building. The policy or policies of such insurance shall be updated
-annualy to maintain such insurance in such amount. Nothing herein shall
+annually to maintain such insurance in such amount. Nothing herein shall
 prejudice the right of each unit owner to insure his own unit for his
 own benefit. The premiums for such insurance on the building shall be
 deemed common expenses, provided, however, that in charging the same to
