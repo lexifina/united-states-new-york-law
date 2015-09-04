@@ -80,7 +80,7 @@ Article                                                        Sections
  450. Appeals--in what Cases Authorized and to what
         Courts Taken...................................... 450.10-450-90
  460. Appeals--Taking and Perfection Thereof and
-        stays During Pendency thereof..................... 460.10-460.80
+        stays During Pendency thereof..................... 460.10-460.90
  470. Appeals--Determination Thereof...................... 470.05-470.60
  500. Recognizance, Bail and Commitment--Definitions
         of Terms................................................. 500.10
