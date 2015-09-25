@@ -1,10 +1,5 @@
                                ARTICLE 42
-        * HISTORIC SARATOGA-WASHINGTON ON THE HUDSON PARTNERSHIP
-  * NB Effective until notification of receipt by the commissioner of
-environmental conservation
-                * HISTORIC HUDSON-HOOSIC RIVERS PARTNERSHIP
-  * NB Effective upon notification of receipt by the commissioner of
-environmental conservation
+                HISTORIC HUDSON-HOOSIC RIVERS PARTNERSHIP
 Section 42-0101. Definitions.
         42-0103. The Historic Saratoga-Washington on the Hudson
                    Partnership.
