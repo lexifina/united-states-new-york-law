@@ -8,4 +8,5 @@ Section 380. Salary  of  interpreters  appointed  for  supreme  court by
         388. Polish and Italian interpreters for Erie county.
         389. Appointment   of  additional  interpreter  for  Westchester
                county.
-        390. Appointment of interpreter for deaf person.
+        390. Equal access to court  proceedings  for  deaf  or  hard  of
+               hearing person.
