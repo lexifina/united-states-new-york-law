@@ -3,45 +3,50 @@ designation of special commercial abatement areas; excluded and
 renovation areas. 1. Commission members. Any city enacting a local law
 pursuant to section four hundred eighty-nine-bbbbbb of this title shall
 establish a temporary commercial incentive area boundary commission to
-consist of the deputy mayor for economic development and planning, the
-commissioner of finance, the chair of the city planning commission, the
-director of management and budget, the borough presidents, the speaker
-of the city council and a public member appointed by the mayor to serve
-at the mayor's pleasure. Each member except the public member shall have
-the power to designate an alternate to represent him or her at
-commission meetings to exercise all the rights and powers of such
-member, including the right to vote, provided that such designation be
-made in writing to the chair of the commission. The deputy mayor for
-economic development and planning shall serve as commission chair. Each
-borough president shall be entitled to vote only on the designation of
-areas within his or her borough. Commission members who shall be
-officers or employees of such city shall serve without compensation but
-shall be reimbursed for expenses necessarily incurred in the performance
-of their duties. Any other commission member shall receive as exclusive
-compensation for his or her services one hundred dollars per diem, or
-another reasonable amount as determined by the deputy mayor for economic
-development and planning, provided, however, that the total compensation
-paid to any such member shall not exceed twelve hundred dollars for any
-calendar year, or another reasonable amount determined by the deputy
-mayor for economic development and planning. A majority of members of
-such commission entitled to vote on a matter shall constitute a quorum
-for such issue. Decisions shall be made by majority vote of those
-present entitled to vote on a matter. Notwithstanding any other law to
-the contrary, no officer or employee of the state or any of its
-subdivisions or any public benefit corporation shall be deemed to have
-forfeited his or her office or employment or any benefits provided under
-the retirement and social security law or under any public retirement
-system maintained by the state or any of its subdivisions by reason of
-accepting membership on such commission.
+consist of a deputy mayor designated by the mayor, the commissioner of
+finance, the chair of the city planning commission, the director of
+management and budget, the borough presidents, the speaker of the city
+council and a public member appointed by the mayor to serve at the
+mayor's pleasure. Each member except the public member shall have the
+power to designate an alternate to represent him or her at commission
+meetings to exercise all the rights and powers of such member, including
+the right to vote, provided that such designation be made in writing to
+the chair of the commission. The deputy mayor designated by the mayor
+shall serve as commission chair. Each borough president shall be
+entitled to vote only on the designation of areas within his or her
+borough. Commission members who shall be officers or employees of such
+city shall serve without compensation but shall be reimbursed for
+expenses necessarily incurred in the performance of their duties. Any
+other commission member shall receive as exclusive compensation for his
+or her services one hundred dollars per diem, or another reasonable
+amount as determined by the deputy mayor designated by the mayor,
+provided, however, that the total compensation paid to any such member
+shall not exceed twelve hundred dollars for any calendar year, or
+another reasonable amount determined by the deputy mayor designated by
+the mayor. A majority of members of such commission entitled to vote on
+a matter shall constitute a quorum for such issue. Decisions shall be
+made by majority vote of those present entitled to vote on a matter.
+Notwithstanding any other law to the contrary, no officer or employee of
+the state or any of its subdivisions or any public benefit corporation
+shall be deemed to have forfeited his or her office or employment or any
+benefits provided under the retirement and social security law or under
+any public retirement system maintained by the state or any of its
+subdivisions by reason of accepting membership on such commission.
   2. Designation of special commercial abatement areas. (a) The
-commission shall meet in two thousand nine and at least once every five
-years thereafter to determine the boundaries of special commercial
-abatement areas which it is authorized, but not required, to designate
-pursuant to this section. The areas designated by the commission
-established pursuant to title two-D of this article in effect as of June
-thirtieth, two thousand eight shall remain in effect until the first
-taxable status date after the local legislative body approves a new
-designation pursuant to paragraph (d) of this subdivision.
+commission shall meet in two thousand nine or two thousand fifteen and
+at least once every five years thereafter to determine the boundaries of
+special commercial abatement areas which it is authorized, but not
+required, to designate pursuant to this section. The areas designated by
+the commission established pursuant to title two-D of this article in
+effect as of June thirtieth, two thousand eight shall remain in effect
+until the first taxable status date after the local legislative body
+approves a new designation pursuant to paragraph (d) of this subdivision
+or, if the local legislative body does not approve a new designation
+before January first, two thousand sixteen, then, for purposes of
+applications for special commercial abatement area benefits, the areas
+designated by the commission established pursuant to title two-D of this
+article in effect as of June thirtieth, two thousand eight shall remain
+in effect until December thirty-first, two thousand fifteen.
   (b) In years when special commercial abatement areas are to be
 designated, no later than October first, the commission shall provide
 public notice of such designation by publishing a notice at least once
@@ -78,10 +83,10 @@ unemployment, economic distress or unusually large numbers of vacant,
 underutilized, unsuitable or substandard structures, or other
 substandard, unsanitary, deteriorated or deteriorating conditions, with
 or without tangible blight.
-  (f) If the commission fails to meet for more than five years, all new
+  (f) If the commission fails to meet in two thousand fifteen, all new
 applications for special commercial abatement area benefits postmarked
-after the fifth anniversary of the commission's last meeting shall be
-deemed applications for regular area benefits.
+after December thirty-first, two thousand fifteen shall be deemed
+applications for regular area benefits.
   3. Renovation areas. In the city of New York, the following areas of
 Manhattan shall be designated as renovation areas. Except as provided in
 paragraph (f) of subdivision three of section four hundred
