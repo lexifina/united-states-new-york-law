@@ -164,24 +164,37 @@ Erie county, westerly along United States route twenty-A to the Big Tree
 road and United States route twenty-A interchange with United States
 route two hundred nineteen in the town of Orchard Park, Erie county,
 then continuing southerly along United States route two hundred
-nineteen, through the towns of Boston and Concord, Erie county, to the
-Springville and route thirty-nine interchange, then easterly along state
-route thirty-nine, through the village of Springville to the
-intersection with state route two hundred forty, then northerly along
-state route two hundred forty, through the towns of Concord and Colden,
-Erie county, to the intersection with county road forty-seven (Mill
-road) in the town of Aurora, then northeasterly along county road
-forty-seven, reconnecting with United States route twenty-A in the town
-of Aurora, and an alternate route beginning at the state road one
-hundred seventy-nine (Mile Strip road) intersection with state road two
-hundred seventy-seven (Chestnut Ridge road, Boston Ridge road) in the
-town of Orchard Park, southerly along state road two hundred
-seventy-seven to the intersection with state road three hundred
-ninety-one and Boston State road, continuing southerly along the Boston
-State road through the town of Boston, continuing southerly along the
-Springville Boston road through the town of Concord, then continuing
-southerly on Buffalo street in the village of Springville where it
-reconnects with state route thirty-nine.
+nineteen, through the towns of Boston and Concord and the village of
+Springville, Erie county, and the town of Ashford, Cattaraugus county,
+to the intersection with state route two hundred forty-two in the town
+of Ellicottville, Cattaraugus county, then continuing westerly along
+United States route two hundred nineteen and state route two hundred
+forty-two to the village of Ellicottville, then continuing southerly on
+United States route two hundred nineteen to the town of Ellicottville
+town line, which shall be the terminus of this portion of the byway;
+such byway shall also include all that portion of the highway system
+beginning at the intersection of United States route two hundred
+nineteen and state route two hundred forty-two in the town of
+Ellicottville, Cattaraugus county, northeasterly along state route two
+hundred forty-two to the intersection with state route two hundred forty
+in the town of Ellicottville, then northerly along state route two
+hundred forty, through the towns of Ashford and Ellicottville,
+Cattaragus county and the towns of Concord and Colden, Erie county, to
+the intersection with county road forty-seven (Mill road) in the town of
+Aurora, then northeasterly along county road forty-seven, reconnecting
+with United States route twenty-A in the town of Aurora, and an
+alternate route beginning at the state road one hundred seventy-nine
+(Mile Strip road) intersection with state road two hundred seventy-seven
+(Chestnut Ridge road, Boston Ridge road) in the town of Orchard Park,
+southerly along state road two hundred seventy-seven to the intersection
+with state road three hundred ninety-one and Boston State road,
+continuing southerly along the Boston State road through the town of
+Boston, continuing southerly along the Springville Boston road through
+the town of Concord, then continuing southerly on Buffalo street in the
+village of Springville where it reconnects with state route thirty-nine,
+and that portion of state route thirty-nine in the village of
+Springville between United States route two hundred nineteen and state
+route two hundred forty.
   (j-11) The Seneca Lake scenic byway which shall consist of all that
 portion of the highway system beginning at the intersection of state
 route four hundred fourteen and Cass Road in the town of Hector,
