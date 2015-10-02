@@ -1,4 +1,4 @@
-                               ARTICLE 5-B
+                              * ARTICLE 5-B
                   UNIFORM INTERSTATE FAMILY SUPPORT ACT
 Part 1. General provisions.
         Section 580-101. Definitions.
@@ -89,3 +89,16 @@ Part 9. Miscellaneous provisions.
         Section 580-903. Severability clause.
         Section 580-904. Effective date.
         Section 580-905. Repeals.
+  * NB Effective until January 1, 2016
+                               * ARTICLE 5-B
+                  UNIFORM INTERSTATE FAMILY SUPPORT ACT
+PART 1.   General provisions.
+     2.   Jurisdiction.
+     3.   Civil provisions of general application.
+     4.   Establishment of support order or determination of parentage.
+     5.   Enforcement of support order without registration.
+     6.   Registration, enforcement and modification of support order.
+     7.   Support proceeding under convention.
+     8.   Interstate rendition.
+     9.   Miscellaneous provisions.
+  * NB Effective January 1, 2016
