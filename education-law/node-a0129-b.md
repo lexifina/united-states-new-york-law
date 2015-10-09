@@ -1,4 +1,4 @@
-                             * ARTICLE 129-B
+                              ARTICLE 129-B
           IMPLEMENTATION BY COLLEGES AND UNIVERSITIES OF SEXUAL
  ASSAULT, DATING VIOLENCE, DOMESTIC VIOLENCE AND STALKING PREVENTION AND
                     RESPONSE POLICIES AND PROCEDURES
@@ -13,4 +13,3 @@ Section 6439. Definitions.
         6447. Student onboarding and ongoing education.
         6448. Privacy in legal challenges.
         6449. Reporting aggregate data to the department.
-  * NB Effective October 5, 2015
