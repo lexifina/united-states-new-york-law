@@ -20,6 +20,8 @@ Section 220.   Action for use and occupation.
         227-b. Termination of certain contracts by senior citizens.
         227-c. Termination of residential lease by victims of domestic
                  violence.
+        227-d. Discrimination based on domestic violence status;
+                 prohibited.
         228.   Termination of tenancies at will or by sufferance, by
                  notice.
         229.   Liability of tenant holding over after giving notice of
