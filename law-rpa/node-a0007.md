@@ -16,6 +16,8 @@ Section 701.   Jurisdiction; courts; venue.
         735.   Manner of service; filing; when service complete.
         741.   Contents of petition.
         743.   Answer.
+        744.   Eviction based on domestic violence victim status
+                 prohibited.
         745.   Trial.
         746.   Stipulations.
         747.   Judgment.
