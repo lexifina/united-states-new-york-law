@@ -41,3 +41,5 @@ Section 1.    Short title.
         25-a. Combination gas and electric corporations; administrative
                 sanctions; recovery of penalties.
         26.   Enforcement proceedings.
+        27.   Public availability of certain competitive requests for
+                proposals.

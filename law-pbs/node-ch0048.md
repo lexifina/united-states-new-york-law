@@ -8,7 +8,7 @@ Became  a law June 14, 1910, with the approval of the Governor.  Passed,
 Assembly, do enact as follows:
                    CHAPTER 48 OF THE CONSOLIDATED LAWS
                          THE PUBLIC SERVICE LAW.
-Article  1.   The department of public service. (Secs. 1-26.)
+Article  1.   The department of public service. (Secs. 1-27.)
          2.   Residential  gas,  electric  and  steam  utility  service.
                 (Secs. 30-53.)
          3-C. Provisions   relating   to   liquid   petroleum   pipeline
