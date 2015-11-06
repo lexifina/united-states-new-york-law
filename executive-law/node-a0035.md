@@ -49,6 +49,8 @@ Section 835.     Definitions.
                    services to elderly persons.
         845.     Central state registry of police officers and peace
                    officers.
+        845-a.   Presentment of flags lowered to half-staff in memorial
+                   of the death of any police officer or peace officer.
         845-b.   Requests for criminal history information.
         846.     Programs for the aging.
         846*2.   Programs for the aging.
