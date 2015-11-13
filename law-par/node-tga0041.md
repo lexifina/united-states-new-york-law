@@ -13,4 +13,4 @@ Section 41.01 Legislative findings and intent.
         41.15 Appropriations by the city of Buffalo.
         41.17 State actions.
         41.19 State purpose.
-  * NB Repealed December 31, 2015
+  * NB Repealed December 31, 2017
