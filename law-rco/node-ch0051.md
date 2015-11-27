@@ -48,3 +48,6 @@ Article 1.    Short title and definitions (§§ 1--2-b).
        19.    Unitarian and Universalist Societies (§§ 400-414).
        20.    Assemblies of God churches (§§ 420-437).
        21.    Coptic Orthodox churches (§§ 450-455).
+       22.    Organizations of the Hindu faith (§§ 460-469).
+       23.    Organizations of the Sikh faith (§§ 470-479).
+       24.    Organizations of the Islamic faith (§§ 480-489).
