@@ -35,3 +35,4 @@ Section 7.01    Declaration of policy.
         7.41    Geriatric service demonstration program.
         7.43    The children's plan.
         7.45    Retaliatory personnel actions.
+        7.47    Mental illness anti-stigma grants.
