@@ -3,6 +3,7 @@
 Section 70.        Classification of funds.
         71.        Abolition, maintenance and establishment of funds.
         71-a.      Funds established by law.
+        71-b.      Expenditure of check-off monies.
         72.        General fund.
         73.        Federal interest subsidy payments.
         74.        Transportation infrastructure renewal fund.
@@ -98,6 +99,7 @@ Section 70.        Classification of funds.
         95-f*2.    The Eighth Air Force Historical Society fund.
         95-g.      Department of motor vehicles distinctive plate
                      development fund.
+        95-h.      Mental illness anti-stigma fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
         97-b.      Hazardous waste remedial fund.
@@ -218,6 +220,7 @@ Section 70.        Classification of funds.
         97-kkkk.   Intervenor account.
         97-llll.   Interstate reciprocity for post-secondary distance
                      education account.
+        97-llll*2. Women's cancers education and prevention fund.
         97-mmmm.   Veterans remembrance and cemetery maintenance and
                      operation fund.
         97-nnnn.   Commercial gaming revenue fund.

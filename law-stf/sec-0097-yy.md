@@ -36,13 +36,19 @@ and from grants, gifts and bequests.
 commissioner of health shall provide a written report to the temporary
 president of the senate, speaker of the assembly, chair of the senate
 finance committee, chair of the assembly ways and means committee, chair
-of the senate committee on health, and chair of the assembly health
-committee.  Such report shall include how the monies of the fund were
-utilized during the preceding calendar year, and shall include:
-  (i) the amount of money dispersed from the fund;
+of the senate committee on health, chair of the assembly health
+committee, the state comptroller and the public. Such report shall
+include how the monies of the fund were utilized during the preceding
+calendar year, and shall include:
+  (i) the amount of money dispersed from the fund and the award process
+used for such disbursements;
   (ii) recipients of awards from the fund;
-  (iii) the amount awarded to each; and
-  (iv) the purposes for which such awards were granted.
+  (iii) the amount awarded to each;
+  (iv) the purposes for which such awards were granted; and
+  (v) a summary financial plan for such monies which shall include
+estimates of all receipts and all disbursements for the current and
+succeeding fiscal years, along with the actual results from the prior
+fiscal year.
   3. Monies of the fund shall be expended only for breast cancer
 research and educational projects. As used in this section, "breast
 cancer research and education projects" means scientific research or
