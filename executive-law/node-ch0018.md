@@ -31,7 +31,7 @@ The People of the State of New York, represented in Senate and Assembly,
           7.   Miscellaneous provisions (§§ 161--170-b).
           7-A. Solicitation  and  collection  of  funds  for  charitable
                  purposes (§§ 171-a--177).
-          8.   Division of budget (§§ 180-182).
+          8.   Division of budget (§§ 180-183).
           9.   Division of military and naval affairs (§§ 190-191).
          10.   Office of general services (§§ 200-203).
          10-B. New York State office of science, technology and academic
@@ -77,7 +77,7 @@ The People of the State of New York, represented in Senate and Assembly,
          21.   New York state office  for  the  prevention  of  domestic
                  violence (§§ 575-576).
          21-A. Emergency services council (§ 580).
-         21-B. Manufactured homes (§§ 600-612)
+         21-B. Manufactured homes (§§ 600-617)
          22.   Crime victims board (§§ 620-635).
          23.   Fair treatment standards for crime victims (§§ 640-649).
          24.   Office of employee relations (§§ 650-654).
