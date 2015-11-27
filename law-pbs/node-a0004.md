@@ -40,6 +40,7 @@ Section 64.    Application of article.
                  indebtedness; approval of mergers or consolidations.
         69-a.  Reorganizations.
         70.    Transfer of franchises or stocks.
+        70-a.  Street lights.
         71.    Complaints as to quality and price of gas and
                  electricity; investigation by commission; forms of
                  complaints.
