@@ -257,6 +257,19 @@ twenty-three-c in the town of Hunter, Greene county, beginning at the
 intersection with county route twenty-five and continuing southerly to
 its terminus at state route twenty-three-a.
   * NB There are 2 par (j-12)'s
+  (j-13) Catskill Mountains scenic byway which shall consist of all that
+portion of the highway system beginning at the eastern border of the
+town of Olive, Ulster county on state route twenty-eight, continuing
+westerly on state route twenty-eight to its western terminus at the
+intersection of Main street in the hamlet of Andes, Delaware county; and
+all that portion of the highway system beginning at the intersection of
+state route twenty-eight and state route forty-two in the hamlet of
+Shandaken, Ulster county, northwesterly along state route forty-two and
+terminating at the Ulster/Greene county line; and all the portion of the
+highway system beginning at the intersection of state route twenty-eight
+and state route two hundred fourteen in the hamlet of Phonicia, Ulster
+county, northeasterly along state route two hundred fourteen and
+terminating at the Ulster/Greene county line.
   (k) highways designated as scenic roads pursuant to article forty-nine
 of the environmental conservation law;
   (l) parkways as listed in the regulations of the commissioner of the
