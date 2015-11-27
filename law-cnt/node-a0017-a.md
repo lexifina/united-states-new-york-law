@@ -4,6 +4,7 @@ Section 670.   Application of article.
         671.   General duties of coroner, or coroner and coroner's
                  physician, or medical examiner; additional duties may
                  be directed.
+        672.   Mutual aid agreements for coroners' services.
         673.   Deaths concerning which a coroner, coroner and coroner's
                  physician or medical examiner has jurisdiction to
                  investigate.
