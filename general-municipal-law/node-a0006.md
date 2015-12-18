@@ -47,6 +47,8 @@ Section 120.     Contracts for purification of water and sewerage.
                    exception for cities with a population of one million
                    or more.
         122-b.   General ambulance services.
+        122-c.   Transport of police work dogs injured in the line of
+                   duty.
         123.     Erection and operation of life-saving apparatus.
         124.     Inspection of building elevators in Nassau county.
         125.     Issuance of building permits.
