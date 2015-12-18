@@ -16,6 +16,7 @@ Section 2.     Public buildings.
                  Spanish War Veterans.
         5.     Quarters for Veterans of Foreign Wars.
         5-a.   Quarters for Disabled American Veterans.
+        5-b.   Quarters for Vietnam Veterans of America.
         6.     Construction plans; custody; approval; and procedure
                  notwithstanding local requirements.
         8.     Contracts.
