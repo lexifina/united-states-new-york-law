@@ -10,6 +10,7 @@ Section  2.   Definitions.
          8.   Duties of the comptroller.
          8-a. Deviations from generally accepted accounting principles.
          8-b. Additional duties of the comptroller.
+         8-c. Enterprise fraud prevention and detection system.
          9.   Subpoenas; oaths.
         10.   Compromise of old judgments and debts.
         11.   Gifts, devises and bequests.
