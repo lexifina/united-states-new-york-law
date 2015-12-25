@@ -13,8 +13,8 @@ Title A. Organization of department of mental hygiene. (Arts. 1 and 5).
            (Arts. 13 and 15).
       D. Alcoholism and substance abuse act. (Arts. 19, 22, and 25)
       E. General provisions.
-           (Arts. 29, 31-33, 41, 43, 45, 61, 67, 71, 75, 79-81, 83 and
-           91)
+           (Arts. 29, 31-33, 41, 43, 45, 61, 67, 71, 75, 79-81, 83, 84
+           and 91)
                                       TITLE A
                     ORGANIZATION OF DEPARTMENT OF MENTAL HYGIENE
 Article   1 Short title and definitions (§§ 1.01-1.03).
@@ -65,9 +65,10 @@ Article  29 General provisions relating to in-patient facilities
          80 Surrogate decision-making for medical care and treatment
               (§§ 80.01-80.13).
          81 Proceedings for appointment of a guardian for personal needs
-              or property management (§§ 81.01-81.44)
+              or property management (§§ 81.01-81.44).
          83 Uniform guardianship and protective proceedings jurisdiction
-              act
-              (§§ 83.01-83.45).
+              act (§§ 83.01-83.45).
+         84 New York achieving a better life experience savings account
+              act (§§ 84.01-84.11).
          91 Laws repealed; savings clause; time of taking effect
               (§§ 91.01-91.05).
