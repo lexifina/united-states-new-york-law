@@ -22,3 +22,4 @@ Section 70.   Description of the arms of the state and the state flag.
         87*2. State bush.
         88.   State slogan.
         89.   State snack.
+        90.   State dog.
