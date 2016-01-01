@@ -160,6 +160,7 @@ Section 390.       Substitution of spurious oils for internal combustion
                      contracts prohibited.
         399-cc.    Wireless telephone numbers.
         399-cc*2.  Transcripts and stenographic services.
+        399-ccc.   Smoke detecting devices.
         399-d.     Children attending public bowling alleys under
                      certain conditions.
         399-dd.    Sale of alcohol vaporizing devices prohibited.
