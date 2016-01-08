@@ -1,6 +1,4 @@
-  * Part 6. C. Registration and modification of child support order.
-  * NB Effective until January 1, 2016
-                                * SUBPART C
+                                SUBPART C
           REGISTRATION AND MODIFICATION OF CHILD SUPPORT ORDER
                             OF ANOTHER STATE
 Section 580-609. Procedure to register child support order of another
@@ -11,4 +9,3 @@ Section 580-609. Procedure to register child support order of another
         580-613. Jurisdiction to modify child support order of another
                    state when individual parties reside in this state.
         580-614. Notice to issuing tribunal of modification.
-  * NB Effective January 1, 2016
