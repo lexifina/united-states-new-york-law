@@ -2,14 +2,15 @@
                         OF THE STATE OF NEW YORK
                                 2015-2016
   Rules of the Assembly for the years 2015--2016, as adopted by Assembly
-Resolution number 6 of 2015.
-  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
-Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
-and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
+Resolution  number  6  of 2015 and amended by Assembly Resolution number
+830 of 2016.
+  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
+Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
+and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
-amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
+amended   by   Concurrent  Resolution  numbers  2775  (Senate)  and  787
 (Assembly) of 2009.
-                                 1/7/15
+                                 1/6/16
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -34,7 +35,8 @@ Rule III                  BILLS AND RESOLUTIONS
    6            Amendments                                            18
    7            Reading of bills                                      19
    8            Revision and engrossing                               20
-   9            Transmittal of bills to the Governor                  20
+   9            Printing and placement on the desks                   20
+   10           Transmittal of bills to the Governor                  21
 Rule IV                        COMMITTEES
 §  1            Standing Committees                                   22
    2            Meetings of standing committees                       24
@@ -433,20 +435,17 @@ setting  forth the same material as required in the original memorandum.
 In addition, whenever a bill is reported by a committee as  amended,  it
 shall be the duty of the committee to submit an amended memorandum.
   § 2. Introduction.
-  a.  Every  bill  introduced  in  the  House  shall be in duplicate and
-accompanied by the introducer's memorandum in quadruplicate.  Such  bill
-shall be presented by the introducer to the Index Clerk and delivered by
-the  Index Clerk to the Office of Assembly Revision for the purposes set
-forth in subdivision a of section eight of this Rule.  Thereafter,  such
-bill shall be referred to a standing committee, other than the Committee
-on  Rules,  by the Speaker, assigned a number, printed and placed on the
-desks of the  members.  The  Index  Clerk  shall,  on  the  day  of  its
-introduction,  cause  such bill to be transmitted to the printer. A copy
-of each bill shall be available for public inspection in the  Office  of
-Assembly  Revision.  The  Office  of  Assembly Revision shall maintain a
-photocopy machine for use by the public to copy any such bill at  a  per
-page  price to be established by the Speaker pursuant to the "Freedom of
-Information Law".
+  a.  Every  bill to be introduced in the House shall be in a draft form
+prescribed by the Legislative Bill Drafting Commission  and  accompanied
+by  the  introducer's  memorandum. Such bill draft shall be presented by
+the introducer to the Index Clerk and delivered by the  Index  Clerk  to
+the   Office  of  Assembly  Revision  for  the  purposes  set  forth  in
+subdivision a of section eight of this Rule. Thereafter, such bill shall
+be  referred to a standing committee, other than the Committee on Rules,
+by the Speaker, assigned a number, printed and placed on  the  desks  of
+the  members  consistent with section nine of this Rule. The Index Clerk
+shall, on the day of its introduction, cause such bill to be transmitted
+to the printer.  A copy of each bill shall be available to the public.
   b.  On or after November fifteenth of a calendar year,  a  member  and
 member-elect may submit a bill, in accordance with subdivision a of this
 section,   for   introduction  at  the  commencement  of  the  following
@@ -577,8 +576,8 @@ term of the Assembly.  After the last Tuesday in May of such second year
 no  such resolution shall be introduced except by the Committee on Rules
 or by message from the Senate or, with the consent of  the  Speaker,  by
 members  elected  at  a special election who take office on or after the
-last  Tuesday  in  May.   Such resolutions shall be in quadruplicate and
-bear the name of the introducer and shall  be  referred  to  a  standing
+last Tuesday in May.   Such resolutions shall be  in  quadruplicate  and
+bear  the  name  of  the  introducer and shall be referred to a standing
 committee  for  consideration  and  report.  No  such  resolution may be
 introduced unless copies thereof first shall have been furnished to  the
 Speaker,  the  Majority Leader and the Minority Leader. Before the House
@@ -627,56 +626,56 @@ description of such amendment to the Clerk of the Assembly.
 provided  by  Journal Operations to the chairperson and ranking minority
 member of any standing committee that previously reported such bill.
   c. Prior to the commencement of debate on a bill to which an amendment
-is  offered  by  a  member  other  than the introducer, the Clerk of the
-Assembly shall make copies thereof and cause one copy to  be  placed  on
-the  desk  of  each  member  of  the  House. When there is more than one
-amendment to a bill and one of such amendments is adopted,  any  of  the
-other  amendments  so  offered  shall,  if  so  requested  by the member
+is offered by a member other than  the  introducer,  the  Clerk  of  the
+Assembly  shall  make  copies thereof and cause one copy to be placed on
+the desk of each member of the  House.  When  there  is  more  than  one
+amendment  to  a  bill and one of such amendments is adopted, any of the
+other amendments so  offered  shall,  if  so  requested  by  the  member
 offering  same,  be  debated  and  voted  upon  immediately  after  such
-adoption,  provided,  however, that such other amendments are offered to
-those provisions of the bill not changed by the  adopted  amendment  and
+adoption, provided, however, that such other amendments are  offered  to
+those  provisions  of  the bill not changed by the adopted amendment and
 are consistent with the provisions of the adopted amendment.
-  d.  If  a  motion  to  amend prevails, the Clerk of the Assembly shall
-distribute copies of  the  bill  with  the  amendment  correctly  marked
+  d. If a motion to amend prevails, the  Clerk  of  the  Assembly  shall
+distribute  copies  of  the  bill  with  the  amendment correctly marked
 thereon  together  with  copies  of  the  detailed  description  of  the
-amendment  to  the  appropriate  Assembly  offices   for   purposes   of
+amendment   to   the   appropriate  Assembly  offices  for  purposes  of
 renumbering and printing the bill as amended.
-  e.  No  amendment shall be allowed to any bill which is not germane to
+  e. No amendment shall be allowed to any bill which is not  germane  to
 the original object or purpose thereof.
-  § 7. Reading of bills. a. Every  bill  shall  receive  three  separate
-readings,  and  on three different days, previous to its passage, except
+  §  7.  Reading  of  bills.  a. Every bill shall receive three separate
+readings, and on three different days, previous to its  passage,  except
 when ordered to a third reading pursuant to paragraph two of subdivision
-f of section two of this Rule, by  unanimous  consent  or  when  made  a
+f  of  section  two  of  this  Rule, by unanimous consent or when made a
 special order, or when accompanied by a message of necessity pursuant to
 section 14 of Article III of the Constitution.
-  b.  Bills  placed  on  the order of second reading, as provided for in
-subdivision g of section six of Rule IV,  shall  be  subject  to  debate
-before  the  motion  to  order  them  to a third reading is entertained.
-One-half hour shall be allowed for such  debate,  but  no  person  shall
-speak  more  than  fifteen  minutes, except by consent of the House. The
-main question, however, if ordered, shall be on the advancement  of  the
-bill;  but when amendments are pending the question shall first be taken
+  b. Bills placed on the order of second reading,  as  provided  for  in
+subdivision  g  of  section  six  of Rule IV, shall be subject to debate
+before the motion to order them  to  a  third  reading  is  entertained.
+One-half  hour  shall  be  allowed  for such debate, but no person shall
+speak more than fifteen minutes, except by consent  of  the  House.  The
+main  question,  however, if ordered, shall be on the advancement of the
+bill; but when amendments are pending the question shall first be  taken
 upon such amendments in their inverse order.
   c.  All bills on the order of second reading shall be ordered to third
-reading unless otherwise ordered  pursuant  to  subdivision  b  of  this
-section  or pursuant to paragraph one of subdivision b of section ten of
+reading  unless  otherwise  ordered  pursuant  to  subdivision b of this
+section or pursuant to paragraph one of subdivision b of section ten  of
 Rule IV.
-  d.  No bill shall be considered for third reading until it shall  have
-been  on  the  printed  Calendar of the House on two legislative days on
+  d.   No bill shall be considered for third reading until it shall have
+been on the printed Calendar of the House on  two  legislative  days  on
 that order, except where made a special order by report of the Committee
 on Rules, in which case it may be considered on second and third reading
 on the same day.
-  e. In all cases where unanimous consent is asked for advancing a  bill
+  e.  In all cases where unanimous consent is asked for advancing a bill
 or entertaining a motion or resolution out of its order, it shall be the
-duty  of  the  Speaker  to  proclaim  such request and determine if such
+duty of the Speaker to proclaim  such  request  and  determine  if  such
 consent will be granted.
-  f. A bill appearing on the Calendar may be  "starred"  by  or  at  the
-request  of  the  introducer,  whereupon all further action on such bill
+  f.  A  bill  appearing  on  the Calendar may be "starred" by or at the
+request of the introducer, whereupon all further  action  on  such  bill
 shall be suspended, although it retains its place on the Calendar. Other
-than for the purpose of amendment or recommittal,  a  star  may  not  be
+than  for  the  purpose  of  amendment or recommittal, a star may not be
 removed from a bill until one day after the request therefor.  A bill on
-any  order  of  third  reading  which  has  been laid aside by or at the
-request of the introducer on three separate days shall be  automatically
+any order of third reading which has  been  laid  aside  by  or  at  the
+request  of the introducer on three separate days shall be automatically
 starred.
   g.  Substitution  of Bills. Where there is a Senate bill in a standing
 committee and the identical Assembly bill is on the order of  second  or
@@ -700,7 +699,12 @@ Clerk  to  be  jacketed with the proper jurat for certification of final
 passage. Each  such  bill  shall,  after  passage  by  both  Houses,  be
 engrossed,  if  so ordered by the Speaker, or stamped "Official Copy" in
 which case it shall be deemed to have been engrossed.
-  § 9. Transmittal of bills to the Governor.  All Assembly bills  passed
+  § 9. Printing and placement on the desks. For the  purposes  of  these
+Rules,   any  requirement  for  the  copying,  printing,  reprinting  or
+placement of bills on the desks of members may be satisfied with  either
+bills  printed  on  paper  or bills in electronic format as described in
+section fourteen of Article III of the Constitution.
+  § 10. Transmittal of bills to the Governor. All Assembly bills  passed
 by  the  Assembly  and sent to the Senate for action shall, upon passage
 and return by the Senate to the Assembly, be transmitted  by  the  Index
 Clerk to the Governor within ten legislative days after receipt from the
@@ -1744,6 +1748,7 @@ BILLS-----
   Memorandum required .................................... III Sec. 1, 2
   Multi-sponsorship of ...................................... III Sec. 3
   Placing on desks of members ........................ III Sec. 2, par a
+  Printing and placement on the desks ....................... III Sec. 9
   Reading of, requiring three separate
     days before passage............................... III Sec. 7, par a
   Reconsider on final passage ...................... II Sec. 4, par b, c
@@ -1765,7 +1770,7 @@ BILLS-----
   Third reading, requiring 2 days
     on calendar ...................................... III Sec. 7, par d
   Title to state purpose of bill ..................... III Sec. 1, par a
-  Transmittal to Governor ................................... III Sec. 9
+  Transmittal to Governor .................................. III Sec. 10
 BREACH OF PRIVILEGE .................................... I Sec. 1, par c
 BUDGET BILL (Also see "BILLS")
   Introduction of .................................... III Sec. 2, par g
