@@ -284,26 +284,7 @@ former section of the penal law which would constitute violations of the
 aforesaid sections of the penal law, or any offenses committed outside
 this state which would constitute violations of the aforesaid sections
 of the penal law.
-  * (c) The offenses referred to in subparagraph (i) of paragraph (b) of
-subdivision one and subparagraph (i) of paragraph (c) of subdivision two
-of this section that result in disqualification for a period of five
-years shall include a conviction under sections 100.10, 105.13, 115.05,
-120.03, 120.04, 120.04-a, 120.05, 120.10, 120.25, 121.12, 121.13,
-125.40, 125.45, 130.20, 130.25, 130.52, 130.55, 135.10, 135.55, 140.17,
-140.25, 140.30, 145.12, 150.10, 150.15, 160.05, 160.10, 220.06, 220.09,
-220.16, 220.31, 220.34, 220.60, 220.65, 221.30, 221.50, 221.55, 230.00,
-230.05, 230.06, 230.20, 235.05, 235.06, 235.07, 235.21, 240.06, 245.00,
-260.10, subdivision two of section 260.20 and sections 260.25, 265.02,
-265.03, 265.08, 265.09, 265.10, 265.12, 265.35 of the penal law or an
-attempt to commit any of the aforesaid offenses under section 110.00 of
-the penal law, or any similar offenses committed under a former section
-of the penal law, or any offenses committed under a former section of
-the penal law which would constitute violations of the aforesaid
-sections of the penal law, or any offenses committed outside this state
-which would constitute violations of the aforesaid sections of the penal
-law.
-  * NB Effective until January 19, 2016
-  * (c) The offenses referred to in subparagraph (i) of paragraph (b) of
+  (c) The offenses referred to in subparagraph (i) of paragraph (b) of
 subdivision one and subparagraph (i) of paragraph (c) of subdivision two
 of this section that result in disqualification for a period of five
 years shall include a conviction under sections 100.10, 105.13, 115.05,
@@ -321,7 +302,6 @@ offenses committed under a former section of the penal law which would
 constitute violations of the aforesaid sections of the penal law, or any
 offenses committed outside this state which would constitute violations
 of the aforesaid sections of the penal law.
-  * NB Effective January 19, 2016
   (5) As a part of such determination concerning whether an individual
 is disqualified from operating a school bus pursuant to this section,
 the department shall submit a prospective driver's fingerprints to the
