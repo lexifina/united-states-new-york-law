@@ -2,7 +2,7 @@
                    Workers' Compensation Security Fund
 Section 106.   Consolidation of funds; definitions.
         107.   Workers' compensation security fund.
-        108.   Payments into fund; returns.
+        108.   Payments into fund; returns; recoupment.
         109.   Suspension of payments into fund; temporary surcharge
                  authorized.
         109-a. Administration of fund.
