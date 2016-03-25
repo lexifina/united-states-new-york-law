@@ -11,3 +11,4 @@ Section 1086.   Purpose.
                   persons pursuant to article seventeen of the
                   surrogate's court procedure act.
         1090.   Representation of parties.
+        1090-a. Participation of children in their permanency hearings.
