@@ -18,11 +18,11 @@ eighty-one and four hundred eighty-four of the laws of nineteen hundred
 eighty-one, and notwithstanding the provisions of chapter ninety-four of
 the laws of two thousand eleven, or any other provisions of law to the
 contrary, during the fiscal year beginning April first, two thousand
-fifteen, the state comptroller is hereby authorized and directed to
+sixteen, the state comptroller is hereby authorized and directed to
 deposit to the fund created pursuant to this section from amounts
 collected pursuant to article twenty-two of the tax law and pursuant to
 a schedule submitted by the director of the budget, up to
-$3,382,279,000, as may be certified in such schedule as necessary to
+$3,283,844,000, as may be certified in such schedule as necessary to
 meet the purposes of such fund for the fiscal year beginning April
-first, two thousand fifteen.
+first, two thousand sixteen.
   * NB There are 2 § 97-rrr's

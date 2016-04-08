@@ -269,4 +269,6 @@ Section 70.        Classification of funds.
         99-w.      Transit assistance for capital investments fund.
         99-x.      New York achieving a better life experience (NY ABLE)
                      savings program trust fund.
+        99-y.      SUNY Stony Brook Affiliation escrow fund.
+        99-y*2.    Health republic insurance of New York fund.
         99-w*2.    SUNY DSRIP escrow fund.
