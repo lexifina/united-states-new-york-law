@@ -64,8 +64,9 @@ Section 2301.   Purpose.
                   provisions regarding such rates.
         2344.   Flexible rate limitations in problem markets.
         2345.   Disclosure of premium reductions and surcharges.
-        2346.   Reduction in rates of fire insurance or homeowners
-                  insurance premiums for residential property.
+        2346.   Reduction in rates of fire insurance, homeowners
+                  insurance or property/casualty premiums for
+                  residential property.
         2346-a. Reduction in rates of certain commercial risk insurance
                   premiums for real property.
         2347.   Workers' compensation rate changes.
