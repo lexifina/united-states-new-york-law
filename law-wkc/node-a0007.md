@@ -14,7 +14,7 @@ Section 110.   Record and report of injuries by employers.
         117.   Rules.
         118.   Technical rules of evidence or procedure not required.
         119.   Subpoenas.
-        120.   Discrimination against employees who bring proceedings.
+        120.   Discrimination against employees.
         121.   Depositions.
         121-a. Proof of dependency in foreign countries.
         122.   Transcripts.
