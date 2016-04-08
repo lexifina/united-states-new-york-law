@@ -203,5 +203,5 @@ center, approved preschool special education program, Head Start or
 other such community-based organization.
   16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
-thousand sixteen; provided that the program shall continue and remain in
-full effect.
+thousand seventeen; provided that the program shall continue and remain
+in full effect.

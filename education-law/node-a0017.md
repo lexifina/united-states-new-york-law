@@ -18,7 +18,7 @@ Section 801.    Courses of instruction in patriotism and citizenship and
         806.    Courses of instruction in highway safety and traffic
                   regulation; school safety patrols.
         806-a.  Driver education.
-        807.    Fire drills.
+        807.    Fire and emergency drills.
         807-a.  Fire inspections.
         807-b.  College fire inspections.
         807-c.  Transmission of fire alarm to fire department.
