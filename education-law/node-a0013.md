@@ -12,3 +12,4 @@ Section 601.   Definitions.
         608.   World trade center memorial scholarships.
         608-a. Military enhanced recognition, incentive and tribute
                  ("MERIT") scholarships.
+        609.   Tuition, aid and placement report.
