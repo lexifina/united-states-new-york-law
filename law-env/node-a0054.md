@@ -10,3 +10,4 @@ Title  1. General provisions
             rehabilitation projects
       13. Long Island central pine barrens area and south shore estuary
             reserve planning
+      15. Climate smart community projects
