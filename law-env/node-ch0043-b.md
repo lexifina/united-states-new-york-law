@@ -89,7 +89,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 52-0101 to 52-0911).
         53.   Tree conservation and urban forestry
                 (§ 53-0101 to 53-0307).
-        54.   Environmental protection act (§ 54-0101 to 54-1303).
+        54.   Environmental protection act (§ 54-0101 to 54-1523).
         55.   Sole source aquifer protection (§ 55-0101 to 55-0119).
         56.   Implementation of the clean water/clean air bond act of
                 1996 (§ 56-0101 to 56-0611).
