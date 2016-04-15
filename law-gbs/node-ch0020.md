@@ -162,4 +162,5 @@ AN ACT relating to general business, constituting chapter twenty of the
                     information (§ 899-aa).
          39-G.    Document destruction contractors
                     (§§ 899-aaa--899-bbb).
-         40.      Laws repealed; when to take effect (§§ 900-901).
+         41.      Combative sports (§§ 1000-1022).
+         43.      Laws repealed; when to take effect (§§ 1200-1201).
