@@ -1,4 +1,4 @@
-  § 258-aa. Declaration of policy.  (a) It is hereby declared that the
+  * § 258-aa. Declaration of policy. (a) It is hereby declared that the
 dairy industry is a paramount agricultural industry of this state, and
 is an industry affecting the health and welfare of the inhabitants of
 the state; that the continued existence of the dairy industry and the
@@ -13,7 +13,7 @@ essential that consumers and others be adequately informed as to the
 dietary needs and advantages of milk and dairy products and as to the
 economies resulting from the use of milk and dairy products, and to
 command for milk and dairy products, consumer attention and demand
-consistent with their importance and value.  It is further declared that
+consistent with their importance and value. It is further declared that
 continued decline in the consumption of fluid milk and some other dairy
 products will jeopardize the production of adequate supplies of milk and
 dairy products because of increasing surpluses necessarily returning
@@ -288,3 +288,4 @@ being compelled to allege or prove that an adequate remedy at law does
 not exist. Such application shall be made to the supreme court in any
 district or county provided in the civil practice law or rules, or to
 the supreme court in the third judicial district.
+  * NB Repealed July 11, 2016
