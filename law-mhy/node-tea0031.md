@@ -19,6 +19,7 @@ Section 31.01  Evaluation of services for the mentally disabled.
         31.17  Formal hearings; procedure.
         31.19  Confinement, care, and treatment of the mentally
                  disabled.
+        31.20  Temporary operator.
         31.21  Injunction and temporary restraining order.
         31.22  Approval of certain certificates of incorporation or
                  articles of organization; granting of operating
