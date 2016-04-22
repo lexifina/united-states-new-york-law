@@ -17,9 +17,10 @@ legislature:
   a. eighty percent of the moneys in such fund shall be appropriated or
 transferred only for elementary and secondary education or real property
 tax relief.
-  b. ten percent of the moneys in such fund shall be appropriated or
-transferred from the commercial gaming revenue fund equally between the
-host municipality and host county.
+  b. ten percent of the moneys in such fund, as attributable to a
+specific licensed gaming facility, shall be appropriated or transferred
+from the commercial gaming revenue fund equally between the host
+municipality and host county of such facility.
   c. ten percent of the moneys in such fund, as attributable to a
 specific licensed gaming facility, shall be appropriated or transferred
 from the commercial gaming revenue fund among counties within the
