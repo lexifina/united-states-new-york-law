@@ -7,15 +7,15 @@ Section 300.   Declaration of legislative findings and intent.
         303-a. Agricultural districts; review.
         303-b. Agricultural districts; inclusion of viable agricultural
                  land.
-        304.   Unique and irreplaceable agricultural lands; creation of
-                 districts.
+        303-c. Consolidation of agricultural districts.
         304-a. Agricultural assessment values.
         304-b. Agricultural district data reporting.
         305.   Agricultural districts; effects.
         305-a. Coordination of local planning and land use
                  decision-making with the agricultural districts
                  program.
-        305-b. Review of proposed rules and regulations of state
+        305-b. Agricultural data statement.
+        305-c. Review of proposed rules and regulations of state
                  agencies affecting the agricultural industry.
         306.   Agricultural lands outside of districts; agricultural
                  assessments.
