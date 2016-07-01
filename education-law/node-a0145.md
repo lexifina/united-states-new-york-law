@@ -13,13 +13,14 @@ Section 7200.   Introduction.
         7204-a. Definition of the profession of geology.
         7204-b. Practice of geology and the use of title "professional
                   geologist".
-        7205.   State board for engineering and land surveying.
+        7205.   State board for engineering, land surveying and geology.
         7206.   Requirements for a license as professional engineer.
         7206-a. Requirements for a license as a professional land
                   surveyor.
         7206-b. Requirements for a license as a professional geologist.
         7207.   Limited permits.
-        7208.   Exempt persons.
+        7208.   Exempt persons for the professions of engineering and
+                  land surveying.
         7208-a. Exempt persons in or related to the profession of
                   geology.
         7209.   Special provisions.

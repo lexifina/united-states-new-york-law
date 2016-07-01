@@ -30,6 +30,7 @@ Section 6509.   Definitions of professional misconduct.
         6509-c. Additional definition of professional misconduct;
                   failure to comply in paternity or child support
                   proceedings; limited application.
+        6509-d. Limited exemption from professional misconduct.
         6510.   Proceedings in cases of professional misconduct.
         6510-b. Temporary surrender of licenses during treatment for
                   drug or alcohol abuse.

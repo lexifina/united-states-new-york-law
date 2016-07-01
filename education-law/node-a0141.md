@@ -8,6 +8,6 @@ Section 7000. Introduction.
         7005. Exempt persons.
         7006. Special provision.
         7007. Limited permits.
-        7008. Limited residency permits.
+        7008. Limited residency permits and limited fellowship permits.
         7009. Podiatric ankle surgery privileges.
         7010. Ankle surgery limited permits.
