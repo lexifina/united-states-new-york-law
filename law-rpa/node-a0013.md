@@ -8,6 +8,12 @@ Section 1301. Separate action for mortgage debt.
         1305. Notice to tenants.
         1306. Filing with superintendent.
         1307. Duty to maintain foreclosed property.
+        1308. Inspecting, securing and maintaining vacant and abandoned
+                residential real property.
+        1309. Expedited application for judgment of foreclosure and sale
+                for vacant and abandoned property.
+        1310. Vacant and abandoned property; statewide vacant and
+                abandoned property electronic registry.
         1311. Necessary defendants.
         1312. Representative defendants.
         1313. Permissible defendants.
