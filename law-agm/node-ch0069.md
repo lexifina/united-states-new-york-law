@@ -82,7 +82,6 @@ Article   1.      Short title; definitions; matters of public interest
          23.      Direct marketing (§§ 281--284-a).
          24.      Promotion of agriculture and domestic arts;
                     agricultural societies (§§ 286-290).
-         25.      Marketing of agricultural products (§§ 292-295).
          25-A.    Food and agricultural industry development
                     (§§ 296-297)
          25-AA.   Agricultural districts (§§ 300-310).
