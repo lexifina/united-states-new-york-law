@@ -84,6 +84,10 @@
                  the infusion of such blood products which result in the
                  contraction of the human immunodeficiency virus (HIV)
                  and/or AIDS.
+        214-f. Action to recover damages for personal injury caused by
+                 contact with or exposure to any substance or
+                 combination of substances found within an area
+                 designated as a superfund site.
         215.   Actions to be commenced within one year: against sheriff,
                  coroner or constable; for escape of prisoner; for
                  assault, battery, false imprisonment, malicious
