@@ -38,8 +38,8 @@ Article 14.   Probate Proceedings; Construction of Wills;
 Article 15.   Trusts and Trustees  ..........................  1501-1509
 Article 16.   Foreign Estates  ..............................  1601-1616
 Article 17.   Guardians and Custodians  .....................  1701-1727
-Article 17-A. Guardians of mentally retarded and
-              developmentally disabled persons ..............  1750-1761
+Article 17-A. Guardians of Persons Who Are Intellectually
+              Disabled and Developmentally Disabled  ........  1750-1761
 Article 18.   Claims; Payment of Debts and Funeral
               Expenses  .....................................  1802-1814
 Article 19.   Disposition of Real Property  .................  1901-1923
