@@ -24,6 +24,7 @@ Section 300.   Findings and declaration of emergency.
         311-a. Termination of motor vehicle lease contracts.
         311-b. Cancellation without penalty of certain additional rental
                  contracts.
+        311-c. Termination without penalty of certain service contracts.
         312.   Mortgages.
         313.   Settlement of cases involving stayed proceeding in
                  foreclosure or repossession of personal property.
