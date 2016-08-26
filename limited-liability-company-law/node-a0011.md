@@ -5,3 +5,4 @@ Section 1101. Fees.
         1103. Transactions of business outside the state.
         1104. Limited liability companies prohibited from interposing
                 defense of usury.
+        1105. Limited liability geology company.
