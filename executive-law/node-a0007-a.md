@@ -9,6 +9,10 @@ Section 171-a. Definitions.
                  secretary of state as agent for service of process;
                  service of process.
         172-d. Prohibited activity.
+        172-e. Disclosure of certain donations by charitable non-profit
+                 entities.
+        172-f. Disclosure of certain activities by non-charitable
+                 non-profit entities.
         173.   Professional fund-raisers, commercial co-venturers and
                  fund raising counsel.
         173-a. Contracts of professional fund raisers, fund raising
