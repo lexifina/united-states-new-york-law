@@ -535,7 +535,7 @@ Section 14-100. Definitions.
         14-127. Notice of civil penalty to authorizing candidate.
         14-128. Disposition of anonymous contributions.
         14-130. Campaign funds for personal use.
-                14-132. Disposition of campaign funds.
+        14-132. Disposition of campaign funds.
                                ARTICLE 15
                             VILLAGE ELECTIONS
 Section 15-100. Application of article.
