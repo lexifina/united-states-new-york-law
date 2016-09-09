@@ -1,4 +1,4 @@
-                              * ARTICLE 41
+                               ARTICLE 41
                             COMBATIVE SPORTS
 Section 1000. Definitions.
         1001. Combative sports authorized.
@@ -23,4 +23,3 @@ Section 1000. Definitions.
         1020. Subpoenas by commission; oaths.
         1021. Exceptions.
         1022. Disposition of receipts.
-  * NB Effective September 1, 2016
