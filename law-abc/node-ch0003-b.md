@@ -7,7 +7,7 @@ Article  1.   Short title; policy of state and purpose of chapter;
          4-A. Special provisions relating to cider. (§§ 58--59-a.)
          5.   Special provisions relating to liquor. (§§ 60-67.)
          6.   Special provisions relating to wine. (§§ 75-85.)
-         7.   Special permits. (§§ 90--99-g.)
+         7.   Special permits. (§§ 90--99-h.)
          8.   General provisions. (§§ 100-131.)
          9.   Local option. (§§ 140-147.)
         10.   Special provisions relating to illicit alcoholic beverages
