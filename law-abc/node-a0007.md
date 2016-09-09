@@ -23,3 +23,4 @@ Section 90.    Kinds of permits.
         99-e.  Change in duration of permits.
         99-f.  Special permits for minors to entertain.
         99-g.  Sale of privately held wines and liquors.
+        99-h.  Sunday on-premises sales permit.
