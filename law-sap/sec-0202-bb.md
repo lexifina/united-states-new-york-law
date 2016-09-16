@@ -85,7 +85,7 @@ with subdivision three of this section.
 section, an agency may provide either a quantifiable or numerical
 description of the effects of a rule or more general descriptive
 statements if quantification is not practicable or reliable.
-  7. When any rule is proposed for which a rural area flexibility
+  * 7. When any rule is proposed for which a rural area flexibility
 analysis is required, the agency shall assure that public and private
 interests in rural areas have been given an opportunity to participate
 in the rule making through such activities as:
@@ -97,6 +97,20 @@ the proposed rule for those public and private interests affected by the
 rule; and
   (iv) the adoption or modification of agency procedural rules that will
 minimize the cost or complexity of participation in the rule making.
+  * NB Effective until January 1, 2017
+  * 7. When any rule is proposed for which a rural area flexibility
+analysis is required, the agency shall assure that public and private
+interests in rural areas have been given an opportunity to participate
+in the rule making through such activities as:
+  (a) the publication of a general notice of the proposed rule making;
+  (b) notification of public and private interests in rural areas
+directly affected by the proposed rule;
+  (c) the conduct of special public hearings or meetings concerning the
+proposed rule for those public and private interests affected by the
+rule; and
+  (d) the adoption or modification of agency procedural rules that will
+minimize the cost or complexity of participation in the rule making.
+  * NB Effective January 1, 2017
   8. Each agency shall issue a revised rural area flexibility analysis
 when:
   (a) the information presented in the analysis submitted pursuant to
