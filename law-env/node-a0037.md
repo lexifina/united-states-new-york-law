@@ -11,7 +11,7 @@ Section 37-0101. Definitions.
         37-0109. Chromated copper arsenate pressure treated lumber;
                    public facilities.
         37-0111. Prohibition against brominated flame retardants.
-        37-0113. Lead wheel weight; prohibited.
+        37-0113. Lead and mercury-added wheel weights; prohibited.
                                 TITLE II
                            HAZARDOUS PACKAGING
 Section 37-0201. Legislative findings and intent.
