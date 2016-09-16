@@ -5,27 +5,40 @@
                SHORT TITLE, CONSTRUCTION, APPLICATION AND
                         SUBJECT MATTER OF THE ACT
 Section 1--101. Short Title
-        1--102. Purposes; Rules of Construction; Variation by Agreement
-        1--103. Supplementary General Principles of Law Applicable
-        1--104. Construction Against Implicit Repeal
-        1--105. Territorial Application of the Act; Parties' Power to
-                  Choose Applicable Law
-        1--106. Remedies to Be Liberally Administered
-        1--107. Waiver or Renunciation of Claim or Right After Breach
-        1--108. Severability
-        1--109. Section Captions and Subsection Headings
+        1--102. Scope of Article
+        1--103. Construction of Uniform Commercial Code to Promote its
+                  Purposes and Policies; Applicability of Supplemental
+                  Principles of Law
+        1--104. Construction Against Implied Repeal
+        1--105. Severability
+        1--106. Use of Singular and Plural; Gender
+        1--107. Section Captions
+        1--108. Relation to Electronic Signatures in Global and National
+                  Commerce Act
                                   PART 2
           GENERAL DEFINITIONS AND PRINCIPLES OF INTERPRETATION
 Section 1--201. General Definitions
-        1--202. Prima Facie Evidence by Third Party Documents
-        1--203. Obligation of Good Faith
-        1--204. Time; Reasonable Time; "Seasonably"
-        1--205. Course of Dealing and Usage of Trade
-        1--206. Statute of Frauds for Kinds of Personal Property Not
+        1--202. Notice; Knowledge
+        1--203. Lease Distinguished From Security Interest
+        1--204. Value
+        1--205. Reasonable Time; Seasonableness
+        1--206. Presumptions
+        1--207. Statute of Frauds for Kinds of Personal Property Not
                   Otherwise Covered
-        1--207. Performance or Acceptance Under Reservation of Rights
-        1--208. Option to Accelerate at Will
-        1--209. Subordinated obligations
+                                          PART 3
+                        TERRITORIAL APPLICABILITY AND GENERAL RULES
+        1--301. Territorial Applicability; Parties' Power to Choose
+                  Applicable Law
+        1--302. Variation by Agreement
+        1--303. Course of Performance, Course of Dealing, and Usage of
+                  Trade
+        1--304. Obligation of Good Faith
+        1--305. Remedies to be Liberally Administered
+        1--306. Waiver or Renunciation of Claim or Right After Breach
+        1--307. Prima Facie evidence by Third-party Documents
+        1--308. Performance or Acceptance Under Reservation of Rights
+        1--309. Option to Accelerate at Will
+        1--310. Subordinated Obligations
                                  ARTICLE 2
                                   SALES
                                  PART 1
@@ -194,7 +207,6 @@ Section 2-A-201. Statute of Frauds
         2-A-204. Formation in General
         2-A-205. Firm Offers
         2-A-206. Offer and Acceptance in Formation of Lease Contract
-        2-A-207. Course of Performance or Practical Construction
         2-A-208. Modification, Rescission and Waiver
         2-A-209. Lessee Under Finance Lease as Beneficiary of Supply
                    Contract
@@ -551,41 +563,37 @@ Section 5--101. Short title
         5--119. Applicability
         5--120. Savings clause
                                  ARTICLE 7
-                   WAREHOUSE RECEIPTS, BILLS OF LADING
-                      AND OTHER DOCUMENTS OF TITLE
+                           DOCUMENTS OF TITLE
                                   PART 1
                                  GENERAL
 Section 7--101. Short Title
         7--102. Definitions and Index of Definitions
-        7--103. Relation of Article to Treaty, Statute, Tariff,
-                  Classification or Regulation
-        7--104. Negotiable and Non-Negotiable Warehouse Receipt, Bill of
-                  Lading or Other Document of Title
-        7--105. Construction Against Negative Implication
+        7--103. Relation of Article to Treaty or Statute
+        7--104. Negotiable and Nonnegotiable Document of Title
+        7--105. Reissuance in Alternative Medium
+        7--106. Control of Electronic Document of Title
                                   PART 2
                  WAREHOUSE RECEIPTS: SPECIAL PROVISIONS
-Section 7--201. Who May Issue a Warehouse Receipt; Storage Under
-                  Government Bond
-        7--202. Form of Warehouse Receipt; Essential Terms; Optional
-                  Terms
-        7--203. Liability for Non-Receipt or Misdescription
-        7--204. Duty of Care; Contractual Limitation of Warehouseman's
+Section 7--201. Person That May Issue a Warehouse Receipt; Storage Under
+                  Bond
+        7--202. Form of Warehouse Receipt; Effect of Omission
+        7--203. Liability for Nonreceipt or Misdescription
+        7--204. Duty of Care; Contractual Limitation of Warehouse's
                   Liability
         7--205. Title Under Warehouse Receipt Defeated in Certain Cases
-        7--206. Termination of Storage at Warehouseman's Option
+        7--206. Termination of Storage at Warehouse's Option
         7--207. Goods Must be Kept Separate; Fungible Goods
         7--208. Altered Warehouse Receipts
-        7--209. Lien of Warehouseman
-        7--210. Enforcement of Warehouseman's Lien
-        7--211. Proceeding to Determine Validity of Lien
+        7--209. Lien of Warehouse
+        7--210. Enforcement of Warehouse's Lien
                                   PART 3
                    BILLS OF LADING: SPECIAL PROVISIONS
-Section 7--301. Liability for Non-Receipt or Misdescription; "Said to
-                  Contain"; "Shipper's Load and Count"; Improper
-                  Handling
-        7--302. Through Bills of Lading and Similar Documents
+Section 7--301. Liability for Nonreceipt or Misdescription; "Said to
+                  Contain"; "Shipper's Weight, Load, and Count";
+                  Improper Handling
+        7--302. Through Bills of Lading and Similar Documents of Title
         7--303. Diversion; Reconsignment; Change of Instructions
-        7--304. Bills of Lading in a Set
+        7--304. Tangible Bills of Lading in a Set
         7--305. Destination Bills
         7--306. Altered Bills of Lading
         7--307. Lien of Carrier
@@ -596,29 +604,29 @@ Section 7--301. Liability for Non-Receipt or Misdescription; "Said to
        WAREHOUSE RECEIPTS AND BILLS OF LADING: GENERAL OBLIGATIONS
 Section 7--401. Irregularities in Issue of Receipt or Bill or Conduct of
                   Issuer
-        7--402. Duplicate Receipt or Bill; Overissue
-        7--403. Obligation of Warehouseman or Carrier to Deliver; Excuse
-        7--404. No Liability for Good Faith Delivery Pursuant to Receipt
-                  or Bill
+        7--402. Duplicate Document of Title; Overissue
+        7--403. Obligation of Bailee to Deliver; Excuse
+        7--404. No Liability for Good-Faith Delivery Pursuant to
+                  Document of Title
                                   PART 5
     WAREHOUSE RECEIPTS AND BILLS OF LADING: NEGOTIATION AND TRANSFER
-Section 7--501. Form of Negotiation and Requirements of "Due
-                  Negotiation"
+Section 7--501. Form of Negotiation and Requirements of Due Negotiation
         7--502. Rights Acquired by Due Negotiation
         7--503. Document of Title to Goods Defeated in Certain Cases
-        7--504. Rights Acquired in the Absence of Due Negotiation;
-                  Effect of Diversion; Seller's Stoppage of Delivery
+        7--504. Rights Acquired in Absence of Due Negotiation; Effect of
+                  Diversion; Stoppage of Delivery
         7--505. Indorser Not a Guarantor for Other Parties
         7--506. Delivery Without Indorsement: Right to Compel
                   Indorsement
-        7--507. Warranties on Negotiation or Transfer of Receipt or Bill
-        7--508. Warranties of Collecting Bank as to Documents
-        7--509. Receipt or Bill: When Adequate Compliance With
-                  Commercial Contract
+        7--507. Warranties on Negotiation or Delivery of Document of
+                  Title
+        7--508. Warranties of Collecting Bank as to Documents of Title
+        7--509. Adequate Compliance With Commercial Contract
                                   PART 6
     WAREHOUSE RECEIPTS AND BILLS OF LADING: MISCELLANEOUS PROVISIONS
-Section 7--601. Lost and Missing Documents
-        7--602. Attachment of Goods Covered by a Negotiable Document
+Section 7--601. Lost, Stolen, or Destroyed Documents of Title
+        7--602. Judicial Process Against Goods Covered by Negotiable
+                  Document of Title
         7--603. Conflicting Claims; Interpleader
                                  ARTICLE 8
                           INVESTMENT SECURITIES
@@ -788,8 +796,7 @@ Section 9--308. When Security Interest or Agricultural Lien Is
         9--314. Perfection by Control
         9--315. Secured Party's Rights on Disposition of Collateral and
                   in Proceeds
-        9--316. Continued Perfection of Security Interest Following
-                  Change in Governing Law
+        9--316. Effect of Change in Governing Law
                             SUBPART 3. PRIORITY
 Section 9--317. Interests That Take Priority over or Take Free of
                   Security Interest or Agricultural Lien
