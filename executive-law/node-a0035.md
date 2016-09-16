@@ -12,6 +12,7 @@ Section 835.     Definitions.
         837-e.   Statewide central register for missing children.
         837-f.   Missing and exploited children clearinghouse.
         837-f-1. Missing vulnerable adults clearinghouse.
+        837-f-2. Missing adults.
         837-g.   Livery vehicle safety training program establishment.
         837-h.   Livery vehicle safety training program; standards;
                    eligibility; reports.
