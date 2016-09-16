@@ -68,6 +68,8 @@ Section 70.     Payment of judgments against municipal corporation.
         77-e.   Baseball field fence leases in Yates county.
         77-f.   Sports field fence leases in the town of Sweden, Monroe
                   county.
+        77-g.   Sports field fence leases in the city of Rye,
+                  Westchester county.
         78.     Insurance of property.
         78-b.   Demolition and removal of unsafe structures.
         80.     Discrimination against non-residents.
