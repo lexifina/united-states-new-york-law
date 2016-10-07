@@ -27,5 +27,7 @@ Article  1.   General provisions. (§§ 1-1.1--1-2.20)
                 distributees and testamentary beneficiaries. (§§
                 12-1.1--12-2.5)
         13.   Other provisions affecting estates. (§§ 13-1.1--13-4.12)
+        13-A. Administration of digital assets summary of article.  (§§
+                13-A-1--13-A-5.2)
         14.   Repealer; Derivation and Distribution Tables; Effective
                 Date. (§§ 14-1.1--14-3.1)
