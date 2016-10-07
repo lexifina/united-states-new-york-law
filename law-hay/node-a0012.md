@@ -226,6 +226,8 @@ Section 340-a.     Designation of state interstate routes.
                      Bridge".
         343-cc*2.  Portion of the state highway system to be designated
                      as the "Corey J. Swinson Memorial Bridge".
+        343-ccc.   Portion of the state highway system to be designated
+                     as the "Corporal Tony Casamento Memorial Bridge".
         343-d.     Portion of state highway system to be designated as
                      the "Jackie Robinson Parkway".
         343-e.     Portion of state highway system in the county of
@@ -579,4 +581,38 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Henrietta Veterans Memorial Highway".
         344-d*16.  Portion of the state highway system to be designated
                      as the "Brighton Veterans Memorial Highway".
+        344-e.     Portion of the state highway system to be designated
+                     as the "West Seneca Veterans Memorial Highway".
+        344-e*2.   Portion of the state highway system to be designated
+                     as the "Private First Class Douglas Cordo Memorial
+                     Highway".
+        344-e*3.   Portion of the state highway system to be designated
+                     as the "Col. David Ireland Memorial Highway".
+        344-e*4.   Portion of the state highway system to be designated
+                     as the "U.S. Navy Seabee Parkway".
+        344-e*5.   Portion of the state highway system to be designated
+                     as the "6994th Security Squadron Memorial Highway".
+        344-e*6.   Portion of the state highway system to be designated
+                     as "John Spear Way".
+        344-e*7.   Portion of the state highway system to be designated
+                     as the "Sergeant Kevin W. White Memorial Bridge".
+        344-e*8.   Portion of the state highway system to be designated
+                     as the "Marine Lance Corporal James J. Jackowski
+                     Memorial Highway".
+        344-e*9.   Portion of the state highway system to be designated
+                     as the "United States Submarine Veterans' Memorial
+                     Highway-Saratoga County".
+        344-e*10.  Portion of the state highway system to be designated
+                     as the "Corporal Nicholas K. Uzenski Memorial
+                     Highway".
+        344-e*11.  Portion of state highway system to be designated as
+                     the "Corey Lee Carr Memorial Bridge".
+        344-e*12.  Portion of the state highway system to be designated
+                     as the "Wayne C. Speenburgh Memorial Highway".
+        344-e*13.  Portion of the state highway system to be designated
+                     as the "Private First Class Duane C. Scott Memorial
+                     Highway".
+        344-e*14.  Portion of the state highway system to be designated
+                     as the "Army Captain Clayton Carpenter Memorial
+                     Highway".
         345-a.     Abandonment and transfer of state highways.
