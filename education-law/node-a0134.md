@@ -1,4 +1,4 @@
-                              * ARTICLE 134
+                               ARTICLE 134
                          LICENSED PERFUSIONISTS
 Section 6630. Definitions.
         6631. Practice of perfusion and use of title "licensed
@@ -8,4 +8,3 @@ Section 6630. Definitions.
         6634. State committee for perfusion.
         6635. Limited permits.
         6636. Exempt persons.
-  * NB Effective October 21, 2016
