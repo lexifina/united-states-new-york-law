@@ -9,7 +9,7 @@ Assembly, do enact as follows:
 Article  1.   Introductory provisions; definitions (Sec. 1-4).
          2.   Miscellaneous application provisions (Secs. 8-14).
          3.   Multiple dwellings--general provisions (Sec. 25-84).
-         4.   Fireproof multiple dwellings (Sec. 100-120).
+         4.   Fireproof multiple dwellings (Sec. 100-121).
          5.   Non-fireproof multiple dwellings (Sec. 140-160).
          5-A. Garden-type maisonette dwelling projects (Sec. 161-163).
          6.   Converted dwellings (Sec. 170-200).
