@@ -146,6 +146,8 @@ Section 390.       Substitution of spurious oils for internal combustion
         398-c.     Children attending roller skating rinks and indoor
                      ice skating rinks under certain conditions.
         398-d.     Disposal of abandoned molds.
+        398-e.     Indemnity provision in motor carrier transportation
+                     contracts.
         399.       Cigarette package labeling.
         399-a.     Pay toilets; prohibition.
         399-aa.    Prohibition of the selling of fur, hair, skin or
