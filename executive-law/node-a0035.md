@@ -34,6 +34,9 @@ Section 835.     Definitions.
         837-q.   Payments to Westchester county for policing special
                    parkways.
         837-r.   Office of sex offender management.
+        837-s.   Search for sex offense conviction records of emergency
+                   medical technician and other first responder
+                   applicants.
         838.     Identification of unknown dead and missing persons.
         839.     Municipal police training council.
         840.     Functions, powers and duties of council.
