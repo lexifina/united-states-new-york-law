@@ -21,11 +21,6 @@ itself.
 value of "real fur" shall have certain disclosures on the label required
 in this section so as not to be considered misbranded under 15 U.S.C.
 69b.
-  * 4. A violation of this section shall be punishable by a fine of not
-more than five hundred dollars for the first violation and not more than
-one thousand dollars for each subsequent violation.
-  * NB Effective until November 17, 2016
-  * 4. A violation of this section shall be punishable by a fine of not
+  4. A violation of this section shall be punishable by a fine of not
 more than one thousand dollars for the first violation and not more than
 two thousand dollars for each subsequent violation.
-  * NB Effective November 17, 2016
