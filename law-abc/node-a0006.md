@@ -9,6 +9,7 @@ Section 75.   Kinds of licenses.
         76-e. Special provisions relating to wineries and farm wineries
                 holding a distiller's license.
         76-f. Roadside farm market license.
+        77.   Custom winemakers' center.
         78.   Wholesaler's wine license.
         79.   Seven day license to sell wine at retail for consumption
                 off the premises.
