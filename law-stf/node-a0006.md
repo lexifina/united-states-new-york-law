@@ -19,6 +19,7 @@ Section 70.        Classification of funds.
                      default reserve fund.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
+        81.        Veterans' home assistance fund.
         83.        Conservation fund.
         83-a.      Habitat conservation and access account.
         84.        The United States Olympic Committee/Lake Placid
