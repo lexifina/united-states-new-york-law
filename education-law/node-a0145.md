@@ -1,8 +1,5 @@
                                ARTICLE 145
-                    * ENGINEERING AND LAND SURVEYING
-  * NB Effective until November 21, 2016
-                 * ENGINEERING, LAND SURVEYING AND GEOLOGY
-  * NB Effective November 21, 2016
+                 ENGINEERING, LAND SURVEYING AND GEOLOGY
 Section 7200.   Introduction.
         7201.   Definition of practice of engineering.
         7202.   Practice of engineering and use of title "professional
