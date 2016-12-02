@@ -275,3 +275,4 @@ Section 70.        Classification of funds.
         99-y.      SUNY Stony Brook Affiliation escrow fund.
         99-y*2.    Health republic insurance of New York fund.
         99-y*3.    Highway use tax administration account.
+        99-z.      Cure childhood cancer research fund.
