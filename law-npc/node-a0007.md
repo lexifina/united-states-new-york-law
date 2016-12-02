@@ -22,7 +22,7 @@ Section 701.   Board of directors.
         717.   Duty of directors and officers.
         718.   List of directors and officers.
         719.   Liability of directors in certain cases.
-        720.   Actions against directors, officers and key employees.
+        720.   Actions against directors, officers and key persons.
         720-a. Liability of directors, officers and trustees.
         721.   Nonexclusivity of statutory provisions for
                  indemnification of directors and officers.
