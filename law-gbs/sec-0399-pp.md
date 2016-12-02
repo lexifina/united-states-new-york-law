@@ -66,6 +66,14 @@ Telemarketing does not include the solicitation of sales through any
 media other than by telephone calls.
   l. "Secretary" shall mean the secretary of state.
   m. "Department" shall mean the department of state.
+  n. "Caller identification information" means information provided by a
+caller identification service regarding the telephone number and name of
+the person calling.
+  o. "Caller identification service" means a service that allows a
+telephone subscriber to have the telephone number, and, where available,
+name of the calling party transmitted contemporaneously with the
+telephone call, and displayed on a device in or connected to the
+subscriber's telephone.
   3. Registration of telemarketers. a. No person shall act as a
 telemarketer without first having received a certificate of registration
 from the secretary as provided in this section. Employees of
@@ -312,6 +320,14 @@ location; or
 requirements of subdivision six of this section to a customer, or to
 engage in any deceptive or unfair act or practice in association with
 telemarketing.
+  7-a. Unlawful transmission of certain caller identification
+information.  It shall be unlawful for any telemarketer or seller to
+cause any caller identification service to knowingly transmit
+misleading, inaccurate, or false caller identification information,
+provided that it shall not be a violation to substitute (for the name
+and phone number used in, or billed for, making the call) the name or
+telephone number of the person or seller on behalf of which a
+telemarketing call is placed.
   8. Recordkeeping requirements. a. All telemarketers shall keep for a
 period of twenty-four months from the date the record is produced
 records of all financial transactions, written notices, disclosures and
