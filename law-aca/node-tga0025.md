@@ -12,7 +12,7 @@ Section 25.01. Legislative findings.
         25.19. Posting of license or certificate.
         25.21. Change of office location.
         25.23. Posting of price lists; information to purchaser.
-        25.24. Automated ticket purchasing software.
+        25.24. Ticket purchasing software.
         25.25. Records of purchases and sales.
         25.27. Commissions to employees of places of entertainment.
         25.29. Unlawful charges in connection with tickets.
