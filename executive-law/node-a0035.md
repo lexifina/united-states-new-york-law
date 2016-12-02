@@ -38,6 +38,7 @@ Section 835.     Definitions.
                    medical technician and other first responder
                    applicants.
         838.     Identification of unknown dead and missing persons.
+        838-a.   Maintenance of sexual offense evidence kits.
         839.     Municipal police training council.
         840.     Functions, powers and duties of council.
         841.     Functions, powers and duties of the commissioner with
