@@ -9,5 +9,6 @@ Section  5.   Department of civil service; state civil service
                 workforce.
          8.   Offices of department; rooms and accommodations.
          9.   Attendance of witnesses; fees.
-        11.   Assessment of certain expenses of administration of the
+         11.  Assessment of certain expenses of administration of the
                 department of civil service.
+         12.  Recruitment of women to state civil service initiative
