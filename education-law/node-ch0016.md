@@ -229,6 +229,7 @@ Article
              (§§ 8600-8610.)
   166      Medical physics practice (§§ 8700-8709)
   167      Applied behavior analysis (§§ 8800-8808)
+  168      Licensed pathologists' assistants (§§ 8850-8856)
                                 TITLE IX
             LAWS REPEALED; SAVING CLAUSE; WHEN TO TAKE EFFECT
   170      Laws repealed; saving clause; when to take effect
