@@ -40,6 +40,7 @@ Section 19.01   Declaration of policy.
         19.27   Methamphetamine awareness and education program.
         19.28   Receipt and disbursement of federal funds.
         19.29   Gifts.
+        19.31   Medication assisted treatment training requirement.
         19.35   Actions against persons rendering professional services
                   at the request of the office; defense and
                   indemnification.
