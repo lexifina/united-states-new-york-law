@@ -6,7 +6,7 @@ Article
      1.   Short title (§ 1.01)
                                  TITLE B
                           PROMOTION OF THE ARTS
-     3.   Council on the arts (§§ 3.01-3.15)
+     3.   Council on the arts (§§ 3.01-3.19)
      4.   State Plaza Art Commission (§§ 4.01-4.11)
      5.   Art commission (§§ 5.01-5.05)
      7.   New York state summer school of the arts (§§ 7.01-7.15)
