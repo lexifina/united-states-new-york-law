@@ -470,6 +470,7 @@ Section 11-300. Special ballots on account of religious scruples.
         11-302. Special ballots for board of election employees.
         11-304. Special ballots; method of casting and counting.
         11-306. Special ballots; victims of domestic violence.
+        11-308. Special ballots for emergency responders.
                                ARTICLE 12
            PRESIDENTIAL ELECTORS AND FEDERAL ELECTED OFFICERS
                                  TITLE I
