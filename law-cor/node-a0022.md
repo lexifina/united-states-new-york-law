@@ -34,3 +34,4 @@ Section 600.   Certain correctional officers to administer oaths.
                  agencies of other states and the federal government.
         622.   Sex offender treatment program.
         623.   Inmate telephone services.
+        624.   Next of kin; death of inmate.
