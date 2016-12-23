@@ -44,7 +44,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                 (§§ 350-361).
         16.   Provisions relating to mentally ill inmates (§§ 400-405).
         20.   Local correctional facilities (§§ 500-529).
-        22.   Miscellaneous provisions (§§ 600-623).
+        22.   Miscellaneous provisions (§§ 600-624).
         22-A. Prisoner furloughs (§§ 630-634).
         22-B. The death penalty (§§ 650-662).
         23.   Discretionary relief from forfeitures and disabilities
