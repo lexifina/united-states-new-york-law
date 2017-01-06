@@ -1,20 +1,20 @@
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2015-2016
-Rules  of  the  Senate  for  the  year  2015-2016,  as adopted by Senate
-Resolution number 5 of 2015.
+                                2017-2018
+Rules  of  the  Senate  for  the  year  2017-2018,  as adopted by Senate
+Resolution number 4 of 2017.
   Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
 Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
 and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  number 2775 (Senate) and number 787
 (Assembly) of 2009.
-                                 1/7/15
-RESOLVED,  That  the  rules  of  the  Senate for the years 2015-2016 are
+                                 1/5/17
+RESOLVED,  That  the  rules  of  the  Senate for the years 2017-2018 are
 hereby adopted to read as follows:
                            RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2015-2016
+                                2017-2018
                                  RULE I
 THE PRESIDENT
   Section 1. The Lieutenant Governor of the State shall be President  of
@@ -28,16 +28,15 @@ conference shall be filed in the Senate Journal.   The leaders  of  such
 conferences, referred to in these rules as Conference Leaders, shall not
 serve  in  their  respective capacities for longer than eight years. The
 Republican Conference and the Independent  Democratic  Conference  shall
-together  comprise  the  Coalition. The Republican Conference Leader and
-the Independent Democratic  Conference  Leader  shall  together  be  the
-Coalition Leaders.
+together  comprise  the  Majority  Coalition.  The Republican Conference
+Leader and the Independent Democratic Conference Leader  shall  together
+be the Majority Coalition Leaders.
   §  2. The Independent Democratic Conference Leader. a. The Independent
-Democratic Conference Leader may lay aside one bill on an  active  list.
-Bills  laid  aside by the Independent Democratic Conference Leader shall
-continue to retain their place in the regular order  of  business  until
-called for debate by the Temporary President.
-  b.  The  Independent Democratic Conference Leader may request bills be
-placed on an active list. Any such bill placed on an active  list  shall
+Democratic Conference Leader shall,  as  a  Majority  Coalition  Leader,
+together  with  the  Temporary  President  of  the Senate, execute these
+rules.
+  b. The Independent Democratic Conference Leader may request  bills  be
+placed  on  an active list. Any such bill placed on an active list shall
 be starred as appearing thereon pursuant to his or her request.
                                 RULE III
 THE TEMPORARY PRESIDENT
@@ -49,7 +48,7 @@ and who shall preside, or designate some other  member  to  preside,  in
 case  of  the  absence from the Chamber or impeachment of the Lieutenant
 Governor, or when he or she shall refuse to act as President,  or  shall
 act as Governor.  The Temporary President shall exercise such powers and
-duties as given by law or these rules during the 2015-2016 session.  The
+duties as given by law or these rules during the 2017-2018 session.  The
 Temporary  President  may  not  serve in such capacity longer than eight
 years.
   § 2. He or she shall appoint and designate the Officers of the Senate,
@@ -82,12 +81,12 @@ committee,  commission, task force or office of the Legislature, and the
 same are authorized to provide, such assistance, services  and  data  as
 will  enable such librarian to carry out his or her duties as prescribed
 in this section.
-  For purposes of this section, the term legislative document shall mean
-and include the Rules of the Senate, the Rules of the Assembly,  reports
-of   the   Legislature  and  reports  of  every  legislative  committee,
-subcommittee, task force or other adjunct of  the  Legislature  and  all
-reports  and  documents required by law or regulation to be submitted to
-the Legislature by any department, board, bureau,  commission  or  other
+  For purposes of this section,  the  term  legislative  document  shall
+include  the  Rules of the Senate, the Rules of the Assembly, reports of
+the  Legislature   and   reports   of   every   legislative   committee,
+subcommittee,  task  force  or  other adjunct of the Legislature and all
+reports and documents required by law or regulation to be  submitted  to
+the  Legislature  by  any department, board, bureau, commission or other
 agency of the State.
   The  provisions  of this section and paragraph ten of subdivision c of
 section one of Rule I of the Assembly are  intended  to  result  in  the
@@ -112,11 +111,11 @@ place, to assign his or her reasons for his or her decision.
 concurrent resolution proposing amendments to the  Constitution  of  the
 State,  and  concurrent resolutions proposing or ratifying amendments to
 the Constitution of the United States he or she shall certify  that  the
-same has been duly passed, with the date thereof, together with the fact
-whether  passed  as a majority or two-thirds bill or resolution, or with
-three-fifths of the members present, as the case may be, as required  by
-the  Constitution  and  laws  of  the  State,  and  deliver said bill or
-resolution to the Secretary.
+same  has  been  duly passed or adopted, with the date thereof, together
+with the fact whether  passed  as  a  majority  or  two-thirds  bill  or
+resolution, or with three-fifths of the members present, as the case may
+be,  as  required by the Constitution and laws of the State, and deliver
+said bill or resolution to the Secretary.
   § 3. When the Presiding Officer is other than  the  President  of  the
 Senate,  such  Presiding  Officer shall be vested with all of the powers
 and duties conferred by these rules and by any other rule  or  law  upon
@@ -130,24 +129,23 @@ in the appointment of any member to committee or other office, or in the
 appointment of any of its officers or employees.
   §  2.  The  administration  and  operations  of  the  Senate  shall be
 conducted in a fair and nonpartisan manner, including access to services
-necessary to all members  and  their  offices,  without  regard  to  the
-members conference.
-  §  3.  The  Conference leaders shall not serve in such capacity longer
-than eight years.
-  § 4. The Senate may choose a Secretary, a  Sergeant  at  Arms  and  an
+necessary to all members and their offices, without regard to conference
+membership.
+  § 3. The Senate may choose a Secretary, a  Sergeant  at  Arms  and  an
 Official  Stenographer  who shall be elected for the term of the Senate.
 Such  employees  may  be  appointed  as  shall  be   provided   for   by
 appropriation,  in the manner provided by law. Each officer and employee
 of the Senate shall perform such duties as may be prescribed by law,  or
 by  these  rules,  or  as may be incumbent upon them in their respective
 positions.
-  § 5. a.  It shall be the duty of the Secretary to have  the  journals,
-bills,  calendars,  messages and other documents printed and distributed
-in the manner provided by law. He or she shall present to the  Governor,
-and  enter upon the journals, such bills as shall have originated in the
-Senate and shall have been passed by  both  houses.  He  or  she  shall,
-subject  to  the Rules of the Senate, transmit to the Assembly all bills
-or concurrent resolutions which have passed the Senate.
+  § 4. a.  It shall be the duty of the Secretary of the Senate  to  have
+the journals, bills, calendars, messages and other documents printed and
+distributed  in  the  manner provided by law. He or she shall present to
+the Governor, and enter upon the journals,  such  bills  as  shall  have
+originated  in  the  Senate  and  shall  have been passed by both houses
+within thirty calendar legislative days  of  such  passage.  He  or  she
+shall,  subject to the Rules of the Senate, transmit to the Assembly all
+bills or concurrent resolutions which have passed the Senate.
   b. The Secretary of the Senate shall designate the persons entitled to
 admission to the floor as reporters for the news media.
   c. The Secretary of the Senate shall have general control,  except  as
@@ -160,27 +158,34 @@ utilized by the Senate.
 the Internet and other electronic media to provide access to the  public
 policy  debates,  decision-making process and legislative records of the
 Senate.
-  § 6. The Sergeant at Arms, under the jurisdiction  of  the  Secretary,
-shall  be the security officer of the Senate, and, except when absent in
-the discharge of his or her duties, shall be in constant attendance upon
-the sessions of the Senate and shall assign Assistant Sergeants at  Arms
-to act as doorkeepers and, under the direction of the Presiding Officer,
-aid  in  enforcing order on the floor of the Senate, in the lobbies, and
-in the rooms adjoining the Senate Chamber, and also see that  no  person
-remains  on  the floor unless entitled to the privileges of the same. He
-or she shall also assist in maintaining order at hearings of the  Senate
-and in that part of the Capitol and Legislative Office Building assigned
-to  the  use  of the Senate and on sites in New York State where members
-are  conducting  the  business  of  the  Senate  and  security is deemed
-necessary by the Secretary.
-  § 7. The Official Stenographer or designee shall attend every  session
-of  the Senate and take stenographic notes of the debates of the Senate.
-He or she shall make a stenographic record of the proceedings  and  make
-copies  available  to  the  Secretary  of  the  Senate. In addition, the
-Official Stenographer shall be responsible, under the direction  of  the
-Secretary,  for  making  a stenographic record of public hearings at the
-request of the Standing Committee Chair or appointed  officer  and  make
-copies available to the Committee Chair and the Secretary.
+  e. The Ethics and Internal Governance Committee shall annually  review
+and make recommendations regarding the provisions of this section.
+  §  5. The Sergeant at Arms, under the jurisdiction of the Secretary of
+the Senate, shall be the security officer of  the  Senate,  and,  except
+when  absent in the discharge of his or her duties, shall be in constant
+attendance upon the sessions of the  Senate.  He  or  she  shall  assign
+Assistant  Sergeants  at  Arms  to  act  as  doorkeepers  and, under the
+direction  of  the  Presiding  Officer,  aid  in  enforcing  order   and
+protecting  the  safety of all Senators, staff, guests and the public on
+the floor of the Senate, in the lobbies, galleries,  and  in  the  rooms
+adjoining the Senate Chamber, and also see that no person remains on the
+floor  unless  entitled  to  the privileges of the same. He or she shall
+also  assist  in maintaining order at hearings of the Senate and in that
+part of the Capitol and Legislative Office Building assigned to the  use
+of  the  Senate  and  on  sites  in  New  York  State  where members are
+conducting the business of the Senate and security is  deemed  necessary
+by  the  Secretary  of  the  Senate.  The Ethics and Internal Governance
+Committee shall annually review and make recommendations  regarding  the
+provisions of this section.
+  §  6. The Official Stenographer or designee shall attend every session
+of the Senate and take stenographic notes of the debates of the  Senate.
+He  or  she shall make a stenographic record of the proceedings and make
+copies available to the  Secretary  of  the  Senate.  In  addition,  the
+Official  Stenographer  shall be responsible, under the direction of the
+Secretary of the Senate, for making  a  stenographic  record  of  public
+hearings  at  the  request  of the Standing Committee Chair or appointed
+officer and make  copies  available  to  the  Committee  Chair  and  the
+Secretary of the Senate.
                                  RULE VI
 PROCEEDINGS
   Section  1.  a.  The  Journal.  The Senate shall keep a journal of its
@@ -214,14 +219,14 @@ shall be as follows:
   (3) Petition for chamber consideration.
   c. All questions relating to the priority of business shall be decided
 without debate.
-  § 4. Messages. Messages from the Governor and Assembly, communications
-and  reports from State officers, reports from a committee involving the
-right of a Senator to his or her seat, and reports from the Committee on
-Rules shall be received at any time.
-  § 5. Special orders. Whenever any bill  or  other  matter  is  made  a
-special  order  for  a  particular day, and it shall not be completed on
-that day, it shall, unless otherwise ordered, retain its  place  on  the
-calendar  as  a  special  order in the order of business in which it was
+  §  4.  Messages  and reports. Messages from the Governor and Assembly,
+communications and reports from State officers, reports from a committee
+involving the right of a Senator to his or her seat,  and  reports  from
+the Committee on Rules shall be received at any time.
+  §  5.  Special  orders.  Whenever  any  bill or other matter is made a
+special order for a particular day, and it shall  not  be  completed  on
+that  day,  it  shall, unless otherwise ordered, retain its place on the
+calendar as a special order in the order of business  in  which  it  was
 considered.  When  a special order is under consideration, it shall take
 precedence over any special order for a subsequent hour of the same day;
 but such subsequent order may be taken up immediately after disposal  of
@@ -238,9 +243,10 @@ arranged and acted upon in the following order:
   (8) Bills starred on third reading.
   (9) Resolution to amend the Senate Rules.
   (10) Motions for chamber consideration.
-  b. Bills laid aside by  the  Temporary  President  shall  continue  to
-retain  their  place in their regular order of business until called for
-debate by the Temporary President.
+  b. Bills laid aside by the  Temporary  President  or  the  Independent
+Democratic  Conference  Leader  shall  continue to retain their place in
+their regular order of business until called for debate by the Temporary
+President.
   c. Except for bills reported from a standing committee and  placed  on
 that part of the calendar designated as "order of special report," bills
 reported  from  a standing committee shall be placed on the first report
@@ -264,11 +270,11 @@ business in executive session, the Presiding Officer  shall  direct  all
 persons, except the Senators, the Counsel to the respective conferences,
 Secretary  of  the  Senate,  his or her messenger, the Journal Clerk and
 Sergeant at Arms of the Senate to withdraw; and during the discussion of
-said motion the doors shall remain shut; and every Senator  and  officer
+said  motion  the doors shall remain shut; and every Senator and officer
 of the Senate shall keep secret all such matters, proceedings and things
 which shall transpire while the doors remain closed.
-  §  8.  Motions.  a.  When  a  question  is before the Senate, only the
-following motions shall be made by a Senator,  and  such  motions  shall
+  § 8. Motions. a. When a  question  is  before  the  Senate,  only  the
+following  motions  shall  be  made by a Senator, and such motions shall
 have precedence in the order here stated, viz.:
   (1) For an adjournment.
   (2) For a call of the Senate.
@@ -279,15 +285,15 @@ have precedence in the order here stated, viz.:
   (7) To commit to a select committee.
   (8) To change calendar arrangement.
   (9) To amend.
-  b.  The  motion  to  adjourn,  or for a call of the Senate, or for the
-previous question, or to lay on the  table,  shall  be  decided  without
-debate,  and  shall  always be in order except as provided in Rules six,
+  b. The motion to adjourn, or for a call of  the  Senate,  or  for  the
+previous  question,  or  to  lay  on the table, shall be decided without
+debate, and shall always be in order except as provided  in  Rules  six,
 eight and ten.
-  c. Except for the motions enumerated  in  subdivision  a  hereof,  all
-other  motions  shall be reduced to writing, if desired by the Presiding
-Officer or any five Senators,  delivered  to  the  Secretary,  and  read
-before the same shall be debated; and any motion may be withdrawn at any
-time before decision or amendment.
+  c.  Except  for  the  motions  enumerated in subdivision a hereof, all
+other motions shall be reduced to writing, if desired by  the  Presiding
+Officer  or any five Senators, delivered to the Secretary of the Senate,
+and read before the same  shall  be  debated;  and  any  motion  may  be
+withdrawn at any time before decision or amendment.
   d.  A  motion  for the previous question, or a motion to postpone to a
 certain day, or to commit, or refer to a standing or  select  committee,
 until it is decided, shall preclude all debate of the main question.
@@ -307,23 +313,23 @@ require the affirmative vote of a majority of the Senators elected.
 decided,  it  shall  be  in  order  for  any  Senator  to  move  for the
 reconsideration thereof; but no motion for the  reconsideration  of  any
 vote  shall  be  in  order  after the bill, resolution, message, report,
-amendment, nomination or motion, upon which the vote  was  taken,  shall
-have  gone out of the possession of the Senate; nor shall any motion for
-reconsideration be in order unless made on the same  day  on  which  the
-vote  was  taken, or within the next three days of the actual session of
-the Senate thereafter. Nor shall any question be reconsidered more  than
-once;  but  when  a bill or resolution shall have been recalled from the
+amendment,  nomination  or  motion, upon which the vote was taken, shall
+have gone out of the possession of the Senate; nor shall any motion  for
+reconsideration  be  in  order  unless made on the same day on which the
+vote was taken, or within the next three days of the actual  session  of
+the  Senate thereafter. Nor shall any question be reconsidered more than
+once; but when a bill or resolution shall have been  recalled  from  the
 Assembly,  a  motion  for  reconsideration  may  be  made  at  any  time
-thereafter  while  the  same is in the possession of the Senate, and all
-resolutions recalling a bill or resolution from the  Assembly  shall  be
+thereafter while the same is in the possession of the  Senate,  and  all
+resolutions  recalling  a  bill or resolution from the Assembly shall be
 regarded as privileged. No vote shall be reconsidered upon either of the
 following motions:
-  To adjourn.
-  To lay on the table.
-  b.  The  vote on the final passage of any bill appropriating moneys or
+  (i) To adjourn.
+  (ii) To lay on the table.
+  b. The vote on the final passage of any bill appropriating  moneys  or
 property, or creating, continuing, altering or removing any body politic
-or corporate, shall not be reconsidered whenever any such bill shall  be
-lost,  unless  by  a vote of a majority of all the Senators elected, but
+or  corporate, shall not be reconsidered whenever any such bill shall be
+lost, unless by a vote of a majority of all the  Senators  elected,  but
 all other bills, when the same shall have been lost, may be reconsidered
 by a vote of a majority of all the Senators present and voting.
                                 RULE VII
@@ -338,72 +344,64 @@ in  quadruplicate.  Such  memorandum  shall  contain  a statement of the
 purposes and intent of the bill and, if the member deems it appropriate,
 may set forth such other statements  that  the  member  feels  necessary
 including,  but  not limited to, statements relating to economic impact,
-environmental impact or the impact on the judicial system of the bill. A
-Committee, where it deems necessary, may require that  the  introducer's
-memorandum be amended to include such appropriate statements.
-  Bills  introduced  by  Senators  shall  be deposited with the Revision
-Clerk for the purpose of having such clerk examine and correct bills  to
-avoid  repetition  of  introduction  and ensure accuracy in the text and
-references.  Upon introduction, each bill shall be deemed  to  have  had
-its  first  and  second  reading,  unless otherwise ordered and shall be
-given a number.   The  Temporary  President  in  consultation  with  the
-Independent  Democratic Conference Leader shall refer bills or designate
-an officer to refer bills to the appropriate standing  committee.  Bills
-shall be referred in accordance with a set of guidelines to be published
-annually by the Temporary President in consultation with the Independent
-Democratic  Conference Leader setting forth the respective statutes over
-which  each  of  the  standing  committees  shall  have  subject  matter
-jurisdiction for purposes of referral.  Such referrals shall reflect the
-subject  matter  having  predominance  in  the bill as determined by the
-Temporary President in consultation with the leader of  the  Independent
-Democratic Conference.
-  §   2.  Multi-sponsorship.  Any  Senator  may  join  together  in  the
-multi-sponsorship of a bill. If two or more Senators join together  when
-a  bill  is  first introduced and before it is printed, the names of all
-multi-sponsors shall appear on  the  printed  bill  upon  the  following
+environmental impact or the impact on the judicial system. A  Committee,
+where  it  deems necessary, may require that the introducer's memorandum
+be amended to include such appropriate statements.
+  Bills introduced by Senators shall  be  deposited  with  the  Revision
+Clerk  for the purpose of having such clerk examine and correct bills to
+avoid repetition of introduction and ensure accuracy  in  the  text  and
+references.    Upon  introduction, each bill shall be deemed to have had
+its first and second reading, unless  otherwise  ordered  and  shall  be
+given a number.  The Temporary President with the Independent Democratic
+Conference  Leader  shall jointly refer bills or designate an officer to
+refer bills to  the  appropriate  standing  committee.  Bills  shall  be
+referred  in accordance with a set of guidelines to be jointly published
+annually by the Temporary  President  with  the  Independent  Democratic
+Conference  Leader setting forth the respective statutes over which each
+of the standing committees shall have subject  matter  jurisdiction  for
+purposes  of referral.   Such referrals shall reflect the subject matter
+having predominance in the bill as determined by the Temporary President
+together with the leader of the Independent Democratic Conference.
+  §  2.  Multi-sponsorship.  Any  Senator  may  join  together  in   the
+multi-sponsorship  of a bill. If two or more Senators join together when
+a bill is first introduced and before it is published, the names of  all
+multi-sponsors  shall  appear  on  the  printed  bill upon the following
 conditions:
-  a.  Multi-sponsors shall file a written request in duplicate to act as
-such, on forms provided, with the Revision  Clerk  of  the  Senate.  The
-first  name appearing on the bill shall be deemed the introducer and all
+  a. Multi-sponsors shall file a written request in duplicate to act  as
+such,  on  forms  provided,  with  the Revision Clerk of the Senate. The
+first name appearing on the bill shall be deemed the introducer and  all
 others deemed multi-sponsors.
-  b. The introducer shall at all times retain exclusive control  of  the
+  b.  The  introducer shall at all times retain exclusive control of the
 bill until formally acted upon by the Senate and any motion to discharge
-a  bill  out  of  committee by a member who is not the introducer of the
+a bill out of committee by a member who is not  the  introducer  of  the
 bill shall be out of order.
-  c. After a multi-sponsored bill has been  printed,  any  multi-sponsor
-desiring  to  withdraw  from such multi-sponsorship shall file a written
+  c.  After a multi-sponsored bill has been published, any multi-sponsor
+desiring to withdraw from such multi-sponsorship shall  file  a  written
 request on a form provided so that his or her name will be stricken as a
-multi-sponsor from the records of the Revision Clerk. The printed  bill,
-however, shall not be reprinted.
-  d.  Senators and Senators-elect may multi-sponsor bills that have been
-pre-filed and bills introduced after the  opening  of  each  legislative
+multi-sponsor  from  the  records  of  the Revision Clerk. The published
+bill, however, shall not be republished.
+  d. Senators and Senators-elect may multi-sponsor bills that have  been
+pre-filed  and  bills  introduced  after the opening of each legislative
 session upon the following conditions:
-  (1)  After  a  bill  has been introduced and printed and before it has
+  (1)  After  a bill has been introduced and published and before it has
 been reported favorably out of the Committee to which it  was  referred,
 any  Senator or Senators may file with the Revision Clerk a request on a
 form provided to become a multi-sponsor of such bill. Such forms must be
 signed by the multi-sponsor.
   (2) Such bill shall not be reprinted solely for the purpose of  adding
 or deleting names of multi-sponsors.
-  (3) Any Senator, having become a multi-sponsor of a bill, may withdraw
-from  such  by filing a request on a form provided to the Revision Clerk
-requesting that his or her name be stricken as a multi-sponsor from  the
-record.
-  (4) Any Senator who has become a multi-sponsor of a bill in the manner
-set forth herein shall have the right to distribute such bill bearing an
-endorsement  by rubber stamp or otherwise the words "multi-sponsored by"
-and insert his or her own name as multi-sponsor.
-  § 3. Printing. Every bill immediately upon its introduction  shall  be
-printed and placed on the bill files on the desks of the Senators, where
-it  shall remain for at least three calendar legislative days. All bills
-reported favorably or for consideration, if  reported  with  amendments,
-and  all  bills  amended  in  the  Senate, shall be immediately printed,
-except that any bill which is amended by  restoring  it  to  an  earlier
-form,  shall  not  be  required  to be printed again, and thereafter the
-printed number of the bill in the form to which it has been so  restored
-shall  constitute  the  final  form of such bill unless further amended.
-Whenever a bill is  amended  and  printed,  a  letter  of  the  alphabet
-starting with "A" shall be added to its number.
+  §  3. Placement on desks. Every bill immediately upon its introduction
+shall be placed on the bill files on the desks of the Senators, where it
+shall remain for at least three calendar  legislative  days.  All  bills
+reported  favorably  or  for consideration, if reported with amendments,
+and all bills amended in the Senate, shall be immediately placed on each
+Senator's desk, except that any bill which is amended by restoring it to
+an earlier form, shall not be required to be placed  on  each  Senator's
+desk  again, and thereafter the number of the bill in the form placed on
+each Senator's desk to which it has been so  restored  shall  constitute
+the  final form of such bill unless further amended.  Whenever a bill is
+amended, a letter of the alphabet starting with "A" shall  be  added  to
+its number.
   §  4.  Title  and  body of bill. The title of every bill shall briefly
 state the subject thereof. The title of every bill amending or repealing
 any provision of a consolidated law shall refer to such law.  The  title
@@ -429,70 +427,70 @@ Charter of the City of Buffalo, or any part thereof shall refer to  such
 law,  act,  charter  or  code.  In  any  bill, each section proposing an
 amendment to or the repeal of  an  unconsolidated  law  having  a  short
 title,  or  any  part  thereof,  shall  refer to such law by its chapter
-number  and  year of enactment and its short title. If an unconsolidated
-law shall have no short title, each  section  shall  state  the  chapter
-number  and  year  of  enactment of such law, and a short summary of the
-provisions to which the  law  relates  or  the  complete  title  of  the
+number and year of enactment and its short title. If  an  unconsolidated
+law  shall  have  no  short  title, each section shall state the chapter
+number and year of enactment of such law, and a  short  summary  of  the
+provisions  to  which  the  law  relates  or  the  complete title of the
 original bill. If such section amends or repeals a proposed provision of
 law contained in a bill that has not been enacted into law, each section
-shall  state  the number of the bill containing such proposed provisions
-of law to be amended or repealed, with suffix, if there be one.  If  the
-portion  of the law proposed to be amended has been added, renumbered or
+shall state the number of the bill containing such  proposed  provisions
+of  law  to be amended or repealed, with suffix, if there be one. If the
+portion of the law proposed to be amended has been added, renumbered  or
 amended since the original enactment or last general revision of the law
-of which it is a part, such section shall also state the chapter  number
-and  year  of  the last act adding, renumbering or amending the same, as
-the case may be. There shall be appended at the end of every bill  which
-proposes  the  repeal or extension of any existing law, or part thereof,
-merely by reference thereto, without setting forth the text thereof,  an
-explanatory  note  which  shall  briefly and concisely state the subject
+of  which it is a part, such section shall also state the chapter number
+and year of the last act adding, renumbering or amending  the  same,  as
+the  case may be. There shall be appended at the end of every bill which
+proposes the repeal or extension of any existing law, or  part  thereof,
+merely  by reference thereto, without setting forth the text thereof, an
+explanatory note which shall briefly and  concisely  state  the  subject
 matter of the law, or part thereof, proposed to be repealed or extended,
-unless such subject matter is stated in the  title  of  such  bill.  The
-Revision  Clerk  of  the  Senate  shall  return  any bill to the Senator
-introducing the same when it is called to his or her attention that  the
-provisions  of  this  section,  or of section one of this Rule, have not
-been complied with,  or  when  any  copy  of  a  bill  is  illegible  or
+unless  such  subject  matter  is  stated in the title of such bill. The
+Revision Clerk of the Senate  shall  return  any  bill  to  the  Senator
+introducing  the same when it is called to his or her attention that the
+provisions of this section, or of section one of  this  Rule,  have  not
+been  complied  with,  or  when  any  copy  of  a  bill  is illegible or
 incomplete.
-  b.  Every bill when introduced, and every amendment thereafter made to
-such bill amending existing law, must have all new  matter  underscored,
-and  all matter eliminated by amendment from existing law must appear in
-its proper place enclosed in brackets. In  the  printed  bill  such  new
-matter  shall be underscored and all matter eliminated by amendment from
-existing law  shall  be  enclosed  in  black-faced  brackets.  When  any
-existing  law  or part thereof is proposed to be repealed by a bill, the
-word "repealed"  as  it  appears  in  such  bill  shall  be  printed  in
-bold-faced  type.  When  a  printed  bill  is amended by eliminating new
-matter from such bill, the same shall be omitted in the reprint  of  the
-original.  When  amendments  are offered to a printed bill, the proposed
-changes, indicating page and line  numbers,  shall  be  listed  on  four
-detail  sheets  and the same changes shall be incorporated and marked on
-two copies of the bill; provided, however, that no  amendment  shall  be
-allowed  to  any  bill  which  is  not germane to the original object or
-purpose thereof.  Furthermore,  when  a  printed  bill  is  amended  the
-accompanying  introducer's  memorandum, required pursuant to section one
-of this Rule, shall also be amended to reflect any changes. It shall  be
-the duty of the Secretary to direct the Revision Clerk to cause any bill
-appearing  on  the  calendar  and  not complying with this section to be
-immediately amended and printed so as to comply with the same.
-  § 5. Final date. a. The Temporary President in consultation  with  the
-leader  of the Independent Democratic Conference may designate a date in
+  b. Every bill when introduced, and every amendment thereafter made  to
+such  bill  amending existing law, must have all new matter underscored,
+and all matter eliminated by amendment from existing law must appear  in
+its  proper  place  enclosed in brackets. In the published bill such new
+matter shall be underscored and all matter eliminated by amendment  from
+existing  law  shall  be  enclosed  in  black-faced  brackets.  When any
+existing law or part thereof is proposed to be repealed by a  bill,  the
+word  "repealed"  as  it  appears  in  such  bill  shall  be  printed in
+bold-faced type. When a bill is amended by eliminating new  matter  from
+such  bill,  the  same  shall  be  omitted  in  the republication of the
+original. When amendments are offered to a printed  bill,  the  proposed
+changes,  indicating  page  and  line  numbers,  shall be listed on four
+detail sheets and the same changes shall be incorporated and  marked  on
+two  copies  of  the bill; provided, however, that no amendment shall be
+allowed to any bill which is not  germane  to  the  original  object  or
+purpose  thereof.  Furthermore,  when  a  printed  bill  is  amended the
+accompanying introducer's memorandum, required pursuant to  section  one
+of  this Rule, shall also be amended to reflect any changes. It shall be
+the duty of the Secretary of the Senate to direct the Revision Clerk  to
+cause  any  bill  appearing  on the calendar and not complying with this
+section to be immediately amended so as to comply with the same.
+  § 5. Final date. a. The Temporary President with  the  leader  of  the
+Independent  Democratic  Conference  may  jointly  designate  a  date in
 writing after which no bill or original resolution shall  be  introduced
 except  by  message  from  the  Assembly, but no date prior to the first
-Tuesday of March shall be so designated;  provided,  however,  that  all
+Tuesday of April shall be so designated;  provided,  however,  that  all
 bills  recommended  by a State department or agency must be submitted to
 the Temporary President not later than the first  day  of  March.  Bills
 proposed  by  the  Governor,  the Attorney General, the Comptroller, the
 Department of Education or the Office of Court  Administration  must  be
 submitted  to the Temporary President no later than the first Tuesday in
 April.
-  b.  All  bills introduced in the Senate after the first Friday in June
+  b. All bills introduced in the Senate after  the  first  day  of  June
 shall be introduced to the Committee on Rules.
-  § 6. Budget bills. When  a  bill  is  submitted  or  proposed  by  the
-Governor  by  authority  of  Article  VII  of the Constitution, it shall
-become, for all legislative  purposes,  a  legislative  bill,  and  upon
-receipt  thereof by the Senate it shall be endorsed "Budget Bill" and be
-given a number by the Secretary and shall be  referred  to  the  Finance
-Committee and be printed.  Budget bills may be reported from the Finance
-Committee direct to the third reading calendar.
+  §  6.  Budget  bills.  When  a  bill  is  submitted or proposed by the
+Governor by authority of Article  VII  of  the  Constitution,  it  shall
+become,  for  all  legislative  purposes,  a  legislative bill, and upon
+receipt thereof by the Senate it shall be endorsed "Budget Bill" and  be
+given  a  number  by  the Secretary and shall be referred to the Finance
+Committee.   Budget bills may be reported  from  the  Finance  Committee
+direct to the third reading calendar.
   §  7.  Program,  departmental and agency bills. Every bill proposed by
 the  Governor,  the  Attorney  General,  the  Comptroller  or  by  state
 departments  and  agencies shall be submitted to the Temporary President
@@ -515,12 +513,12 @@ copies  thereof  first  shall  have  been  furnished,  to   the   extent
 practicable,  forty-eight  hours  prior  to  the time for acting on such
 resolution to respective conference  leaders.    All  resolutions,  upon
 introduction, shall be referred to a standing or select committee by the
-Coalition  Leaders or an officer designated by the Coalition Leaders and
-shall  at  all  times  remain  within  the  exclusive  control  of   the
-introducer.  Notwithstanding  any  of  the  foregoing provisions of this
-section, resolutions recalling bills from  or  returning  bills  to  the
-Assembly,  or relating to adjournment, may be introduced at any time for
-immediate consideration.
+Majority  Coalition  Leaders  or  an  officer designated by the Majority
+Coalition Leaders and shall at all times  remain  within  the  exclusive
+control   of  the  introducer.  Notwithstanding  any  of  the  foregoing
+provisions  of  this  section,  resolutions  recalling  bills  from   or
+returning  bills  to  the  Assembly,  or relating to adjournment, may be
+introduced at any time for immediate consideration.
   b. A resolution supporting or condemning, or  proposing  or  urging  a
 change  in  Federal  law  which  is not directly germane to the affairs,
 business, rights, benefits and obligations of New York  State  shall  be
@@ -546,25 +544,24 @@ amended  after  the  opinion  of  the  Attorney General thereon has been
 received as provided in Article XIX of the Constitution, it shall  again
 be  referred  to  the  Attorney  General.  Any  such  resolution  may be
 committed prior to the final reading thereof.
-  d. All resolutions calling for  the  expenditure  of  moneys  must  be
-decided  by a majority vote of all of the members elected to the Senate,
+  d.  All  resolutions  calling  for  the  expenditure of moneys must be
+decided by a majority vote of all of the members elected to the  Senate,
 upon a call of the roll.
-  e. All resolutions deemed proper by the Coalition Leaders  other  than
-those  mentioned  and  treated  in the preceding subdivisions c and d of
-this section and reported by the committee of  reference  designated  by
-the  Coalition  Leaders  shall  be  placed  upon  the  calendar upon the
-approval of the Coalition Leaders.  When in the order  of  business  the
-resolutions  are  reached,  the  Senate  may adopt such resolutions as a
-group, by  one  vote  upon  the  question  of  the  entire  calendar  of
-resolution,  excepting  that any member may request that any one or more
-of the resolutions on such calendar  shall  be  voted  upon  or  debated
-separately. This subdivision shall not apply to any resolution recalling
-bills   from  or  returning  bills  to  the  Assembly,  or  relating  to
-adjournment or to resolutions pertaining to the rules of the  Senate  or
-to  those  resolutions  regarded  as privileged.   A resolution shall be
-deemed privileged only if it is so designated by the Temporary President
-in consultation with the leader of the Independent Democratic Conference
-as such.
+  e.  All  resolutions  deemed  proper by the Majority Coalition Leaders
+other than those mentioned and treated in the preceding  subdivisions  c
+and  d  of  this  section  and  reported  by  the committee of reference
+designated by the Majority Coalition Leaders shall be  placed  upon  the
+calendar  upon  the approval of the Majority Coalition Leaders.  When in
+the order of business the resolutions are reached, the Senate may  adopt
+such resolutions as a group, by one vote upon the question of the entire
+calendar  of  resolution, excepting that any member may request that any
+one or more of the resolutions on such calendar shall be voted  upon  or
+debated  separately.  This subdivision shall not apply to any resolution
+recalling bills from or returning bills to the Assembly, or relating  to
+adjournment  or  to resolutions pertaining to the rules of the Senate or
+to those resolutions regarded as privileged.    A  resolution  shall  be
+deemed  privileged only if it is so designated by the Majority Coalition
+Leaders as such.
                                 RULE VIII
 STANDING COMMITTEES
   Section  1.  There  shall  be  the following standing committees which
@@ -585,6 +582,7 @@ shall serve and shall continue throughout the year:
   Health
   To consist of sixteen Senators:
   Codes
+  To consist of fifteen Senators:
   Labor
   To consist of thirteen Senators:
   Crime Victims, Crime and Correction
@@ -606,14 +604,14 @@ shall serve and shall continue throughout the year:
   Infrastructure and Capital Investment
   Investigations and Government Operations
   Local Government
+  To consist of eight Senators:
+  Ethics and Internal Governance
   To consist of seven Senators:
   Children and Families
   Cities
   Corporations, Authorities and Commissions
   Social Services
   Alcoholism and Drug Abuse
-  To consist of six Senators:
-  Ethics
   a.  The Republican Conference Leader, the Democratic Conference Leader
 and  the  Independent  Democratic  Conference  Leader and their Deputies
 shall be nonvoting ex-officio members of all standing committees of  the
@@ -623,147 +621,165 @@ Senators shall be appointed to no more than seven standing committees.
 member  of  a  committee  shall serve in such capacity longer than eight
 consecutive years.
   c.  Conference  membership  of  committees.  The  membership  of   all
-committees,  unless otherwise provided by the act or resolution creating
-them, shall  be  composed,  as  nearly  as  may  be,  of  Coalition  and
-Democratic  Conference  members  in the same proportion as the number of
-Coalition and Democratic Conference members in the Senate bears  to  the
+committees,  except  the  Ethics  and Internal Governance Committee, and
+unless otherwise provided by the act or resolution creating them,  shall
+be  composed,  as nearly as may be, of Majority Coalition and Democratic
+Conference members in the same proportion  as  the  number  of  Majority
+Coalition  and  Democratic Conference members in the Senate bears to the
 total membership of the Senate.
   For   purposes  of  committee  composition,  in  the  event  that  the
-proportion of Coalition members would result in a fractional amount, the
-number of Coalition members shall  be  rounded  up  to  the  next  whole
-number.    Furthermore,  the  total  number  of  Independent  Democratic
-Conference  members  appointed  to  all  committees shall be in the same
-proportion, as nearly as may be, as the number of Independent Democratic
-Conference members in the Senate bears to the total  membership  of  the
-Senate.  Further,  in  the  case  of an excused absence of any committee
-member on either the Finance or  the  Rules  Committee,  the  Conference
-Leaders may designate an alternate member of the conference for meetings
-of  standing committees provided written notice is provided and accepted
-by the Coalition Leaders at least one hour prior to the commencement  of
-such committee meeting.
-  d. The provisions of this Rule may be amended by resolution adopted by
-a majority of members elected.
-  §  2.  Committee  on Rules. The Committee on Rules may sit at any time
-and shall report bills out of committee only if  they  shall  have  been
-duly  reported  to  the  Committee on Rules from a standing committee of
-origin, or from a committee of secondary reference, or if the  chair  of
-such  standing  committee  consents,  or if the bill was referred to the
-Committee on Rules upon introduction. Other than a  motion  to  hold,  a
-motion  to discharge, or a motion to report, no other motion shall be in
-order in the Committee on Rules without the  consent  of  the  Committee
-Chair.  The reception and consideration of its report shall always be in
-order; debate on its adoption shall not exceed one and one  half  hours,
-one-half  hour  for  each  conference,  such  time to be allotted by the
-Conference Leaders;  and  no  other  motion,  except  a  motion  by  the
-Temporary  President  for a call of the Senate, to adjourn or to recess,
-shall be in order until the vote of the Senate is had thereon.   If  the
-report   be   adopted,  all  inconsistent  rules  of  the  Senate  shall
-automatically be suspended until the subject of  such  report  has  been
-disposed of, including final action thereon.
-  §  3. Open Meetings of Standing Committees. a. (1) Standing committees
+proportion of Majority Coalition members would result  in  a  fractional
+amount,  the number of Majority Coalition members shall be rounded up to
+the next whole number.   Furthermore, the total  number  of  Independent
+Democratic  Conference  members  appointed to all committees shall be in
+the same proportion, as nearly as may be, as the number  of  Independent
+Democratic   Conference  members  in  the  Senate  bears  to  the  total
+membership of the Senate. Further, in the case of an excused absence  of
+any  committee  member on either the Finance or the Rules Committee, the
+Conference Leaders may designate an alternate member of  the  conference
+for  meetings of standing committees provided written notice is provided
+and accepted by the Majority Coalition Leaders at least one  hour  prior
+to the commencement of such committee meeting.
+  d.    The Ethics and Internal Governance Committee shall consist of an
+equal number of members from each of the two major political parties  as
+defined by the election law.
+  e.    The provisions of this Rule may be amended by resolution adopted
+by a majority of members elected.
+  § 2.  Open Meetings of Standing Committees. a. (1) Standing committees
 shall hold regular meetings at such time and on such day as scheduled by
-the Temporary President in consultation with the chair  and  Independent
-Democratic  Conference  Leader  and such schedule shall be published one
-week in advance of the date of such meeting and shall be posted  on  the
-Senate  committee  board. The attendance of the members of the committee
-shall be recorded at each meeting, and a copy of such  report  shall  be
-filed  with  the  Journal  Clerk of the Senate and made available to the
-public.  Each  chair  of  a  standing  committee  shall  to  the  extent
-practicable,  no  later  than  3 p.m. the Thursday preceding the regular
-meeting, furnish to the Conference Leaders, and make available  to  each
-member  of  such committee, a copy of the agenda of such regular meeting
-together with a copy of the introducer's memorandum for each bill listed
-on such agenda for such regular meeting. In  addition,  copies  of  such
-agenda   for   such   regular   meeting   shall  be  made  available  to
-representatives of the news media and to the general public. However, in
-case of necessity, the chair with  consent  of  the  ranking  Democratic
-Conference  member  may  add  no  more  than four items on the agenda or
-delete items on the agenda up to 24 hours in advance  of  the  scheduled
-meeting  and  members  shall be notified of such additions or deletions.
-Each standing committee chair shall decide all procedural  issues  which
-arise during meetings of standing committees.
+the Majority Coalition Leaders in joint consultation with the chair  and
+such schedule shall be published one week in advance of the date of such
+meeting  and  shall be posted on the Senate committee board and website.
+The attendance of the members of the committee shall be recorded at each
+meeting, and a copy of such report shall be filed with the Journal Clerk
+of the Senate and made available to the public. Each chair of a standing
+committee shall to the extent practicable, no  later  than  5  p.m.  the
+Thursday   preceding  the  regular  meeting,  furnish  to  the  Majority
+Coalition Leaders, and publish the agenda together with the introducer's
+memorandum for each bill listed on such agenda for such regular meeting.
+In addition, copies of such agenda for such  regular  meeting  shall  be
+made  available  to representatives of the news media and to the general
+public. However, in case of necessity, the chair  with  consent  of  the
+ranking  Democratic Conference member may add no more than four items on
+the agenda or delete items on the agenda up to 24 hours  in  advance  of
+the scheduled meeting and members shall be notified of such additions or
+deletions.  Each  standing  committee  chair shall decide all procedural
+issues which arise during meetings of standing committees.
   (2) Standing committees may hold special meetings in case of necessity
-upon  the call of the chair when the announcement is made from the floor
-during session, or the  ranking  Democratic  Conference  member  of  the
-committee  consents  thereto,  or upon the call of a majority of all the
+upon the call of the chair when the announcement is made from the  floor
+during  session,  or  the  ranking  Democratic  Conference member of the
+committee consents thereto, or upon the call of a majority  of  all  the
 members thereof, entry of which fact shall be made on the records of the
 committee and announced by the Secretary of the Senate.
   (3)   All   meetings   of  committees  shall  be  open  to  authorized
 representatives of the news media and the general public as observers.
   (4) All meetings of committees shall be recorded by video and  to  the
 extent  practicable  webcast live. Video of all committee meetings shall
-be made available on the Senate website and updated daily.
+be made available on the Senate website.
   (5) Upon the personal vote of a majority  of  all  the  members  of  a
 committee, taken in an open meeting pursuant to a motion identifying the
 general  area  or  areas  of the subject or subjects to be considered, a
 committee may conduct an executive session of which only members of such
-committee are present for the following  enunciated  purposes  provided,
-however,  that  no  action  by formal vote shall be taken to appropriate
+committee  are  present  for the following enunciated purposes provided,
+however, that no action by formal vote shall  be  taken  to  appropriate
 public monies:
   (a) matters which will imperil the public safety if disclosed;
-  (b) any matter which may disclose the identity of  a  law  enforcement
+  (b)  any  matter  which may disclose the identity of a law enforcement
 agent or informer;
   (c)  information  relating  to  current  or  future  investigation  or
-prosecution of a criminal offense  which  would  imperil  effective  law
+prosecution  of  a  criminal  offense  which would imperil effective law
 enforcement if disclosed;
   (d) discussions regarding proposed, pending or current litigation;
-  (e)  collective negotiations pursuant to article fourteen of the Civil
+  (e) collective negotiations pursuant to article fourteen of the  Civil
 Service Law;
   (f) the medical, financial, credit, character or employment history of
-any person or  corporation,  or  matters  leading  to  the  appointment,
-employment,  promotion,  demotion,  discipline, suspension, dismissal or
+any  person  or  corporation,  or  matters  leading  to the appointment,
+employment, promotion, demotion, discipline,  suspension,  dismissal  or
 removal of any person or corporation;
   (g) the preparation, grading or administration of examinations; and
   (h) the proposed acquisition, sale or lease of real property, but only
 when publicity would substantially affect the value of the property.
-  (6) Attendance at an executive  session  shall  be  permitted  to  any
-member  of  the  committee  and  any  other  persons  authorized  by the
+  (6)  Attendance  at  an  executive  session  shall be permitted to any
+member of  the  committee  and  any  other  persons  authorized  by  the
 committee.
   b. (1) Minutes shall be taken at all open meetings of committees which
-shall consist  of  a  record  or  summary  of  all  motions,  proposals,
-resolutions  and  any  other  matter  formally  voted  upon and the vote
+shall  consist  of  a  record  or  summary  of  all  motions, proposals,
+resolutions and any other  matter  formally  voted  upon  and  the  vote
 thereon.
   (2) Minutes shall be taken at executive sessions of any action that is
-taken by formal vote which shall consist of a record or summary  of  the
-final  determination  of  such  action,  and  the date and vote thereon;
-provided, however, that such summary shall not include any matter  which
+taken  by  formal vote which shall consist of a record or summary of the
+final determination of such action,  and  the  date  and  vote  thereon;
+provided,  however, that such summary shall not include any matter which
 is not required to be made public by "the freedom of information law" as
 added by Article six of the Public Officers Law.
-  (3)  Minutes  of  meetings of all committees shall be available to the
-public in accordance with the provisions of Article six  of  the  Public
-Officers  Law,  "the  freedom  of information law", and at such time and
-place as prescribed by the Temporary President in consultation with  the
-leader of the Independent Democratic Conference, provided, however, that
+  (3) Minutes of meetings of all committees shall be  available  to  the
+public  in  accordance  with the provisions of Article six of the Public
+Officers Law, "the freedom of information law", and  at  such  time  and
+place  as  prescribed by the Temporary President jointly with the leader
+of  the  Independent  Democratic  Conference,  provided,  however,  that
 minutes  for executive session meetings shall be available to the public
 within one week from the date of such executive session.
-  c.  The  provisions  of  this  section  except  paragraph   three   of
+  c. The provisions of this section except paragraphs three and four  of
 subdivision  a,  and  subdivision  b shall not apply to the Committee on
-Rules.
-  d. Committee presentations.  The  chair  of  a  committee  may  invite
+Rules or the Ethics and Internal Governance Committee.
+  d.  Committee  presentations.  The  chair  of  a  committee may invite
 interested persons to offer a presentation for a given amount of time on
-a  bill  on  the  meeting  agenda  with  notice  provided to the ranking
-Democratic Conference member no less than 72 hours in advance.  Where  a
-committee  chair  makes  such an invitation, the ranking member shall be
-afforded an equal number of speakers who may speak for an  equal  amount
+a bill on the  meeting  agenda  with  notice  provided  to  the  ranking
+Democratic  Conference  member no less than 72 hours in advance. Where a
+committee chair makes such an invitation, the ranking  member  shall  be
+afforded  an  equal number of speakers who may speak for an equal amount
 of time. In addition, the ranker, without consent of the chair, shall be
-able  to  schedule 3 committee presentations with notice provided to the
+able to schedule 3 committee presentations with notice provided  to  the
 chair at least 72 hours in advance. The chair shall be afforded an equal
 number of speakers who may speak for an equal amount of time.
   e.  Motion  for  committee  consideration.  No  motion  for  committee
-consideration  shall  be in order after the first Monday in May.  In the
-course of a session year the sponsor of any bill may file,  through  the
-Journal  Clerk,  no more than three motions for committee consideration.
-Such motions shall be in order forty-five days after  a  bill  has  been
+consideration shall be in order after the first Monday in May.   In  the
+course  of  a session year the sponsor of any bill may file, through the
+Journal Clerk, no more than three motions for  committee  consideration.
+Such  motions  shall  be  in order forty-five days after a bill has been
 referred to such committee. Once a motion for committee consideration is
-filed,  the  chair  of the committee shall place the bill on a committee
-agenda and schedule a vote on the bill within forty-five  days,  if  the
-forty-five  days  shall  expire  while the senate is in recess, the bill
-shall be placed on the  next  regularly  scheduled  committee  meeting's
+filed, the chair of the committee shall place the bill  on  a  committee
+agenda  and  schedule  a vote on the bill within forty-five days, if the
+forty-five days shall expire while the senate is  in  recess,  the  bill
+shall  be  placed  on  the  next regularly scheduled committee meeting's
 agenda following the end of the forty-five day period.  In the case of a
-bill   that  is  referred  to  a  standing  committee  having  secondary
-reference, the bill shall be considered within the  next  two  committee
+bill  that  is  referred  to  a  standing  committee  having   secondary
+reference,  the  bill  shall be considered within the next two committee
 meetings.
-  §  4.  Hearings.  a. Committee hearings. Chairs of standing committees
+  § 3. Ethics and Internal Governance Committee. The Ethics and Internal
+Governance Committee may sit at any time and shall hold regular meetings
+at such time and on such day as scheduled by the Temporary President  of
+the  Senate  in  consultation with the Chair. The committee shall review
+any matter deemed appropriate by the majority of  members  appointed  to
+such  committee.  The  committee  shall evaluate and, if necessary, make
+recommendations regarding compliance with Rules XI, XIV, XV and  XVI  of
+these  Rules.  The  committee  shall  review,  and  if  necessary,  make
+recommendations regarding policies of  the  Senate,  including  but  not
+limited  to  per  diem  and  travel  expenses,  time and attendance, and
+workplace ethics. The committee shall report  annually  as  required  in
+sections  four and five of Rule V. The committee shall have jurisdiction
+over any matter referred to it by the Secretary of the Senate pertaining
+to the ethical conduct  of  legislative  members.  The  committee  shall
+comply  with  subdivision a, and paragraphs one and two of subdivision b
+of section two of this Rule.
+  § 4. Committee on Rules. The Committee on Rules may sit  at  any  time
+and  shall  report  bills  out of committee only if they shall have been
+duly reported to the Committee on Rules from  a  standing  committee  of
+origin,  or  from a committee of secondary reference, or if the chair of
+such standing committee consents, or if the bill  was  referred  to  the
+Committee  on  Rules  upon  introduction. Other than a motion to hold, a
+motion to discharge, or a motion to report, no other motion shall be  in
+order  in  the  Committee  on Rules without the consent of the Committee
+Chair. The reception and consideration of its report shall always be  in
+order;  debate  on its adoption shall not exceed one and one-half hours,
+one-half hour for each conference, such  time  to  be  allotted  by  the
+Conference  Leaders;  and  no  other  motion,  except  a  motion  by the
+Temporary President for a call of the Senate, to adjourn or  to  recess,
+shall  be  in  order until the vote of the Senate is had thereon. If the
+report   be   adopted,  all  inconsistent  rules  of  the  Senate  shall
+automatically be suspended until the subject of  such  report  has  been
+disposed of, including final action thereon.
+  §  5.  Hearings.  a. Committee hearings. Chairs of standing committees
 may call  public  hearings  to  permit  interested  persons,  groups  or
 organizations  the  opportunity  to  testify  orally  or  in  writing on
 legislation or issues pending before such standing committee. Chairs are
@@ -788,8 +804,8 @@ committee.
   c.  Committee  oversight function. Each standing committee is required
 to conduct oversight of the  administration  of  laws  and  programs  by
 agencies within its jurisdiction.
-  d.  Each  standing committee is required to file with the secretary of
-the senate an annual report, detailing  its  legislative  and  oversight
+  d.  Each  standing committee is required to file with the Secretary of
+the Senate an annual report, detailing  its  legislative  and  oversight
 activities. Such report shall be posted to the Senate web site.
   e. Petition for a public hearing on a bill. By a petition of one-third
 of  the  members assigned to a committee rounded up to the nearest whole
@@ -799,13 +815,13 @@ members  of  the committee reject such petition. Such petitions shall be
 submitted on the proper form to the Senate Desk for Operations, who will
 forward it to the appropriate committee, for presentation  at  the  next
 committee  meeting.  Such public hearings shall be held if they meet the
-guidelines as promulgated by the Coalition  Leaders.    Public  hearings
-scheduled  by  petition  will  be  held  at  least 14 days following the
-committee meeting at which the petition was considered.
+guidelines as promulgated by the Majority  Coalition  Leaders.    Public
+hearings  scheduled  by petition will be held at least 14 days following
+the committee meeting at which the petition was considered.
   f. Hearings of standing committees shall be video recorded and to  the
 extent  practicable  webcast live. Video of such hearing shall be posted
 to the Senate web site within 24 hours.
-  § 5. Reports. a. No committee shall vote to report  a  bill  or  other
+  § 6. Reports. a. No committee shall vote to report  a  bill  or  other
 matter  unless  a  majority  of all the members thereof vote in favor of
 such report. Each report of a committee upon a bill shall have the  vote
 of  each  Senator  attached  thereto  and  such report and vote shall be
@@ -815,23 +831,21 @@ sheet delivered to the Committee Chair.
   Any  standing  committee  having secondary subject matter jurisdiction
 over a bill may request  the  chair  of  the  committee  having  primary
 subject  matter  jurisdiction  over said bill (which is the committee to
-which the said bill has been referred  by  the  Temporary  President  in
-consultation  with  the  leader of the Independent Democratic Conference
+which the said bill has been referred by the Majority Coalition  Leaders
 pursuant to Rule VII) to commit the bill to the committee with secondary
 subject matter jurisdiction either when the bill is still in the primary
 committee or after it has been reported to the calendar. If the chair of
-the primary committee refuses said request, then  the  committee  having
-secondary  jurisdiction,  through  its  chair, may request the Temporary
-President in consultation with the leader of the Independent  Democratic
-Conference  to  consider  such  secondary  referencing.  If  a secondary
-reference is so made, the secondary committee shall  consider  the  bill
+the  primary  committee  refuses said request, then the committee having
+secondary jurisdiction, through its  chair,  may  request  the  Majority
+Coalition Leaders to consider such secondary referencing. If a secondary
+reference  is  so  made, the secondary committee shall consider the bill
 forthwith and return said bill to the primary committee or the calendar,
-as   the   case   may   be,   along   with   the  secondary  committee's
+as  the  case   may   be,   along   with   the   secondary   committee's
 recommendations.
-  All committee reports, after the first Friday in June, shall  be  made
-directly  to  the  Committee  on Rules. Notwithstanding any provision of
-Rule VII, the Committee on Rules shall have the authority  to  introduce
-and  refer bills to itself and shall also have the authority to refer to
+  All  committee  reports, after the first Friday in June, shall be made
+directly to the Committee on Rules.  Notwithstanding  any  provision  of
+Rule  VII,  the Committee on Rules shall have the authority to introduce
+and refer bills to itself and shall also have the authority to refer  to
 itself any bill from any standing committee.
   Every  report of a committee upon a bill which shall not be considered
 at the time of making the same, or laid on the table by a  vote  of  the
@@ -840,7 +854,7 @@ the bill and be entered upon the journal.
   b. Each bill reported by a standing committee shall be accompanied  by
 a  report,  and  the  Democratic  Conference  shall  file  a  Democratic
 Conference committee report within seven days of the bill being reported
-out of committee and said reports shall be filed with the journal clerk.
+out of committee and said reports shall be filed with the Journal Clerk.
 The report of a committee upon any matter  referred  to  it  shall  upon
 request  include  a  brief  statement  of  the  opinion of any member or
 members of the committee voting in either the majority or minority.
@@ -851,35 +865,36 @@ of such bill.
   d.  Where  a  message of necessity is received from the Governor, such
 message shall be filed with the Journal Clerk of the Senate  upon  final
 passage of the bill.
-  §  6. Nominations. Unless the Senate orders otherwise, all nominations
+  §  7. Nominations. Unless the Senate orders otherwise, all nominations
 sent by the Governor  for  the  appointment  of  any  officer  shall  be
-submitted   to  the  Temporary  President  who  shall  then  refer  such
-nominations simultaneously to the Finance Committee, and the appropriate
-standing  committee,  for  consideration  and  recommendation  and  such
-standing  committees,  other  than  the  Committee  on  Judiciary  shall
-thereafter refer such nominations to the Finance Committee of the Senate
-who  shall  take  whatever  further  actions  it  deems  necessary   and
-thereafter  make  its  report on the nominations to the full Senate. Any
-Senator may submit a request  to  the  Chair  of  a  Standing  Committee
-considering  a  nomination,  to  speak before the committee for not more
-than five minutes on the nomination. The granting of  any  such  request
-shall  be  at  the  sole discretion of the Committee Chair. A nomination
-shall not be confirmed without reference on  the  day  on  which  it  is
-received  except  by unanimous consent. The names of those who voted for
-or against the nomination may be entered alphabetically on the  journal,
-if any five Senators request it.
-  §  7.  Finance  Committee.  A  bill  or  resolution  providing  for an
+submitted  to  the Temporary President who shall jointly with the Leader
+of the Independent Democratic Conference  then  refer  such  nominations
+simultaneously  to  the  Finance Committee, and the appropriate standing
+committee,  for  consideration  and  recommendation  and  such  standing
+committees, other than the Committee on Judiciary shall thereafter refer
+such  nominations  to the Finance Committee of the Senate who shall take
+whatever further actions it deems  necessary  and  thereafter  make  its
+report  on  the nominations to the full Senate. Any Senator may submit a
+request to the Chair of a Standing Committee considering  a  nomination,
+to  speak  before  the  committee  for not more than five minutes on the
+nomination. The granting of any  such  request  shall  be  at  the  sole
+discretion  of  the Committee Chair. A nomination shall not be confirmed
+without reference on the day on which it is received except by unanimous
+consent. The names of those who voted for or against the nomination  may
+be  entered  alphabetically on the journal, if any five Senators request
+it.
+  § 8.  Finance  Committee.  A  bill  or  resolution  providing  for  an
 appropriation or creating or increasing a charge upon the State Treasury
-shall, when reported by any committee other than the Finance  Committee,
-be  referred  to the Finance Committee, and the committee reporting such
-bill or resolution shall, at the time of making such  report,  recommend
-the  further  reference thereof to the Finance Committee. At the request
-of the Temporary President  in  consultation  with  the  leader  of  the
-Independent Democratic Conference or the Chair of the Finance Committee,
-any  such  bill or resolution shall, at any time before final reading or
-adoption, be referred to the Finance Committee, which may  consider  and
-report  upon  any  features  in  the  bill  or  resolution  creating  or
-increasing such charge.
+shall,  when reported by any committee other than the Finance Committee,
+be referred to the Finance Committee, and the committee  reporting  such
+bill  or  resolution shall, at the time of making such report, recommend
+the further reference thereof to the Finance Committee. At  the  request
+of  the  Temporary President or the leader of the Independent Democratic
+Conference or the Chair of the  Finance  Committee,  any  such  bill  or
+resolution  shall,  at  any  time  before  final reading or adoption, be
+referred to the Finance Committee, which may consider  and  report  upon
+any  features  in  the  bill  or  resolution creating or increasing such
+charge.
   The sponsor of a bill providing for an increase or decrease  in  state
 revenues or in the appropriation or expenditure of state moneys, without
 stating  the amount thereof, must, before such bill is reported from the
@@ -898,34 +913,18 @@ bills requiring fiscal notes and the notes appertaining  thereto,  which
 shall  be  available  to Senators and officers of the Senate, accredited
 representatives of the press, and other  responsible  persons  having  a
 legitimate interest therein.
-  §  8. New York City Education Subcommittee. The Committee on education
-shall have a permanent subcommittee, consisting of six members,  on  New
-York  City  Education. The chairperson, ranking member and membership of
-the New York City Education  subcommittee  shall  be  appointed  by  the
-Majority  Coalition  Leaders  with  the  ranking  member  and Democratic
-Conference members to  be  appointed  upon  the  recommendation  of  the
-Democratic  Conference  Leader.    Any  bill referenced to the Education
-Committee whose subject matter shall solely impact education matters  in
-New  York City shall be referenced by the committee to the New York City
-Education subcommittee. The New York City Education  subcommittee  shall
-be  subject to the same rules and procedures as standing committees with
-the exception that all bills reported from the New York  City  Education
-subcommittee  will  be  reported  to the Education Committee for further
-action. In no instance may a bill reported out  of  the  New  York  City
-Education  subcommittee  bypass  the full consideration of the Education
-Committee and be reported directly to the calendar.
                                  RULE IX
 PASSAGE OF BILLS
   Section  1.  Bills  on  desks. No bill shall be passed unless it shall
-have been printed and upon the desk of each Senator in its final form at
-least three calendar legislative days prior to its final passage, unless
-the Governor or acting Governor shall have certified, under his  or  her
-hand  and  the  seal of the State, the facts which in his or her opinion
-necessitate  an  immediate  vote  thereon,  in  which   case   it   must
-nevertheless  be  upon  the  desks  of  all  Senators in final form, not
-necessarily printed, before its final passage. No bill shall  be  passed
-pursuant  to  a  message  of necessity unless a majority of the Senators
-vote to approve the use of such message.
+have been upon the desk of each Senator in its final form at least three
+calendar legislative  days  prior  to  its  final  passage,  unless  the
+Governor  or acting Governor shall have certified, under his or her hand
+and the seal of the State,  the  facts  which  in  his  or  her  opinion
+necessitate   an   immediate   vote  thereon,  in  which  case  it  must
+nevertheless be upon the desks of all Senators in final form, before its
+final passage. No  bill  shall  be  passed  pursuant  to  a  message  of
+necessity  unless  a majority of the Senators vote to approve the use of
+such message.
   § 2. Reading of bills. a. Every  bill  shall  receive  three  readings
 previous to its being passed.
   b.  Upon  the  third  reading  of  a bill, the question upon its final
@@ -950,7 +949,7 @@ not  accept  such  amendment,  the  question  shall  be put to the house
 whether a majority of members elected vote in favor of  the  non-sponsor
 motion  to  amend,  and  such  motion  shall  pass only if a majority of
 members elected vote aye. If the sponsor  accepts  the  amendment,  such
-amended  bill  shall  be  ordered  printed  without  a  vote,  debate or
+amended  bill  shall  be  ordered  amended  without  a  vote,  debate or
 explanation, and such bill shall retain its place on the  Third  Reading
 Calendar.
   b.  If  a majority of members elected vote in favor of the non-sponsor
@@ -959,11 +958,10 @@ their  name  from  sponsorship  to be substituted by a co-sponsor or the
 Senator who moved to amend the bill.
   c. The introducer of any calendar  bill  may  offer  an  amendment  or
 amendments  to  such  bill  and  such  amendment  or amendments shall be
-accepted and  the  bill  ordered  printed  without  a  vote,  debate  or
-explanation,  provided,  however,  that  in  such  case such bill may be
-recommitted by the chair of the standing committee  that  reported  such
-bill  and  such  recommittal  shall  also  be  without a vote, debate or
-explanation.
+accepted and the bill amended without a  vote,  debate  or  explanation,
+provided, however, that in such case such bill may be recommitted by the
+chair  of  the  standing  committee  that  reported  such  bill and such
+recommittal shall also be without a vote, debate or explanation.
   §  5.  Substitution.  When  a  bill  is received as a message from the
 Assembly, or at any  time  thereafter,  and  a  Senate  bill,  identical
 therewith, is on the order of third reading, or in the order of first or
@@ -973,49 +971,54 @@ shall  be  in  order  under  the  order of business of messages from the
 Assembly, motions and resolutions, or the order of business in which the
 Senate bill is.
   § 6. Final passage. a. Prior to  the  reading  of  the  third  reading
-calendar  of  any  given  day, the Temporary President may file with the
-Journal Clerk an active list of bills  on  the  third  reading  calendar
-which  may  be  acted  upon on that date and he or she may lay aside any
-bill upon which no final action may be taken, provided however, that  no
-bill  shall  be  so  laid  aside  for  a  period exceeding five calendar
-legislative days. Such active list shall  be  published  to  the  extent
-practicable by 8 p.m. the previous evening or within two hours following
-the end of the previous days' session, whichever is later.
-  b.  The  question  on  the  final passage of every bill shall be taken
-immediately after the third reading and without  debate.  On  the  final
-passage  of  every bill and concurrent resolution a fast roll call shall
-be taken by the Secretary calling the names of five Senators,  three  of
-whom  shall  be  the  Conference  Leaders  provided,  however, that each
-Senator's name shall be called on a slow roll call if requested by  five
-Senators.  Each  roll call, including the names of the Senators who were
-absent shall be entered on the journal. Upon each roll  call  vote,  the
-Secretary  shall  announce  the  names  of  the  Senators  voting in the
-negative and the names of the Senators who were absent. Such roll  calls
-shall  be  available for public inspection upon request in the office of
+calendar  of any given day, the Temporary President may jointly with the
+leader of the Independent Democratic Conference publish an  active  list
+of  bills  on the third reading calendar which may be acted upon on that
+date and he or she may lay aside any bill upon which no final action may
+be taken, provided however, that no bill shall be so laid  aside  for  a
+period  exceeding five calendar legislative days; and provided, however,
+that the leader of the Independent Democratic Conference may  lay  aside
+one  bill on an active list. Bills laid aside by the Temporary President
+or the leader of the  Independent  Democratic  Conference  shall  retain
+their  place in the regular order of business until called for debate by
+the Temporary President.  Such active list shall  be  published  to  the
+extent  practicable  by  8 p.m. the previous evening or within two hours
+following the end of the previous days' session, whichever is later.
+  b. The question on the final passage of  every  bill  shall  be  taken
+immediately  after  the  third  reading and without debate. On the final
+passage of every bill and concurrent resolution a fast roll  call  shall
+be  taken  by the Secretary calling the names of five Senators, three of
+whom shall be  the  Conference  Leaders  provided,  however,  that  each
+Senator's  name shall be called on a slow roll call if requested by five
+Senators. Each roll call, including the names of the Senators  who  were
+absent  shall  be  entered on the journal. Upon each roll call vote, the
+Secretary shall announce  the  names  of  the  Senators  voting  in  the
+negative  and the names of the Senators who were absent. Such roll calls
+shall be available for public inspection upon request in the  office  of
 the Journal Clerk. When a bill or concurrent resolution does not receive
 the number of votes required by the Constitution to pass it, it shall be
-declared lost, except in cases provided for by subdivision d of  section
+declared  lost, except in cases provided for by subdivision d of section
 two of Rule X hereof.
-  §  7.  Starred  bills.  a.  A  bill  appearing  on the calendar may be
-"starred" only by or on behalf of the introducer, whereupon all  further
+  § 7. Starred bills. a.  A  bill  appearing  on  the  calendar  may  be
+"starred"  only by or on behalf of the introducer, whereupon all further
 action on such bill shall be suspended, although it retains its place on
 the Calendar.
-  b.  Other  than for the purpose of amendment or recommittal, no action
-may be taken on a bill from which a star has been removed until one  day
+  b. Other than for the purpose of amendment or recommittal,  no  action
+may  be taken on a bill from which a star has been removed until one day
 after such removal.
   § 8. Recall and concurrence. All Senate bills amended by the Assembly,
-and  returned  to the Senate, for its concurrence, and all bills amended
-by the report of  a  conference  committee,  shall  be  subject  to  the
+and returned to the Senate, for its concurrence, and all  bills  amended
+by  the  report  of  a  conference  committee,  shall  be subject to the
 provisions of section one of this Rule.
-  §  9. Transmittal of bills to the Governor. All Senate bills passed by
-the Senate and sent to the Assembly for action shall, upon  passage  and
-return by the Assembly to the Senate, be transmitted by the Secretary to
-the  Governor  within  forty-five  days after receipt from the Assembly;
-except that upon the filing of a request to  hold  such  bill  with  the
-Secretary  by the sponsor of the bill, the bill shall be held until such
-time as the sponsor rescinds the request to hold the bill and upon  such
-rescission  the Secretary shall transmit the bill to the Governor within
-seven days.
+  § 9. Transmittal of bills to the Governor. All Senate bills passed  by
+the  Senate  and sent to the Assembly for action shall, upon passage and
+return by the Assembly to the Senate, be transmitted by the Secretary of
+the Senate to the Governor within thirty days  after  receipt  from  the
+Assembly;  except  that  upon  the filing of a request to hold such bill
+with the Temporary President by the sponsor of the bill, the bill  shall
+be  held until such time as the sponsor rescinds the request to hold the
+bill and upon such rescission the Secretary of the Senate shall transmit
+the bill to the Governor within seven days.
                                  RULE X
 SENATORS
   Section  1.  Attendance  and  vote.  a. Every Senator shall be present
@@ -1029,13 +1032,14 @@ refusal  shall  be  deemed a contempt. In order to vote on a bill on the
 controversial calendar, a Senator, other than  the  Conference  Leaders,
 must be present in the Senate chamber and vote from his or her regularly
 assigned  seat,  except  that a Senator acting as the Presiding Officer,
-Temporary President  or  Conference  Leader  may  vote  from  the  place
-assigned  to such officer. No Senator absent from a roll call vote shall
-be allowed to vote thereon; however, within  the  same  day,  a  Senator
-required  to  attend  a public hearing or other meeting of a standing or
-conference committee, or any other meeting which the  Coalition  Leaders
-designate  as appropriate, may cast his or her vote at any time prior to
-5:00 P.M. or the adjournment of the Senate, whichever shall be later.
+Temporary President or Independent Democratic Conference Leader may vote
+from the place assigned to such officer. No Senator absent from  a  roll
+call  vote  shall  be  allowed to vote thereon; however, within the same
+day, a Senator required to attend a public hearing or other meeting of a
+standing or  conference  committee,  or  any  other  meeting  which  the
+Majority Coalition Leaders designate as appropriate, may cast his or her
+vote  at  any  time prior to 5:00 P.M. or the adjournment of the Senate,
+whichever shall be later.
   b. A Senator desiring to be excused from voting for a direct  personal
 or  pecuniary interest in the issue then before the Senate may, when his
 or her name is called, state such desire and if there  be  an  objection
@@ -1101,114 +1105,121 @@ speak once, or may yield the floor to any Senator who  may  speak  once.
 The main question shall then be put immediately.
   d.  Debate on motions or resolutions other than concurrent resolutions
 shall be limited to  one  hour  with  one-half  hour  allocated  to  the
-Coalition  and  one-half  hour  allocated  to the Democratic Conference.
-Debate upon any bill or concurrent resolution shall be limited  to  four
-hours,  which  shall include sufficient time for all Senators to explain
-their votes. No single Senator  shall  debate  any  bill  or  concurrent
-resolution  for  more  than  thirty minutes. When any bill or concurrent
-resolution shall have been under consideration for two hours,  including
-all  amendments thereto, it shall be in order for any Senator to move to
-close debate, and the Presiding Officer shall recognize the Senator  who
-wishes  to  make  such  motion. Such motion to close debate shall not be
-amendable or debatable and shall be immediately put,  and  if  it  shall
-receive  the affirmative vote of a majority of the Senators present, the
-pending measure shall take precedence over all other business.
+Majority  Coalition  and  one-half  hour  allocated  to  the  Democratic
+Conference.   Debate upon any bill or  concurrent  resolution  shall  be
+limited  to  four  hours,  which  shall  include sufficient time for all
+Senators to explain their votes. No single Senator shall debate any bill
+or concurrent resolution for more than thirty minutes. When any bill  or
+concurrent resolution shall have been under consideration for two hours,
+including  all  amendments thereto, it shall be in order for any Senator
+to move to close debate, and the Presiding Officer shall  recognize  the
+Senator  who  wishes  to  make  such motion. Such motion to close debate
+shall not be amendable or debatable and shall be immediately put, and if
+it shall receive the affirmative vote of  a  majority  of  the  Senators
+elected,  the  pending  measure  shall  take  precedence  over all other
+business.
   e. The vote shall thereupon be taken upon  such  bill,  resolution  or
 motion  with  such  amendments  as  may  be  pending at the time of such
 motion, according to the  Rules  of  the  Senate,  but  without  further
 debate,  except that upon the roll call the sponsor of a bill before the
-house may speak, not to exceed five minutes, in explanation  of  his  or
-her  vote, and any Senator, including co-sponsors of the bill before the
-house, may speak not to exceed two minutes in explanation of his or  her
+house  may  speak,  not to exceed five minutes, in explanation of his or
+her vote, and any Senator, including co-sponsors of the bill before  the
+house,  may speak not to exceed two minutes in explanation of his or her
 vote. After such motion to close debate has been made by any Senator, no
-other  motion shall be in order until such motion has been voted upon by
+other motion shall be in order until such motion has been voted upon  by
 the Senate.
-  f. After the Senate shall have adopted the motion to close debate,  as
-hereinbefore  provided,  no  motion  shall be in order but one motion to
-adjourn or for a call of the Senate by the Temporary  President,  and  a
-motion  to commit. Should said motion to adjourn be carried, the measure
-under consideration shall be the pending question when the Senate  shall
-again  convene,  and  shall be taken up at the point where it was at the
+  f.  After the Senate shall have adopted the motion to close debate, as
+hereinbefore provided, no motion shall be in order  but  one  motion  to
+adjourn  or  for  a call of the Senate by the Temporary President, and a
+motion to commit. Should said motion to adjourn be carried, the  measure
+under  consideration shall be the pending question when the Senate shall
+again convene, and shall be taken up at the point where it  was  at  the
 time of such adjournment. The motion to close debate may be ordered upon
-a single motion, a series of motions allowable under the  rules,  or  an
-amendment  or  amendments,  or  may  be  made  to embrace all authorized
+a  single  motion,  a series of motions allowable under the rules, or an
+amendment or amendments, or  may  be  made  to  embrace  all  authorized
 motions or amendments, and include the bill, resolution or motion to its
-passage or rejection. All incidental  questions  of  order,  or  motions
-pending  at  the  time  such motion is made to close debate, whether the
+passage  or  rejection.  All  incidental  questions of order, or motions
+pending at the time such motion is made to  close  debate,  whether  the
 same be on appeal or otherwise, shall be decided without debate.
-  § 4. Order and decorum.  a.  Prior  to  the  order  of  business,  the
-presiding  officer  shall  ask  those  in the chamber to rise and pledge
+  §  4.  Order  and  decorum.  a.  Prior  to  the order of business, the
+Presiding Officer shall ask those in the  chamber  to  rise  and  pledge
 allegiance to the flag. Those in attendance shall remain standing during
-the daily invocation  and  until  asked  to  take  their  seats  by  the
-presiding  officer.  Senators  shall  not  interrupt the business of the
-Senate, or read any newspaper while the journals or  public  papers  are
-being  read;  or  walk  out  of or across the Chamber when the Presiding
-Officer is putting a question; or  when  a  Senator  is  speaking,  pass
+the  daily  invocation  and  until  asked  to  take  their  seats by the
+Presiding Officer. Senators shall not  interrupt  the  business  of  the
+Senate,  or  read  any newspaper while the journals or public papers are
+being read; or walk out of or across  the  Chamber  when  the  Presiding
+Officer  is  putting  a  question;  or  when a Senator is speaking, pass
 between him or her and the Chair. Cellular telephones and audible pagers
-shall  not  be  used in the Chamber or in the Senate Galleries. No sign,
-placard or prop shall be displayed, posted or carried  in  the  Chamber.
-Cellular  telephones  shall  not  be used in the lobby by members of the
-general public. No person shall be introduced by a  Senator  during  the
-regular  business  of the Senate, except that it shall be permissible to
-introduce a person who has served as a member  of  the  New  York  State
-Legislature or a person who is present in the Chamber for the purpose of
-nomination to an office to be confirmed by the Senate. On the nomination
-of  any  person to an office which is subject to the confirmation of the
-Senate, nominating and seconding speeches shall be  limited  to  fifteen
-minutes per conference.
+shall not be used in the Lobbies, Chamber or Galleries. No sign, placard
+or prop shall be displayed, posted or carried in the Chamber or  in  the
+Senate Galleries.  Cellular telephones shall not be used in the lobby by
+members of the general public.  Cellular telephones shall not be used to
+take  photographs, videos or perform any other recording function in the
+Senate Chamber, Galleries or  Lobbies,  except  those  photographic  and
+recording  functions  performed  by  official  Senate  photographers and
+videographers, without permission of the Secretary of the  Senate.    No
+person  shall  be introduced by a Senator during the regular business of
+the Senate, except that it shall be permissible to  introduce  a  person
+who has served as a member of the New York State Legislature or a person
+who is present in the Chamber for the purpose of nomination to an office
+to  be  confirmed  by  the Senate. On the nomination of any person to an
+office which is subject to the confirmation of  the  Senate,  nominating
+and   seconding  speeches  shall  be  limited  to  fifteen  minutes  per
+conference.
   b. Members are expected to uphold the highest standards of civility in
-dealing  with  other  members. Debate should be dignified and lacking in
-personal invective. A Senator rising to debate or present  a  paper,  to
-give  a  notice, to make a motion or report, shall address the Presiding
-Officer and shall not proceed further until recognized by the Chair;  he
-or  she  shall  speak on the same subject but twice the same day without
-leave of the Senate; and when two or more Senators  address  the  Chair,
-the  Presiding  Officer  shall name the Senator who is first to speak. A
-Senator, while speaking  after  recognition  by  the  Chair,  may,  upon
-request  of  a  Senator, yield to him or her temporarily without thereby
-relinquishing his or her prior right to the floor and,  thereafter,  may
-terminate  such  interruption and resume speaking at any time; provided,
+dealing with other members. Debate should be dignified  and  lacking  in
+personal  invective.  A  Senator rising to debate or present a paper, to
+give a notice, to make a motion or report, shall address  the  Presiding
+Officer  and shall not proceed further until recognized by the Chair; he
+or she shall speak on the same subject but twice the  same  day  without
+leave  of  the  Senate; and when two or more Senators address the Chair,
+the Presiding Officer shall name the Senator who is first  to  speak.  A
+Senator,  while  speaking  after  recognition  by  the  Chair, may, upon
+request of a Senator, yield to him or her  temporarily  without  thereby
+relinquishing  his  or her prior right to the floor and, thereafter, may
+terminate such interruption and resume speaking at any  time;  provided,
 however, that it shall not be in order for a Senator to rise and request
 that a Senator, other than the one with the right to the floor, yield to
-a question. Furthermore, it shall not be in order for  a  Senator,  with
-the  right  to the floor, to ask another Senator to yield to a question,
-unless such Senator has previously  spoken  during  the  debate  on  the
-matter. All questions and responses shall be directed through the chair,
-and  the presiding officer shall not be interrupted when speaking. After
-completion of the order of business for the day, and with the  unanimous
-consent  of  the  Senate,  a Senator may make a statement, not exceeding
-fifteen minutes in length, concerning a subject or  matter  not  pending
+a  question.  Furthermore,  it shall not be in order for a Senator, with
+the right to the floor, to ask another Senator to yield to  a  question,
+unless  such  Senator  has  previously  spoken  during the debate on the
+matter. All questions and responses shall be directed through the Chair,
+and the Presiding Officer shall not be interrupted when speaking.  After
+completion  of the order of business for the day, and with the unanimous
+consent of the Senate, a Senator may make  a  statement,  not  exceeding
+fifteen  minutes  in  length, concerning a subject or matter not pending
 before the Senate for consideration.
-  c.  When  a Senator shall be called to order, he or she shall take his
+  c. When a Senator shall be called to order, he or she shall  take  his
 or her seat until the Presiding Officer shall have determined whether he
-or she is in order or not; and if decided to be out of order, he or  she
-shall  not  proceed  without  the  permission  of  the Senate; and every
-question of order shall be decided by the Presiding Officer, subject  to
-an  appeal to the Senate by any Senator. It shall require an affirmative
-vote of a majority of all members elected to overrule a  ruling  of  the
-Chair.  No  second  appeal shall be determined until the original appeal
-shall be decided; and if a Senator shall be called to  order  for  words
-spoken,  the  words  excepted  to  shall  be  immediately  taken down in
+or  she is in order or not; and if decided to be out of order, he or she
+shall not proceed without  the  permission  of  the  Senate;  and  every
+question  of order shall be decided by the Presiding Officer, subject to
+an appeal to the Senate by any Senator. It shall require an  affirmative
+vote  of  a  majority of all members elected to overrule a ruling of the
+Chair. No second appeal shall be determined until  the  original  appeal
+shall  be  decided;  and if a Senator shall be called to order for words
+spoken, the words  excepted  to  shall  be  immediately  taken  down  in
 writing.
-  § 5. Presentation of papers. a. A Senator  presenting  a  paper  shall
-endorse  the  same with his or her name and a brief written statement of
+  §  5.  Presentation  of  papers. a. A Senator presenting a paper shall
+endorse the same with his or her name and a brief written  statement  of
 the subject of its contents.
-  b. When the reading of a paper is called for,  except  petitions,  and
+  b.  When  the  reading of a paper is called for, except petitions, and
 the same is objected to by any Senator, it shall be determined by a vote
 of the Senate, without debate.
   § 6. Call of the Senate. For the purpose of securing the attendance of
 Senators, a call of the Senate may be ordered at any time, but such call
-shall  not  be  in order after the voting on any question has begun, nor
-after the third reading of a bill has  been  completed,  nor  after  the
-motion  to  close  debate  has been ordered pursuant to section three of
-this Rule, unless it shall appear upon an actual count by the  Presiding
+shall not be in order after the voting on any question  has  begun,  nor
+after  the  third  reading  of  a bill has been completed, nor after the
+motion to close debate has been ordered pursuant  to  section  three  of
+this  Rule, unless it shall appear upon an actual count by the Presiding
 Officer that a quorum is not present.
   § 7. Absences. In all cases of absence of Senators during the sessions
-of  the  Senate,  the  Temporary President or a majority of the Senators
-elected may take such measures as they  deem  necessary  to  secure  the
-presence  of  the  absentees,  and in addition to suspension for a given
-period, may inflict such censure or penalty as they  may  deem  just  on
-those who shall not render sufficient excuse for their absence.
+of the Senate, the Temporary President, jointly with the Leader  of  the
+Independent Democratic Conference, or a majority of the Senators elected
+may  take such measures as they deem necessary to secure the presence of
+the absentees, and in addition to suspension for  a  given  period,  may
+inflict such censure or penalty as they may deem just on those who shall
+not render sufficient excuse for their absence.
   §  8. Staffing. All Senators shall receive the same base allocation of
 funds   for   staffing   their   offices.   Additional    funding    for
 responsibilities  associated  with  committees  and leadership positions
@@ -1218,11 +1229,11 @@ appoint a staff member with expertise in the committee's subject matter.
 The  funding  for  the  Democratic conference central staff shall not be
 less than thirty percent of the funds allocated for all central staff on
 a per member basis.
-  § 9. Resources. All  Senators  shall  have  equitable  access  to  the
+  §  9.  Resources.  All  Senators  shall  have  equitable access to the
 resources of the Senate, including, but not limited to, office supplies,
-communications  and  audio  visual resources, mail privileges subject to
-published guidelines, technology, including both hardware and  software,
-and   equal   access  to  the  Legislative  Bill  Drafting  Commission's
+communications and audio visual resources, mail  privileges  subject  to
+published  guidelines, technology, including both hardware and software,
+and  equal  access  to  the  Legislative  Bill   Drafting   Commission's
 Legislative Retrieval System.
   §  10. District Offices. All Senators will receive funds to maintain a
 district office. Rents of district offices shall  be  based  on  a  cost
@@ -1230,16 +1241,18 @@ formula  of  office  rental costs of an equal class of commercial office
 space based on the prevailing rent in the community  where  the  Senator
 chooses to have his or her district office. A Senator whose district has
 geographic  disparities  such that traversing the district is a hardship
-for his or her constituents, as determined  by  the  Coalition  Leaders,
-shall receive supplemental funding to maintain a satellite office.
+for his or her constituents, as determined  by  the  Majority  Coalition
+Leaders,  shall  receive  supplemental  funding  to maintain a satellite
+office.
   § 11. Allocation for Community Projects. Each conference shall receive
 an allocation from any amounts to be awarded by the Senate for community
-projects,   capital   spending,   local   assistance  or  other  similar
-allocations for member driven initiatives. The Coalition  shall  receive
-seventy-one  percent  of  such funds and the Democratic Conference shall
-receive twenty-nine percent of such funds; provided  however  that  such
-percentages  shall  increase  or  decrease to reflect any changes in the
-membership of either the Coalition or the Democratic Conference.
+projects,  capital  spending,  local   assistance   or   other   similar
+allocations  for member driven initiatives. The Majority Coalition shall
+receive seventy-one percent of such funds and the Democratic  Conference
+shall  receive  twenty-nine percent of such funds; provided however that
+such percentages shall increase or decrease to reflect  any  changes  in
+the  membership  of  either  the  Majority  Coalition  or the Democratic
+Conference.
                                  RULE XI
 SENATE CHAMBERS
   Section  1.  Open  doors.  The doors of the Senate shall be kept open,
@@ -1247,7 +1260,7 @@ except when the public welfare shall require secrecy.
   § 2. Admission to  floor.  Persons  not  members  of  the  Senate,  or
 officers  or  employees  thereof,  shall be admitted to the floor of the
 Senate only as follows:
-  a. The Governor, his or her secretary and messenger.
+  a. The Governor, and his or her secretary.
   b. The members and Clerk of the Assembly, and clerks and messengers of
 the Assembly in the exercise of an official duty directly connected with
 the business of the Senate.
