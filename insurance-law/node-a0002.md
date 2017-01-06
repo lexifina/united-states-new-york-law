@@ -1,6 +1,7 @@
                                 ARTICLE 2
           ORGANIZATION OF THE DEPARTMENT OF FINANCIAL SERVICES
-Section 205. Gratuities; prohibited payments to department personnel.
+Section 201. State insurance advisory board.
+        205. Gratuities; prohibited payments to department personnel.
         208. Transfer or destruction of records.
         210. Annual consumer guide of health insurers, and entities
                certified pursuant to article forty-four of the public
