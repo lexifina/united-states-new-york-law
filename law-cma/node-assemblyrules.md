@@ -1,16 +1,15 @@
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2015-2016
-  Rules of the Assembly for the years 2015--2016, as adopted by Assembly
-Resolution  number  6  of 2015 and amended by Assembly Resolution number
-830 of 2016.
-  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
-Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
-and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
+                                2017-2018
+  Rules of the Assembly for the years 2017--2018, as adopted by Assembly
+Resolution number 6 of 2017.
+  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
+Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
+and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
-amended   by   Concurrent  Resolution  numbers  2775  (Senate)  and  787
+amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
 (Assembly) of 2009.
-                                 1/6/16
+                                 1/5/17
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -25,7 +24,8 @@ Rule II               ORDER OF BUSINESS AND MOTIONS
 §  1            Stenographer                                           9
    2            Hours in session                                       9
    3            Order of business                                      9
-   4            Motions; previous questions                           10
+   4            Assembly Calendar                                     10
+   5            Motions; previous questions                           10
 Rule III                  BILLS AND RESOLUTIONS
 §  1            Contents                                              12
    2            Introduction                                          14
@@ -258,7 +258,7 @@ by  the  Speaker,  within  ten  days  following  the date upon which the
 proceedings took place.
   § 2. Hours in session. The House shall convene at 2:00 P.M. on  Monday
 and  11:00 A.M. on other days unless otherwise ordered. No session shall
-extend beyond eight hours nor shall it occur between 12:00 A.M. and 6:00
+extend beyond eight hours nor shall it occur between 10:00 P.M. and 8:00
 A.M.  provided, however, the House may remain  in  session  to  complete
 action  on  a  measure  or measures being debated or to take action on a
 measure or measures if a message of necessity has been received from the
@@ -307,7 +307,16 @@ the assent of two-thirds of the  members  present.    When  so  made,  a
 similar vote shall be required to rescind or postpone such matter.
   f.  Petitions,  memorials  and  remonstrances  may be presented to the
 Clerk of the Assembly at the close of each day's session.
-  § 4. Motions; previous questions. a.  When a question  is  before  the
+  § 4. Assembly Calendar. All Assembly calendars shall be delineated  in
+a   form  prescribed  by  the  Speaker.  Each  such  calendar  shall  as
+applicable, list bills on special order of  second  and  third  reading,
+bills  on  special  order  of  third  reading,  bills  on order of third
+reading, starred bills, and resolutions, and shall further delineate any
+bills newly reported to the calendar, bills amended  on  third  reading,
+bills  for  which there is a home rule message, and bills that require a
+fiscal note pursuant to section 50 or 51  of  the  Legislative  Law  and
+Joint Rule I. There shall be an index of such delineated material.
+  §  5.  Motions;  previous questions. a.  When a question is before the
 Assembly, only the following motions shall be received, and such motions
 shall have precedence in the order stated:
   (1) for an adjournment of the House;
@@ -319,14 +328,14 @@ shall have precedence in the order stated:
   (7) to amend;
   (8) to postpone indefinitely; and
   (9) to strike from the Calendar.
-  b.  A  motion  to  reconsider any vote must be made on the same day on
-which the vote proposed to be reconsidered  was  taken,  or  within  the
-three  legislative days next succeeding such day, and except in the case
-of a vote on the final passage of a bill, by a member who voted  in  the
-majority,  providing, however, that the vote upon the final passage of a
-bill recalled from the Senate may be reconsidered at any time  after  it
-is  returned to the House.  A motion to reconsider may be made under any
-order of business but shall  be  considered  only  under  the  order  of
+  b. A motion to reconsider any vote must be made on  the  same  day  on
+which  the  vote  proposed  to  be reconsidered was taken, or within the
+three legislative days next succeeding such day, and except in the  case
+of  a  vote on the final passage of a bill, by a member who voted in the
+majority, providing, however, that the vote upon the final passage of  a
+bill  recalled  from the Senate may be reconsidered at any time after it
+is returned to the House.  A motion to reconsider may be made under  any
+order  of  business  but  shall  be  considered  only under the order of
 business  in  which  the  vote proposed to be reconsidered occurred. The
 motion to reconsider the vote on the final passage of any bill shall  be
 privileged  to  any member, but no motion for the reconsideration of any
@@ -341,13 +350,13 @@ shall any vote be reconsidered upon the following motions:
   (2) to lay on the table;
   (3) to take from the table; and
   (4) for the previous question.
-  d.  The  "previous  question" shall be put as follows: "Shall the main
-question now be put?" and  until  it  is  decided,  shall  preclude  all
-amendments  or debate.  When, on taking the previous question, the House
-shall decide that the main question shall  not  now  be  put,  the  main
-question  shall be considered as still remaining under debate. The "main
+  d. The "previous question" shall be put as follows:  "Shall  the  main
+question  now  be  put?"  and  until  it  is decided, shall preclude all
+amendments or debate.  When, on taking the previous question, the  House
+shall  decide  that  the  main  question  shall not now be put, the main
+question shall be considered as still remaining under debate. The  "main
 question" shall be the advancement or passage of the bill, resolution or
-other matter under consideration; but when amendments are  pending,  the
+other  matter  under consideration; but when amendments are pending, the
 question shall first be taken upon such amendments in their order.
                                 RULE III
                           BILLS AND RESOLUTIONS
@@ -424,16 +433,19 @@ be restored to the place it held when such direction was given.
   f. Introducer's memorandum.
   There  shall  be appended to every bill introduced in the Assembly, an
 introducer's memorandum setting forth the purpose of the bill, a summary
-of its provisions, a statement of its fiscal  impact  on  the  state,  a
-statement  of its impact on the regulation of businesses and individuals
-and a statement as to whether the bill imposes or changes any fine, term
-of imprisonment, forfeiture of rights or other penal sanction,  together
-with  the  nature of such imposition or change in a format and length to
-be prescribed by the Speaker. Whenever a bill is amended by its sponsor,
-it shall be the duty of  the  sponsor  to  file  an  amended  memorandum
-setting  forth the same material as required in the original memorandum.
-In addition, whenever a bill is reported by a committee as  amended,  it
-shall be the duty of the committee to submit an amended memorandum.
+of its provisions, a statement of its fiscal impact on the state and its
+localities, a statement of its impact on the  regulation  of  businesses
+and  individuals  and  a  statement  as  to  whether the bill imposes or
+changes any fine, term of imprisonment, forfeiture of  rights  or  other
+penal  sanction,  together with the nature of such imposition or change.
+Whenever a bill is amended by its sponsor, it shall be the duty  of  the
+sponsor to file an amended memorandum setting forth the same material as
+required  in  the  original  memorandum,  and describing the differences
+between the original and amended versions.  In addition, whenever a bill
+is reported by a committee as amended, it  shall  be  the  duty  of  the
+committee  to  submit  an  amended  memorandum. Such memorandum shall be
+submitted in a written or electronic format  to  be  prescribed  by  the
+Speaker.
   § 2. Introduction.
   a.  Every  bill to be introduced in the House shall be in a draft form
 prescribed by the Legislative Bill Drafting Commission  and  accompanied
@@ -441,30 +453,30 @@ by  the  introducer's  memorandum. Such bill draft shall be presented by
 the introducer to the Index Clerk and delivered by the  Index  Clerk  to
 the   Office  of  Assembly  Revision  for  the  purposes  set  forth  in
 subdivision a of section eight of this Rule. Thereafter, such bill shall
-be  referred to a standing committee, other than the Committee on Rules,
-by the Speaker, assigned a number, printed and placed on  the  desks  of
-the  members  consistent with section nine of this Rule. The Index Clerk
+be referred to a standing committee, other than the Committee on  Rules,
+by  the  Speaker,  assigned a number, printed and placed on the desks of
+the members consistent with section nine of this Rule. The  Index  Clerk
 shall, on the day of its introduction, cause such bill to be transmitted
 to the printer.  A copy of each bill shall be available to the public.
-  b.  On or after November fifteenth of a calendar year,  a  member  and
+  b.    On  or after November fifteenth of a calendar year, a member and
 member-elect may submit a bill, in accordance with subdivision a of this
-section,   for   introduction  at  the  commencement  of  the  following
-legislative session. Such prefiled bill shall be assigned a  number  and
-referred  to  a  committee, but shall not be deemed introduced until the
+section,  for  introduction  at  the  commencement  of   the   following
+legislative  session.  Such prefiled bill shall be assigned a number and
+referred to a committee, but shall not be deemed  introduced  until  the
 commencement of such legislative session.
-  c.   Each time a bill is  amended  and  reprinted,  a  letter  of  the
+  c.    Each  time  a  bill  is  amended  and reprinted, a letter of the
 alphabet, starting with "A", shall be added to its number.
-  d.    All  bills,  whether  introduced in the House or communicated by
-message from the Senate, or by the Governor pursuant to Article  VII  of
+  d.  All bills, whether introduced in  the  House  or  communicated  by
+message  from  the Senate, or by the Governor pursuant to Article VII of
 the Constitution, shall be deemed to have had their first reading unless
-otherwise  ordered  by  the  House  and  shall be referred to a standing
+otherwise ordered by the House and  shall  be  referred  to  a  standing
 committee, to consider and report thereon.  At any time the Speaker may,
-with the consent of the House, change the reference of any  bill.  Every
-message  from  the Senate communicating an amendment to an Assembly bill
-shall, except with unanimous consent for immediate passage, be  referred
-to  the  committee  which  reported the bill with power to report at any
+with  the  consent of the House, change the reference of any bill. Every
+message from the Senate communicating an amendment to an  Assembly  bill
+shall,  except with unanimous consent for immediate passage, be referred
+to the committee which reported the bill with power  to  report  at  any
 time.
-  e. No bill shall be introduced in the  House  except  in  one  of  the
+  e.  No  bill  shall  be  introduced  in the House except in one of the
 following modes:
   (1) by a member;
   (2) by a report of a standing committee;
@@ -472,65 +484,78 @@ following modes:
   (4) by message from the Senate; and
   (5) by the Governor under Article VII of the Constitution.
   f. (1) Any Assembly bill introduced in the regular legislative session
-of  the  first  year  of  the term of the Assembly shall be deemed to be
+of the first year of the term of the Assembly  shall  be  deemed  to  be
 reintroduced for the second year of such term, provided such bill was:
   (a) not reported from a standing committee;
   (b) reported and referred;
   (c) recommitted to a standing committee; or
-  (d) referred back to a standing committee by the  Committee  on  Rules
+  (d)  referred  back  to a standing committee by the Committee on Rules
 immediately prior to adjournment sine die.
-  (2)  Any  Assembly  bill  which  in  the first year of the term of the
-Assembly was passed by the Assembly and did  not  become  law,  was  not
-vetoed,  or was substituted by a Senate bill which did not become law or
-which was not vetoed, shall be deemed to be reintroduced for the  second
-year  of  such  term and shall be ordered to the order of third reading,
-except that:
-  (a) any such bill which in  such  first  year  required  a  home  rule
-message  for  passage  shall  be referred to the committee to which such
-bill was originally referred;
+  (2) Any Assembly bill introduced in the first year of the term of  the
+Assembly, shall be deemed to be reintroduced for the second year of such
+term  and  referred  to  the committee where the bill was last referred,
+except that: (i) any bill that was last referred  to  the  Committee  on
+Rules  shall  be referred to the committee that reported the bill to the
+Committee on Rules; (ii) any bill that was on  order  of  third  reading
+shall  be ordered to the order of third reading; (iii) any bill that was
+passed by the Assembly and did not become law, was not  vetoed,  or  was
+substituted by a Senate bill which did not become law or was not vetoed,
+shall  be  ordered  to  the order of third reading, and further provided
+that:
+  (a) any such bill which in such first year required a fiscal  note  as
+required  by  section 50 of the Legislative Law or home rule message for
+passage shall be referred to  the  committee  to  which  such  bill  was
+originally referred;
   (b) upon request of the introducer or the chairperson of the committee
 to which such bill was originally referred, such bill shall be committed
-to the committee to which it was originally referred provided,  however,
-such  request  may not be made later than the second Wednesday following
+to  the committee to which it was originally referred provided, however,
+such request may not be made later than the second  Wednesday  following
 the commencement of the second year of the term of the Assembly;
-  (c) any such bill making an  appropriation  of  money  which  was  not
-referred  to  a  committee pursuant to the provisions of this paragraph,
+  (c)  any  such  bill  making  an  appropriation of money which was not
+referred to a committee pursuant to the provisions  of  this  paragraph,
 shall be referred to the Committee on Ways and Means; and
-  (d) upon the request of the chairperson of the Committee on  Ways  and
+  (d)  upon  the request of the chairperson of the Committee on Ways and
 Means, any bill not referred to a committee pursuant to subparagraph (a)
-or  (b)  of  this  paragraph,  which in such first year was reported and
-referred to the Committee on Ways and Means pursuant to section  six  of
-Rule  IV shall be committed to the Committee on Ways and Means provided,
-however, such request may not be made later than  the  second  Wednesday
-following  the  commencement  of  the  second  year  of  the term of the
+or (b) of this paragraph, which in such  first  year  was  reported  and
+referred  to  the Committee on Ways and Means pursuant to section six of
+Rule IV shall be committed to the Committee on Ways and Means  provided,
+however,  such  request  may not be made later than the second Wednesday
+following the commencement of  the  second  year  of  the  term  of  the
 Assembly.
-  g. When a bill is submitted or proposed by the Governor  by  authority
+  g.  When  a bill is submitted or proposed by the Governor by authority
 of Article VII of the Constitution, it shall become, for all legislative
-purposes,  a  legislative bill, and upon receipt thereof by the Assembly
-it shall be endorsed "Budget Bill" and be given a number  by  the  Index
-Clerk,  and  shall be referred to the Committee on Ways and Means and be
-printed.  Bills submitted by the Governor, other  than  those  submitted
+purposes, a legislative bill, and upon receipt thereof by  the  Assembly
+it  shall  be  endorsed "Budget Bill" and be given a number by the Index
+Clerk, and shall be referred to the Committee on Ways and Means  and  be
+printed.    Bills  submitted by the Governor, other than those submitted
 pursuant to Article VII of the Constitution, shall carry the designation
 "Introduced at the request of the Governor".
-  h.  Whenever a member requests the preparation of legislation from the
-Legislative Bill Drafting  Commission,  the  bill  drafter  assigned  to
-prepare  such  legislation shall determine if a similar bill has already
-been introduced, and,  if  a  similar  bill  has  been  introduced,  the
+  h. Whenever a member requests the preparation of legislation from  the
+Legislative  Bill  Drafting  Commission,  the  bill  drafter assigned to
+prepare such legislation shall determine if a similar bill  has  already
+been  introduced,  and,  if  a  similar  bill  has  been introduced, the
 Legislative  Bill  Drafting  Commission,  on  forms  prescribed  by  the
-Commission, shall notify the member of such fact  and  inform  him  that
+Commission,  shall  notify  the  member of such fact and inform him that
 subdivision b of section three of this Rule permits a member to become a
-multi-sponsor  of  a  bill  already printed by filing a request therefor
+multi-sponsor of a bill already printed by  filing  a  request  therefor
 with the Index Clerk. Notwithstanding that a similar bill has previously
-been introduced, a member shall have the right to have  the  legislation
+been  introduced,  a member shall have the right to have the legislation
 requested prepared by the Commission for introduction.
-  §  3.  Multi-sponsorship. a. Any number of members of the Assembly may
-join in the  multi-sponsorship  of  a  bill.    When  a  bill  is  first
-introduced  and  before  it  is printed, the names of all multi-sponsors
+  i. Whenever a bill requires a fiscal impact note pursuant  to  section
+51  of  the  Legislative  Law  and  Joint Rule I, or a home rule message
+pursuant to Article IX of the Constitution, such fiscal impact  note  or
+record  of  receipt  of  the  home  rule message shall be made available
+through  the  Assembly  Public Information Office, the Assembly Internet
+site and the Legislative Retrieval System.
+  § 3. Multi-sponsorship. a. Any number of members of the  Assembly  may
+join  in  the  multi-sponsorship  of  a  bill.    When  a  bill is first
+introduced and before it is printed, the  names  of  all  multi-sponsors
 shall appear on the printed bill upon the following conditions:
-  (1) Multi-sponsors shall file a written request to act  as  such  with
-the  Index Clerk of the Assembly on forms provided. The request so filed
-shall indicate that the first name appearing on the bill shall be deemed
-the introducer and all others deemed multi-sponsors.
+  (1)  Multi-sponsors  shall file a written or electronic request to act
+as such with the Index Clerk of the  Assembly  on  forms  provided.  The
+request  so  filed  shall  indicate that the first name appearing on the
+bill  shall  be  deemed   the   introducer   and   all   others   deemed
+multi-sponsors.
   (2)  The introducer shall at all times retain exclusive control of the
 bill.
   (3) After a multi-sponsored bill has been printed,  any  multi-sponsor
@@ -566,23 +591,23 @@ After  the  last  Tuesday  in  May of such second year, no bill shall be
 introduced except by the Committee on Rules, by message from the  Senate
 or,  with  the  consent  of the Speaker, by members elected at a special
 election who take office on or after the first Tuesday in May.
-  b. Notwithstanding the provisions of subdivision a  of  this  section,
+  b.  Notwithstanding  the  provisions of subdivision a of this section,
 bills may be introduced at any time by unanimous consent of the House.
   § 5. Resolutions.
   a. Original resolutions, concurrent or otherwise other than privileged
-resolutions  may  be  introduced  by  a member under the proper order of
-business on or before the last Tuesday in May of the second year of  the
+resolutions may be introduced by a member  under  the  proper  order  of
+business  on or before the last Tuesday in May of the second year of the
 term of the Assembly.  After the last Tuesday in May of such second year
-no  such resolution shall be introduced except by the Committee on Rules
-or by message from the Senate or, with the consent of  the  Speaker,  by
-members  elected  at  a special election who take office on or after the
-last Tuesday in May.   Such resolutions shall be  in  quadruplicate  and
-bear  the  name  of  the  introducer and shall be referred to a standing
+no such resolution shall be introduced except by the Committee on  Rules
+or  by  message  from the Senate or, with the consent of the Speaker, by
+members elected at a special election who take office on  or  after  the
+last  Tuesday  in  May.   Such resolutions shall be in quadruplicate and
+bear the name of the introducer and shall  be  referred  to  a  standing
 committee  for  consideration  and  report.  No  such  resolution may be
 introduced unless copies thereof first shall have been furnished to  the
 Speaker,  the  Majority Leader and the Minority Leader. Before the House
 may vote on a resolution, copies of such resolution shall be  placed  on
-each member's desk prior to such vote.
+each member's desk prior to such vote in written or electronic format.
   b.  The  following  resolutions  and motions relating thereto shall be
 considered privileged and their presentation and consideration shall  be
 in order under any order of business:
@@ -598,7 +623,9 @@ officers;
 slips;
     (7)  resolutions  relating  to  the  reports  of  joint  legislative
 committees; and
-    (8) resolutions in memorium or honorific in nature.
+    (8) resolutions  in  memoriam  or  honorific  in  nature,  provided,
+however,  that such resolutions shall be placed on each member's desk in
+either written or electronic format prior to their consideration.
   c. Messages from the  Senate  communicating  a  concurrent  resolution
 shall,  if  objection is made to immediate consideration, be referred to
 the appropriate committee with power to report at any time.
@@ -677,42 +704,42 @@ removed from a bill until one day after the request therefor.  A bill on
 any order of third reading which has  been  laid  aside  by  or  at  the
 request  of the introducer on three separate days shall be automatically
 starred.
-  g.  Substitution  of Bills. Where there is a Senate bill in a standing
-committee and the identical Assembly bill is on the order of  second  or
-any  order  of third reading, the Senate bill may be substituted for the
-Assembly bill upon a motion by, or on behalf of, the  introducer  and  a
-vote  of  a  majority  of the members present and voting.  The motion to
+  g. Substitution of Bills. Where there is a Senate bill in  a  standing
+committee  and  the identical Assembly bill is on the order of second or
+any order of third reading, the Senate bill may be substituted  for  the
+Assembly  bill  upon  a motion by, or on behalf of, the introducer and a
+vote of a majority of the members present and voting.    The  motion  to
 substitute may also be made on an identical Assembly bill which has been
 passed, recalled, vote reconsidered and restored to third reading.
   § 8. Revision and engrossing.
-  a. The Office of Assembly  Revision  shall  examine  and  correct  all
+  a.  The  Office  of  Assembly  Revision  shall examine and correct all
 bills, for the purpose of avoiding repetitions, insuring accuracy in the
-text  and  references, and consistency with the language of the existing
-statutes. Any recommendation of the Office of  Assembly  Revision  which
-requires  further  amendment  of the bill shall be handled by the member
-introducing it or by the  Majority  or  Minority  Leader  as  a  regular
+text and references, and consistency with the language of  the  existing
+statutes.  Any  recommendation  of the Office of Assembly Revision which
+requires further amendment of the bill shall be handled  by  the  member
+introducing  it  or  by  the  Majority  or  Minority Leader as a regular
 amendment to the bill.
   b. All bills when ordered to a third reading except Senate bills which
-have  not  been  amended  in the House, or bills, which have been made a
-special order on second and third reading, shall be sent  to  the  Index
-Clerk  to  be  jacketed with the proper jurat for certification of final
-passage. Each  such  bill  shall,  after  passage  by  both  Houses,  be
-engrossed,  if  so ordered by the Speaker, or stamped "Official Copy" in
+have not been amended in the House, or bills, which  have  been  made  a
+special  order  on  second and third reading, shall be sent to the Index
+Clerk to be jacketed with the proper jurat for  certification  of  final
+passage.  Each  such  bill  shall,  after  passage  by  both  Houses, be
+engrossed, if so ordered by the Speaker, or stamped "Official  Copy"  in
 which case it shall be deemed to have been engrossed.
-  § 9. Printing and placement on the desks. For the  purposes  of  these
-Rules,   any  requirement  for  the  copying,  printing,  reprinting  or
-placement of bills on the desks of members may be satisfied with  either
-bills  printed  on  paper  or bills in electronic format as described in
+  §  9.  Printing  and placement on the desks. For the purposes of these
+Rules,  any  requirement  for  the  copying,  printing,  reprinting   or
+placement  of bills on the desks of members may be satisfied with either
+bills printed on paper or bills in electronic  format  as  described  in
 section fourteen of Article III of the Constitution.
-  § 10. Transmittal of bills to the Governor. All Assembly bills  passed
-by  the  Assembly  and sent to the Senate for action shall, upon passage
-and return by the Senate to the Assembly, be transmitted  by  the  Index
+  §  10. Transmittal of bills to the Governor. All Assembly bills passed
+by the Assembly and sent to the Senate for action  shall,  upon  passage
+and  return  by  the Senate to the Assembly, be transmitted by the Index
 Clerk to the Governor within ten legislative days after receipt from the
-Senate,  except  that  any bill returned for transmittal to the Assembly
+Senate, except that any bill returned for transmittal  to  the  Assembly
 after the first of May and before the first of June shall be transmitted
-to the Governor within  thirty  days  of  such  receipt,  and  any  bill
-returned  for  transmittal to the Assembly on or after the first of June
-shall be transmitted to the Governor  within  forty-five  days  of  such
+to  the  Governor  within  thirty  days  of  such  receipt, and any bill
+returned for transmittal to the Assembly on or after the first  of  June
+shall  be  transmitted  to  the  Governor within forty-five days of such
 receipt.
                                  RULE IV
                                COMMITTEES
@@ -729,7 +756,8 @@ Codes ............................................ 22
 Consumer Affairs and Protection .................. 16
 Corporations, Authorities and Commissions ........ 26
 Correction ....................................... 13
-Economic Development ............................. 26
+Economic Development, Job Creation,
+Commerce and Industry ............................ 26
 Education ........................................ 31
 Election Law ..................................... 16
 Energy ........................................... 17
@@ -816,18 +844,20 @@ pending  committee  action,  such committee shall be required to meet at
 least once during such month to consider legislation.
   b. Each chairperson of a standing committee shall, by the Thursday  of
 the  week  preceding,  furnish to the Speaker, the Majority and Minority
-Leaders, and make available to each member of such committee, a copy  of
-the  agenda  of  all meetings scheduled for the following week, together
-with a copy of the introducer's memorandum for each bill listed on  such
-agenda.  Further,  each  chairperson  shall  furnish to the Speaker, the
-Majority and Minority Leaders and to the ranking minority member of such
-committee, a list of all  bills  referred  to  such  committee  to  date
-together  with  the  above  agenda and memoranda. In addition, copies of
-such agenda shall be made available not  later  than  such  Thursday  to
-representatives  of  the  news  media  and  to the general public by the
-filing  thereof  with  the  Legislative  Library and the Assembly Public
-Information Office.  The notice provisions of this  subdivision  and  of
-subdivision  c  shall  not  apply  to  the  Committee  on Rules. Nothing
+Leaders, and make available in written  or  electronic  format  to  each
+member of such committee, a copy of the agenda of all meetings scheduled
+for  the  following  week,  together  with  a  copy  of the introducer's
+memorandum  for  each  bill  listed  on  such  agenda.   Further,   each
+chairperson  shall  furnish  to  the  Speaker, the Majority and Minority
+Leaders and to the ranking minority member of such committee, a list  of
+all  bills  referred  to  such committee to date together with the above
+agenda and memoranda. In addition, copies of such agenda shall  be  made
+available  not  later  than such Thursday to representatives of the news
+media and  to  the  general  public  by  the  filing  thereof  with  the
+Legislative  Library  and  the  Assembly  Public Information Office, and
+shall  be  made  available  on  the  Assembly  Internet  site  and   the
+Legislative Retrieval System.  The notice provisions of this subdivision
+and  of subdivision c shall not apply to the Committee on Rules. Nothing
 contained in this subdivision shall  be  deemed  to  waive  any  of  the
 provisions  of  article  seven  of  the Public Officers Law known as the
 "Open Meetings Law".
@@ -860,10 +890,15 @@ to hold an executive session indicating the attendance  of  the  members
 and the ayes and nays. Such roll call shall be reproduced not later than
 24  hours  after  transmittal to such Office and shall be made available
 for inspection by the general public and  representatives  of  the  news
-media in the Assembly Public Information Office.
+media  in  the Assembly Public Information Office, the Assembly Internet
+site and the Legislative Retrieval System.
   f. The report of a committee upon any matter referred to it other than
-a  bill,  may  include a brief statement of the opinion of any member or
+a bill, may include a brief statement of the opinion of  any  member  or
 members of the committee voting in either the majority or minority.
+  g.  The  audio  and/or  video broadcast of committee meetings shall be
+made available on the Assembly Internet site when practicable, and shall
+be subject to the same requirements as apply to televised proceedings of
+Assembly sessions pursuant to Rule X.
   § 3.  Sub-committees. A sub-committee of a standing committee  created
 pursuant  to  paragraph  four  of subdivision c of section one of Rule I
 shall be comprised of at least three members of the standing  committee;
@@ -878,15 +913,16 @@ studies or investigations relating to matter within the jurisdiction  of
 the  standing  committee.  Any  report  issued  by  a sub-committee to a
 standing committee must  be  in  writing  and  indicate  any  dissenting
 opinion.  Meetings  of sub-committees shall be subject to the provisions
-of  article seven of the Public Officers Law known as the "Open Meetings
+of article seven of the Public Officers Law known as the "Open  Meetings
 Law".
-  § 4. Hearings. a. During each  legislative  session,  chairpersons  of
-standing  committees  may  call  public  hearings  to  permit interested
+  §  4.  Hearings.   a. During each legislative session, chairpersons of
+standing committees  may  call  public  hearings  to  permit  interested
 persons, groups or organizations the opportunity to testify orally or in
-writing on legislation or other matters  pending  before  such  standing
-committee  provided,  however,  that  each  chairperson  shall call such
-public hearings upon a petition signed by a majority of the  members  of
-the committee.
+writing  on  legislation  or  other matters pending before such standing
+committee provided, however,  that  each  chairperson  shall  call  such
+public  hearings  upon a petition signed by a majority of the members of
+the committee.  Such testimony if submitted in writing shall  be  posted
+on the Assembly Internet site to the extent practicable.
   b.  Consistent  with the provisions of subdivision d of section one of
 Rule IV hereof, the chairperson of each standing committee shall call at
 least one  public  hearing  after  the  adoption  of  the  state  budget
@@ -915,66 +951,82 @@ which fails shall not be deemed to satisfy a request for  consideration.
 Insofar  as  may be practicable, each standing committee shall vote upon
 such bills in the order in which  such  requests  are  filed,  provided,
 however,  that  a  chairperson  may  schedule the consideration of bills
-jointly if such bills  deal  with  similar  subject  matter.  Committees
-having  original  jurisdiction  over  bills  upon  which  a  request for
-consideration has been filed shall schedule all such bills for committee
-consideration by the third Tuesday in May of the second year of the term
-of the Assembly.
+jointly if such bills deal with similar subject matter.
   (2) No bill shall be considered by a  standing  committee  unless  the
 final  printed copy of the bill has been available to each member of the
 committee for at least seven days and copies thereof have been available
 to the general public and representatives of the news media for at least
-such period of time.   A bill reported  by  a  standing  committee  with
-amendments  shall not be deemed to be a new bill for the purposes of the
-provisions of this subdivision requiring bills to be  available  for  at
-least  seven  days  prior  to  consideration  by  a  standing committee.
-Provided, however, that upon consent of a majority  of  the  members  of
-such  committee,  any bill which is not in compliance with the foregoing
+such  period  of  time.    A  bill reported by a standing committee with
+amendments shall not be deemed to be a new bill for the purposes of  the
+provisions  of  this  subdivision requiring bills to be available for at
+least seven  days  prior  to  consideration  by  a  standing  committee.
+Provided,  however,  that  upon  consent of a majority of the members of
+such committee, any bill which is not in compliance with  the  foregoing
 provisions  of  this  paragraph,  may be transmitted to the Committee on
 Rules  for  further  action  in  accordance  with  the   provisions   of
 subparagraph  (b)  of  paragraph  one of subdivision b of section ten of
 this Rule.
   b. The sponsor of a bill referred to a standing committee may  require
 the  committee  to  formally  vote  upon  such  bill by filing a request
-therefor on an appropriate form to be furnished by the Office of Journal
-Operations. With respect to such request for consideration:
-  (1) The clerk of  each  standing  committee,  upon  receiving  such  a
+therefor on an appropriate written or electronic form to be furnished by
+the Office of Journal Operations.  With  respect  to  such  request  for
+consideration:
+  (1)  The  clerk  of  each  standing  committee,  upon receiving such a
 request must immediately issue a receipt therefor acknowledging the date
 and time of filing;
-  (2)  Requests  for  consideration  may  be submitted on bills that are
+  (2) Requests for consideration may be  submitted  on  bills  that  are
 printed, as follows:
-  (a) no later than the second Tuesday in April of the  second  year  of
-the  term of the Assembly, except that after the second Tuesday in April
-of such second year through the first Tuesday in  May  each  member  may
-submit  a  total  of  five  additional requests for consideration with a
-committee of original  jurisdiction,  and  a  copy  of  such  additional
-request  shall  be  filed  by  the Committee Clerk with the Committee on
-Standing Committees; and
-  (b) in the case of a bill that is referred to  a  subsequent  standing
+  (a)  no later than the last Tuesday in March of the second year of the
+term of the Assembly, except that after the last  Tuesday  in  March  of
+such  second  year  through  the  third Tuesday in April each member may
+submit a total of five additional  requests  for  consideration  with  a
+committee  of  original  jurisdiction,  and  a  copy  of such additional
+request shall be filed by the Committee  Clerk  with  the  Committee  on
+Standing  Committees. Committees having original jurisdiction over bills
+upon which a request for consideration has been filed shall schedule all
+such bills for committee consideration by the first Tuesday  in  May  of
+the second year of the term of the Assembly; and
+  (b)  in  the  case of a bill that is referred to a subsequent standing
 committee, such request shall be submitted within thirty days after such
 referral;
-  (3)  Except  with  respect  to  bills referred to a standing committee
-pursuant to the provisions of paragraph two of subdivision f of  section
-two of Rule III, requests for consideration of any bill introduced by or
-at the request of a member may be made only once in any two-year term of
-the Assembly;
-  (4)  Once  a  committee  has  acted  pursuant  to  such  request, such
-committee shall not be required, during such  two-year  term,  to  again
-consider  such  bill  or  to consider any substantially duplicative bill
-introduced by, or at the  request  of  such  member  subsequent  to  the
+  (3) Except with respect to bills  referred  to  a  standing  committee
+pursuant  to  the  provisions  of  item  (iii)  of  subparagraph  two of
+paragraph f of section two of Rule III, requests  for  consideration  of
+any  bill  introduced  by or at the request of a member may be made only
+once in any two-year term of the Assembly;
+  (4) Once  a  committee  has  acted  pursuant  to  such  request,  such
+committee  shall  not  be  required, during such two-year term, to again
+consider such bill or to consider  any  substantially  duplicative  bill
+introduced  by,  or  at  the  request  of  such member subsequent to the
 consideration of such bill by the committee; and
-  (5)  With respect to a bill sponsored by the Committee on Rules at the
+  (5) With respect to a bill sponsored by the Committee on Rules at  the
 request of a member, either the Committee or the member at whose request
 the bill has been introduced may file a request for consideration.
+  (6)  In addition to the foregoing provisions of this section, sponsors
+may file requests for committee consideration for up to five  individual
+bills in the first year of the two year term as follows:
+  (a) no later than the second Tuesday in April of the first year of the
+term  of  the  Assembly,  each  member  may  submit a total of five bill
+requests for consideration with a committee  of  original  jurisdiction,
+provided,  however,  that  no member shall submit more than one of these
+five bill requests with the same standing committee, and a copy of  such
+request  shall  be  filed  by  the Committee Clerk with the Committee on
+Standing Committees. Committees having original jurisdiction over  bills
+upon which a request for consideration has been filed shall schedule all
+such  bills  for  committee consideration by the first Tuesday in May of
+the first year of the term of the Assembly; and
+  (b) in the case of a bill that is referred to  a  subsequent  standing
+committee, such request shall be submitted within thirty days after such
+referral.
   § 6. Reports. a. A standing committee may report any bill, either with
-or without amendments, or it may report adversely to the same or it  may
+or  without amendments, or it may report adversely to the same or it may
 report that a bill has been held for further action and/or study. Upon a
-favorable  report  of  the  committee on an Assembly Bill amended by the
-Senate, the bill shall  appear  upon  the  Calendar  under  the  heading
+favorable report of the committee on an Assembly  Bill  amended  by  the
+Senate,  the  bill  shall  appear  upon  the  Calendar under the heading
 "Assembly Bills amended by the Senate".
-  b.  A  report  of  a  committee must contain the name of the committee
-making the same, the matter reported on, the name of the introducer  and
-if  a  bill  or  resolution, the number of such bill or resolution. Such
+  b. A report of a committee must contain  the  name  of  the  committee
+making  the same, the matter reported on, the name of the introducer and
+if a bill or resolution, the number of such  bill  or  resolution.  Such
 report shall state whether such matter was reported:
   (1)  favorably,  with  or  without  amendments  or referred to another
 committee;
@@ -1001,53 +1053,53 @@ eliminated from existing law, shall  be  printed  in  its  proper  place
 enclosed  in  black-faced brackets.   Where a committee amends a bill by
 eliminating proposed new matter, such new matter shall be omitted in the
 reprint of the bill.
-  f.  All  budget  appropriation  bills  reported   favorably   or   for
-consideration,   if  reported  with  amendments,  shall  be  immediately
-reprinted, and  the  amendments  proposed  by  the  committee  shall  be
-underscored  in  their  proper place except in cases where the committee
-recommends eliminating certain words or figures,  in  which  cases  such
+  f.   All   budget   appropriation  bills  reported  favorably  or  for
+consideration,  if  reported  with  amendments,  shall  be   immediately
+reprinted,  and  the  amendments  proposed  by  the  committee  shall be
+underscored in their proper place except in cases  where  the  committee
+recommends  eliminating  certain  words  or figures, in which cases such
 words or figures shall be printed enclosed in black-faced brackets.
-  g.  All bills favorably reported shall, if the report be agreed to, be
-placed on the order of second reading, except that  any  bill  providing
-for  a  state appropriation, or creating or increasing a charge (i) upon
+  g. All bills favorably reported shall, if the report be agreed to,  be
+placed  on  the  order of second reading, except that any bill providing
+for a state appropriation, or creating or increasing a charge  (i)  upon
 the state or (ii) upon a local government shall, when favorably reported
 by any committee other than the Committee on Ways and Means, be referred
-to the Committee on Ways and Means. In the event  such  a  bill  is  not
-referred  to  the  Committee  on Ways and Means, the chairperson of such
-Committee may require such referral, subject  to  the  approval  of  the
-Speaker.  Where  a  committee report is not agreed to, the bill shall be
+to  the  Committee  on  Ways  and Means. In the event such a bill is not
+referred to the Committee on Ways and Means,  the  chairperson  of  such
+Committee  may  require  such  referral,  subject to the approval of the
+Speaker. Where a committee report is not agreed to, the  bill  shall  be
 before the House for disposition.
   h.  Any  bill,  the  subject  matter  of  which  is  also  within  the
-jurisdiction  of  another  committee  of  the  House may, subject to the
-approval of the Speaker, be favorably reported and  referred  or  simply
+jurisdiction of another committee of  the  House  may,  subject  to  the
+approval  of  the  Speaker, be favorably reported and referred or simply
 referred to such other committee for review and recommendation only.
-  i.  Any  bill which is referred to a standing committee other than the
+  i. Any bill which is referred to a standing committee other  than  the
 Committee on Codes and which:
-  (1) imposes or changes any fine, term of imprisonment,  forfeiture  of
+  (1)  imposes  or changes any fine, term of imprisonment, forfeiture of
 rights or other penal sanction; or
   (2) relates to the procedure by which such fine, term of imprisonment,
-forfeiture  of  rights  or  other  penal sanction is imposed or changed,
-shall,  when  favorably  reported  by  the  committee  having   original
-jurisdiction,  be  referred to the Committee on Codes for the purpose of
-having  such  Committee  review  and  consider  only  such  penalty   or
-procedural  provisions  of  such bill and to thereafter favorably report
-such bill with amendments, if necessary, to such penalty  or  procedural
-provisions.  In  the  event  that  such  a  bill  is not referred to the
-Committee on Codes, the chairperson of such Committee may  require  such
+forfeiture of rights or other penal  sanction  is  imposed  or  changed,
+shall,   when  favorably  reported  by  the  committee  having  original
+jurisdiction, be referred to the Committee on Codes for the  purpose  of
+having   such  Committee  review  and  consider  only  such  penalty  or
+procedural provisions of such bill and to  thereafter  favorably  report
+such  bill  with amendments, if necessary, to such penalty or procedural
+provisions. In the event that  such  a  bill  is  not  referred  to  the
+Committee  on  Codes, the chairperson of such Committee may require such
 referral, subject to the approval of the Speaker.
-  j.  Where a bill has been reported adversely, and such report shall be
-agreed to by the House, it shall be considered rejected. No  bill  shall
-be  reported  adversely  by  any  committee  until  ten  days  after the
-reference of such bill to the committee and the  bill  shall  have  been
+  j. Where a bill has been reported adversely, and such report shall  be
+agreed  to  by the House, it shall be considered rejected. No bill shall
+be reported  adversely  by  any  committee  until  ten  days  after  the
+reference  of  such  bill  to the committee and the bill shall have been
 printed and been upon the desks of the members for ten days.
-  k.  No  bill  shall  be  reported  by  a committee, except in its last
-amended form at the time of such report. Whenever a  bill  which  is  in
-committee  is amended, the clerk of such committee shall promptly return
+  k. No bill shall be reported  by  a  committee,  except  in  its  last
+amended  form  at  the  time of such report. Whenever a bill which is in
+committee is amended, the clerk of such committee shall promptly  return
 to the Office of Journal Operations the original copy of such bill.
-  l. Where a "home rule" request, or a certificate of  necessity  or  an
-emergency  message  from  the  Governor  is  required as provided in any
+  l.  Where  a  "home rule" request, or a certificate of necessity or an
+emergency message from the Governor  is  required  as  provided  in  any
 section of Article IX or Article XIII of the Constitution, such request,
-certificate or  message  must  be  filed  with  the  Office  of  Journal
+certificate  or  message  must  be  filed  with  the  Office  of Journal
 Operations before such bill can be reported by a committee.
   m.   Concurrent   resolutions   proposing   amendments  to  the  State
 Constitution shall be  initially  referred  to  the  standing  committee
@@ -1070,24 +1122,24 @@ only in accordance with the provisions of this section.
 of  a  bill or resolution except upon motion and by a vote of a majority
 of all the members elected to the Assembly. No such motion shall  be  in
 order,  until the committee has had sixty days from the date of referral
-to  such  committee  to  consider  such bill nor shall such motion be in
+to such committee to consider such bill nor  shall  such  motion  be  in
 order on or after the first Tuesday in May except with unanimous consent
-of the members or in the discretion of the Speaker where  proper  notice
+of  the  members or in the discretion of the Speaker where proper notice
 has been given prior to the first Tuesday in May.
-  c.  (1)  On any legislative day, not more than one motion to discharge
+  c. (1) On any legislative day, not more than one motion  to  discharge
 shall be in order;
-  (2) A motion to discharge may only be made by the sponsor of the  bill
-or  resolution who has timely filed a request for consideration pursuant
+  (2)  A motion to discharge may only be made by the sponsor of the bill
+or resolution who has timely filed a request for consideration  pursuant
 to section five of this rule.
-  d. Each motion to discharge, when timely made, shall be placed on  the
+  d.  Each motion to discharge, when timely made, shall be placed on the
 Motion  to  Discharge  Calendar,  which  shall  be  printed  within  two
-legislative days. No motion to discharge may be considered by the  House
-until  such  motion  has  been  on  such  calendar  for a period of five
+legislative  days. No motion to discharge may be considered by the House
+until such motion has been  on  such  calendar  for  a  period  of  five
 calendar legislative days.
-  § 8. Committee action  reports.  a.  All  committees  shall  have  the
+  §  8.  Committee  action  reports.  a.  All  committees shall have the
 authority to act upon bills until the adjournment sine die of the House.
-  b.  Each committee shall, upon adjournment sine die of the House, file
-an action report which includes a summary of its  action  on  all  bills
+  b. Each committee shall, upon adjournment sine die of the House,  file
+an  action  report  which  includes a summary of its action on all bills
 originally referred to it, setting forth the total number of such bills,
 and the number thereof:
   (1) reported to the House;
@@ -1114,47 +1166,46 @@ other standing committees of the Assembly and such  Committee  shall  be
 deemed  to  be  a  standing committee only for the purpose of regulating
 Calendar practices including:
   (a) the introduction of a bill;
-  (b)  the  ordering  of  a bill directly to special order of second and
-third reading transmitted to it from any  other  standing  committee  as
+  (b) the ordering of a bill directly to special  order  of  second  and
+third  reading  transmitted  to  it from any other standing committee as
 provided by these Rules;
   (c) the ordering of a bill, otherwise on second reading, directly to a
 special order of second and third reading; and
-  (d)  the  review  of  each message of necessity issued by the Governor
-pursuant to Article III of the Constitution and the ordering of  a  bill
-to  a  special  order  of  second  and  third reading for which any such
+  (d) the review of each message of necessity  issued  by  the  Governor
+pursuant  to  Article III of the Constitution and the ordering of a bill
+to a special order of second  and  third  reading  for  which  any  such
 message has been issued; provided, however that prior to the ordering of
 a bill for second and third reading, such message must be accepted by an
-affirmative vote of a majority of all the members of  the  Committee  on
+affirmative  vote  of  a majority of all the members of the Committee on
 Rules;
   (2) to regulate the housekeeping practices of the Assembly;
-  (3)  to  establish  minimum  qualifications for each category of staff
+  (3) to establish minimum qualifications for  each  category  of  staff
 employees; and
   (4)  to  establish  and  maintain  minimum  duties  and  standards  of
 effectiveness for all staff employees.
-  §  11. Assembly Graduate Scholar and Internship Committee. There shall
-be an Assembly Graduate Scholar and Internship Committee to  consist  of
-the  Speaker  Pro  Tempore,  Majority  Leader,  Deputy  Majority Leader,
-Assistant Speaker, Minority Leader, Chairperson of the Higher  Education
-Committee,  Ranking  Minority Member of the Ways and Means Committee and
-Ranking Minority Member of the Higher Education Committee.  The  Speaker
+  § 11. Assembly Graduate Scholar and Internship Committee. There  shall
+be  an  Assembly Graduate Scholar and Internship Committee to consist of
+the Speaker  Pro  Tempore,  Majority  Leader,  Deputy  Majority  Leader,
+Assistant  Speaker, Minority Leader, Chairperson of the Higher Education
+Committee, Ranking Minority Member of the Ways and Means  Committee  and
+Ranking  Minority  Member of the Higher Education Committee. The Speaker
 shall  appoint  the  chairperson  from  among  the  membership  of  this
 Committee.
-  § 12. Assembly Committee on Conference Committees. There shall  be  an
-Assembly  Committee on Conference Committees to consist of five members;
-provided, however that there shall be at least one  minority  member  on
-such  committee.  Members of such committee shall be selected from among
-Assembly leadership positions. The Speaker shall appoint the chairperson
-from among the membership of the committee. Such committee shall meet at
-least once a month during the  regular  Legislative  Session,  excluding
-January,  and  as  necessary to review legislation passed by both houses
-for  the  purpose  of  making  recommendations  for  the  convening   of
-conference  committees  pursuant to Joint Rule II of the Permanent Joint
-Rules of the Senate and Assembly.  The committee shall  review  requests
-for   conference  committee  made  by  the  introducer  of  legislation.
-Recommendations issued by the committee must be in writing and  indicate
-any dissenting opinion. Meetings of the Assembly Committee on Conference
-Committees  shall  be  subject to the provisions of article seven of the
-Public Officers Law known as the "Open Meetings Law".
+  §  12.  Assembly Committee on Conference Committees. There shall be an
+Assembly Committee on Conference Committees to consist of five  members;
+provided,  however  that  there shall be at least one minority member on
+such committee.  The Speaker shall appoint the  chairperson  from  among
+the membership of the committee. Such committee shall meet at least once
+a  month  during the regular Legislative Session, excluding January, and
+as necessary to review legislation passed by both houses for the purpose
+of making recommendations for the  convening  of  conference  committees
+pursuant to Joint Rule II of the Permanent Joint Rules of the Senate and
+Assembly.   The committee shall review requests for conference committee
+made by the introducer of legislation.  Recommendations  issued  by  the
+committee  must  be  in  writing  and  indicate  any dissenting opinion.
+Meetings of the Assembly Committee on  Conference  Committees  shall  be
+subject  to  the  provisions of article seven of the Public Officers Law
+known as the "Open Meetings Law".
   § 13. Ethics training. The Standing Committee on Ethics  and  Guidance
 shall  develop  and  regularly  update  a  course of instruction for all
 members and employees of the  Assembly  with  regard  to  the  laws  and
@@ -1212,11 +1263,13 @@ fifteen  minutes  after the results of the roll call have been announced
 when such vote does not change the final result of the vote of the House
 and such member has been previously recorded on a roll call  on  a  bill
 during the legislative session day.
-  e.    Copies of all roll calls shall be made available to the Majority
-and Minority Leaders and representatives of the news media within thirty
-minutes after completion thereof and, as soon as practicable thereafter,
-shall be made available for public inspection at a place  designated  by
-the Speaker.
+  e.  Copies of all roll calls, including all recorded procedural votes,
+shall  be  made  available  to  the  Majority  and  Minority Leaders and
+representatives of the news media within thirty minutes after completion
+thereof and, as soon as practicable thereafter, shall be made  available
+for  public  inspection  at  a place designated by the Speaker, and made
+available on the Assembly Internet site and  the  Legislative  Retrieval
+System.
   f.     When  less  than  a  quorum  vote  on  any  subject  under  the
 consideration of the House, it shall be in order, for any member to move
 for a call of the House.  Whereupon the roll of members shall be  called
@@ -1262,56 +1315,56 @@ consideration.
 motion or report, or to present a petition or other paper, shall proceed
 until such member shall have addressed the Speaker from his or her place
 and  has  been recognized by the Speaker. While a member is speaking, no
-member shall entertain any private discourse or pass between the  member
+member  shall entertain any private discourse or pass between the member
 speaking and the Chair.
-  b.  Unless  otherwise  provided by these Rules, no member shall speak,
+  b. Unless otherwise provided by these Rules, no  member  shall  speak,
 except in his or her place, nor more than twice on any question, without
-leave of the House and no member  shall  speak  for  more  than  fifteen
-minutes  at  a  time  except  by  consent  of  two-thirds of the members
-present; provided, however that a member desiring to explain his or  her
-vote  upon  the  final  passage  of  a  bill  or  upon  the passage of a
-resolution  requiring  the  expenditure  of  money  may  make  a   brief
-statement,  not  to exceed two minutes, in explanation of such vote; and
-further provided that in addition to the foregoing,  the  sponsor  of  a
-bill  or  resolution may make a statement not to exceed five minutes for
+leave  of  the  House  and  no  member shall speak for more than fifteen
+minutes at a time  except  by  consent  of  two-thirds  of  the  members
+present;  provided, however that a member desiring to explain his or her
+vote upon the final  passage  of  a  bill  or  upon  the  passage  of  a
+resolution   requiring  the  expenditure  of  money  may  make  a  brief
+statement, not to exceed two minutes, in explanation of such  vote;  and
+further  provided  that  in  addition to the foregoing, the sponsor of a
+bill or resolution may make a statement not to exceed five  minutes  for
 the purpose of opening debate on such bill or resolution.
-  c. If any member, in speaking, transgresses the Rules  of  the  House,
-the  Speaker  may call such member to order, in which case the member so
+  c.  If  any  member, in speaking, transgresses the Rules of the House,
+the Speaker may call such member to order, in which case the  member  so
 called to order shall immediately sit down, and shall not rise unless to
 explain or proceed in order.
-  d. While the Speaker is putting a question,  or  a  roll  call  is  in
-progress  or a count is being had, no member shall speak or leave his or
-her place. When the House shall be  equally  divided  on  any  question,
-including  the  Speaker's vote, the question shall be deemed to be lost.
+  d.  While  the  Speaker  is  putting  a question, or a roll call is in
+progress or a count is being had, no member shall speak or leave his  or
+her  place.  When  the  House  shall be equally divided on any question,
+including the Speaker's vote, the question shall be deemed to  be  lost.
 All questions relating to the priority of one question or subject matter
 over another, under the same order of business, shall be decided without
 debate. If any question contains several distinct propositions, it shall
-be divided by the Chair at the request of any member, but  a  motion  to
-strike  out  and insert shall be indivisible. All questions of order, as
-they shall occur, with the decisions thereon, shall be  entered  in  the
-Journal,  and,  at  the  close  of  the session, a statement of all such
-questions and decisions shall be printed at  the  close  of  and  as  an
+be  divided  by  the Chair at the request of any member, but a motion to
+strike out and insert shall be indivisible. All questions of  order,  as
+they  shall  occur,  with the decisions thereon, shall be entered in the
+Journal, and, at the close of the  session,  a  statement  of  all  such
+questions  and  decisions  shall  be  printed  at the close of and as an
 appendix to the Journal.
-  §  7. Adjournment. a. When a motion to adjourn is carried, the members
-and officers shall  keep  their  seats  and  places  until  the  Speaker
+  § 7. Adjournment. a. When a motion to adjourn is carried, the  members
+and  officers  shall  keep  their  seats  and  places  until the Speaker
 declares the House adjourned.
-  b.  No  motion  to  adjourn sine die shall be in order until all bills
-transmitted to the Governor shall have been acted upon by  him  or  her,
-and  in the case of vetoed bills, until such bills have been returned to
+  b. No motion to adjourn sine die shall be in  order  until  all  bills
+transmitted  to  the  Governor shall have been acted upon by him or her,
+and in the case of vetoed bills, until such bills have been returned  to
 each House for at least three legislative calendar days.
-  § 8. Contest of election. A contest of  the  election  of  any  member
-shall  be  referred  to  the  Judiciary  Committee for investigation and
+  §  8.  Contest  of  election.  A contest of the election of any member
+shall be referred to  the  Judiciary  Committee  for  investigation  and
 report.
   § 9. Staff, materials and other perquisites.  Each member of the House
-shall be entitled to an equal  allocation  of  printed  newsletters  and
-other  printed  materials and postage therefor, and stationery and other
-similar perquisites, and each member shall receive  an  equal  allowance
-for  staff personnel, except that the allocation of stationery and other
+shall  be  entitled  to  an  equal allocation of printed newsletters and
+other printed materials and postage therefor, and stationery  and  other
+similar  perquisites,  and  each member shall receive an equal allowance
+for staff personnel, except that the allocation of stationery and  other
 similar perquisites and the allowance for staff personnel may be greater
-for members in majority and minority  leadership  positions,  committee,
+for  members  in  majority and minority leadership positions, committee,
 subcommittee and task force chairpersons and ranking minority members of
-committees,  subcommittees  and  task  forces. Such greater allotment or
-staff shall be commensurate with the additional duties assigned to  such
+committees, subcommittees and task forces.  Such  greater  allotment  or
+staff  shall be commensurate with the additional duties assigned to such
 member.
   §  10.  Use  of  legislative  printing,  mail  and  mass communication
 facilities. a. The use of legislative printing and mail  facilities  for
@@ -1395,9 +1448,10 @@ that the foregoing are accomplished.
 nineteen  hundred  ninety-six, the Speaker shall cause the establishment
 of a system of expenditure reporting whereby expenditures of  the  House
 shall  be  reported  by  such  categories  as he or she shall determine.
-Reports of expenditures by such system shall be published in a  form  to
-be  prescribed  by  the Speaker, and shall report on all expenditures of
-the House during each preceding reporting period.
+Reports of expenditures by such system shall be published in  a  written
+and electronic form to be prescribed by the Speaker, and shall report on
+all  expenditures  of  the House during each preceding reporting period.
+Such report shall be made available on the Assembly Internet site.
                                 RULE VIII
                         PUBLIC ACCESS TO RECORDS
   Section  1.  Intent.  It  is  the  intent of the Assembly that central
@@ -1465,7 +1519,11 @@ this rule shall be final and not subject to further review.
   § 3. Public information office. There  shall  be  an  Assembly  Public
 Information  Office  to provide and disseminate information to the media
 and to the general public in  accordance  with  the  provisions  of  the
-"Freedom of Information Law" and this rule.
+"Freedom  of  Information Law" and this rule. The Assembly Internet site
+shall include  an  online  request  form  for  any  request  of  records
+submitted  under  the  "Freedom  of  Information Law" and this rule, and
+shall  include  a  guide  to  the  public  inspection  and  copying   of
+legislative records.
                                  RULE IX
                     AMENDMENT AND SUSPENSION OF RULES
   Section 1. Amendment of Rules.  No standing Rule or order of the House
@@ -1504,6 +1562,8 @@ issue or the candidacy of any person for any elective office; or
 sessions  of  the New York State Assembly as provided for in section one
 of this Rule, in any form, shall be deemed the property of the New  York
 State Assembly.
+  §  3.  All televised proceedings as provided for in this rule shall be
+made available promptly on the Assembly Internet site.
             PERMANENT JOINT RULES OF THE SENATE AND ASSEMBLY
                               JOINT RULE I
   Section  1.  Requirement  of  Fiscal Impact Notes. Fiscal impact notes
@@ -1991,12 +2051,12 @@ MINORITY LEADER-----
   Filing list of bills reported with .................. IV Sec. 6, par d
 MOTIONS-----
   Call of the House ................................... V, Sec. 1, par c
-  For the previous question ........................... II Sec. 4, par d
-  List of various ..................................... II Sec. 4, par a
-  Order of precedence ................................. II Sec. 4, par a
+  For the previous question ........................... II Sec. 5, par d
+  List of various ..................................... II Sec. 5, par a
+  Order of precedence ................................. II Sec. 5, par a
   To adjourn .................................................. V Sec. 7
   To discharge committees .................................... IV Sec. 7
-  To reconsider vote ............................... II Sec. 4, par b, c
+  To reconsider vote ............................... II Sec. 5, par b, c
   To amend or suspend rules ......................................... IX
 MULTI-SPONSORED BILLS-----
   Filing of requests by members ................... III Sec. 3, par a, b
