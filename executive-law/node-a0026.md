@@ -9,6 +9,8 @@ Section 709.   Division of homeland security and emergency services;
         711.   Reports.
         711-a. Analyze and report on the feasibility of implementing
                  tornado warning systems.
+        711-b. Review of water supplier vulnerability analysis
+                 assessments.
         712.   Miscellaneous.
         713.   Protection of critical infrastructure including energy
                  generating and transmission facilities.
