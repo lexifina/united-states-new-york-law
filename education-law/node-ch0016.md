@@ -132,7 +132,7 @@ Article
                (§§ 3640-3642.)
              Part V - Comprehensive school bus driver safety training
                program (§§ 3650--3650-c.)
-   74      Reserve funds (§§ 3651-3652.)
+   74      Reserve funds (§§ 3651-3653.)
    75      Trusts for schools; gospel and school lots (§§ 3701-3713.)
    77      Fines, penalties, forfeitures and costs (§§ 3801-3816.)
                                 TITLE VI
