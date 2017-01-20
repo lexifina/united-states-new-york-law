@@ -1,4 +1,4 @@
-  * § 404-bb. Distinctive Cystic Fibrosis Foundation license plates. 1.
+  § 404-bb. Distinctive Cystic Fibrosis Foundation license plates. 1.
 Any person residing in this state shall, upon request, be issued a
 distinctive license plate in support of cystic fibrosis awareness and
 research bearing the phrase "Cystic Fibrosis Foundation". Application
@@ -15,4 +15,3 @@ fibrosis research and education fund" established pursuant to section
 ninety-seven-qqqq of the state finance law and shall be used for
 research and education programs undertaken pursuant to section
 ninety-seven-qqqq of the state finance law.
-  * NB Effective January 17, 2017
