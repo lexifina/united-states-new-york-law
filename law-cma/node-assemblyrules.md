@@ -8,8 +8,9 @@ Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
-(Assembly) of 2009.
-                                 1/5/17
+(Assembly)  of  2009  and as amended by Concurrent Resolution number 404
+(Senate) and number 25 (Assembly) of 2017.
+                                 2/23/17
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -103,7 +104,11 @@ Joint Rule IV
 §  1            Joint Advisory Board on Broadcast of State Government
                 Proceedings                                           48
 §  2            Duties of the Joint Advisory Board                    48
-Index                                                                 49
+Joint Rule V
+§  1            Advisory Opinions in relation to Outside Employment   50
+§  2            Timeframe                                             50
+§  3            Impact                                                50
+Index                                                                 51
                                  RULE I
                                  SPEAKER
   Section  1.  Powers  and  Duties. The Speaker shall: a. take the chair
@@ -1720,6 +1725,36 @@ the  Internet  of  all  legislative  committee  meetings.  On  or before
 November 1, 2009,  the  report  shall  be  submitted  to  the  Temporary
 President  of  the  Senate,  the  Speaker  of the Assembly, the Minority
 Leader of the Senate and the Minority Leader of the Assembly.
+                              JOINT RULE V
+  Section  1.  Advisory  Opinions  in relation to Outside Employment.  A
+member of the legislature who intends to  undertake  or  who  undertakes
+outside  employment  shall submit to the Legislative Ethics Commission a
+written  request  for  a  formal  advisory  opinion,  pursuant  to   the
+provisions  of  paragraph  i  of  subdivision  7  of  section  80 of the
+Legislative Law, regarding whether the outside employment is  consistent
+with  the  provisions  of sections 73 and 74 of the Public Officers Law.
+For  the  purposes  of  this  joint  rule,  "outside  employment"  means
+compensation  in  excess  of 5,000 dollars per calendar year, other than
+compensation provided pursuant to sections 5 and 5-a of the  Legislative
+Law,  from  employment  for services rendered or goods sold as part of a
+regular course of any business during a member's term.
+  § 2. Timeframe. Members of the legislature shall be required to submit
+such written requests as follows:
+  a. For members of the legislature who are currently engaged in outside
+employment  and  have  not  previously  submitted  a  request   to   the
+Legislative   Ethics   Commission  for  a  formal  advisory  opinion  in
+connection with such employment, within thirty days of the  adoption  of
+this resolution by the Senate and the Assembly;
+  b.  For  members of the legislature in relation to prospective outside
+employment, prior to the receipt  of  compensation  in  excess  of  five
+thousand dollars from such outside employment; and
+  c.  For  newly-elected  members  of  the  legislature  in  relation to
+maintaining previously-held outside employment, within  thirty  days  of
+assuming office.
+  §  3.  Impact.  Such  written  advisory  opinions are binding upon the
+Legislative Ethics Commission and the Joint Commission on Public  Ethics
+in  accordance  with  the  provisions of paragraph i of subdivision 7 of
+section 80 of the Legislative Law.
                          INDEX TO ASSEMBLY RULES
                                     A
                                                                     Rule
