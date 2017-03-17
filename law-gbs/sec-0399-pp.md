@@ -322,7 +322,7 @@ engage in any deceptive or unfair act or practice in association with
 telemarketing.
   7-a. Unlawful transmission of certain caller identification
 information.  It shall be unlawful for any telemarketer or seller to
-cause any caller identification service to knowingly transmit
+knowingly cause any caller identification service to transmit
 misleading, inaccurate, or false caller identification information,
 provided that it shall not be a violation to substitute (for the name
 and phone number used in, or billed for, making the call) the name or
