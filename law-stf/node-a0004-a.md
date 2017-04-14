@@ -12,8 +12,6 @@ Section  54.    Per capita state aid for the support of local
                   law.
          54-e.  State assistance to reimburse municipalities for
                   firefighting costs.
-         54-f.  State tax relief for school taxpayers of the city of New
-                  York.
          54-g.  State assistance to local governments for support of
                   activities related to fire prevention and building
                   codes.
