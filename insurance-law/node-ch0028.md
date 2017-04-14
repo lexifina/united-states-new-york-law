@@ -30,7 +30,7 @@ ARTICLE   1. General provisions. (§§ 101-110)
          31. Insurance contracts - general. (§§ 3101-3113)
          32. Insurance contracts - life, accident and health, annuities.
                (§§ 3201-3241)
-         34. Insurance contracts - property/casualty. (§§ 3401-3454)
+         34. Insurance contracts - property/casualty. (§§ 3401-3456)
          41. Property/casualty insurance companies. (§§ 4101-4121)
          42. Life insurance companies and accident and health insurance
                companies and legal services insurance companies.

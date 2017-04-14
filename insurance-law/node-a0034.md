@@ -89,3 +89,7 @@ Section 3401.   Insurable interest in property.
         3453*2. Self-service storage company group insurance policies.
         3453*3. Employer sponsored group personal excess insurance.
         3454.   Sponsored group personal insurance.
+        3455.   Transportation network company group insurance policies.
+        3456.   Prohibition against cancellation of policy when motor
+                  vehicle is used or operated through a transportation
+                  network company program.
