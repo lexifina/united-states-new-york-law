@@ -14,7 +14,7 @@ Section 475.   Short title; purpose of article.
         484.   Control and supervision; suspension of licenses;
                  inspection of premises.
         485.   Sunday; conduct of games on.
-        486.   Participation by persons under eighteen.
+        486.   Participation by persons under the age of eighteen.
         487.   Frequency of game; sale of alcoholic beverages.
         488.   Persons operating and conducting games; equipment;
                  expenses; compensation.
