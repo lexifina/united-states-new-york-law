@@ -12,7 +12,7 @@ Article  I.     Short title (§ 1).
          II.    General fiscal provisions (§§ 2-19).
          III.   The budget (§§ 20-27).
          IV.    Appropriations (§§ 40--53-d).
-         IV-A.  State assistance to local government (§§ 54--54-l).
+         IV-A.  State assistance to local government (§§ 54--54-m).
          V.     Borrowing by the state (§§ 55-65).
          V-A.   Certificates of participation. (§§ 66-a--66-l)
          V-B.   Limitations on state-supported debt. (§§ 67-a--67-c)

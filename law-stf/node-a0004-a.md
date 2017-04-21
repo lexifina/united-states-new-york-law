@@ -23,3 +23,6 @@ Section  54.    Per capita state aid for the support of local
          54-l.  State assistance to eligible cities and eligible
                   municipalities in which a video lottery gaming
                   facility is located.
+         54-m.  Local share requirements associated with increasing the
+                  age of juvenile jurisdiction above fifteen years of
+                  age.

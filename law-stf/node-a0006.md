@@ -237,6 +237,7 @@ Section 70.        Classification of funds.
         99.        Withholding of state assistance upon default in
                      payment of bonds held by the state.
         99-a.      Justice court fund.
+        99-a.      Justice court fund.
         99-b.      Withholding of state aid for school purposes upon
                      default in payment of obligations of the
                      prospective recipient.
