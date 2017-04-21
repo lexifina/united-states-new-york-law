@@ -50,11 +50,11 @@ Article
    14      New York state higher education services corporation
              (§§ 651-689.)
              Part I - Corporate structure (§§ 651-660.)
-             Part II - Student financial aid (§§ 661--679-f.)
+             Part II - Student financial aid (§§ 661--679-i.)
               Subpart I - General provisions (§§ 661--665-a.)
               Subpart II - General awards (§§ 666--669-g.)
               Subpart III - Academic performance awards (§§ 670-679.)
-              Subpart IV - Other awards (§§ 679-a--679-g.)
+              Subpart IV - Other awards (§§ 679-a--679-i.)
              Part III - Student loans (§§ 680--683-b.)
              Part IV - Miscellaneous provisions (§§ 686--689-a.)
              Part V - The New York higher education loan program
@@ -105,7 +105,7 @@ Article
    52      City school districts of cities with one hundred twenty-five
              thousand inhabitants or more (§§ 2550-2588.)
    52-A    New York city community school district system
-             (§§ 2590--2590-s.)
+             (§§ 2590--2590-v.)
    53      School elections in city school districts of cities with less
              than one hundred twenty-five thousand inhabitants
              (§§ 2601-2613.)
@@ -115,7 +115,7 @@ Article
                                 TITLE IV
                            TEACHERS AND PUPILS
    61      Teachers and supervisory and administrative staff
-             (§§ 3001-3036.)
+             (§§ 3001-3037.)
    63      Salaries of teachers and supervisors (§§ 3101--3109-A.)
    65      Compulsory education and school census (§§ 3201-3243.)
              Part I - Compulsory education (§§ 3201-3234.)

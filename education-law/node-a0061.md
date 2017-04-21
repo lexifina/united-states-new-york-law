@@ -103,3 +103,4 @@ Section 3001.   Qualifications of teachers.
         3036.   Coursework for reporting child abuse and maltreatment
                   for those with coaching licenses or coaching
                   certificates.
+        3037.   Grants for hiring teachers.
