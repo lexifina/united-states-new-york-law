@@ -13,6 +13,8 @@ Section 70.   Establishment, use and designation of correctional
         75.   Notice of voting rights.
         76.   Notice of transitional services for inmates released from
                 correctional facilities.
+        77.   Adolescent offender facilities.
+        78.   Discharge plans.
         79.   Leasing of state institutions to cities or counties for
                 the confinement of prisoners.
         79-a. Closure of correctional facilities; notice.
