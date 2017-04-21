@@ -16,6 +16,8 @@ Section 500.   Application of article.
         500-m. Special provision relating to city of New York.
         500-n. Prisoners; unlawful fees prohibited.
         500-o. Agreements for custody of inmates from other states.
+        500-p. Prohibition on the custody of youth in Rikers Island
+                 facilities.
         501.   Jail physician.
         502.   Use of liquors in jails.
         503.   Permit to bring liquor into jails.
