@@ -15,5 +15,6 @@ Section 160.10 Fingerprinting; duties of police with respect thereto.
                  administrative findings.
         160.58 Conditional sealing of certain controlled substance,
                  marihuana or specified offense convictions.
+        160.59 Sealing of certain convictions.
         160.60 Effect of termination of criminal actions in favor of the
                  accused.
