@@ -3,7 +3,8 @@
                 OR BAIL, ISSUANCE OF SECURING ORDERS, AND
                              RELATED MATTERS
 Section 510.10 Securing order; when required.
-        510.15 Commitment of principal under sixteen.
+        510.15
+        510.15 Commitment of principal under seventeen or eighteen.
         510.20 Application for recognizance or bail; making and
                  determination thereof in general.
         510.30 Application for recognizance or bail; rules of law and
