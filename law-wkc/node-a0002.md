@@ -31,6 +31,7 @@ Section  9.    Definitions.
         13-n.  Mandatory registration of entities which derive income
                  from independent medical examinations.
         13-o.  Pharmaceutical fee schedule.
+        13-p.  Comprehensive prescription drug formulary.
         14.    Weekly wages basis of compensation.
         14-a.  Double compensation and death benefits when minors
                  illegally employed.
