@@ -73,11 +73,11 @@ section shall possess:
 childhood grades; or
   (b) a teaching license or certificate for students with disabilities
 valid for service in early childhood grades; or
-  (c) for eligible agencies as defined in paragraph b of subdivision one
-of section thirty-six hundred two-e of this part that are not schools, a
-bachelor's degree in early childhood education or a related field and a
-written plan to obtain a certification valid for service in the early
-childhood grades as follows:
+  * (c) for eligible agencies as defined in paragraph b of subdivision
+one of section thirty-six hundred two-e of this part that are not
+schools, a bachelor's degree in early childhood education or a related
+field and a written plan to obtain a certification valid for service in
+the early childhood grades as follows:
   (i) for teachers hired on or after the effective date of this section
 as the teacher for a universal full-day pre-kindergarten classroom,
 within three years after commencing employment, at which time such
@@ -86,6 +86,32 @@ certification shall be required for employment; and
 of this section for other early childhood care and education programs,
 no later than June thirtieth, two thousand seventeen, at which time such
 certification shall be required for employment.
+  * NB Effective until July 1, 2017
+  * (c) (i) for eligible agencies as defined in paragraph b of
+subdivision one of section thirty-six hundred two-e of this part that
+are not schools, a bachelor's degree in early childhood education or a
+related field and a written plan to obtain a certification valid for
+service in the early childhood grades as follows:
+  (1) for teachers hired on or after the effective date of this section
+as the teacher for a universal full-day pre-kindergarten classroom,
+within three years after commencing employment, at which time such
+certification shall be required for employment; and
+  (2) for teachers hired by such provider prior to the effective date of
+this section for other early childhood care and education programs, no
+later than June thirtieth, two thousand seventeen, at which time such
+certification shall be required for employment.
+  (ii) Provided that, notwithstanding any provisions of this paragraph
+to the contrary, for the two thousand seventeen-two thousand eighteen
+school year, an exemption to the certification requirement of
+subparagraph (i) of this paragraph may be made for a teacher without
+certification valid for service in the early childhood grades who
+possesses a written plan to obtain certification and who has registered
+in the ASPIRE workforce registry as required under regulations of the
+commissioner of the office of children and family services.
+Notwithstanding any exemption provided by this subparagraph,
+certification shall be required for employment no later than June
+thirtieth, two thousand eighteen.
+  * NB Effective July 1, 2017
   9. The process by which applicants submit proposals to collaborate
 with the school district or individually to the department, and the
 renewal process for such providers, shall take into account any record
@@ -201,7 +227,22 @@ Chautauqua, Erie and Niagara counties.
 and early education, a day care provider, early childhood program or
 center, approved preschool special education program, Head Start or
 other such community-based organization.
-  16. The authority of the department to administer the universal
+  * 16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
 thousand seventeen; provided that the program shall continue and remain
 in full effect.
+  * NB Effective until July 1, 2017
+  * 16. The authority of the department to administer the universal
+full-day pre-kindergarten program shall expire June thirtieth, two
+thousand eighteen; provided that the program shall continue and remain
+in full effect.
+  * NB Effective July 1, 2017
+  * 17. Notwithstanding any inconsistent provision of law to the
+contrary, for the purposes of determining the prekindergarten allocation
+on the electronic data file prepared by the commissioner pursuant to
+subdivision twenty-one of section three hundred five of this chapter for
+the two thousand nineteen--two thousand twenty school year and
+thereafter, the commissioner is directed to include the grant amounts
+awarded pursuant to this section in the amount set forth for such school
+district as "UNIVERSAL PRE-KINDERGARTEN."
+  * NB Effective July 1, 2017
