@@ -18,6 +18,7 @@ Section 259.    Definitions.
                   supervision.
         259-mm. Interstate compact for adult offender supervision.
         259-o.  Interstate hearings for parole violations.
+        259-p.  Interstate detention.
         259-q.  Civil actions against division personnel.
         259-r.  Release on medical parole for terminally ill inmates.
         259-s.  Release on medical parole for inmates suffering

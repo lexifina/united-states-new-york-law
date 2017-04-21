@@ -15,6 +15,8 @@ The People of the State of New York, represented in Senate and Assembly,
           3.   Executive department (§§ 30-32).
           4.   Department of audit and control (§§ 40-50).
           4-A. Office of the state inspector general (§§ 51-55).
+          4-B. Office   of   the  inspector  general  of  New  York  for
+                 transportation (§§ 56-58).
           5.   Department of law (§§ 60-74).
           6.   Department of state (§§ 90-144).
           6-A. State register (§§ 145-149).
@@ -24,7 +26,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 159-e--159-l).
           6-E. State certified and licensed real estate appraisers
                  (§§ 160--160-bb).
-          6-F. New  York  Black Car operators' injury compensation fund,
+          6-F. New York Black Car operators' injury  compensation  fund,
                  Inc.  (§§ 160-cc--160-oo).
           6-G. Independent Livery Driver benefit fund
                  (§§ 160-aaa--160-iii).
@@ -46,9 +48,9 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 261-267).
          14.   Division of alcoholic beverage control (§§ 270-274).
          15.   Human rights law (§§ 290-301).
-         15-A. Participation  by  minority  group members and women with
+         15-A. Participation by minority group members  and  women  with
                  respect to state contracts (§§ 310-318).
-         15-B. New York State Martin  Luther  King,  Jr.  Institute  for
+         15-B. New  York  State  Martin  Luther  King, Jr. Institute for
                  Nonviolence Act (§§ 320-327).
          15-C. Religious accommodation for licensing examinations
                  (§§ 328--328-a).

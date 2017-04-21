@@ -28,7 +28,7 @@ percentages surcharge due pursuant to this article, divided by one
 hundred and (ii) all payments received by the member or its agent for
 covered services from the member's customers, as provided in this
 subdivision, regardless of whether the surcharge was billed or charged.
-  3. No local licensing authority or the department shall issue,
+  * 3. No local licensing authority or the department shall issue,
 continue or renew any license or registration certificate for the
 operation of any central dispatch facility unless such central dispatch
 facility, as a condition of maintaining its license and/or registration
@@ -37,6 +37,18 @@ invoice and billing for covered services sent to, and every credit
 payment for covered services received from, its customers and pays to
 the fund no later than the fifteenth day of each month the total
 surcharges due pursuant to this article.
+  * NB Effective until July 9, 2017
+  * 3. No local licensing authority or the department or the New York
+state department of motor vehicles shall issue, continue or renew any
+license or registration certificate, or permit for the operation of any
+central dispatch facility unless such central dispatch facility, as a
+condition of maintaining its license and/or registration certificate,
+adds the surcharge required by this section to every invoice and billing
+for covered services sent to, and every credit payment for covered
+services received from, its customers and pays to the fund no later than
+the fifteenth day of each month the total surcharges due pursuant to
+this article.
+  * NB Effective July 9, 2017
   4. Each central dispatch facility shall submit to the fund with its
 monthly payment a detailed accounting of the charge and surcharge
 amounts charged to and received from customers for covered services
