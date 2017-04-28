@@ -5,3 +5,5 @@ Section 200.   Office of general services.
         201-a. State clean-fueled vehicle program.
         202.   General duties.
         203.   Additional duties of the commissioner.
+        203-a. Additional duties of the commissioner regarding flood
+               related losses.

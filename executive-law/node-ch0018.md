@@ -35,7 +35,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  purposes (§§ 171-a--177).
           8.   Division of budget (§§ 180-183).
           9.   Division of military and naval affairs (§§ 190-191).
-         10.   Office of general services (§§ 200-203).
+         10.   Office of general services (§§ 200--203-a).
          10-B. New York State office of science, technology and academic
                  research (§§ 209--209-t).
          11.   Division of state police (§§ 210-232).
@@ -72,7 +72,7 @@ The People of the State of New York, represented in Senate and Assembly,
          19-F. Rural Affairs Act (§§ 480-491).
          19-G. Office of children and family services (§§ 500-531).
          19-H. Runaway  and  homeless  youth  act  of  nineteen  hundred
-                 seventy-eight (§§ 532--532-e).
+                 seventy-eight (§§ 532--532-f).
          19-L. New York state neighborhood based initiatives act
                  (§§ 548-a--548-h).
          20.   Protection of people with special needs (§§ 550-562).
