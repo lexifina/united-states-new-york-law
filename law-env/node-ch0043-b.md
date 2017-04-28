@@ -39,7 +39,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         13.   Marine and coastal resources (§ 13-0101 to 13-0705).
         14.   New York ocean and Great Lakes ecosystem conservation act
                 (§ 14-0101 to 14-0113).
-        15.   Water resources (§ 15-0101 to 15-3111).
+        15.   Water resources (§ 15-0101 to 15-3305).
         16.   Flood control (§ 16-0101 to 16-0119).
         17.   Water pollution control (§ 17-0101 to 17-2105).
         19.   Air pollution control (§ 19-0101 to 19-1105).
