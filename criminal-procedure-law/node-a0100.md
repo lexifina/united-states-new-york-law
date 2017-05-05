@@ -3,7 +3,7 @@
                          ACCUSATORY INSTRUMENTS
   * NB Effective until October 1, 2018
     * COMMENCEMENT OF ACTION IN LOCAL CRIMINAL COURT OR YOUTH PART OF A
-                 SUPERIOR COURT-- ACCUSATORY INSTRUMENTS
+                 SUPERIOR COURT--ACCUSATORY INSTRUMENTS
   * NB Effective October 1, 2018; see ch. 59/2017 Pt. WWW § 106 sb b for
 further contingencies for 10/1/2019
 Section 100.05 Commencement of action; in general.
