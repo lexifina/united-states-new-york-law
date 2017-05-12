@@ -25,7 +25,7 @@ pursuant to a schedule submitted by the director of the budget, up to
 $2,679,997,000, as may be certified in such schedule as necessary to
 meet the purposes of such fund for the fiscal year beginning April
 first, two thousand seventeen.
-  * NB Effective until May 31, 2018
+  * NB Effective until March 31, 2018
   ** 5. Notwithstanding the provisions of section one hundred
 seventy-one-a of the tax law, as separately amended by chapters four
 hundred eighty-one and four hundred eighty-four of the laws of nineteen
@@ -39,5 +39,5 @@ pursuant to a schedule submitted by the director of the budget, up to
 $3,283,844,000, as may be certified in such schedule as necessary to
 meet the purposes of such fund for the fiscal year beginning April
 first, two thousand sixteen.
-  * NB Effective May 31, 2018
+  * NB Effective March 31, 2018
   * NB There are 2 § 97-rrr's
