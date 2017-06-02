@@ -1,4 +1,4 @@
-  * § 404-cc. Distinctive "Cure Childhood Cancer" plates. 1. Any person
+  § 404-cc. Distinctive "Cure Childhood Cancer" plates. 1. Any person
 residing in this state shall upon request be issued a distinctive plate
 in support of childhood cancer research bearing the words "Cure
 Childhood Cancer". Application for such plates shall be filed with the
@@ -15,4 +15,3 @@ childhood cancer research fund" established pursuant to section
 ninety-nine-z of the state finance law and shall be used for research
 programs undertaken pursuant to section ninety-nine-z of the state
 finance law.
-  * NB Effective May 27, 2017
