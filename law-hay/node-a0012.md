@@ -597,8 +597,8 @@ Section 340-a.     Designation of state interstate routes.
         344-e*7.   Portion of the state highway system to be designated
                      as the "Sergeant Kevin W. White Memorial Bridge".
         344-e*8.   Portion of the state highway system to be designated
-                     as the "Marine Lance Corporal James J. Jackowski
-                     Memorial Highway".
+                     as the "Marine Corporal James J. Jackowski Memorial
+                     Highway".
         344-e*9.   Portion of the state highway system to be designated
                      as the "United States Submarine Veterans' Memorial
                      Highway-Saratoga County".
@@ -615,4 +615,6 @@ Section 340-a.     Designation of state interstate routes.
         344-e*14.  Portion of the state highway system to be designated
                      as the "Army Captain Clayton Carpenter Memorial
                      Highway".
+        344-f.     Portion of state highway system to be designated as
+                     the "Specialist Matthew E. Baylis Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
