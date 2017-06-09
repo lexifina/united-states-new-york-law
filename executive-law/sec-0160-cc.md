@@ -6,7 +6,7 @@ designee, whose injury arose out of and in the course of providing
 covered services to a central dispatch facility that is a registered
 member of the New York black car operators' injury compensation fund,
 inc.
-  * NB Effective until July 9, 2017
+  * NB Effective until June 29, 2017
   * 1. "Black car operator" means the registered owner of a for-hire
 vehicle, or a driver designated by such registered owner to operate the
 registered owner's for-hire vehicle as the registered owner's authorized
@@ -28,8 +28,8 @@ taking into consideration the time, place and manner of such activity,
 however, that this paragraph shall only apply to a TNC driver permitted
 pursuant to article forty-four-B of the vehicle and traffic law within
 twelve months of the effective date of this paragraph.
-  ** NB Repealed July 9, 2018
-  * NB Effective July 9, 2017
+  ** NB Repealed June 29, 2018
+  * NB Effective June 29, 2017
   2. "Board" means the workers' compensation board.
   * 3. "Central dispatch facility" means a central facility, wherever
 located, that (a) dispatches the registered owners of for-hire vehicles,
@@ -40,7 +40,7 @@ ninety percent of its for-hire business is on a payment basis other than
 direct cash payment by a passenger; provided, however, that a central
 dispatch facility shall not include any such central facility that owns
 fifty percent or more of the cars it dispatches.
-  * NB Effective until July 9, 2017
+  * NB Effective until June 29, 2017
   * 3. "Central dispatch facility" means a central facility, wherever
 located, including a transportation network company, that (a) dispatches
 the registered owners of for-hire vehicles, or drivers acting as the
@@ -54,7 +54,7 @@ percent or more of the cars it dispatches. For the purposes of
 administration of this article, central dispatch facility shall include
 TNC prearranged trip as defined in article forty-four-B of the vehicle
 and traffic law.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
   4. "Covered services" means, with respect to dispatches from or by a
 central dispatch facility located in the state, all dispatches from such
 central dispatch facility regardless of where the pick-up or discharge
@@ -77,4 +77,4 @@ facility.
   * 10. "Transportation network company" or "TNC" shall have the same
 meaning as the term is defined in article forty-four-B of the vehicle
 and traffic law.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017

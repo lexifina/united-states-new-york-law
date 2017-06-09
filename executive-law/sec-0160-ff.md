@@ -15,7 +15,7 @@ for initial terms of one year from the effective date of this article.
 The subsequent terms of all directors other than the secretary shall be
 three years. The board shall have the power to remove for cause any
 director other than the secretary.
-  * NB Effective until July 9, 2017
+  * NB Effective until June 29, 2017
   * 1. There shall be appointed a board of directors of the fund,
 consisting of eleven directors, six of whom shall be selected by the
 black car assistance corporation; four of whom shall be chosen by the
@@ -29,7 +29,7 @@ transportation network company no later than December thirty-first, two
 thousand seventeen. The terms of all directors other than the secretary
 shall be three years. The board shall have the power to remove for cause
 any director other than the secretary.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
   2. The directors shall elect annually from among their number a chair
 and a vice chair who shall act as chair in the chair's absence.
   3. For their attendance at meetings, the directors of the fund shall

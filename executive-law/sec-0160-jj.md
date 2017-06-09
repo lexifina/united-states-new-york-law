@@ -37,7 +37,7 @@ invoice and billing for covered services sent to, and every credit
 payment for covered services received from, its customers and pays to
 the fund no later than the fifteenth day of each month the total
 surcharges due pursuant to this article.
-  * NB Effective until July 9, 2017
+  * NB Effective until June 29, 2017
   * 3. No local licensing authority or the department or the New York
 state department of motor vehicles shall issue, continue or renew any
 license or registration certificate, or permit for the operation of any
@@ -48,7 +48,7 @@ for covered services sent to, and every credit payment for covered
 services received from, its customers and pays to the fund no later than
 the fifteenth day of each month the total surcharges due pursuant to
 this article.
-  * NB Effective July 9, 2017
+  * NB Effective June 29, 2017
   4. Each central dispatch facility shall submit to the fund with its
 monthly payment a detailed accounting of the charge and surcharge
 amounts charged to and received from customers for covered services
