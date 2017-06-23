@@ -26,7 +26,7 @@ Section 3.    Filing and recording certificates of incorporation of
                 corporations.
         12.   Sale, mortgage and lease of real property of religious
                 corporations.
-        13.   Consolidation of incorporated churches.
+        13.   Consolidation or merger of incorporated churches.
         14.   Judicial investigation of amount of property of religious
                 corporations.
         15.   Corporations with governing authority over, or advisory
