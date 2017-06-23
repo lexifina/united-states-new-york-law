@@ -121,5 +121,5 @@ Commercial construction projects in the commercial exclusion area shall
 not be eligible to receive tax abatements pursuant to this title.
   5. Eligible industrial construction projects may receive tax
 abatements pursuant to paragraphs (b) and (e) of subdivision three of
-section four hundred eighty- nine-bbbbbb of this title in any area of
-the city of New York.
+section four hundred eighty-nine-bbbbbb of this title in any area of the
+city of New York.
