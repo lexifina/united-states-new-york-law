@@ -136,4 +136,4 @@ starting with the date the exemption ceases, and continuing until the
 abatement benefit period expires, receive the abatement benefits to
 which such recipient is entitled in the tax year that corresponds to the
 year of the benefit period provided in subdivision three of section four
-hundred eighty-nine- bbbbbb of this title.
+hundred eighty-nine-bbbbbb of this title.
