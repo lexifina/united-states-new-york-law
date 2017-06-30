@@ -1,7 +1,7 @@
                                 ARTICLE 9
                      PERPETUITIES AND ACCUMULATIONS
                           PART 1. PERPETUITIES
-Section 9-1.1 Rules against perpetuities.
+Section 9-1.1 Rule against perpetuities.
         9-1.2 Reduction of age contingency.
         9-1.3 Rules of construction.
         9-1.4 Acquisitition of real property by foreign trust.
