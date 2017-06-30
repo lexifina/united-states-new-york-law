@@ -613,8 +613,7 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Private First Class Duane C. Scott Memorial
                      Highway".
         344-e*14.  Portion of the state highway system to be designated
-                     as the "Army Captain Clayton Carpenter Memorial
-                     Highway".
+                     as the "Major Clayton Carpenter Memorial Highway".
         344-f.     Portion of state highway system to be designated as
                      the "Specialist Matthew E. Baylis Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
