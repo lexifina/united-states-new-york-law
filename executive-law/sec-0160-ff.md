@@ -1,35 +1,17 @@
-  § 160-ff. Management of the fund; board of directors. * 1. Within
-thirty days of the effective date of this article, there shall be
-appointed a board of directors of the fund, consisting of nine
-directors, five of whom shall be selected by the black car assistance
-corporation; three of whom shall be chosen by the governor, including
-one chosen upon the recommendation of the temporary president of the
-senate and one chosen upon the recommendation of the speaker of the
-assembly; and one of whom shall be the secretary, who shall serve ex
-officio. The initial terms of directors other than the secretary shall
-be staggered, the three directors appointed by the governor serving for
-initial terms of three years from the effective date of this article,
-three of the remaining five directors serving for initial terms of two
-years from the effective date of this article and two directors serving
-for initial terms of one year from the effective date of this article.
-The subsequent terms of all directors other than the secretary shall be
-three years. The board shall have the power to remove for cause any
-director other than the secretary.
-  * NB Effective until June 29, 2017
-  * 1. There shall be appointed a board of directors of the fund,
-consisting of eleven directors, six of whom shall be selected by the
-black car assistance corporation; four of whom shall be chosen by the
-governor, including one chosen upon the recommendation of the temporary
-president of the senate and one chosen upon the recommendation of the
-speaker of the assembly; one chosen to represent a transportation
-network company as defined by article forty-four-B of the vehicle and
-traffic law; and one of whom shall be the secretary, who shall serve ex
-officio. The governor shall appoint the director chosen to represent a
-transportation network company no later than December thirty-first, two
-thousand seventeen. The terms of all directors other than the secretary
-shall be three years. The board shall have the power to remove for cause
-any director other than the secretary.
-  * NB Effective June 29, 2017
+  § 160-ff. Management of the fund; board of directors.  1. There shall
+be appointed a board of directors of the fund, consisting of eleven
+directors, six of whom shall be selected by the black car assistance
+corporation; four of whom shall be chosen by the governor, including one
+chosen upon the recommendation of the temporary president of the senate
+and one chosen upon the recommendation of the speaker of the assembly;
+one chosen to represent a transportation network company as defined by
+article forty-four-B of the vehicle and traffic law; and one of whom
+shall be the secretary, who shall serve ex officio. The governor shall
+appoint the director chosen to represent a transportation network
+company no later than December thirty-first, two thousand seventeen. The
+terms of all directors other than the secretary shall be three years.
+The board shall have the power to remove for cause any director other
+than the secretary.
   2. The directors shall elect annually from among their number a chair
 and a vice chair who shall act as chair in the chair's absence.
   3. For their attendance at meetings, the directors of the fund shall
