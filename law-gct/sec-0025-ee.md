@@ -46,7 +46,7 @@ of section 175.00 of the penal law. Such local law may provide for
 application fees to be determined by such mayor or such agency or
 agencies. No certification of eligibility shall be issued under any
 local law enacted pursuant to this article to an eligible business on or
-after July first, two thousand seventeen unless:
+after July first, two thousand twenty unless:
   (1) prior to such date such business has purchased, leased or entered
 into a contract to purchase or lease premises in the eligible Lower
 Manhattan area or a parcel on which will be constructed such premises;
