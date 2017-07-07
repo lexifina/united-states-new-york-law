@@ -34,7 +34,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 6-0101 to 6-0111).
          7.   Council of environmental advisors (§ 7-0101 to 7-0109).
          8.   Environmental quality review (§ 8-0101 to 8-0117).
-         9.   Lands and forests (§ 9-0101 to 9-1915).
+         9.   Lands and forests (§ 9-0101 to 9-2105).
         11.   Fish and wildlife (§ 11-0101 to 11-2503).
         13.   Marine and coastal resources (§ 13-0101 to 13-0705).
         14.   New York ocean and Great Lakes ecosystem conservation act
