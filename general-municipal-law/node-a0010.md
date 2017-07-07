@@ -130,6 +130,8 @@ Section 200.      Defining qualifications of exempt volunteer firemen.
                     interests by fire companies.
         209-f.    Outside service by local police forces; mobilization
                     by governor; powers of sheriffs.
+        209-ff.   Provisions relating to certain accidental disability
+                    benefits.
         209-g.    Liability for outside aid.
         209-i.    Emergency service by volunteer firemen.
         209-j.    Mutual aid programs in counties.
