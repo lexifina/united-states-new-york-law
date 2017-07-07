@@ -101,11 +101,11 @@ hundred ninety-five and terminating March thirty-first, two thousand
 one, provided, however, that with respect to eligible premises defined
 in subparagraph (i) of paragraph (b) of subdivision ten of this section,
 the period commencing July first, two thousand and terminating June
-thirtieth, two thousand eighteen, and provided, further, however, that
+thirtieth, two thousand twenty-one, and provided, further, however, that
 with respect to eligible premises defined in subparagraph (ii) of
 paragraph (b) or paragraph (c) of subdivision ten of this section, the
 period commencing July first, two thousand five and terminating June
-thirtieth, two thousand eighteen.
+thirtieth, two thousand twenty-one.
   10. "Eligible premises." (a) With respect to the abatement zone
 defined in paragraph (a) of subdivision two of this section, premises
 located in an eligible building that (a) are occupied or used as offices
