@@ -35,7 +35,7 @@ Section 25.01. Matters of public interest.
         25.19. Posting of price lists; information to  purchaser.
         25.21. Records of purchases and sales.
         25.23. Commissions to employees of theatres.
-        25.24. Automated ticket purchasing software.
+        25.24. Ticket purchasing software.
         25.25. Violations; penalties.
         25.27. Unlawful charges in connection with theatre tickets.
   * NB Effective July 1, 2018
