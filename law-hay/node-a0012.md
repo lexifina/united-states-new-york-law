@@ -619,6 +619,8 @@ Section 340-a.     Designation of state interstate routes.
         344-f*2.   Portion of the state highway system to be designated
                      as the "Major General Harold J. Greene Memorial
                      Highway".
+        344-f*3.   Portion of the state highway system to be designated
+                     as the "Gordie Little Memorial Bridge".
         344-g.     Portion of state highway system to be designated as
                      the "Senator William J. Larkin, Jr. Highway".
         345-a.     Abandonment and transfer of state highways.
