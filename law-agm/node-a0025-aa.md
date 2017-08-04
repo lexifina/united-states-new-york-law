@@ -23,4 +23,5 @@ Section 300.   Declaration of legislative findings and intent.
         308.   Right to farm.
         308-a. Fees and expenses in certain private nuisance actions.
         309.   Advisory council on agriculture.
+        309-a. Young farmer advisory board on agriculture.
         310.   Disclosure.
