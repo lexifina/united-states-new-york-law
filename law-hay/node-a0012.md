@@ -41,6 +41,8 @@ Section 340-a.     Designation of state interstate routes.
                      the "Col. George F. Chandler Drive."
         342-dd.    Portion of the state highway system to be designated
                      as the "Turning Point Trail".
+        342-ddd.   Portion of the state highway system to be designated
+                     as the "Hancock Veterans Memorial Bridge".
         342-e.     Portion of state highway system to be designated as
                      "The Roosevelt-Marcy Memorial Highway."
         342-ee.    Portion of state highway system to be designated and
@@ -621,6 +623,13 @@ Section 340-a.     Designation of state interstate routes.
                      Highway".
         344-f*3.   Portion of the state highway system to be designated
                      as the "Gordie Little Memorial Bridge".
+        344-f*4.   Portion of state highway system to be designated as
+                     the "New York State Trooper Timothy Pratt Memorial
+                     Bridge".
+        344-f*5.   Portion of the state highway system to be designated
+                     as "Sergeant James J. Regan Memorial Boulevard".
+        344-f*6.   Portion of the state highway system to be designated
+                     as the "Gerard 'Jess' Fitzpatrick Memorial Bridge".
         344-g.     Portion of state highway system to be designated as
                      the "Senator William J. Larkin, Jr. Highway".
         345-a.     Abandonment and transfer of state highways.
