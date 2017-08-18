@@ -8,3 +8,5 @@ Section 400. Definitions.
         405. Inspection of pet dealers.
         406. Violations.
         407. Construction with other laws.
+        408. Exemption of certain entities from the definition of pet
+               dealer; registration required.
