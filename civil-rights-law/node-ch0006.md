@@ -18,7 +18,7 @@ Article  1.   Short title (§§ 1--1-a).
                 dogs, hearing dogs or service dogs (§§ 47--47-c).
          4-C. Employment of persons with certain genetic disorders
                 (§§ 48--48-b).
-         5.   Right of privacy (§§ 50-52).
+         5.   Right of privacy (§§ 50--52-a).
          V-A. Membership corporations and unincorporated associations
                 (§§ 53-57).
          6.   Change of name (§§ 60-65).
