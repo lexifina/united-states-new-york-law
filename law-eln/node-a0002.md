@@ -17,4 +17,3 @@ Section 2-100.   Party committees; provision for.
         2-122-a. National convention; national party conference.
         2-122-b. Presidential primary.
         2-124.   Party names and emblems; provision for.
-        2-126.   Party funds; restrictions on expenditures.
