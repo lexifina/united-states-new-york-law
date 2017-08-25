@@ -13,3 +13,5 @@ Section 50.   Right of privacy.
         51.   Action for injunction and for damages.
         52.   Televising, broadcasting or taking motion pictures of
                 certain proceedings prohibited.
+        52-a. Private right of action for unwarranted video imaging of
+                residential premises.
