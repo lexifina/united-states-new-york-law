@@ -16,3 +16,5 @@ Section 670.   Application of article.
         676.   Employment of stenographer.
         677.   Records; reports.
         678.   Disposition of money or property found on deceased.
+        679.   Training requirements for coroners and coroner's
+                 deputies.
