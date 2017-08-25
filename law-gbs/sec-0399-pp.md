@@ -288,9 +288,10 @@ financial account number or information:
 services for which a fee will be charged or to provide an investment
 opportunity, whichever is the case;
   (b) the telemarketer's name and the person on whose behalf the
-solicitation is being made if other than the telemarketer; and
+solicitation is being made if other than the telemarketer;
   (c) the identity of the goods or services for which a fee will be
-charged;
+charged; and
+  (d) whether the call is being recorded.
   (2) the cost of the goods or services that are the subject of the
 call.
   (3) in any prize promotion, the odds of being able to receive the
