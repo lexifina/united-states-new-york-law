@@ -43,6 +43,10 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Turning Point Trail".
         342-ddd.   Portion of the state highway system to be designated
                      as the "Hancock Veterans Memorial Bridge".
+        342-ddd*2. Portion of the state highway system to be designated
+                     as the "David H. Newman Sr. Memorial Bridge".
+        342-ddd*3. Portion of the state highway system to be designated
+                     as the "Hugh A. Kearney Memorial Bridge".
         342-e.     Portion of state highway system to be designated as
                      "The Roosevelt-Marcy Memorial Highway."
         342-ee.    Portion of state highway system to be designated and
@@ -263,16 +267,18 @@ Section 340-a.     Designation of state interstate routes.
                      as the "United States Army 77th Infantry Division
                      Memorial Highway".
         343-k*5.   Portions of the state highway system to be designated
-                     as the "Chautauqua Wine Trail", the "Canandaigua
-                     Wine Trail", the "Cayuga Wine Trail East", the
-                     "Cayuga Wine Trail West", the "Seneca Lake Wine
-                     Trail East", the "Seneca Lake Wine Trail West", the
-                     "Keuka Lake Wine Trail", the "Shawangunk Wine
-                     Trail", the "Dutchess Wine Trail", the "North Fork
-                     Wine Trail", the "Hamptons Wine Trail", the "Long
-                     Island Wine Region", the "Niagara Escarpment Wine
-                     Trail", the "Niagara Wine Trail" and the "Lake
-                     Ontario Wine Trail".
+                     as the "Lake Erie Wine Country Trail", the
+                     "Canandaigua Wine Trail", the "Cayuga Wine Trail
+                     East", the "Cayuga Wine Trail West", the "Seneca
+                     Lake Wine Trail East", the "Seneca Lake Wine Trail
+                     West", the "Keuka Lake Wine Trail", the "Shawangunk
+                     Wine Trail", the "Dutchess Wine Trail", the "North
+                     Fork Wine Trail", the "Hamptons Wine Trail", the
+                     "Long Island Wine Region", the "Niagara Wine Trail
+                     Ridge", the "Niagara Wine Trail Lake", the "Lake
+                     Ontario Wine Trail", the "Adirondack Coast Wine
+                     Trail", the "St. Lawrence Wine Trail" and the
+                     "Upper Hudson Wine Trail".
         343-k*6.   Portion of the state highway system to be designated
                      as the "Joseph A. Scapelliti Memorial Bridge".
         343-k*7.   Portion of the state highway system to be designated
@@ -612,9 +618,6 @@ Section 340-a.     Designation of state interstate routes.
         344-e*12.  Portion of the state highway system to be designated
                      as the "Wayne C. Speenburgh Memorial Highway".
         344-e*13.  Portion of the state highway system to be designated
-                     as the "Private First Class Duane C. Scott Memorial
-                     Highway".
-        344-e*14.  Portion of the state highway system to be designated
                      as the "Major Clayton Carpenter Memorial Highway".
         344-f.     Portion of state highway system to be designated as
                      the "Specialist Matthew E. Baylis Memorial Bridge".
@@ -630,6 +633,12 @@ Section 340-a.     Designation of state interstate routes.
                      as "Sergeant James J. Regan Memorial Boulevard".
         344-f*6.   Portion of the state highway system to be designated
                      as the "Gerard 'Jess' Fitzpatrick Memorial Bridge".
+        344-f*7.   Portion of the state highway system to be designated
+                     as the "Private First Class Duane C. Scott Memorial
+                     Highway".
         344-g.     Portion of state highway system to be designated as
                      the "Senator William J. Larkin, Jr. Highway".
+        344-g*2.   Portion of the state highway system to be designated
+                     as the "Detective Steven McDonald Memorial
+                     Highway".
         345-a.     Abandonment and transfer of state highways.
