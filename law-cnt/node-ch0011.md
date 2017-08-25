@@ -37,7 +37,7 @@ Article 1.    Short title; application; definitions (§§ 1-3).
         16.   County purchasing agent (§§ 625-626).
         17.   Sheriff (§§ 650-662).
         17-A. Coroner, coroner's physician and medical examiner
-                (§§ 670-678).
+                (§§ 670-679).
         18.   District attorney (§§ 700-707).
         18-A. Public defender (§§ 716-721).
         18-B. Representation of persons accused of crime or parties
