@@ -14,4 +14,5 @@ dollars shall be charged for such plate.
   4. For the purposes of this section, "AMVETS" shall mean the veterans
 service organization chartered by congress as a membership corporation
 created pursuant to chapter 227 of title 36 of the United States code.
+  * NB There are 2 § 404-dd's
   * NB Effective January 21, 2018
