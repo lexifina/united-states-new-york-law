@@ -107,6 +107,9 @@ Section 200.      Defining qualifications of exempt volunteer firemen.
         208-e.    Extra work by members of certain police forces.
         208-f.    Special accidental death benefit.
         208-g.    Community activity by members of a police force.
+        208-h.    Cardiopulmonary resuscitation training and retraining
+                    for police departments in cities having a population
+                    of one million or more
         209.      Outside service by local fire departments, companies,
                     ambulance districts and airport crash-fire-rescue
                     units.
