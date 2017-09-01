@@ -9,6 +9,7 @@ Section 210.   Division of state police.
         214-b. Family offense intervention.
         214-c. Elder abuse awareness.
         214-d. Human trafficking awareness.
+        214-e. Cardiopulmonary resuscitation training and retraining.
         215.   Organization; salaries; qualifications; appointment;
                  term; rules and regulations.
         216.   Bureau of criminal investigation.
