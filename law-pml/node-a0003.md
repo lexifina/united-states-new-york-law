@@ -11,7 +11,7 @@ Section 301.   General powers of state racing and wagering board;
         305.   Pari-mutuel betting at harness races.
         306.   State admission tax.
         307.   Licenses for harness race meetings.
-        307-a. New York bred harness races.
+        307-a. New York bred or wholly owned harness races.
         308.   Officials at harness horse race meetings.
         309.   Licenses for participants and employees at harness race
                  meetings.
