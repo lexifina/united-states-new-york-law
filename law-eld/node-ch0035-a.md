@@ -56,3 +56,13 @@ Section 240.   Short title.
         253.   Utilization of out-of-state provider pharmacies;
                  necessity and convenience.
         254.   Cost of living adjustment.
+                                 TITLE 5
+                        AGE FRIENDLY COMMUNITIES
+Section 301. Guidelines for development of community-based programs.
+                                ARTICLE 3
+    IDENTIFYING AND REPORTING SELF NEGLECT, ABUSE AND MALTREATMENT IN
+                           HEALTHCARE SETTINGS
+Section 260. Definitions.
+        261. Guidelines for identifying and reporting suspected self
+               neglect, abuse and maltreatment.
+        262. Publishing and distribution of guidelines.
