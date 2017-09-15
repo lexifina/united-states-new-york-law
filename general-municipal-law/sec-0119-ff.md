@@ -26,10 +26,11 @@ that are not permanently fixed to real property.
   5. "Municipal corporation" means a county, town, city or village.
   6. "Renewable energy system" means an energy generating system for the
 generation of electric or thermal energy, to be used primarily at such
-property, by means of solar thermal, solar photovoltaic, wind,
-geothermal, anaerobic digester gas-to-electricity systems, fuel cell
-technologies, or other renewable energy technology approved by the
-authority not including the combustion or pyrolysis of solid waste.
+property, except when the owner of real property is a commercial entity,
+by means of solar thermal, solar photovoltaic, wind, geothermal,
+anaerobic digester gas-to-electricity systems, fuel cell technologies,
+or other renewable energy technology approved by the authority not
+including the combustion or pyrolysis of solid waste.
   7. "Renewable energy system feasibility study" means a written study,
 conducted by a contractor certified by the authority, or certified by a
 certifying entity approved by the authority for purposes of this
