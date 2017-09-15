@@ -20,12 +20,13 @@ Section 701. Board of directors.
         718. List of directors and officers.
         719. Liability of directors in certain cases.
         720. Action against directors and officers for misconduct.
-        721. Nonexclusivity  of statutory provisions for indemnification
+        721. Nonexclusivity of statutory provisions for indemnification
                of directors and officers.
-        722. Authorization  for   indemnification   of   directors   and
+        722. Authorization for indemnification of directors and
                officers.
         723. Payment of indemnification other than by court award.
         724. Indemnification of directors and officers by a court.
         725. Other provisions affecting indemnification of directors and
                officers.
         726. Insurance for indemnification of directors and officers.
+        727. Annual reports for certain transactions required.

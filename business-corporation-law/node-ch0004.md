@@ -12,7 +12,7 @@ Article   1.   Short title; definitions; application; certificates,
           4.   Formation of corporations. (§§ 401-409)
           5.   Corporate finance. (§§ 501-520)
           6.   Shareholders. (§§ 601-630)
-          7.   Directors and officers. (§§ 701-726)
+          7.   Directors and officers. (§§ 701-727)
           8.   Amendments and changes. (§§ 801-808)
           9.   Merger or consolidation; guarantee; disposition of
                  assets; share exchanges. (§§ 901-913)
