@@ -47,6 +47,10 @@ Section 340-a.     Designation of state interstate routes.
                      as the "David H. Newman Sr. Memorial Bridge".
         342-ddd*3. Portion of the state highway system to be designated
                      as the "Hugh A. Kearney Memorial Bridge".
+        342-ddd*4. Portion of the state highway system to be designated
+                     as the "SSG Justin R. Whiting Memorial Bridge".
+        342-ddd*5. Portion of the state highway system to be designated
+                     as the "Lt. Cameron N. Hall Memorial Bridge".
         342-e.     Portion of state highway system to be designated as
                      "The Roosevelt-Marcy Memorial Highway."
         342-ee.    Portion of state highway system to be designated and
@@ -236,6 +240,8 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Corporal Tony Casamento Memorial Bridge".
         343-d.     Portion of state highway system to be designated as
                      the "Jackie Robinson Parkway".
+        343-dd.    Portion of state highway system to be designated as
+                     the "Justine L. Hommel Memorial Highway".
         343-e.     Portion of state highway system in the county of
                      Rockland to be designated as the "Vietnam Veterans
                      Memorial Highway".
