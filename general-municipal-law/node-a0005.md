@@ -106,6 +106,8 @@ Section 70.     Payment of judgments against municipal corporation.
         92-b.   Audit of claims under certain contracts for
                   administering medical assistance.
         92-c.   Emergency service volunteer; paid leave.
+        92-d.   Sick leave for officers and employees with a qualifying
+                  World Trade Center condition.
         93.     Payment of certain insurance premiums for officers and
                   employees of municipal corporations and agencies or
                   instrumentalities thereof.
