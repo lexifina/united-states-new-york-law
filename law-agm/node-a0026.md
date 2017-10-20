@@ -52,3 +52,4 @@ Section 350.   Definitions.
         378.   Unlawful tampering with animal research.
         379.   Prohibition of the selling of fur, hair, skin or flesh of
                  a dog or cat.
+        380.   Use of elephants in entertainment acts.
