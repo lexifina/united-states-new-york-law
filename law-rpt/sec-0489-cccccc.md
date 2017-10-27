@@ -71,7 +71,12 @@ department.
 benefits no later than one year from the date of issuance of the first
 building permit for construction work, or, where construction work does
 not require a building permit, no later than one year from the date of
-commencement of construction.
+commencement of construction. Abatement benefits shall not be granted
+until the applicant files the final application. If the final
+application is not filed within such one year period, abatement benefits
+shall not be granted until such application is filed, and the department
+may delay the granting of such benefits, at the department's discretion,
+to investigate the reason for the late filing.
   (b) Who may file for benefits. An applicant shall be:
   (i) obligated to pay real property tax on the property, either by
 virtue of ownership or contract; or
