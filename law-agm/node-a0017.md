@@ -55,3 +55,4 @@ Section 198.   Definitions.
         214-l. Sale of talc coated rice prohibited.
         214-m. Labeling of certain food products.
         214-n. Treatment and sale of apple cider.
+        214-o. Labeling requirements for fish wholesalers.
