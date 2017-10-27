@@ -4,6 +4,8 @@ Section 112.   Powers and duties of commissioner relating to
                  correctional facilities and community supervision.
         113.   Absence of inmate for funeral and deathbed visits
                  authorized.
+        114.   Rehabilitation programs for women; to be commensurate to
+                 those afforded men.
         115.   Fiscal accounts and records.
         116.   Inmates' funds.
         117.   Estimates of expenses.
