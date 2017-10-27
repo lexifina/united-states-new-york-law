@@ -13,4 +13,4 @@ Section 7400.   Introduction.
         7407.   Exempt persons.
         7408.   Special provisions.
         7409.   Mandatory continuing education.
-        7410.   Mandatory quality review.
+        7410.   Mandatory peer review.
