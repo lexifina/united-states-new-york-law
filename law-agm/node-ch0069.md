@@ -64,7 +64,7 @@ Article   1.      Short title; definitions; matters of public interest
          15-A.    Sales of baby chicks (§§ 175-m--175-r).
          16.      Weights and measures (§§ 176--197-b).
          17.      Adulteration, packing, and branding of food and food
-                    products (§§ 198--214-n).
+                    products (§§ 198--214-o).
          17-A.    Enrichment of certain foods (§§ 215--215-c).
          17-B.    Licensing of food salvagers (§§ 216-222).
          18.      Wood products development (§ 225).
