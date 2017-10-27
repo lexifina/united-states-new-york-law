@@ -28,6 +28,7 @@ Article  1.   Short   title;   construction;  applicability  of  certain
         17.   Revival or extension; waiver of defense or bar.
                 (§§ 17-101--17-107.)
         18.   Safety in skiing code. (§§ 18-101--18-108.)
-        18-a. Specifications   of   liability    for    employers    and
+        18-A. Specifications   of   liability    for    employers    and
                 employees. (§ 18-201.)
+        18-B. Safety in agricultural tourism. (§§ 18-301--18-303.)
         19.   Laws repealed; effective date. (§§ 19-101--19-103.)
