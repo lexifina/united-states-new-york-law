@@ -31,6 +31,8 @@ Section 200.      Defining qualifications of exempt volunteer firemen.
                     acts of volunteer firefighters.
         205-c.    Payments pending controversies where volunteer firemen
                     are killed or injured.
+        205-cc.   Volunteer firefighter enhanced cancer disability
+                    benefits.
         205-d.    Relief from civil liability for acts or omissions by
                     fire wardens in the city of New York.
         205-e.    Right of action to certain injured or representatives
