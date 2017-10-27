@@ -227,6 +227,8 @@ Section 70.        Classification of funds.
         97-nnnn.   Commercial gaming revenue fund.
         97-oooo.   Basic health program trust fund.
         97-oooo*2. Smart schools bond fund.
+        97-pppp.   Lupus research and education fund.
+        97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
         97-xxxx.   State health innovation plan account.
         98.        Investment of state funds.

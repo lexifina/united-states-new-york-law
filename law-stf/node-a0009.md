@@ -3,8 +3,8 @@
 Section 135.   Separate specifications for contract work for the state.
         135-a. Definitions.
         136.   Contracts in pursuance of appropriations.
-        136-a. Contracts for architectural, engineering and surveying
-                 services.
+        136-a. Contracts for architectural, engineering, geological and
+                 surveying services.
         136-b. Selection of underwriters by state agencies.
         136-c. Contracts for employee training and organizational
                  development services.
