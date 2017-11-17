@@ -18,6 +18,7 @@ Section 2.     Public buildings.
         5-a.   Quarters for Disabled American Veterans.
         5-b.   Quarters for Vietnam Veterans of America.
         5-c.   Samuel J. Abbott commemorative plaque.
+        5-c*2. POW/MIA chair and plaque in the capitol.
         6.     Construction plans; custody; approval; and procedure
                  notwithstanding local requirements.
         8.     Contracts.
