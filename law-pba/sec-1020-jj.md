@@ -1,4 +1,3 @@
-  § 1020-jj. Inconsistent provisions of other laws superseded. Insofar
-as the provisions of this title are inconsistent with the provisions of
-any other law or any part thereof, the provisions of this title shall be
-controlling.
+  § 1020-jj. Liberal interpretation. This title, being necessary for the
+prosperity of the state and its inhabitants, shall be liberally
+construed to effect the purposes hereof.
