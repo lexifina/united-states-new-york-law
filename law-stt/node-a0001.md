@@ -4,6 +4,7 @@ Section 101.   Definitions.
         102.   Office of information technology services; director,
                  organization and employees.
         103.   Functions, powers and duties of the office.
+        103-a. State information technology innovation center.
         104.   Advisory council for technology.
         105.   Functions, powers and duties of the council.
         106.   Responsibility to respond to the freedom of information
