@@ -23,4 +23,5 @@ Article   1.   Short title and definitions (§§ 1-2).
          12.   Damages (§§ 120-121).
          13.   Miscellaneous (§§ 130-134).
          13-A. Canal recreationway commission (§§ 138-a--138-c).
+         13-B. Upstate flood mitigation task force (§§ 139--139-d).
          14.   Saving clause; laws repealed (§§ 140-142).
