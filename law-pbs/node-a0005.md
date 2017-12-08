@@ -17,6 +17,7 @@ Section 90.   Application of article.
         92-e. Telephone service; changes in providers.
         92-f. Prepaid telephone calling card consumer protections.
         92-g. De-tariffing of non-basic retail services.
+        92-h. Participation in the targeted accessibility fund.
         93.   Liability for loss or damage caused by violation of this
                 chapter.
         94.   General powers and duties of commission in respect to
