@@ -19,7 +19,7 @@ Article 1.    Short title; application; definitions (§§ 1-3).
         5-D.  County small watershed protection districts
                 (§§ 299-l--299-y).
         6.    Enhanced emergency telephone system surcharge
-                (§§ 300--308-y).
+                (§§ 300-308).
         6-A.  Local enhanced wireless 911 program (§§ 325-335).
         7.    Finance  (§§ 350-381).
         7-A.  County tuberculosis hospitals (§§ 385-395).
