@@ -26,3 +26,5 @@ Title 1.   Public property.
              properties in a city of one million or more persons.
       5.   Assessment ceilings for local public utility mass real
              property.
+      6.   Energy-related public utility mass real property central
+             assessment pilot program.
