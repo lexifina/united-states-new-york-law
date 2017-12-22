@@ -21,6 +21,7 @@ Assembly, do enact as follows:
   5-D.   Agriculture Economic Development Program                   178
   5-E.   Empire State Golf Trails Program                           181-c
   5-E*2. Empire state brewery trails program                        181-c*2
+  5-F.   Senior Tourism Program                                     181-f
   6.     New York State Economic Development Power Allocation Board 182
   6-A    Western New York Power Proceeds Allocation Act             189-a
   7.     Industrial Effectiveness Program                           190
@@ -42,3 +43,4 @@ Assembly, do enact as follows:
  20.     Empire State Jobs Retention Program                        420
  21.     START-UP NY Program                                        430
  22.     Employee Training Incentive Program                        441
+ 23.     New York Seafood Marketing Task Force                      455
