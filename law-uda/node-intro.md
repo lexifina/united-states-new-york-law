@@ -6,8 +6,8 @@ Section  1.     Short title.
          5.     Powers of the corporation.
          6.     Sale or lease of land use improvement projects.
         *6-a.   Sale or lease of infrastructure projects.
-                  * NB Not implemented due to defeat of the Jobs for the
-                  new, New York bond act in November, 1992
+  * NB Not implemented due to defeat of the Jobs for the new, New York
+bond act in November, 1992
          7.     Sale or lease of residential projects.
          8.     Sale or lease of industrial projects.
          9.     Sale or lease of civic projects.
@@ -32,6 +32,7 @@ Section  1.     Short title.
         15.     Special provisions relating to residential projects.
         16.     Cooperation with municipalities.
         16-a.   Regional revolving loan trust fund.
+        16-aa.  Life sciences initiatives program.
         16-b.   Job retention and defense industry working capital loan
                   program.
         16-c.   Minority- and women-owned business development and
