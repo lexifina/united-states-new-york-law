@@ -8,7 +8,7 @@ Section 370.   Short title.
         374.   State fire prevention and building code council.
         375.   Powers of the council.
         376.   Powers of the secretary.
-        376-a. Code enforcement training.
+        376-a. Code enforcement training and certification.
         377.   New York state uniform fire prevention and building code.
         378.   Standards for New York state uniform fire prevention and
                  building code.
