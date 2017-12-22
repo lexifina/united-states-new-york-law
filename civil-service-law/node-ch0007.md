@@ -20,7 +20,7 @@ Article    I.   Short title; definitions (§§ 1-2).
         VIII.   Classification and compensation of state employees
                   (§§ 115-140).
           IX.   Merit awards for state employees (§§ 145-146).
-           X.   Miscellaneous provisions (§§ 150--159-c).
+           X.   Miscellaneous provisions (§§ 150--159-b).
           XI.   Health insurance for state and retired state employees
                   (§§ 160-170).
           XI-A. Long term care insurance for state and retired state
