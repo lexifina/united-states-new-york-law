@@ -17,6 +17,4 @@ Section 150.   Suspension of pension and annuity during public
         159.   Group insurance or mass merchandising policies or
                  programs.
         159-a. Disability program.
-        159-b. Excused leave to undertake a screening for breast cancer.
-        159-c. Excused leave to undertake a screening for prostate
-                 cancer.
+        159-b. Excused leave to undertake a screening for cancer.
