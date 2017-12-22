@@ -6,6 +6,8 @@ Section 106.   Purpose.
         109.   Licensing of dogs required; rabies vaccination required.
         110.   License fees.
         111.   Identification of dogs.
+        111-a. Microchipping standards.
+        111-b. Registration of microchips.
         112.   Change of ownership; lost or stolen dog.
         113.   Dog control officers.
         114.   Pounds and shelters.

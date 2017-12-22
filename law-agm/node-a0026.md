@@ -53,3 +53,5 @@ Section 350.   Definitions.
         379.   Prohibition of the selling of fur, hair, skin or flesh of
                  a dog or cat.
         380.   Use of elephants in entertainment acts.
+        380*2. Examination of seized animals or animals taken possession
+                 of.
