@@ -9,4 +9,4 @@ article twelve of this chapter, such rate shall be applied. In the case
 of a special assessing unit as defined in section eighteen hundred one
 of this chapter, the equalization rate to be applied shall be the
 applicable class equalization rate.
-  * NB Effective January 1, 2018 and Repealed January 1, 2023
+  * NB Repealed January 1, 2023
