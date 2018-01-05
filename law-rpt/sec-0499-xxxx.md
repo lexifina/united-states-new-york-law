@@ -16,4 +16,4 @@ made upon application by an energy-related public utility mass real
 property owner. Every such application shall be submitted with the
 annual report required by section four hundred ninety-nine-ddddd of this
 title.
-  * NB Effective January 1, 2018 and Repealed January 1, 2023
+  * NB Repealed January 1, 2023

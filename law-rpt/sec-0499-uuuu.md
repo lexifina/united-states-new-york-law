@@ -19,4 +19,4 @@ challenge any such charges pursuant to article seventy-eight of the
 civil practice law and rules. All fees collected by the commissioner
 under this section shall be retained by the department for the purposes
 outlined herein.
-  * NB Effective January 1, 2018 and Repealed January 1, 2023
+  * NB Repealed January 1, 2023
