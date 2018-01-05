@@ -306,6 +306,7 @@
       4. Protection of natural resources and the development of
            agricultural lands.
       5. Violations of article; how restrained.
+      6. Enacted without section heading.
                                      ARTICLE XV
                                        Canals
      Sec.

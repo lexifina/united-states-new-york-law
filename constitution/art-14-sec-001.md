@@ -167,3 +167,34 @@ pursuant to this paragraph on condition that the legislature shall
 determine that the lands to be received by the state are equal to or
 greater than the value of the lands disturbed by the mineral sampling
 operations.
+  Notwithstanding the foregoing provisions and subject to legislative
+approval prior to actual transfer of title, a total of no more than two
+hundred fifty acres of forest preserve land shall be used for the
+establishment of a health and safety land account. Where no viable
+alternative exists and other criteria developed by the legislature are
+satisfied, a town, village or county may apply, pursuant to a process
+determined by the legislature, to the health and safety land account for
+projects limited to:  address bridge hazards or safety on county
+highways, and town highways listed on the local highway inventory
+maintained by the department of transportation, dedicated, and in
+existence on January first, two thousand fifteen, and annually plowed
+and regularly maintained; elimination of the hazards of dangerous curves
+and grades on county highways, and town highways listed on the local
+highway inventory maintained by the department of transportation,
+dedicated, and in existence on January first, two thousand fifteen, and
+annually plowed and regularly maintained; relocation and reconstruction
+and maintenance of county highways, and town highways listed on the
+local highway inventory maintained by the department of transportation,
+dedicated, and in existence on January first, two thousand fifteen and
+annually plowed and regularly maintained, provided further that no
+single relocated portion of any such highway shall exceed one mile in
+length; and water wells and necessary appurtenances when such wells are
+necessary to meet drinking water quality standards and are located
+within five hundred thirty feet of state highways, county highways, and
+town highways listed on the local highway inventory maintained by the
+department of transportation, dedicated, and in existence on January
+first, two thousand fifteen, and annually plowed and regularly
+maintained. As a condition of the creation of such health and safety
+land account the state shall acquire two hundred fifty acres of land for
+incorporation into the forest preserve, on condition that the
+legislature shall approve such lands to be added to the forest preserve.
