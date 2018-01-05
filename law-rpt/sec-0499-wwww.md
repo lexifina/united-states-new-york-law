@@ -43,4 +43,4 @@ less than one million two hundred thousand inhabitants according to the
 last decennial census or litigation affecting the value or taxable
 status of the local energy-related public utility mass real property
 initiated prior to the effective date of this section.
-  * NB Effective January 1, 2018 and Repealed January 1, 2023
+  * NB Repealed January 1, 2023
