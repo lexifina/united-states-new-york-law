@@ -41,4 +41,4 @@ any proceeding challenging an assessed value established by a local
 assessing jurisdiction for local energy-related public utility mass real
 property, the final certified assessment ceiling established pursuant to
 subdivision one of this section shall not be considered by the court.
-  * NB Effective January 1, 2018 and Repealed January 1, 2023
+  * NB Repealed January 1, 2023
