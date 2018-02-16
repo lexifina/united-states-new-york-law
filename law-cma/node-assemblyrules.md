@@ -2,7 +2,8 @@
                         OF THE STATE OF NEW YORK
                                 2017-2018
   Rules of the Assembly for the years 2017--2018, as adopted by Assembly
-Resolution number 6 of 2017.
+Resolution number 6 of 2017 and as amended by Assembly Resolution number
+741 of 2018.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
@@ -10,7 +11,7 @@ as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
 (Assembly)  of  2009  and as amended by Concurrent Resolution number 404
 (Senate) and number 25 (Assembly) of 2017.
-                                 2/23/17
+                                 2/14/18
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -196,48 +197,51 @@ during the session of the House.
 Clerk's desk during the session of the House,  except  officers  of  the
 House in the discharge of their official duties.
   g. The Speaker may, at pleasure, recognize a member for the purpose of
-introducing guests in the chamber.
-  §  4.  Sergeant-at-Arms.  Subject to the direction of the Speaker, the
-Sergeant-at-Arms shall enforce the Rules of the House, enforce order  in
-the  Assembly  Chamber,  lobbies and rooms, exclude all persons from the
-floor except such as are entitled to the  privileges  of  the  same  and
+introducing  guests  in  the  chamber.    The  Speaker further may limit
+recognition to one member to introduce an individual guest or group  and
+such  member shall speak for no more than two minutes for the purpose of
+such introduction.
+  § 4. Sergeant-at-Arms. Subject to the direction of  the  Speaker,  the
+Sergeant-at-Arms  shall enforce the Rules of the House, enforce order in
+the Assembly Chamber, lobbies and rooms, exclude all  persons  from  the
+floor  except  such  as  are  entitled to the privileges of the same and
 perform such other duties as the Speaker may direct.
-  §  5.  Sexual harassment policy. The Speaker shall promulgate a policy
-prohibiting sexual harassment, which shall, at a minimum, be  applicable
-to  members of the Assembly and Assembly staff, define the conduct which
-is prohibited, establish a process for the resolution of  complaints  of
-such  conduct,  and  provide for appropriate training for all members of
-the Assembly and Assembly  staff.  Nothing  contained  herein  shall  be
-deemed  to  require  the  repromulgation  of  a sexual harassment policy
+  § 5. Sexual harassment policy. The Speaker shall promulgate  a  policy
+prohibiting  sexual harassment, which shall, at a minimum, be applicable
+to members of the Assembly and Assembly staff, define the conduct  which
+is  prohibited,  establish a process for the resolution of complaints of
+such conduct, and provide for appropriate training for  all  members  of
+the  Assembly  and  Assembly  staff.  Nothing  contained herein shall be
+deemed to require the  repromulgation  of  a  sexual  harassment  policy
 statement which is already in effect and which meets the requirements of
-this rule. Copies of the sexual harassment policy promulgated  hereunder
-shall  be  distributed to all members of the Assembly and Assembly staff
+this  rule. Copies of the sexual harassment policy promulgated hereunder
+shall be distributed to all members of the Assembly and  Assembly  staff
 and shall be available to the public.
-  § 6. Affirmative action policy. The Speaker shall promulgate a  policy
+  §  6. Affirmative action policy. The Speaker shall promulgate a policy
 with respect to affirmative action, which shall, at a minimum:
-  (a)  prohibit  employment  discrimination on the basis of race, color,
-creed,  sex,  religion,  age,  sexual  orientation,   national   origin,
-disability,  genetic predisposition or carrier status, marital status or
+  (a) prohibit employment discrimination on the basis  of  race,  color,
+creed,   sex,   religion,  age,  sexual  orientation,  national  origin,
+disability, genetic predisposition or carrier status, marital status  or
 military status;
   (b) appoint an affirmative action officer who shall report annually to
 the Speaker;
-  (c) create an affirmative action  advisory  committee  to  assist  the
+  (c)  create  an  affirmative  action  advisory committee to assist the
 affirmative action officer in the implementation of such policy;
-  (d)  require that the human resources office of the Assembly undertake
+  (d) require that the human resources office of the Assembly  undertake
 recruitment of minority and protected-class individuals;
-  (e)  establish  a  process  for  the  resolution  of   complaints   of
+  (e)   establish   a  process  for  the  resolution  of  complaints  of
 discrimination; and,
   (f) create a system by which such policy is disseminated and enforced.
   Nothing contained herein shall be deemed to require the repromulgation
-of  an  affirmative  action  policy which is already in effect and which
-meets the requirements of this rule. Copies of  the  affirmative  action
-policy  promulgated hereunder shall be distributed to all members of the
+of an affirmative action policy which is already  in  effect  and  which
+meets  the  requirements  of this rule. Copies of the affirmative action
+policy promulgated hereunder shall be distributed to all members of  the
 Assembly and Assembly staff and shall be available to the public.
-  § 7. Non-fraternization policy. The Speaker shall promulgate a  policy
-prohibiting  fraternization  with  student  interns,  which  shall  at a
-minimum, be applicable to members of the Assembly  and  Assembly  staff,
-define  the  conduct  which is prohibited, and establish a procedure for
-investigation of alleged violations of  the  policy.  Nothing  contained
+  §  7. Non-fraternization policy. The Speaker shall promulgate a policy
+prohibiting fraternization  with  student  interns,  which  shall  at  a
+minimum,  be  applicable  to members of the Assembly and Assembly staff,
+define the conduct which is prohibited, and establish  a  procedure  for
+investigation  of  alleged  violations  of the policy. Nothing contained
 herein  shall  be deemed to require promulgation of a non-fraternization
 policy which is already in effect and which  meets  the  requirement  of
 this rule. Copies of the non-fraternization policy promulgated hereunder
@@ -692,11 +696,11 @@ upon such amendments in their inverse order.
 reading  unless  otherwise  ordered  pursuant  to  subdivision b of this
 section or pursuant to paragraph one of subdivision b of section ten  of
 Rule IV.
-  d.   No bill shall be considered for third reading until it shall have
-been on the printed Calendar of the House on  two  legislative  days  on
-that order, except where made a special order by report of the Committee
-on Rules, in which case it may be considered on second and third reading
-on the same day.
+  d.  A bill shall be considered automatically advanced to third reading
+once  it has been on the printed Calendar on the order of second reading
+for at least one legislative day on that  order,  except  where  made  a
+special  order by report of the Committee on Rules, in which case it may
+be considered on second and third reading on the same day.
   e.  In all cases where unanimous consent is asked for advancing a bill
 or entertaining a motion or resolution out of its order, it shall be the
 duty of the Speaker to proclaim  such  request  and  determine  if  such
@@ -1323,53 +1327,56 @@ and  has  been recognized by the Speaker. While a member is speaking, no
 member  shall entertain any private discourse or pass between the member
 speaking and the Chair.
   b. Unless otherwise provided by these Rules, no  member  shall  speak,
-except in his or her place, nor more than twice on any question, without
-leave  of  the  House  and  no  member shall speak for more than fifteen
-minutes at a time  except  by  consent  of  two-thirds  of  the  members
-present;  provided, however that a member desiring to explain his or her
-vote upon the final  passage  of  a  bill  or  upon  the  passage  of  a
-resolution   requiring  the  expenditure  of  money  may  make  a  brief
-statement, not to exceed two minutes, in explanation of such  vote;  and
-further  provided  that  in  addition to the foregoing, the sponsor of a
-bill or resolution may make a statement not to exceed five  minutes  for
-the purpose of opening debate on such bill or resolution.
-  c.  If  any  member, in speaking, transgresses the Rules of the House,
-the Speaker may call such member to order, in which case the  member  so
+except  in  his  or  her  place,  nor  more  than  twice  on any bill or
+amendment, without leave of the House and no member shall speak for more
+than fifteen minutes at a time except by consent of  two-thirds  of  the
+members present; provided, however that a member desiring to explain his
+or  her  vote  upon the final passage of a bill or upon the passage of a
+resolution  requiring  the  expenditure  of  money  may  make  a   brief
+statement,  not  to exceed two minutes, in explanation of such vote; and
+further provided that in addition to the foregoing,  the  sponsor  of  a
+bill  may make a statement not to exceed five minutes for the purpose of
+opening debate on such bill.   Except as  otherwise  provided  by  these
+Rules  for  concurrent resolutions, no member shall speak more than once
+and for no more than five minutes on any resolution without leave of the
+House.
+  c. If any member, in speaking, transgresses the Rules  of  the  House,
+the  Speaker  may call such member to order, in which case the member so
 called to order shall immediately sit down, and shall not rise unless to
 explain or proceed in order.
-  d.  While  the  Speaker  is  putting  a question, or a roll call is in
-progress or a count is being had, no member shall speak or leave his  or
-her  place.  When  the  House  shall be equally divided on any question,
-including the Speaker's vote, the question shall be deemed to  be  lost.
+  d. While the Speaker is putting a question,  or  a  roll  call  is  in
+progress  or a count is being had, no member shall speak or leave his or
+her place. When the House shall be  equally  divided  on  any  question,
+including  the  Speaker's vote, the question shall be deemed to be lost.
 All questions relating to the priority of one question or subject matter
 over another, under the same order of business, shall be decided without
 debate. If any question contains several distinct propositions, it shall
-be  divided  by  the Chair at the request of any member, but a motion to
-strike out and insert shall be indivisible. All questions of  order,  as
-they  shall  occur,  with the decisions thereon, shall be entered in the
-Journal, and, at the close of the  session,  a  statement  of  all  such
-questions  and  decisions  shall  be  printed  at the close of and as an
+be divided by the Chair at the request of any member, but  a  motion  to
+strike  out  and insert shall be indivisible. All questions of order, as
+they shall occur, with the decisions thereon, shall be  entered  in  the
+Journal,  and,  at  the  close  of  the session, a statement of all such
+questions and decisions shall be printed at  the  close  of  and  as  an
 appendix to the Journal.
-  § 7. Adjournment. a. When a motion to adjourn is carried, the  members
-and  officers  shall  keep  their  seats  and  places  until the Speaker
+  §  7. Adjournment. a. When a motion to adjourn is carried, the members
+and officers shall  keep  their  seats  and  places  until  the  Speaker
 declares the House adjourned.
-  b. No motion to adjourn sine die shall be in  order  until  all  bills
-transmitted  to  the  Governor shall have been acted upon by him or her,
-and in the case of vetoed bills, until such bills have been returned  to
+  b.  No  motion  to  adjourn sine die shall be in order until all bills
+transmitted to the Governor shall have been acted upon by  him  or  her,
+and  in the case of vetoed bills, until such bills have been returned to
 each House for at least three legislative calendar days.
-  §  8.  Contest  of  election.  A contest of the election of any member
-shall be referred to  the  Judiciary  Committee  for  investigation  and
+  § 8. Contest of election. A contest of  the  election  of  any  member
+shall  be  referred  to  the  Judiciary  Committee for investigation and
 report.
   § 9. Staff, materials and other perquisites.  Each member of the House
-shall  be  entitled  to  an  equal allocation of printed newsletters and
-other printed materials and postage therefor, and stationery  and  other
-similar  perquisites,  and  each member shall receive an equal allowance
-for staff personnel, except that the allocation of stationery and  other
+shall be entitled to an equal  allocation  of  printed  newsletters  and
+other  printed  materials and postage therefor, and stationery and other
+similar perquisites, and each member shall receive  an  equal  allowance
+for  staff personnel, except that the allocation of stationery and other
 similar perquisites and the allowance for staff personnel may be greater
-for  members  in  majority and minority leadership positions, committee,
+for members in majority and minority  leadership  positions,  committee,
 subcommittee and task force chairpersons and ranking minority members of
-committees, subcommittees and task forces.  Such  greater  allotment  or
-staff  shall be commensurate with the additional duties assigned to such
+committees,  subcommittees  and  task  forces. Such greater allotment or
+staff shall be commensurate with the additional duties assigned to  such
 member.
   §  10.  Use  of  legislative  printing,  mail  and  mass communication
 facilities. a. The use of legislative printing and mail  facilities  for
