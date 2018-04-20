@@ -38,6 +38,7 @@ bond act in November, 1992
         16-c.   Minority- and women-owned business development and
                   lending program.
         16-d.   Urban and community development program.
+        16-dd.  Community development revolving loan program.
         16-e.   Regional economic development partnership program.
         16-f.   Bonding guarantee assistance program.
         16-g.   Child care facilities construction program.
@@ -111,3 +112,6 @@ bond act in November, 1992
         49.     (Enacted without section heading).
         50.     (Enacted without section heading).
         51.     (Enacted without section heading).
+        52.     Small business innovation research (SBIR)/small business
+                  technology transfer (STTR) technical assistance
+                  program.
