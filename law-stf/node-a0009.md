@@ -27,6 +27,7 @@ Section 135.   Separate specifications for contract work for the state.
                  New York state and foreign business enterprises.
         139-j. Restrictions on contacts during the procurement process.
         139-k. Disclosure of contacts and responsibility of offerers.
+        139-l. Statement on sexual harassment, in bids.
         140.   Disposition of deposit accompanying bid.
         141.   Claims against contractors.
         142.   Workmen's compensation insurance on public works.
