@@ -25,6 +25,7 @@ Section 19.01   Declaration of policy.
                   demonstration program.
         19.18-a Heroin and opioid addiction wraparound services
                   demonstration program.
+        19.18-b Certified peer recovery advocate services program.
         19.19   Personnel of the office.
         19.20   Review of criminal history information concerning
                   certain prospective employees and volunteers.
