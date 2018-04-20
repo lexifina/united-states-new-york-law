@@ -10,6 +10,8 @@ Section 210.   Division of state police.
         214-c. Elder abuse awareness.
         214-d. Human trafficking awareness.
         214-e. Cardiopulmonary resuscitation training and retraining.
+        214-f. Emergency situations involving people with autism
+                 spectrum disorder and other developmental disabilities.
         215.   Organization; salaries; qualifications; appointment;
                  term; rules and regulations.
         216.   Bureau of criminal investigation.

@@ -11,6 +11,7 @@ Section 290.   Purposes of article.
         296-b. Unlawful discriminatory practices relating to domestic
                  workers.
         296-c. Unlawful discriminatory practices relating to interns.
+        296-d. Sexual harassment relating to non-employees.
         297.   Procedure.
         298.   Judicial review and enforcement.
         298-a. Application of article to certain acts committed outside
