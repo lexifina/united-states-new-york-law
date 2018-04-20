@@ -9,8 +9,8 @@ Section 101.   Short title.
         106.   Holding of court; place of holding; assignment of
                  justices.
         106-a. Reducing number of justices in adjacent towns.
-        106-b. Election of a single town justice for two or more
-                 adjacent towns.
+        106-b. Election of one or more town justices for two or more
+                 towns.
         107.   Records and dockets of court.
         109.   Non-judicial personnel; their powers and duties.
         110.   Enforcement officers.
