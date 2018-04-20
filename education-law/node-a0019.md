@@ -13,6 +13,7 @@ Section 901.   School health services to be provided.
                  scoliosis.
         906.   Existence of communicable diseases; return after illness.
         907.   Use of sunscreen.
+        908.   Prohibition against meal shaming.
         909.   School hygiene districts.
         910.   Choice of method of treatment.
         911.   Enforcement.

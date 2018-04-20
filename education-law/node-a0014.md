@@ -106,6 +106,7 @@ Section 679-a.   New York state licensed social worker loan forgiveness
                    scholarship program.
         679-i.   New York state child welfare worker loan forgiveness
                    incentive program.
+        679-j.   The New York state teacher loan forgiveness program.
                                 PART III
                               STUDENT LOANS
 Section 680.     Powers and duties.
