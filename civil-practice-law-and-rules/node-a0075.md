@@ -38,3 +38,9 @@
         7514. Judgment on an award.
                 (a) Entry.
                 (b) Judgment-roll.
+        7515. Mandatory arbitration clauses; prohibited.
+                (a) Definitions.
+                (b) (i) Prohibition.
+                    (ii) Exceptions.
+                    (iii) Mandatory arbitration clause null and void.
+                (c)
