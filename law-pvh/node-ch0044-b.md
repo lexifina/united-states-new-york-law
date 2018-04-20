@@ -60,3 +60,6 @@ Article                                                       Sections
    27.    Rural and urban community investment fund
             program..................................... 1230 - 1232
    28.    New York state first home savings program..... 1250 - 1256
+   29.    Residential emergency services to offer home
+            repairs to the elderly program.............. 1260 - 1262
+   30.    New York access to home for heroes program.... 1270 - 1272
