@@ -25,7 +25,13 @@ Section  3.   Qualifications for holding office.
                 the first class.
         17.   Defense and indemnification of state officers and
                 employees.
+        17-a. Reimbursement of funds paid by state agencies and state
+                entities for the payment of awards adjudicated in sexual
+                harassment claims.
         18.   Defense and indemnification of officers and employees of
                 public entities.
+        18-a. Reimbursement of funds paid by a public entity for the
+                payment of awards adjudicated in sexual harassment
+                claims.
         19.   Reimbursement of defense costs incurred by or on behalf of
                 state employees.
