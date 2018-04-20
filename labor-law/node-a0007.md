@@ -13,6 +13,7 @@ Section 200.   General duty to protect health and safety of employees;
                  health service centers.
         201-f. Posting regulations on employment of persons previously
                  convicted of one or more crimes.
+        201-g. Prevention of sexual harassment.
         202.   Protection of the public and of persons engaged at window
                  cleaning and cleaning of exterior surfaces of
                  buildings.
