@@ -24,3 +24,5 @@ Section 33.01  Protection of patients' rights.
         33.23  Incident notifications and reports.
         33.25  Release of records pertaining to allegations and
                  investigations of abuse and mistreatment.
+        33.27  Independent substance use disorder and mental health
+                 ombudsman.

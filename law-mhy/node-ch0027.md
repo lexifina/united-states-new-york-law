@@ -28,7 +28,7 @@ Article   7 Office of mental health (§§ 7.01-7.47).
                                         TITLE C
                             DEVELOPMENTAL DISABILITIES ACT
 Article  13 Office for people with developmental disabilities (§§
-              13.01-13.42).
+              13.01-13.43).
          15 Admission of the mentally retarded to schools
               (§§ 15.01-15.37).
          16 Regulation and quality of services (§§ 16.00-16.37).
@@ -50,7 +50,7 @@ Article  29 General provisions relating to in-patient facilities
          32 Regulation and quality control of chemical dependence
               services and compulsive gambling services
               (§§ 32.01-32.39).
-         33 Rights of patients (§§ 33.01-33.25).
+         33 Rights of patients (§§ 33.01-33.27).
          41 Local and unified services (§§ 41.01-41.57).
          43 Fees for services (§§ 43.01-43.12).
          47 Mental Hygiene legal service (§§ 47.01-47.03).
