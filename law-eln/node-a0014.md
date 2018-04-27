@@ -10,6 +10,7 @@ Section 14-100.   Definitions.
         14-107.   Independent expenditure reporting.
         14-107-a. Prohibited spending by independent expenditure
                     committees and political action committees.
+        14-107-b. Independent expenditure verification.
         14-108.   Time for filing statements.
         14-110.   Place for filing statements.
         14-112.   Political committee authorization statement.
