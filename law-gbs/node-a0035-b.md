@@ -9,6 +9,7 @@ Section 736.   Definitions.
         740-a. Automobile broker business surety bond.
         741.   Deceptive acts prohibited.
         741-a. Advertising.
+        741-b. Disclosure.
         742.   Action for recovery of damages by consumer.
         743.   Enforcement by attorney general.
         744.   Severability.
