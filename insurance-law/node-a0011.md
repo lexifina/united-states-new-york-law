@@ -32,4 +32,3 @@ Section 1101.   Definitions; doing an insurance business.
                   demonstration project.
         1124.   Institutions of higher education exempt; certificate of
                   authority.
-        1124*2. Managed care health savings account.
