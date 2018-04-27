@@ -58,6 +58,7 @@ Article  1.      Short title; definitions (§§ 1-2).
                    (§§ 239-x--239-y).
         12-G.    Landlord-tenant relations council (§ 239-z).
         12-H.    Councils on the disabled (§ 239-aa).
+        12-I.    County-wide shared services panels (§ 239-bb).
         13.      Playgrounds and neighborhood recreation centers
                    (§§ 240-247).
         13-A.    Lost and found property (§§ 250-251).
