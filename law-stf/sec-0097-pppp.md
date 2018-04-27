@@ -49,4 +49,3 @@ of health.
 that all moneys received during a fiscal year are expended prior to the
 end of that fiscal year.
   * NB There are 2 § 97-pppp's
-  * NB Effective April 21, 2018

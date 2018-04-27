@@ -29,44 +29,7 @@ racing, pari-mutuel wagering and breeding law, hosting said facility for
 the purpose of real property tax relief and for education assistance.
 Such distribution shall be made among the counties on a per capita
 basis, subtracting the population of host municipality and county.
-  4. a. As used in this section, the term "base year gaming revenue"
-shall mean the sum of all revenue generated to support education from
-video lottery gaming as defined by section sixteen hundred seventeen-a
-of the tax law in the twelve months preceding the operation of any
-gaming facility pursuant to either article thirteen of the racing,
-pari-mutuel wagering and breeding law or pursuant to paragraph four of
-subdivision a of section sixteen hundred seventeen-a of the tax law.
-  b. Amounts appropriated or transferred in any year to support
-elementary and secondary education shall be calculated as follows:
-  (i) an amount equal to the positive difference, if any, between the
-base year gaming revenue amount and the sum of all revenue generated to
-support education from video lottery gaming as defined by section
-sixteen hundred seventeen-a of the tax law in the current fiscal year
-provided that such positive amount, if any, shall be transferred to the
-state lottery fund. For the purposes of this paragraph, the calculation
-of this positive difference shall be estimated and transferred monthly
-based on the cumulative positive difference, if any, in the same
-cumulative months of the base year and the cumulative months of the
-current fiscal year to date, less amounts previously transferred in the
-current fiscal year. Provided, however, if the amount previously
-transferred in the current fiscal year exceeds the cumulative positive
-difference, an amount equal to the excess transferred may be transferred
-back from the state lottery fund; and
-  (ii) the amount of revenue collected to be distributed pursuant to
-paragraph a of subdivision three of this section, and in excess of any
-amounts transferred pursuant to subparagraph (i) of this paragraph, if
-any.
-  c. Notwithstanding any provision of law to the contrary, amounts
-appropriated or transferred from the commercial gaming revenue fund
-pursuant to subparagraph (ii) of this paragraph shall not be included
-in: (i) the allowable growth amount computed pursuant to paragraph dd of
-subdivision one of section thirty-six hundred two of the education law,
-(ii) the preliminary growth amount computed pursuant to paragraph ff of
-subdivision one of section thirty-six hundred two of the education law,
-and (iii) the allocable growth amount computed pursuant to paragraph gg
-of subdivision one of section thirty-six hundred two of the education
-law.
-  5. Notwithstanding the foregoing, monies received pursuant to:
+  4. Notwithstanding the foregoing, monies received pursuant to:
   a. sections one thousand three hundred forty-five and one thousand
 three hundred forty-eight of the racing, pari-mutuel wagering and
 breeding law shall be exclusively appropriated to the office of
@@ -78,7 +41,7 @@ to the commission for regulatory investigations.
   c. section one thousand three hundred fifty of the racing, pari-mutuel
 wagering and breeding law shall be exclusively appropriated to the
 commission for costs regulation.
-  6. a. Moneys appropriated from the fund for the two thousand
+  5. a. Moneys appropriated from the fund for the two thousand
 fourteen--two thousand fifteen and two thousand fifteen--two thousand
 sixteen school years, for the purposes of providing aid pursuant to
 paragraph a of subdivision three of this section shall be apportioned

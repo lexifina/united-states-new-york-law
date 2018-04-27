@@ -75,6 +75,9 @@ Section 70.        Classification of funds.
         92-ee.     New York state higher education endowment.
         92-ff.     Metropolitan transportation authority financial
                      assistance fund.
+        92-gg.     Charitable gifts trust fund.
+        92-gg*2.   Subway assistance fund.
+        92-hh.     Health care transformation fund.
         93.        Capital projects fund.
         93-a.      New York state storm recovery capital fund.
         93-b.      Dedicated infrastructure investment fund.
@@ -246,7 +249,7 @@ Section 70.        Classification of funds.
         99-bb.     Armory rental account.
         99-bb*2.   Parking services fund.
         99-bb*3.   New York state secure choice administrative fund.
-        99-bb.     SUNY Stony Brook Eastern Long Island Hospital
+        99-bb*4.   SUNY Stony Brook Eastern Long Island Hospital
                      Affiliation escrow fund.
         99-c.      Withholding of state aid upon failure of
                      municipalities and school districts to repay health
