@@ -21,8 +21,6 @@ Section 19.01   Declaration of policy.
         19.16   Methadone Registry.
         19.17   Programs, services, and operation of facilities in the
                   office of alcoholism and substance abuse services.
-        19.18   Opioid addiction treatment and hospital diversion
-                  demonstration program.
         19.18-a Heroin and opioid addiction wraparound services
                   demonstration program.
         19.18-b Certified peer recovery advocate services program.
