@@ -29,8 +29,6 @@ Section 2590.     Application of article.
         2590-p.   Educational facilities capital plan.
         2590-q.   Budgetary and fiscal processes.
         2590-r.   School based budgeting and expenditure reporting.
-        2590-r-1. Community school district based budgeting and
-                    expenditure reporting.
         2590-s.   Prompt payment of salaries.
         2590-t.   New York city comptroller audits.
         2590-u.   New York city independent budget office reports.
