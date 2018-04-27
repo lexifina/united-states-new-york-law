@@ -1,4 +1,4 @@
                                ARTICLE 5-F
-                         SENIOR TOURISM PROGRAM
+                   SENIOR TOURISM ATTRACTIONS PROGRAM
 Section 181-f. Definitions.
-        181-g. Senior tourism program.
+        181-g. Senior tourism attractions program.
