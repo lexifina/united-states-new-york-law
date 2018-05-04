@@ -52,7 +52,7 @@ Article                                                       Sections
             program..................................... 1120 - 1123
    21.    Infrastructure development demonstration
             program..................................... 1130 - 1133
-   22.    Affordable housing develpment loans........... 1150 - 1153
+   22.    Affordable housing development loans.......... 1150 - 1153
    24.    National affordable housing act
             program..................................... 1170 - 1174
    25.    New York access to home program............... 1200 - 1202
