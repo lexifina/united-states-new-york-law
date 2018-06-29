@@ -21,7 +21,7 @@ Article       I.   Short title and definitions (§§ 1-3).
             XII.   State routes (§§ 340-a--345-a).
             XII-A. State thruways (§§ 346--349-a).
             XII-B. State arterial highways passing through cities
-                     (§§ 349-b--349-f).
+                     (§§ 349-b--349-g).
             XII-C. New York State Scenic Byways Program
                      (§§ 349-aa--349-dd).
            XIII.   Saving clause; laws repealed; when to take effect
