@@ -12,15 +12,11 @@ prearranged trip. For the purposes of this article, the terms "TNC
 driver", "TNC prearranged trip" and "digital network" shall have the
 same meanings as such terms are defined in article forty-four-B of the
 vehicle and traffic law.
-  * (b) For the purposes of the administration of this article, a black
+  (b) For the purposes of the administration of this article, a black
 car operator shall include a TNC driver that is logged onto a TNC
 digital network and is not engaged in a TNC prearranged trip but is
 engaged in an activity reasonably related to driving as a TNC driver
-taking into consideration the time, place and manner of such activity,
-however, that this paragraph shall only apply to a TNC driver permitted
-pursuant to article forty-four-B of the vehicle and traffic law within
-twelve months of the effective date of this paragraph.
-  * NB Repealed June 29, 2018
+taking into consideration the time, place and manner of such activity.
   2. "Board" means the workers' compensation board.
   3. "Central dispatch facility" means a central facility, wherever
 located, including a transportation network company, that (a) dispatches
