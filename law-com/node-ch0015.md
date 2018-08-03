@@ -43,4 +43,3 @@ Assembly, do enact as follows:
  20.     Empire State Jobs Retention Program                        420
  21.     START-UP NY Program                                        430
  22.     Employee Training Incentive Program                        441
- 23.     New York Seafood Marketing Task Force                      455
