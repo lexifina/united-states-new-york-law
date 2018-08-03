@@ -259,6 +259,7 @@ Section 70.        Classification of funds.
         99-d*2.    Community projects fund.
         99-dd.     Special events fund.
         99-e.      State university stabilization account.
+        99-ee.     Down's syndrome research fund.
         99-f.      Spinal cord injury research trust fund.
         99-h.      Tribal-state compact revenue account.
         99-h*2.    Teacher education accreditation account.
