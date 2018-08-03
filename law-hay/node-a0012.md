@@ -647,4 +647,6 @@ Section 340-a.     Designation of state interstate routes.
         344-g*2.   Portion of the state highway system to be designated
                      as the "Detective Steven McDonald Memorial
                      Highway".
+        344-j.     Portion of the state highway system to be designated
+                     as the "Chief George Bell Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
