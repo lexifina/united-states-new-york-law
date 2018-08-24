@@ -42,6 +42,8 @@ Article 1.    Short title (§§ 1--1-a).
                 impeachment (§§ 415-428).
        14.    Law reporting (§§ 430-438).
        15.    Attorneys and counsellors (§§ 460-499).
+       15-A.  State commission on prosecutorial conduct (§§
+                499-a--499-j).
        16.    Selection of jurors (§§ 500-528).
        19.    Contempts (§§ 750-781).
        20.    Collection of fines (§§ 790-796).
