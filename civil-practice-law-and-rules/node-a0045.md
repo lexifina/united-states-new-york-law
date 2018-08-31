@@ -98,6 +98,9 @@
                  (d) Printed tariff or classification subject to public
                        service commission, commissioner of
                        transportation or interstate commerce commission.
+        4540-a. Presumption of authenticity based on a party's
+                  production of material authored or otherwise created
+                  by the party.
         4541.   Proof of proceedings before justice of the peace.
                  (a) Of the state.
                  (b) Of another state.
