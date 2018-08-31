@@ -34,7 +34,7 @@ Article   1.      Short title; definitions; matters of public interest
           7-A.    Mink and ranch fox farming (§§ 127-a--127-b).
           8.      Manufacture and distribution of commercial feed
                     (§§ 128--135-g).
-          9.      Inspection and sale of seeds (§§ 136-142).
+          9.      Inspection and sale of seeds (§§ 136--142-a).
           9-A.    Sale of agricultural liming materials
                     (§§ 142-aa--142-hh).
          10.      Sale and analysis of commercial fertilizer
