@@ -67,6 +67,8 @@ Section 3001.   Qualifications of teachers.
                   ineffective.
         3021.   Removal of superintendents, teachers and employees for
                   treasonable or seditious acts or utterances.
+        3021-a. Notification of accusatory instrument alleging a sex
+                  offense.
         3022.   Elimination of subversive persons from the public school
                   system.
         3023.   Liability of a board of education, trustee, trustees or
