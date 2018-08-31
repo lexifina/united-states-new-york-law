@@ -21,7 +21,7 @@ Article  1.   The department of public service. (Secs. 1-27.)
          4-B. Provisions relating to water (Secs. 89-a--89-p.)
          5.   Provisions  relating  to telegraph and telephone lines and
                 to telephone and telegraph corporations.
-                (Secs. 90--102.)
+                (Secs. 90--103.)
          6.   Provisions affecting two  or  more  kinds  of  the  public
                 service and the persons and corporations furnishing such
                 service.  (Secs. 105--119-c.)
