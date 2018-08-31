@@ -104,6 +104,7 @@ Section 70.        Classification of funds.
         95-g.      Department of motor vehicles distinctive plate
                      development fund.
         95-h.      Mental illness anti-stigma fund.
+        96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
         97-b.      Hazardous waste remedial fund.
