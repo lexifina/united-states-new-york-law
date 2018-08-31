@@ -13,7 +13,8 @@ Section 2.    Exemption of members and officers from arrest.
         7-b.  Legislative emergency health station.
         7-c.  Member of assembly defined.
         7-d.  Employees of the legislature.
-        7-e.  Assistive listening system for the hearing impaired.
+        7-e.  Assistive listening system for the deaf and hard of
+                hearing.
         7-f.  Assembly historian.
         7-g.  Senate historian.
         8.    Appointments to be filed with the comptroller.
