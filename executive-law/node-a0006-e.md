@@ -3,7 +3,8 @@
 Section 160.    Application.
         160-a.  Definitions.
         160-b.  Use of the title "state certified real estate appraiser"
-                  or "state licensed real estate appraiser".
+                  or "state licensed real estate appraiser" or "state
+                  licensed real estate appraiser assistant".
         160-c.  State board of real estate appraisal.
         160-d.  Powers of the board.
         160-e.  Powers of the department.
