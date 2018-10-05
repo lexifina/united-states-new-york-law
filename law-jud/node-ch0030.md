@@ -51,7 +51,7 @@ Article 1.    Short title (§§ 1--1-a).
        21.    Court libraries (§§ 810-815).
        21-A.  Community dispute resolution centers program
                 (§§ 849-a--849-g).
-       21-B.  Justice court assistance program (§§ 849-h--849-k).
+       21-B.  Justice court assistance program (§§ 849-h--849-m).
        22.    Judicial hearing officers (§§ 850-854).
        22-A.  Judicial wellness or assistance committees (§ 857).
        23.    Laws repealed; when to take effect (§§ 860-861).
