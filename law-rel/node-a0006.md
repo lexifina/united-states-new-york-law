@@ -1,6 +1,7 @@
                                 ARTICLE 6
             GENERAL PROVISIONS GOVERNING PROPERTY AND AFFAIRS
-Section 60. Refunds to members.
+Section 60. Patronage capital contributions, allocations, and
+              retirements.
         61. Disposition of property.
         62. Non-liability of members for debts of cooperative.
         63. Recordation of mortgages; effect thereof.
