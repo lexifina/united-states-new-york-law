@@ -104,6 +104,7 @@ Section 70.        Classification of funds.
         95-g.      Department of motor vehicles distinctive plate
                      development fund.
         95-h.      Mental illness anti-stigma fund.
+        95-i.      New York state ALS research and education fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
@@ -234,6 +235,7 @@ Section 70.        Classification of funds.
         97-pppp.   Lupus research and education fund.
         97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
+        97-rrrr.   Lupus education and prevention fund.
         97-xxxx.   State health innovation plan account.
         97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.

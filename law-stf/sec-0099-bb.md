@@ -8,4 +8,4 @@ of the military law.
   2. Moneys within the armory rental account shall be available to the
 adjutant general for services and expenses of the office relating to the
 direct maintenance and operation of armories.
-  * NB There are 4 § 99-bb's
+  * NB There are 5 § 99-bb's
