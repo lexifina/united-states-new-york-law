@@ -9,5 +9,5 @@ Section 722.00 Probation case plans.
         722.23 Removal of adolescent offenders to family court.
         722.24 Applicability of chapter to actions and matters involving
                  juvenile offenders or adolescent offenders.
-  * NB Effective October 1, 2018; see ch. 59/2017 Pt. WWW § 106 sb b for
-further contingencies for 10/1/2019
+  * NB See ch. 59/2017 Pt. WWW § 106 sb b for further contingencies for
+10/1/2019

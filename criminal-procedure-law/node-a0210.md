@@ -15,7 +15,6 @@ Section 210.05  Indictment and superior court information exclusive
         210.35  Motion to dismiss indictment; defective grand jury
                   proceeding.
         210.40  Motion to dismiss indictment; in furtherance of justice.
-        210.43  Motion to remove juvenile offender to family court.
         210.45  Motion to dismiss indictment; procedure.
         210.46  Adjournment in contemplation of dismissal in marihuana
                   cases in a superior court.
