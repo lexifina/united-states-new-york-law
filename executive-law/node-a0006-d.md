@@ -5,7 +5,6 @@ Section 159-e. Definitions.
         159-g. Rules and regulations.
         159-h. Limitation of administrative costs.
         159-i. Distribution of funds.
-        159-j. Local share.
         159-k. Monitoring and evaluation.
         159-l. Decertification and reduction of entity shares.
         159-m. Designation and redesignation of eligible entities in
