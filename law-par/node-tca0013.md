@@ -21,6 +21,7 @@ Section 13.01   Transfer of parks, parkways and other property.
         13.23   Land and water conservation fund; state agent.
         13.25   State reservation at Saratoga Springs.
         13.27   Hudson-Mohawk urban cultural park.
+        13.28   Lyme and tick-borne disease warning signs.
         13.29   Sojourner Truth commemorative marker.
         13.30   Reimbursement for expenditures necessitated by
                   negligent, willful or reckless conduct.
