@@ -23,3 +23,5 @@ Section 2601.   Unfair claim settlement practices; penalties.
                   persons with a history of any type of cancer.
         2614.   Discrimination because of past lawful travel.
         2615.   Genetic testing written informed consent.
+        2616.   Discrimination because of status as a living organ or
+                  tissue donor.
