@@ -70,6 +70,8 @@ Section 70.     Payment of judgments against municipal corporation.
                   county.
         77-g.   Sports field fence leases in the city of Rye,
                   Westchester county.
+        77-h.   Sports field fence leases in the town of New Castle,
+                  Westchester county.
         78.     Insurance of property.
         78-b.   Demolition and removal of unsafe structures.
         80.     Discrimination against non-residents.
