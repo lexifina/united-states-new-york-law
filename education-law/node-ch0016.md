@@ -115,7 +115,7 @@ Article
                                 TITLE IV
                            TEACHERS AND PUPILS
    61      Teachers and supervisory and administrative staff
-             (§§ 3001-3037.)
+             (§§ 3001-3038.)
    63      Salaries of teachers and supervisors (§§ 3101--3109-A.)
    65      Compulsory education and school census (§§ 3201-3243.)
              Part I - Compulsory education (§§ 3201-3234.)
