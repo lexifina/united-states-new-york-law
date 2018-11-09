@@ -1,7 +1,7 @@
                                 ARTICLE 5
                        PUBLIC UTILITY AUTHORITIES
 Title 1.    Power Authority of the State of New York (§§ 1000-1017).
-      1-A.  Long Island power authority (§§ 1020--1020-hh).
+      1-A.  Long Island power authority (§§ 1020--1020-ii).
       1-A*. Green Island power authority (§§ 1020*--1020-w*).
       1-B.  North Country power authority (§§ 1021-1021-s).
       * 2.  Albany Light, Heat and Power Authority (§§ 1025-1044).
