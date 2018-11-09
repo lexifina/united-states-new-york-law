@@ -14,6 +14,10 @@ Section 350.   Definitions.
         354-c. New York state veteran burial fund.
         354-d. Time within which marriage may be solemnized; member of
                  the armed forces.
+        354-e. Use of personal confidential information obtained from
+                 veterans or family members of veterans receiving
+                 services from the state and political subdivisions
+                 thereof.
         355.   Acceptance of gifts.
         356.   State veterans' service agency.
         357.   Local veterans' service agencies.

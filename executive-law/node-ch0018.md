@@ -105,6 +105,7 @@ The People of the State of New York, represented in Senate and Assembly,
          45.   Internal control responsibilities of state agencies
                  (§§ 950-954).
          45-A. Temporary statewide health advisory board (§ 957).
+         45-B. Lyme and tick-borne diseases working group (§ 958).
          46.   Long Island South Shore Estuary Reserve (§§ 960--970-a).
          48.   Job training coordination (§§ 970*2-975).
          49.   Workforce preparation evaluation act (§§ 980-982).
