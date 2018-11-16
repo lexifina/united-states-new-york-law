@@ -259,21 +259,7 @@ or (ii) a person holds a conditional driver's license or a restricted
 use license issued by the commissioner pursuant to the provisions of
 article twenty-one or twenty-one-A of this chapter, and is not
 disqualified under any other provision of this article.
-  (4) * (a) The offenses referred to in subparagraph (ii) of paragraph
-(a) of subdivision one and paragraph (a) of subdivision two of this
-section that result in permanent disqualification shall include a
-conviction under sections 125.12, 125.13, 125.14, 125.15, 125.20,
-125.21, 125.22, 125.25, 125.26, 125.27, 130.30, 130.35, 130.45, 130.50,
-130.65, 130.66, 130.67, 130.70, 130.75, 130.80, 130.90, 130.95, 130.96,
-135.25, 150.20, 230.30, 230.32, 230.34, 235.22, 263.05, 263.10, 263.11,
-263.15, 263.16 of the penal law or an attempt to commit any of the
-aforesaid offenses under section 110.00 of the penal law, or any
-offenses committed under a former section of the penal law which would
-constitute violations of the aforesaid sections of the penal law, or any
-offenses committed outside this state which would constitute violations
-of the aforesaid sections of the penal law.
-  * NB Effective until November 13, 2018
-  * (a) The offenses referred to in subparagraph (ii) of paragraph (a)
+  (4) (a) The offenses referred to in subparagraph (ii) of paragraph (a)
 of subdivision one and paragraph (a) of subdivision two of this section
 that result in permanent disqualification shall include a conviction
 under sections 125.12, 125.13, 125.14, 125.15, 125.20, 125.21, 125.22,
@@ -286,7 +272,6 @@ offenses committed under a former section of the penal law which would
 constitute violations of the aforesaid sections of the penal law, or any
 offenses committed outside this state which would constitute violations
 of the aforesaid sections of the penal law.
-  * NB Effective November 13, 2018
   (b) The offenses referred to in subparagraph (ii) of paragraph (a) of
 subdivision one and paragraph (b) of subdivision two of this section
 that result in permanent disqualification shall include a conviction
