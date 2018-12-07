@@ -249,20 +249,12 @@ Section 70.        Classification of funds.
         99-b.      Withholding of state aid for school purposes upon
                      default in payment of obligations of the
                      prospective recipient.
-        99-bb.     Armory rental account.
-        99-bb*2.   Parking services fund.
-        99-bb*3.   New York state secure choice administrative fund.
-        99-bb*4.   SUNY Stony Brook Eastern Long Island Hospital
-                     Affiliation escrow fund.
         99-c.      Withholding of state aid upon failure of
                      municipalities and school districts to repay health
                      insurance reserve receipts when required.
-        99-cc.     Solid waste fund.
         99-d.      City university stabilization account.
         99-d*2.    Community projects fund.
-        99-dd.     Special events fund.
         99-e.      State university stabilization account.
-        99-ee.     Down's syndrome research fund.
         99-f.      Spinal cord injury research trust fund.
         99-h.      Tribal-state compact revenue account.
         99-h*2.    Teacher education accreditation account.
@@ -292,3 +284,11 @@ Section 70.        Classification of funds.
         99-y*3.    Highway use tax administration account.
         99-z.      Cure childhood cancer research fund.
         99-aa.     Retiree health benefit trust fund.
+        99-bb.     Armory rental account.
+        99-bb*2.   Parking services fund.
+        99-bb*3.   New York state secure choice administrative fund.
+        99-bb*4.   SUNY Stony Brook Eastern Long Island Hospital
+                     Affiliation escrow fund.
+        99-cc.     Solid waste fund.
+        99-dd.     Special events fund.
+        99-ee.     Down's syndrome research fund.
