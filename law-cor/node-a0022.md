@@ -35,3 +35,4 @@ Section 600.   Certain correctional officers to administer oaths.
         622.   Sex offender treatment program.
         623.   Inmate telephone services.
         624.   Next of kin; death of inmate.
+        625.   Feminine hygiene products.
