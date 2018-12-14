@@ -15,6 +15,8 @@ Section 7.01    Declaration of policy.
         7.19    Personnel of the office.
         7.21    Directors of facilities.
         7.23    Education and training.
+        7.24    Mental health disorder hospital discharge; policies and
+                  procedures.
         7.25    Safety.
         7.27    Facility services.
         7.29    Gifts.
