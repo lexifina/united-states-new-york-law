@@ -20,6 +20,7 @@ Section 70.        Classification of funds.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
         81.        Veterans' home assistance fund.
+        82.        Gifts to food banks fund.
         83.        Conservation fund.
         83-a.      Habitat conservation and access account.
         84.        The United States Olympic Committee/Lake Placid
@@ -38,6 +39,7 @@ Section 70.        Classification of funds.
         89-g.      Accident prevention course internet, and other
                      technology pilot program fund.
         89-h.      Medical marihuana trust fund.
+        89-i.      Military family relief fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.
