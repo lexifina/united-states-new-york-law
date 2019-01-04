@@ -39,6 +39,7 @@ Section 835.     Definitions.
                    applicants.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
+        838-b.   Victim's right to notice.
         839.     Municipal police training council.
         840.     Functions, powers and duties of council.
         841.     Functions, powers and duties of the commissioner with
