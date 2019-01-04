@@ -23,3 +23,5 @@ Section 70.   Description of the arms of the state and the state flag.
         88.   State slogan.
         89.   State snack.
         90.   State dog.
+        91.   State hymn of remembrance in honor of all American
+                veterans.

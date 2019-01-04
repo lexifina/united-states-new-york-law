@@ -21,7 +21,7 @@ Article 1.    Short title (§ 1.)
        IV-B.  Acquisition of land by the United Nations (§§ 59-i--59-l).
         5.    Entry upon lands for purposes of United States survey
                 (§ 60).
-        6.    Arms and great seal of state (§§70-90).
+        6.    Arms and great seal of state (§§70-91).
         7.    Congressional districts (§§ 110-112).
         8.    Assembly and senate districts of the state (§§ 120-128).
        10.    Laws repealed; when to take effect (§§ 170, 171).
