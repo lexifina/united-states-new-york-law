@@ -8,6 +8,7 @@ Section 400.   Definitions.
         404.   Rules and regulations.
         404-a. Monomeric methyl methacrylate.
         404-b. Nail specialty; owner responsibilities.
+        404-c. Ultraviolet nail drying devices.
         405.   Appearance enhancement business license; requirements.
         406.   License application; procedure; requirements; temporary
                  license.
