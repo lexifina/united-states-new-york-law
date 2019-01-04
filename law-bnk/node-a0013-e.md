@@ -6,3 +6,4 @@ Section 675. Joint deposits and shares; ownership and payment.
                accounts.
         677. Decedents' accounts, withdrawals by authorized persons.
         678. Accounts for convenience only.
+        679. Public awareness; banking services.
