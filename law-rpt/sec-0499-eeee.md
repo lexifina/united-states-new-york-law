@@ -10,12 +10,14 @@ this title;
   (b) an eligible building has not been in compliance at any time during
 the compliance period with a requirement of this title or any rule
 promulgated hereunder;
-  (c) the solar electric generating system for which a tax abatement was
-granted has at any time during the compliance period failed to meet any
-requirement for a solar electric generating system pursuant to this
-title or any rule promulgated hereunder;
-  (d) the solar electric generating system has become a fire or safety
-hazard at any time during the compliance period; or
+  (c) the solar electric generating system or electric energy storage
+equipment for which a tax abatement was granted has at any time during
+the compliance period failed to meet any requirement for a solar
+electric generating system or electric energy storage equipment pursuant
+to this title or any rule promulgated hereunder;
+  (d) the solar electric generating system or electric energy storage
+equipment has become a fire or safety hazard at any time during the
+compliance period; or
   (e) an application, certification, report or other document submitted
 by the applicant contains a false or misleading statement as to a
 material fact or omits to state any material fact necessary in order to

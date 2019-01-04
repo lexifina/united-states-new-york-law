@@ -22,14 +22,20 @@ two thousand fourteen, for each year of the compliance period such tax
 abatement shall be the lesser of (i) two and five-tenths percent of
 eligible solar electric generating system expenditures, (ii) the amount
 of taxes payable in such tax year, or (iii) sixty-two thousand five
-hundred dollars.
+hundred dollars; or
   (d) if the solar electric generating system is placed in service on or
 after January first, two thousand fourteen, and before January first,
 two thousand twenty-one, for each year of the compliance period such tax
 abatement shall be the lesser of (i) five percent of eligible solar
 electric generating system expenditures, (ii) the amount of taxes
 payable in such tax year, or (iii) sixty-two thousand five hundred
-dollars.
+dollars; or
+  (e) if electric energy storage equipment is placed in service on or
+after January first, two thousand nineteen, and before January first,
+two thousand twenty-one, for each year of the compliance period such tax
+abatement shall be the lesser of (i) ten percent of eligible electric
+energy storage equipment expenditures, (ii) the amount of taxes payable
+in such tax year, or (iii) sixty-two thousand five hundred dollars.
   2. Such tax abatement shall commence on July first following the
 approval of an application for tax abatement by a designated agency, and
 may not be carried over to any subsequent tax year.
