@@ -25,3 +25,5 @@ Section 50.     Examinations generally.
                   service.
         59-a.   Placement of detectives and investigators in classified
                   service.
+        59-b.   Promotions of supervisory personnel of the emergency
+                  medical service.
