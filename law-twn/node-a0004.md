@@ -15,6 +15,8 @@ Section 60.     Town board constituted.
         64-d.   Payment in lieu of taxes for property acquired for open
                   space purposes.
         64-e.   Peconic Bay region community preservation funds.
+        64-ee.  Peconic Bay region septic system replacement loan
+                  program.
         64-f.   Town of Brookhaven community preservation fund.
         64-g.   Town of Warwick preservation funds.
         64-h.   Town of Red Hook preservation funds.
