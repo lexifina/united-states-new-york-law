@@ -1,7 +1,7 @@
                                ARTICLE II
                           Coverage And Benefits
 Section  5.     Coverage.
-         6.     Volunteer firemen's benefits; general.
+         6.     Volunteer firefighters' benefits; general.
          7.     Lt. Michael E. Neuner/Timothy Goff memorial death
                   benefit program.
          7-a.   Date of death benefits.
@@ -17,12 +17,13 @@ Section  5.     Coverage.
         12.     Non-schedule adjustments.
         13.     Reclassification of disabilities.
         14.     Previous disability.
-        15.     Expense for rehabilitating injured volunteer firemen.
+        15.     Expense for rehabilitating injured volunteer
+                  firefighters.
         16.     Treatment and care.
         17.     Aliens.
         18.     Disposition of accrued benefits upon death.
         19.     Exclusiveness of remedy.
-        20.     Other remedies of volunteer firemen; subrogation.
+        20.     Other remedies of volunteer firefighters; subrogation.
         21.     Assistance to other states, the Dominion of Canada,
                   property ceded to the federal government and to Indian
                   reservations.
