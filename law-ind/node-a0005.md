@@ -7,5 +7,5 @@ Section 70. Confirmation of nationality.
         72. The president.
         73. General powers and duties of the council.
         75. Vacancies in elective offices.
-        77. Policemen at annual fair.
+        77. Police officers at annual fair.
         78. Leases and rights of way.
