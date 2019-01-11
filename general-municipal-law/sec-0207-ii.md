@@ -1,18 +1,18 @@
   § 207-ii. Payment of supplemental retirement allowances of retired
-policemen and firemen of certain cities. 1. Notwithstanding any other
-provision of law to the contrary, payment of all supplemental retirement
-allowances which, for the month of July, nineteen hundred eighty or any
-subsequent month preceding the month in which the date of enactment of
-this section occurs, were payable pursuant to section two hundred
-seven-i of this chapter, as added by chapter five hundred sixty-one of
-the laws of nineteen hundred sixty-seven, to any pensioner of a pension
-or retirement system of a paid police department of a city having a
-population of one million or more whose employment in such department
-began on or after March twenty-ninth, nineteen hundred forty, shall be
-deemed to have been the obligation of the pension reserve fund of such
-pension or retirement system and payment of any such supplemental
-retirement allowances to any such pensioners for any subsequent month
-shall be the obligation of such pension reserve fund.
+police officers and firefighters of certain cities. 1. Notwithstanding
+any other provision of law to the contrary, payment of all supplemental
+retirement allowances which, for the month of July, nineteen hundred
+eighty or any subsequent month preceding the month in which the date of
+enactment of this section occurs, were payable pursuant to section two
+hundred seven-i of this chapter, as added by chapter five hundred
+sixty-one of the laws of nineteen hundred sixty-seven, to any pensioner
+of a pension or retirement system of a paid police department of a city
+having a population of one million or more whose employment in such
+department began on or after March twenty-ninth, nineteen hundred forty,
+shall be deemed to have been the obligation of the pension reserve fund
+of such pension or retirement system and payment of any such
+supplemental retirement allowances to any such pensioners for any
+subsequent month shall be the obligation of such pension reserve fund.
   (2) Notwithstanding any other provision of law to the contrary, if a
 pension reserve fund shall be established by law for a pension or
 retirement system of a paid fire department of a city having a
