@@ -27,7 +27,7 @@ Section 201.   Incorporation.
         221.   New York Jockey Injury Compensation Fund, Inc.
         221-a. Health insurance for jockeys.
         222.   Notice to be posted upon grounds.
-        223.   Special policemen.
+        223.   Special police officers.
         224.   Penalty for unlawful racing and betting.
         225.   Registration of race horses.
         226.   Increased or additional entrance fees.
