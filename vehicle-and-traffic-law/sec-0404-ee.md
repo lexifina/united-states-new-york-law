@@ -9,5 +9,5 @@ in the same manner as other number plates upon payment of the regular
 registration fee prescribed by section four hundred one of this article;
 provided, however, that an additional annual service charge of
 twenty-five dollars shall be charged for such plate.
-  * NB There are 3 § 404-ee's
+  * NB There are 4 § 404-ee's
   * NB Effective January 27, 2019
