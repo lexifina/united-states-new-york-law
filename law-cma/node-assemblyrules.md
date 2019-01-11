@@ -1,9 +1,8 @@
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2017-2018
-  Rules of the Assembly for the years 2017--2018, as adopted by Assembly
-Resolution number 6 of 2017 and as amended by Assembly Resolution number
-741 of 2018.
+                                2019-2020
+  Rules of the Assembly for the years 2019--2020, as adopted by Assembly
+Resolution number 6 of 2019.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
