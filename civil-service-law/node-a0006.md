@@ -1,5 +1,5 @@
                                ARTICLE VI
-        SPECIAL RIGHTS FOR VETERANS AND EXEMPT VOLUNTEER FIREMEN
+      SPECIAL RIGHTS FOR VETERANS AND EXEMPT VOLUNTEER FIREFIGHTERS
 Section 85.   Additional credit allowed veterans in competitive
                 examinations; preference in retention upon abolition of
                 positions.
@@ -12,7 +12,7 @@ Section 85.   Additional credit allowed veterans in competitive
         85-c. Additional credits allowed the children and siblings of
                 emergency medical technicians and paramedics killed in
                 the line of duty.
-        86.   Transfer of veterans or exempt volunteer firemen upon
+        86.   Transfer of veterans or exempt volunteer firefighters upon
                 abolition of positions.
         87.   Prohibition against disqualification on account of age or
                 disability.
