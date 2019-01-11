@@ -18,7 +18,7 @@ Section 301.   General powers of state racing and wagering board;
         310.   Power of the state racing and wagering board to impose
                  fines and penalties.
         311.   Refunds.
-        312.   Special policemen.
+        312.   Special police officers.
         313.   Place and manner of conducting pari-mutuel betting.
         314.   Construction with other laws.
         315.   Bond required of corporation or association conducting

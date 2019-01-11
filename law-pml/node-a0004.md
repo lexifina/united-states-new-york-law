@@ -14,7 +14,7 @@ Section 401. General powers of state racing and wagering board.
         410. Power of state racing and wagering board to impose fines
                and penalties.
         411. Refunds.
-        412. Special policemen.
+        412. Special police officers.
         413. Place and manner of conducting pari-mutuel betting.
         414. Construction.
         415. Bond required of corporation or association conducting
