@@ -1,5 +1,5 @@
                                ARTICLE 10
-                              FIRE DEPARTMENT
+                             FIRE DEPARTMENT
 Section 10-1000 General powers of the board of fire commissioners.
         10-1002 Rules and regulations.
         10-1004 Organization of companies.
@@ -10,6 +10,6 @@ Section 10-1000 General powers of the board of fire commissioners.
         10-1014 Council of fire department.
         10-1016 Annual meeting of fire department.
         10-1018 Duties of chief and assistants.
-        10-1020 Abolition   of   fire  department;  employment  of  paid
-                  firemen.
+        10-1020 Abolition of fire department; employment of paid
+                  firefighters.
         10-1022 Fire inspection in contract areas.
