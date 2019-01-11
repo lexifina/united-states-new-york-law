@@ -1,5 +1,5 @@
                                ARTICLE 10
-                                  POLICE
+                                 POLICE
 Section 150.   Establishment of town police departments.
         151.   Qualifications.
         152.   Promotion.
@@ -9,4 +9,4 @@ Section 150.   Establishment of town police departments.
         155.   Discipline and charges.
         156.   Effect of resignation.
         157.   Absentee leave.
-        158.   Special policemen.
+        158.   Special police officers.
