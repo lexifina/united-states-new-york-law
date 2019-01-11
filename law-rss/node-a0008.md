@@ -1,4 +1,3 @@
                                 ARTICLE 8
-       NEW YORK STATE POLICEMEN'S AND FIREMEN'S  RETIREMENT SYSTEM
-                               SHORT TITLE
+       NEW YORK STATE AND LOCAL POLICE AND FIRE RETIREMENT SYSTEM
 Section 290. Short title of article.
