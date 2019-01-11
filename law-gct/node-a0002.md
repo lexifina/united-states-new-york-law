@@ -38,7 +38,7 @@ Section 2.    Term of office of city supervisors.
         13-h. Moneys for maintaining statewide associations of local
                 officials and any of their activities.
         14.   Permits for erection of booths and arches.
-        15.   Firemen moving from one city to another.
+        15.   Firefighters moving from one city to another.
         16.   Term of service; how reckoned.
         16-a. Volunteer members of fire companies.
         16-b. Computation of pensions in certain retirement funds.
@@ -47,8 +47,8 @@ Section 2.    Term of office of city supervisors.
                 pension or retirement systems maintained by such cities.
         17.   Operation of crematories for disposal of garbage.
         18.   License to operate moving picture apparatus.
-        18-a.
+        18-a. (Enacted without section heading).
         18-b. Admission of children to theatres.
-        18-c.
+        18-c. (Enacted without section heading).
         18-d. Duty of street vendors to keep the sidewalk and street
                 clean.
