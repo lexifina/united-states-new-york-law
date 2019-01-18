@@ -1,6 +1,6 @@
-  * § 205-cc. Volunteer firefighter enhanced cancer disability benefits.
-A legally organized fire district, department or company shall provide
-and maintain for each eligible volunteer firefighter, an enhanced cancer
+  § 205-cc. Volunteer firefighter enhanced cancer disability benefits. A
+legally organized fire district, department or company shall provide and
+maintain for each eligible volunteer firefighter, an enhanced cancer
 disability benefit insurance program.
   1. Definitions. As used in this section:
   a. "Eligible volunteer firefighter" means:
@@ -118,4 +118,3 @@ enhanced cancer disability benefit, how the beneficiary of such eligible
 volunteer firefighter files a claim for the enhanced cancer death
 benefit, the process by which claimants can appeal a denial of benefits
 and what proof is deemed acceptable to qualify for such benefits.
-  * NB Effective January 1, 2019
