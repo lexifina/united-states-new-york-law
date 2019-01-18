@@ -1,4 +1,4 @@
-                             * ARTICLE 15-A
+                              ARTICLE 15-A
                 STATE COMMISSION ON PROSECUTORIAL CONDUCT
 Section 499-a. Establishment of commission.
         499-b. Definitions.
@@ -11,4 +11,3 @@ Section 499-a. Establishment of commission.
         499-i. Resignation not to divest commission or court of appeals
                  of jurisdiction.
         499-j. Effect.
-  * NB Effective January 1, 2019
