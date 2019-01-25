@@ -56,8 +56,8 @@ Section 70.     Payment of judgments against municipal corporation.
         76.     Limitation on acquisition of water rights in Westchester
                   and Putnam counties.
         77.     Leases of public buildings to posts of veteran
-                  organizations, organizations of volunteer firemen, and
-                  child care agencies.
+                  organizations, organizations of volunteer
+                  firefighters, and child care agencies.
         77-a.   Construction and maintenance of memorial building or
                   monument by county or city.
         77-b.   Expenses of certain public officers and employees
