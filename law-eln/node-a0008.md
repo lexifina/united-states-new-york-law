@@ -5,3 +5,4 @@ Title   I. Polling places.
       III. Casting the ballot.
        IV. Absentee voting.
         V. Challenging voters.
+       VI. Early voting.

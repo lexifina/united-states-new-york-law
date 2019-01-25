@@ -370,13 +370,18 @@ Section 8-500. Watchers; provision for.
         8-508. Challenge report; preparation of.
         8-510. Challenge  report;   completion   of   and   closing   of
                  registration poll ledgers.
+                                TITLE VI
+                              EARLY VOTING
+Section 8-600. Early voting.
+        8-602. State  board  of  elections;  powers and duties for early
+                 voting.
                                 ARTICLE 9
                            CANVASS OF RESULTS
                                  TITLE I
                         CANVASS AT POLLING PLACES
 Section 9-100. Canvass; required.
         9-102. Canvass; general provisions for.
-        9-104. Casting  of  ballot;  absentee, military, special federal
+        9-104. Casting of ballot; absentee,  military,  special  federal
                  and special presidential ballots.
         9-106. Paper ballots; accounting for number used.
         9-108. Canvass; ballots, verifying number cast.
@@ -387,7 +392,7 @@ Section 9-100. Canvass; required.
         9-120. Returns of canvass; generally.
         9-122. Proclamation of result.
         9-124. Returns of canvass, procedure after.
-        9-126. Return of canvass; delivery  of  results  to  police  and
+        9-126. Return  of  canvass;  delivery  of  results to police and
                  unofficial tally of election results.
         9-128. Canvass; return of.
                                 TITLE II
@@ -397,24 +402,24 @@ Section 9-200. Canvass of primary returns by board of elections; notices
         9-202. Canvass  of  primary returns by state board of elections;
                  convention rolls.
         9-204. County boards of canvassers.
-        9-206. Canvass  of  election  district  returns  of  general and
+        9-206. Canvass of  election  district  returns  of  general  and
                  special elections.
         9-208. Provisions  for  recanvass  of  vote  in  every  election
-                 district   in   the   state;   procedure   in  case  of
+                 district  in  the   state;   procedure   in   case   of
                  discrepancy.
-        9-209. Canvass of absentee, military  and  special  ballots  and
-                 ballots  cast  by voters with registration poll records
-                 missing on days of election or voters who have not  had
-                 their  identity  previously  verified or who have moved
+        9-209. Canvass  of  absentee,  military  and special ballots and
+                 ballots cast by voters with registration  poll  records
+                 missing  on days of election or voters who have not had
+                 their identity previously verified or  who  have  moved
                  after registering.
         9-210. Statements of canvass by canvassing boards.
         9-211. Audit of voter verifiable audit records.
         9-212. Determinations by county canvassing boards.
-        9-214. Transmission of statements of canvassing boards to  state
+        9-214. Transmission  of statements of canvassing boards to state
                  board of elections and secretary of state.
         9-216. Canvass of statements of general and special elections by
                  state board of canvassers.
-        9-218. Proceedings  by boards of canvassers to carry into effect
+        9-218. Proceedings by boards of canvassers to carry into  effect
                  a court order.
         9-220. Record in office of secretary of state of county officers
                  elected.
@@ -422,26 +427,26 @@ Section 9-200. Canvass of primary returns by board of elections; notices
                     VOTING BY MEMBERS OF ARMED FORCES
 Section 10-102. Military voters; definitions.
         10-104. Military voters; right to vote.
-        10-106. Military  voters;  registration  and   application   for
+        10-106. Military   voters;   registration  and  application  for
                   ballots.
         10-108. Military voters; distribution of ballots to.
         10-109. Military voters; cancellation of registration.
         10-112. Military voter; voting.
-        10-114. Military  ballots; deadline for receipt, and delivery to
+        10-114. Military ballots; deadline for receipt, and delivery  to
                   polling place.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
         10-122. Military voter; absentee ballot, right to.
-        10-124. Military  voting;  division  for  servicemen's   voting;
+        10-124. Military   voting;  division  for  servicemen's  voting;
                   regulatory powers.
         10-126. Military voting; applicability of general provisions.
                                ARTICLE 11
    SPECIAL PRESIDENTIAL AND SPECIAL FEDERAL VOTERS AND SPECIAL BALLOTS
                                  TITLE I
                        SPECIAL PRESIDENTIAL VOTERS
-Section 11-102. Special   presidential   voters;  change  of  residence;
+Section 11-102. Special  presidential  voters;  change   of   residence;
                   special qualifications.
-        11-104. Registration and application  for  special  presidential
+        11-104. Registration  and  application  for special presidential
                   ballot.
         11-106. Processing of applications by board of elections.
         11-108. Special presidential voters lists.
@@ -595,10 +600,10 @@ Section 17-100. Definitions.
                   or members of any police force.
         17-112. Soliciting media support.
         17-114. Failure to furnish information; false information.
-        17-116. Removal, mutilation or destruction of  election  booths,
+        17-116. Removal,  mutilation  or destruction of election booths,
                   supplies, poll-lists or cards of instruction.
         17-118. Refusal to permit employees to attend election.
-        17-120. Misconduct  in relation to certificate of nomination and
+        17-120. Misconduct in relation to certificate of nomination  and
                   official ballot.
         17-122. Misconduct in relation to petitions.
         17-124. Failure to deliver official ballots.
