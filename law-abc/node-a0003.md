@@ -1,4 +1,4 @@
-                               * ARTICLE 3
+                                ARTICLE 3
              SPECIAL PROVISIONS RELATING TO MEAD AND BRAGGOT
 Section 30. Mead producers' license.
         31. Farm meadery license.
@@ -7,4 +7,3 @@ Section 30. Mead producers' license.
         33. Authorization for sale of mead and braggot by wholesale
               licensees.
         34. Mead and braggot tasting.
-  * NB Effective March 28, 2019

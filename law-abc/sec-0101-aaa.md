@@ -33,20 +33,7 @@ section, and provided further, that nothing in this section shall
 require a manufacturer or wholesaler to accept a check tendered by or
 drawn on the account of a retail licensee on the delinquent list unless
 the same has been certified.
-  * 2. No manufacturer or wholesaler licensed under this chapter shall
-sell or deliver any beer, cider or wine products to any retail licensee
-except as provided for in this section:
-  (a) for cash to be paid at the time of delivery; or
-  (b) on terms requiring payment by such retail licensee for such beer,
-cider, or wine products on or before the final payment date of any
-credit period within which delivery is made.
-  Provided, however, that the sale of wine products or cider to a retail
-licensee by a wholesaler licensed under section fifty-eight, sixty-two,
-or seventy-eight of this chapter, or a licensed manufacturer of liquor
-or wine or a cider producer's license, shall be governed by the
-provisions of section one hundred-one-aa of this article.
-  * NB Effective until March 28, 2019
-  * 2. No manufacturer or wholesaler licensed under this chapter shall
+  2. No manufacturer or wholesaler licensed under this chapter shall
 sell or deliver any beer, mead, cider or wine products to any retail
 licensee except as provided for in this section:
   (a) for cash to be paid at the time of delivery; or
@@ -58,7 +45,6 @@ retail licensee by a wholesaler licensed under section fifty-eight,
 sixty-two, or seventy-eight of this chapter, or a licensed manufacturer
 of liquor, mead or wine or a cider producer's license, shall be governed
 by the provisions of section one hundred-one-aa of this article.
-  * NB Effective March 28, 2019
   3. Each such manufacturer and wholesaler shall, on or before the
 respective delinquent notice date, give written notice of default, by
 first class mail, to all such licensees who have failed to make payment
