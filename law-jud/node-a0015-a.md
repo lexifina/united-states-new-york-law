@@ -8,6 +8,6 @@ Section 499-a. Establishment of commission.
         499-f. Complaint; investigation; hearing and disposition.
         499-g. Confidentiality of records.
         499-h. Breach of confidentiality of commission information.
-        499-i. Resignation not to divest commission or court of appeals
-                 of jurisdiction.
+        499-i. Resignation not to divest commission or presiding
+                 justices of the appellate division of jurisdiction.
         499-j. Effect.
