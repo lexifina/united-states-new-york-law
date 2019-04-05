@@ -1,4 +1,4 @@
-  * § 399-ccc. Smoke detecting devices. 1. It shall be unlawful for any
+  § 399-ccc. Smoke detecting devices. 1. It shall be unlawful for any
 person or entity to distribute, sell, offer for sale, or import any
 solely battery operated smoke detecting alarm device powered by a
 replaceable, removable battery. All solely battery operated smoke
@@ -22,4 +22,3 @@ systems with smoke detectors, fire alarm devices that connect to a
 panel, devices that use a low-power radio frequency wireless
 communication signal, or such other devices as the state fire
 administrator shall designate through its regulatory process.
-  * NB Effective April 1, 2019
