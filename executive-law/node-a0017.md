@@ -1,7 +1,7 @@
                                ARTICLE 17
-                            VETERANS' AFFAIRS
+                           VETERANS' SERVICES
 Section 350.   Definitions.
-        351.   Division of veterans' affairs.
+        351.   Division of veterans' services.
         352.   Veterans' affairs commission.
         353.   General functions, powers and duties of division.
         353-a. Veteran speaker education program.

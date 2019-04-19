@@ -37,6 +37,7 @@ Section 835.     Definitions.
         837-s.   Search for sex offense conviction records of emergency
                    medical technician and other first responder
                    applicants.
+        837-t.   Use of force reporting.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.
@@ -58,5 +59,7 @@ Section 835.     Definitions.
         845-a.   Presentment of flags lowered to half-staff in memorial
                    of the death of any police officer or peace officer.
         845-b.   Requests for criminal history information.
+        845-c.   Criminal history record searches; undisposed cases.
+        845-d.   Criminal record searches: reports for civil purposes.
         846.     Programs for the aging.
         846*2.   Programs for the aging.
