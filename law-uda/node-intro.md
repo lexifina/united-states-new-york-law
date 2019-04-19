@@ -32,13 +32,11 @@ bond act in November, 1992
         15.     Special provisions relating to residential projects.
         16.     Cooperation with municipalities.
         16-a.   Regional revolving loan trust fund.
-        16-aa.  Life sciences initiatives program.
         16-b.   Job retention and defense industry working capital loan
                   program.
         16-c.   Minority- and women-owned business development and
                   lending program.
         16-d.   Urban and community development program.
-        16-dd.  Community development revolving loan program.
         16-e.   Regional economic development partnership program.
         16-f.   Bonding guarantee assistance program.
         16-g.   Child care facilities construction program.
@@ -68,6 +66,7 @@ bond act in November, 1992
         16-y.   Marketing of agricultural products.
         16-z.   Marketing orders.
         16-aa.  Life sciences initiatives program.
+        16-dd.  Community development revolving loan program.
         17.     Bonds and notes of the corporation.
         18.     Bond authorization.
         19.     Security for bonds or notes; construction and
@@ -116,3 +115,4 @@ bond act in November, 1992
         52.     Small business innovation research (SBIR)/small business
                   technology transfer (STTR) technical assistance
                   program.
+        53.     (Enacted without section heading).
