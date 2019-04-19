@@ -9,7 +9,6 @@ Section 3.     Compensation for property of a municipal corporation,
         3-c.   Limit upon real property tax levies by local governments.
         3-d.   Certification of compliance with property tax freeze
                  requirements.
-        3-d*2. Certification of compliance with tax levy limit.
         4.     Investigation of expenditures of towns and villages.
         5.     Payment of fines, civil penalties, rent, rates, taxes,
                  fees, charges and other amounts by credit card.
@@ -43,6 +42,7 @@ Section 3.     Compensation for property of a municipal corporation,
         6-s.   Community preservation funds.
         6-t.   Charitable gifts reserve fund.
         6-u.   Charitable gifts reserve fund.
+        6-v.   Asset forfeiture escrow fund.
         7.     Payment of municipal bonds.
         8.     Application of revenues of a public improvement or part
                  thereof, or service.
