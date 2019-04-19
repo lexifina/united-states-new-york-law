@@ -27,7 +27,7 @@ Assembly, do enact as follows:
   7.     Industrial Effectiveness Program                           190
   7-A.   Northern New York Power Proceeds Allocation Act            197-a
   8.     Economic Development Skills Training Program               200
-  9.     Entrepreneurial Assistance                                 210
+  9.     Entrepreneurship Assistance Centers                        210
   9-A.   Come Home to New York Program                              215
  10.     International Trade                                        220
  11.     Regional Economic Development                              230
