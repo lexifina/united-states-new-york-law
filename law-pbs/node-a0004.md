@@ -49,6 +49,8 @@ Section 64.    Application of article.
                  electricity or requiring improvement.
         72-a.  Increased fuel costs.
         74.    Energy storage deployment policy.
+        74-a.  Westchester county renewable energy and energy efficiency
+                 resources program.
         75.    Defense in case of excessive charges for gas or
                  electricity.
         76.    Rates charged veteran organizations, religious bodies and
