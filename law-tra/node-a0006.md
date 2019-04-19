@@ -8,6 +8,7 @@ Section 136. Application of article.
         141. Orders, notices and service.
         142. Rate bureau regulation.
         143. Vehicle identification.
+        144. Fees and charges.
         145. Penalties and forfeitures for violations.
         146. Adequacy of service.
         147. Dogs accompanying persons with a disability.
