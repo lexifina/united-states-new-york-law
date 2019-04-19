@@ -171,5 +171,5 @@ Section 70.     Payment of judgments against municipal corporation.
                   collection of water or sewer user fees, charges, rates
                   or rentals, or certain special assessments.
         99-u.   Municipal cooperation agreements for counties.
-        99-v.   Veterans affairs; display of events.
+        99-v.   Veterans services; display of events.
         99-w.   Land for monument erection.
