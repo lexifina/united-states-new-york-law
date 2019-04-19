@@ -233,6 +233,12 @@ Section 5-700. Checks on registration.
         5-708. Change of voter status; reports of.
         5-710. Check of registrants; personal.
         5-712. Confirmation notices.
+                               TITLE VIII
+             ELECTRONIC PERSONAL VOTER REGISTRATION PROCESS
+Section 5-800. Electronic voter registration transmittal system.
+        5-802. Online voter registration application.
+        5-804. Failure  to  provide  exemplar  signature  not to prevent
+                 registration.
                                 ARTICLE 6
                 DESIGNATION AND NOMINATION OF CANDIDATES
 Section 6-100. Nominations and designations; generally.
@@ -399,27 +405,27 @@ Section 9-100. Canvass; required.
                       CANVASS BY BOARD OF ELECTIONS
 Section 9-200. Canvass of primary returns by board of elections; notices
                  to delegates; certificates.
-        9-202. Canvass  of  primary returns by state board of elections;
+        9-202. Canvass of primary returns by state board  of  elections;
                  convention rolls.
         9-204. County boards of canvassers.
-        9-206. Canvass of  election  district  returns  of  general  and
+        9-206. Canvass  of  election  district  returns  of  general and
                  special elections.
         9-208. Provisions  for  recanvass  of  vote  in  every  election
-                 district  in  the   state;   procedure   in   case   of
+                 district   in   the   state;   procedure   in  case  of
                  discrepancy.
-        9-209. Canvass  of  absentee,  military  and special ballots and
-                 ballots cast by voters with registration  poll  records
-                 missing  on days of election or voters who have not had
-                 their identity previously verified or  who  have  moved
+        9-209. Canvass of absentee, military  and  special  ballots  and
+                 ballots  cast  by voters with registration poll records
+                 missing on days of election or voters who have not  had
+                 their  identity  previously  verified or who have moved
                  after registering.
         9-210. Statements of canvass by canvassing boards.
         9-211. Audit of voter verifiable audit records.
         9-212. Determinations by county canvassing boards.
-        9-214. Transmission  of statements of canvassing boards to state
+        9-214. Transmission of statements of canvassing boards to  state
                  board of elections and secretary of state.
         9-216. Canvass of statements of general and special elections by
                  state board of canvassers.
-        9-218. Proceedings by boards of canvassers to carry into  effect
+        9-218. Proceedings  by boards of canvassers to carry into effect
                  a court order.
         9-220. Record in office of secretary of state of county officers
                  elected.
@@ -427,26 +433,26 @@ Section 9-200. Canvass of primary returns by board of elections; notices
                     VOTING BY MEMBERS OF ARMED FORCES
 Section 10-102. Military voters; definitions.
         10-104. Military voters; right to vote.
-        10-106. Military   voters;   registration  and  application  for
+        10-106. Military  voters;  registration  and   application   for
                   ballots.
         10-108. Military voters; distribution of ballots to.
         10-109. Military voters; cancellation of registration.
         10-112. Military voter; voting.
-        10-114. Military ballots; deadline for receipt, and delivery  to
+        10-114. Military  ballots; deadline for receipt, and delivery to
                   polling place.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
         10-122. Military voter; absentee ballot, right to.
-        10-124. Military   voting;  division  for  servicemen's  voting;
+        10-124. Military  voting;  division  for  servicemen's   voting;
                   regulatory powers.
         10-126. Military voting; applicability of general provisions.
                                ARTICLE 11
    SPECIAL PRESIDENTIAL AND SPECIAL FEDERAL VOTERS AND SPECIAL BALLOTS
                                  TITLE I
                        SPECIAL PRESIDENTIAL VOTERS
-Section 11-102. Special  presidential  voters;  change   of   residence;
+Section 11-102. Special   presidential   voters;  change  of  residence;
                   special qualifications.
-        11-104. Registration  and  application  for special presidential
+        11-104. Registration and application  for  special  presidential
                   ballot.
         11-106. Processing of applications by board of elections.
         11-108. Special presidential voters lists.
