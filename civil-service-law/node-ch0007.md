@@ -30,4 +30,4 @@ Article    I.   Short title; definitions (§§ 1-2).
                   (HIV) (§ 178)
          XII.   Laws repealed, when to take effect (§§ 180-181).
         XIII.   Saving clause; construction; separability (§§ 185-186).
-         XIV.   Public employees' fair employment act (§§ 200-214).
+         XIV.   Public employees' fair employment act (§§ 200-215).
