@@ -294,3 +294,6 @@ Section 70.        Classification of funds.
         99-cc.     Solid waste fund.
         99-dd.     Special events fund.
         99-ee.     Down's syndrome research fund.
+        99-ff.     Parks retail stores fund.
+        99-ff*2.   New York central business district trust fund.
+        99-gg.     Golf fund.

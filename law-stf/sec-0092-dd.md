@@ -8,7 +8,7 @@ authorized funds or accounts which the director of the budget, upon
 recommendation of the commissioner of health, may direct to be
 transferred into the HCRA resources fund. Such fund shall be
 administered in accordance with the following:
-  (a) On and after April first, two thousand five, such fund shall
+  * (a) On and after April first, two thousand five, such fund shall
 consist of the revenues heretofore and hereafter collected or required
 to be deposited pursuant to paragraph (a) of subdivision eighteen of
 section twenty-eight hundred seven-c, and sections twenty-eight hundred
@@ -20,6 +20,21 @@ four of subsection (j) of section four thousand three hundred one of the
 insurance law, section twenty-seven of part A of chapter one of the laws
 of two thousand two and all other moneys credited or transferred thereto
 from any other fund or source pursuant to law.
+  * NB Effective until December 1, 2019
+  * (a) On and after April first, two thousand five, such fund shall
+consist of the revenues heretofore and hereafter collected or required
+to be deposited pursuant to paragraph (a) of subdivision eighteen of
+section twenty-eight hundred seven-c, and sections twenty-eight hundred
+seven-j, twenty-eight hundred seven-s and twenty-eight hundred seven-t
+of the public health law, subdivision (b) of section four hundred
+eighty-two and section eleven hundred eighty-six of the tax law and
+required to be credited to the tobacco control and insurance initiatives
+pool, subparagraph (O) of paragraph four of subsection (j) of section
+four thousand three hundred one of the insurance law, section
+twenty-seven of part A of chapter one of the laws of two thousand two
+and all other moneys credited or transferred thereto from any other fund
+or source pursuant to law.
+  * NB Effective December 1, 2019
   (b) The pool administrator under contract with the commissioner of
 health pursuant to section twenty-eight hundred seven-y of the public
 health law shall continue to collect moneys required to be collected or

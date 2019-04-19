@@ -12,8 +12,8 @@ prevent the state from soliciting and receiving grants, gifts or
 bequests for the purposes of the fund as defined in this section and
 depositing them into the fund according to law.
   2-a. On or before the first day of February each year, the director of
-the New York state division of veterans' affairs shall provide a written
-report to the temporary president of the senate, speaker of the
+the New York state division of veterans' services shall provide a
+written report to the temporary president of the senate, speaker of the
 assembly, chair of the senate finance committee, chair of the assembly
 ways and means committee, chair of the senate committee on veterans,
 homeland security and military affairs, chair of the assembly veterans'
@@ -70,7 +70,7 @@ maintenance and the provision of perpetual care of a state veterans
 cemetery.
   5. Moneys shall be payable from the fund on the audit and warrant of
 the comptroller on vouchers approved and certified by the director of
-the division of veterans affairs.
+the division of veterans' services.
   6. Moneys in the veterans remembrance and cemetery maintenance and
 operation fund shall be kept separate and shall not be commingled with
 any other moneys in the custody of the commissioner of taxation and/or

@@ -8,18 +8,10 @@ assistance fund shall be kept separately from and shall not be
 commingled with any other moneys in the joint or sole custody of the
 state comptroller or the commissioner of taxation and finance.
   3. Such fund shall consist of all moneys collected therefor or
-credited or transferred thereto from any other fund, account or source,
-including, without limitation, the revenues derived from the special
-supplemental tax on passenger car rentals imposed by section eleven
-hundred sixty-six-a of the tax law; revenues derived from the
-transportation surcharge imposed by article twenty-nine-A of the tax
-law; the supplemental registration fees imposed by article seventeen-C
-of the vehicle and traffic law; and the supplemental metropolitan
-commuter transportation district license fees imposed by section five
-hundred three of the vehicle and traffic law. Any interest received by
-the comptroller on moneys on deposit in the metropolitan transportation
-authority financial assistance fund shall be retained in and become a
-part of such fund.
+credited or transferred thereto from any other fund, account or source.
+Any interest received by the comptroller on moneys on deposit in the
+metropolitan transportation authority financial assistance fund shall be
+retained in and become a part of such fund.
   4. The metropolitan transportation authority financial assistance fund
 shall consist of two separate and distinct accounts: (a) the "mobility
 tax trust account" and (b) the "metropolitan transportation authority
@@ -80,12 +72,8 @@ payments pursuant to such appropriation are made in full, revenues in
 the mobility tax trust account shall not be paid over to any person
 other than the metropolitan transportation authority.
   6. (a) The "metropolitan transportation authority aid trust account"
-shall consist of revenues required to be deposited therein pursuant to
-the provisions of section eleven hundred sixty-six-a of the tax law;
-article twenty-nine-A of the tax law; article seventeen-C of the vehicle
-and traffic law; and section five hundred three of the vehicle and
-traffic law, and all other moneys credited or transferred thereto from
-any other fund or source pursuant to law.
+shall consist of moneys credited or transferred thereto from any other
+source pursuant to law.
   (b) Moneys in the metropolitan transportation authority aid trust
 account shall, following appropriation by the legislature, be deposited
 quarterly by the comptroller into the corporate transportation account
