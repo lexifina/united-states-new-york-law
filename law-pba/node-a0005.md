@@ -54,7 +54,7 @@ Title 1.    Power Authority of the State of New York (§§ 1000-1017).
       10-D. Nassau County sewer and storm water finance authority
               (§§ 1232--1232-u).
       11.   Metropolitan Commuter Transportation Authority (§§
-              1260--1279-d).
+              1260--1279-l).
       12.   New York State Environmental Facilities Corporation
               (§§ 1280-1298).
       11-A. Niagara Frontier Transportation Authority
