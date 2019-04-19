@@ -29,14 +29,14 @@ ARTICLE   1. General provisions. (§§ 101-110)
          28. Use of credit information. (§§ 2801-2809)
          31. Insurance contracts - general. (§§ 3101-3113)
          32. Insurance contracts - life, accident and health, annuities.
-               (§§ 3201-3241)
+               (§§ 3201-3243)
          34. Insurance contracts - property/casualty. (§§ 3401-3456)
          41. Property/casualty insurance companies. (§§ 4101-4121)
          42. Life insurance companies and accident and health insurance
                companies and legal services insurance companies.
                (§§ 4202-4241)
          43. Non-profit medical and dental indemnity, or health and
-               hospital service corporations. (§§ 4301-4328)
+               hospital service corporations. (§§ 4301-4330)
          44. Employee welfare funds. (§§ 4401-4414)
          45. Fraternal benefit societies. (§§ 4501-4530)
          46. Retirement systems. (§§ 4601-4608)

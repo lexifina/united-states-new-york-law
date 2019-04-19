@@ -16,6 +16,8 @@ Section 4301.   Organization of corporation; purposes; board of
         4306-e. Prohibition on lifetime and annual limits.
         4306-f. Maternal depression screenings.
         4306-g. Telehealth delivery of services.
+        4306-h. Essential health benefits package and limit on
+                  cost-sharing.
         4307.   Providers of services.
         4308.   Supervision of superintendent.
         4309.   Limitation on expenses.
@@ -53,3 +55,6 @@ Section 4301.   Organization of corporation; purposes; board of
         4328.   Individual enrollee direct payment contracts offered by
                   health maintenance organization on and after October
                   first, two thousand thirteen.
+        4329.   Prescription drug coverage.
+        4330.   Discrimination because of sex or marital status in
+                  hospital, surgical or medical expense insurance.

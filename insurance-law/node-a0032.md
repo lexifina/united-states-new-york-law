@@ -42,6 +42,8 @@ Section 3201.   Approval of life, accident and health, credit
         3217-f. Prohibition on lifetime and annual limits.
         3217-g. Maternal depression screenings.
         3217-h. Telehealth delivery of services.
+        3217-i. Essential health benefits package and limit on
+                  cost-sharing.
         3218.   Medicare supplemental insurance policies.
         3219.   Annuity and pure endowment contracts and certain group
                   annuity certificates; standard provisions as to
@@ -99,3 +101,6 @@ Section 3201.   Approval of life, accident and health, credit
         3240.   Unclaimed benefits.
         3240*2. Student accident and health insurance.
         3241.   Network coverage.
+        3242.   Prescription drug coverage.
+        3243.   Discrimination because of sex or marital status in
+                  hospital, surgical or medical expense insurance.
