@@ -13,3 +13,4 @@ Section 601.   Definitions.
         608-a. Military enhanced recognition, incentive and tribute
                  ("MERIT") scholarships.
         609.   Tuition, aid and placement report.
+        609-a. New York DREAM fund commission.
