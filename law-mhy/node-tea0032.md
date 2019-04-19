@@ -34,4 +34,5 @@ Section 32.01  Regulation and quality control of chemical dependence
         32.37  Registration and notification of boards of directors or
                  trustees of certain voluntary not-for-profit facilities
                  or corporations.
+        32.38  The recovery tax credit program.
         32.39  Fiscal year report.
