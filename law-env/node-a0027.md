@@ -17,6 +17,7 @@ Title   1.   Solid and hazardous waste management policy and planning
        18.   Rechargeable battery recycling
        19.   Waste tire management and recycling
        21.   Mercury-added consumer products
+       22.   Food donation and food scraps recycling
        23.   Vehicle dismantling facilities
        23*2. Wireless telephone recycling
        24.   Environmental tests reporting requirements
@@ -24,4 +25,5 @@ Title   1.   Solid and hazardous waste management policy and planning
        26.   Electronic equipment recycling and reuse
        27.   Plastic bag reduction, reuse and recycling
        27*2. Drug management and disposal
+       28.   Bag waste reduction
        29.   Mercury thermostat collection act

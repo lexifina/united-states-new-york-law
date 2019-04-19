@@ -29,7 +29,7 @@ Assembly, do enact as follows:
 Article  1.   General provisions (§ 1-0101 to 1-0303).
          3.   Department of environmental conservation; general
                 functions, powers, duties and jurisdiction
-                (§ 3-0101 to 3-0319).
+                (§ 3-0101 to 3-0321).
          6.   State smart growth public infrastructure policy act
                 (§ 6-0101 to 6-0111).
          7.   Council of environmental advisors (§ 7-0101 to 7-0109).
