@@ -1,4 +1,4 @@
                                 ARTICLE I
-                        Short Title; Definitions
+                        SHORT TITLE; DEFINITIONS
 Section 1. Short title.
         2. Definitions.
