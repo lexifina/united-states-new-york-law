@@ -138,7 +138,7 @@ Section 70.        Classification of funds.
         97-x.      Statewide planning and research cooperative system;
                      assessment of annual fees on general hospitals.
         97-y.      Business and licensing services account.
-        97-z.      Arts capital revolving fund.
+        97-z.      Arts capital grants fund.
         97-aa.     The New York state "Discover Queens fund".
         97-bb.     Criminal justice improvement account.
         97-dd.     Eminent domain account.
