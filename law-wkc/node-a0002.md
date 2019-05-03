@@ -7,11 +7,11 @@ Section  9.    Definitions.
         13.    Treatment and care of injured employees.
         13-a.  Selection of authorized physician by employee.
         13-aa. Medical appeals unit.
-        13-b.  Authorization of physicians, medical bureaus and
+        13-b.  Authorization of providers, medical bureaus and
                  laboratories by the chair.
         13-c.  Licensing of compensation medical bureaus and
                  laboratories.
-        13-d.  Removal of physicians from lists of those authorized to
+        13-d.  Removal of providers from lists of those authorized to
                  render medical care or to conduct independent medical
                  examinations.
         13-e.  Revocation of licenses of compensation medical bureaus
