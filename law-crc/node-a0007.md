@@ -1,5 +1,5 @@
                                ARTICLE VII
-       Laws Repealed; Transitory Provisions; When Act Takes Effect
+       LAWS REPEALED; TRANSITORY PROVISIONS; WHEN ACT TAKES EFFECT
 Section 100.   Laws repealed.
         101.   Transitory provisions.
         101-a. Pending actions and proceedings.
