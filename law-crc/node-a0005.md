@@ -1,6 +1,6 @@
                                 ARTICLE V
-            Miscellaneous Provisions Affecting Cases in Which
-                        Judge Sits as Magistrate
+            MISCELLANEOUS PROVISIONS AFFECTING CASES IN WHICH
+                        JUDGE SITS AS MAGISTRATE
 Section 50. Complaints; not to be prepared in courtroom.
         51. Trials on Sunday.
         52. Transfers of persons and charges.
