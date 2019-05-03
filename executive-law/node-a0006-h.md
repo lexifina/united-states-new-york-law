@@ -1,4 +1,4 @@
-                              * ARTICLE 6-H
+                               ARTICLE 6-H
                REAL ESTATE APPRAISAL MANAGEMENT COMPANIES
 Section 160-aaaa. Definitions.
         160-bbbb. Registration required.
@@ -24,4 +24,3 @@ Section 160-aaaa. Definitions.
         160-vvvv. Violations.
         160-wwww. Severability.
         160-xxxx. Judicial review.
-  * NB Effective April 27, 2019

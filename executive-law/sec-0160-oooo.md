@@ -1,6 +1,6 @@
-  * § 160-oooo. Unprofessional conduct. 1. Appraisal management
-companies shall not engage in unprofessional conduct including, but not
-limited to the following:
+  § 160-oooo. Unprofessional conduct. 1. Appraisal management companies
+shall not engage in unprofessional conduct including, but not limited to
+the following:
   (a) Requiring an appraiser to modify any aspect of an appraisal report
 or valuation service report, unless such modifications are appropriate
 according to USPAP;
@@ -77,4 +77,3 @@ control process. Nothing in this paragraph shall prohibit an AMC from
 obtaining additional appraisals if required by a lending program, or if
 such additional appraisals are required by applicable local, state, or
 federal law.
-  * NB Effective April 27, 2019

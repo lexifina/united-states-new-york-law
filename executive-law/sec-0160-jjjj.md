@@ -1,10 +1,10 @@
-  * § 160-jjjj. Employee requirements. 1. An appraisal management
-company that applies for a certificate of registration shall not
-knowingly employ, utilize, or engage, for any real estate appraisal,
-valuation service or appraisal review assignment, a person who has had a
-license or certificate to act as an appraiser in this state or in any
-other state denied, revoked, or surrendered in lieu of possible
-discipline, unless such license has been reinstated.
+  § 160-jjjj. Employee requirements. 1. An appraisal management company
+that applies for a certificate of registration shall not knowingly
+employ, utilize, or engage, for any real estate appraisal, valuation
+service or appraisal review assignment, a person who has had a license
+or certificate to act as an appraiser in this state or in any other
+state denied, revoked, or surrendered in lieu of possible discipline,
+unless such license has been reinstated.
   2. Prior to placing an assignment for an appraisal or valuation
 service with an appraiser on the appraiser panel of an appraisal
 management company, the appraisal management company shall verify that
@@ -30,4 +30,3 @@ company's appraiser panel until: (a) the appraisal management company
 sends a written notice to such appraiser removing such appraiser with an
 explanation; or (b) receives a written notice from such appraiser asking
 to be removed or of the death or incapacity of such appraiser.
-  * NB Effective April 27, 2019

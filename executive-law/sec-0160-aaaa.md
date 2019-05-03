@@ -1,5 +1,5 @@
-  * § 160-aaaa. Definitions. As used in this article, the following
-terms shall have the following meanings:
+  § 160-aaaa. Definitions. As used in this article, the following terms
+shall have the following meanings:
   1. "Appraisal" or "real estate appraisal" means an analysis, opinion
 or conclusion relating to the nature, quality, value or utility of
 specified interests in, or aspects of, identified real estate. An
@@ -100,4 +100,3 @@ mortgage-backed securities. Secondary mortgage market participant only
 includes an individual investor in a mortgage-backed security if that
 investor also serves in the capacity of a guarantor, insurer,
 underwriter, or issuer for such mortgage-backed security.
-  * NB Effective April 27, 2019

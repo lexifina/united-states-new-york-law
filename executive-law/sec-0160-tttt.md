@@ -1,4 +1,4 @@
-  * § 160-tttt. Investigation. The department shall have the power to
+  § 160-tttt. Investigation. The department shall have the power to
 enforce the provisions of this article and upon complaint of any person,
 or on its own initiative, to investigate any violation thereof or to
 investigate the business, business practices and business methods of an
@@ -22,4 +22,3 @@ person or cause his or her deposition to be taken, except that any
 applicant or licensee or officer or agent thereof shall not be entitled
 to fees and/or mileage. A subpoena issued under this section shall be
 regulated by the civil practice law and rules.
-  * NB Effective April 27, 2019
