@@ -6,6 +6,7 @@ Section 440.10  Motion to vacate judgment.
         440.40  Motion to set aside sentence; by people.
         440.46  Motion for resentence; certain controlled substance
                   offenders.
+        440.47  Motion for resentence; domestic violence cases.
         440.50  Notice to crime victims of case disposition.
         440.55  Notice to education department where a licensed
                   professional has been convicted of a felony.
