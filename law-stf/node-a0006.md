@@ -143,6 +143,8 @@ Section 70.        Classification of funds.
         97-bb.     Criminal justice improvement account.
         97-dd.     Eminent domain account.
         97-ee.     New York Great Lakes protection fund.
+        97-ff.     Empire state entertainment diversity job training
+                     development fund.
         97-gg.     Division for youth facilities improvement fund.
         97-hh.     Tuition reimbursement fund.
         97-jj.     Industrial and utility service account.
