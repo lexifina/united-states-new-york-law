@@ -61,8 +61,7 @@
                  property; by state based on misappropriation of public
                  property; based on mistake; by corporation against
                  director, officer or stockholder; based on fraud.
-        213-a. Actions to be commenced within four years; residential
-                 rent overcharge.
+        213-a. Residential rent overcharge.
         213-b. Action by a victim of a criminal offense.
         213-c. Action by victim of conduct constituting certain sexual
                  offenses.
