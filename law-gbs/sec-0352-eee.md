@@ -1,4 +1,4 @@
-  * § 352-eee. Conversions to cooperative or condominium ownership in
+  § 352-eee. Conversions to cooperative or condominium ownership in
 certain cities, towns and villages located in the counties of Nassau,
 Westchester and Rockland. 1. As used in this section, the following
 words and terms shall have the following meanings:
@@ -321,4 +321,3 @@ local legislative body of such city, town or village, elect that the
 provisions hereof shall be applicable therein. A certified copy of such
 resolution shall be filed in the office of the attorney general at
 Albany and shall become effective on the date of such filing.
-  * NB Expires June 16, 2019
