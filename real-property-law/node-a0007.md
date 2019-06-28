@@ -12,6 +12,8 @@ Section  220.   Action for use and occupation.
          226-a. Effect of new lease on tenant's right to remove fixtures
                   or improvements.
          226-b. Right to sublease or assign.
+         226-c. Notice of rent increase or non-renewal of residential
+                  tenancy.
          227.   When tenant may surrender premises.
          227-a. Termination of residential lease by senior citizens
                   moving to a residence of a family member or entering
@@ -21,6 +23,9 @@ Section  220.   Action for use and occupation.
          227-c. Termination of residential lease by victims of domestic
                   violence.
          227-d. Discrimination based on domestic violence status;
+                  prohibited.
+         227-e. Landlord duty to mitigate damages.
+         227-f. Denial on the basis of involvement in prior disputes
                   prohibited.
          228.   Termination of tenancies at will or by sufferance, by
                   notice.
@@ -40,9 +45,10 @@ Section  220.   Action for use and occupation.
                   longer than one month; effect of acceptance of rent.
          233.   Manufactured home parks; duties, responsibilities.
          233-a. Sale of manufactured home parks.
-         234.   Tenants' right to recover attorneys' fees in actions or
-                  summary proceedings arising out of leases of
-                  residential property.
+         233-b. Manufactured home parks; rent increases.
+         234.   Right to recover attorneys' fees in actions or summary
+                  proceedings arising out of leases of residential
+                  property.
          235.   Wilful violations.
          235-a. Tenant right to offset payments and entitlement to
                   damages in certain cases.
@@ -51,7 +57,7 @@ Section  220.   Action for use and occupation.
                   tenant.
          235-c. Unconscionable lease or clause.
          235-d. Harassment.
-         235-e. Duty of landlord to provide written receipt.
+         235-e. Duty to provide written receipt.
          235-f. Unlawful restrictions on occupancy.
          235-g. Electronic billing and/or payment of rent.
          236.   Assignment of lease of a deceased tenant.
@@ -62,3 +68,4 @@ Section  220.   Action for use and occupation.
          238.   Agreements or contracts for privileges to deal with
                   occupants of tenements, apartment houses or bungalow
                   colonies.
+         238-a. Limitation on fees.
