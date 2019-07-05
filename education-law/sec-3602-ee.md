@@ -222,16 +222,10 @@ Chautauqua, Erie and Niagara counties.
 and early education, a day care provider, early childhood program or
 center, approved preschool special education program, Head Start or
 other such community-based organization.
-  * 16. The authority of the department to administer the universal
-full-day pre-kindergarten program shall expire June thirtieth, two
-thousand nineteen; provided that the program shall continue and remain
-in full effect.
-  * NB Effective until July 1, 2019
-  * 16. The authority of the department to administer the universal
+  16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
 thousand twenty; provided that the program shall continue and remain in
 full effect.
-  * NB Effective July 1, 2019
   17. Notwithstanding any inconsistent provision of law to the contrary,
 for the purposes of determining the prekindergarten allocation on the
 electronic data file prepared by the commissioner pursuant to
