@@ -7,7 +7,9 @@ Section 190.   Definitions.
         191-c. Payment of sales commission.
         192.   Cash payment of wages.
         193.   Deductions from wages.
-        194.   Differential in rate of pay because of sex prohibited.
+        194.   Differential in rate of pay because of protected class
+                 status prohibited.
+        194-a. Wage or salary history inquiries prohibited.
         195.   Notice and record-keeping requirements.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.
