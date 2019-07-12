@@ -2,14 +2,15 @@
         PROVISIONS RELATING TO TELEGRAPH AND TELEPHONE LINES AND
                  TO TELEPHONE AND TELEGRAPH CORPORATIONS
 Section 90.   Application of article.
-        91.   Adequate service; just and reasonable charges;unjust
+        91.   Adequate service; just and reasonable charges; unjust
                 discrimination; unreasonable preference; protection of
                 privacy.
         91-a. Customer of record for telephonic blocking and
                 restrictions on the removal of telephonic blocks to
                 certain area codes.
         92.   Rate schedules.
-        92-a. Special telephone equipment for hearing impaired persons.
+        92-a. Special telephone equipment for deaf and hard of hearing
+                persons.
         92-b. Telephone deposits and payment plans for the elderly.
         92-c. Customer service requirements for alternate operator
                 service providers and COCOT service providers.
