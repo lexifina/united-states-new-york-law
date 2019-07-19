@@ -2,6 +2,7 @@
                         Miscellaneous Provisions.
 Section 110.   Record and report of injuries by employers.
         110-a. Confidentiality of workers' compensation records.
+        110-b. Reporting of injuries to employer.
         111.   Information to be furnished by employer.
         112.   Inspection of records of employers.
         113.   Interstate commerce.
