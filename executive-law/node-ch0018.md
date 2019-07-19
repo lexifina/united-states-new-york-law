@@ -91,6 +91,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 709-718).
          26-B. Board of social welfare (§§ 740-750).
          27.   Adirondack park agency (§§ 800-820).
+         28.   Workforce diversity program (§§ 821-826).
          30.   Indigent legal services (§§ 832-833).
          35.   Division of criminal justice services (§§ 835-846*2).
          36.   Neighborhood preservation crime prevention act
