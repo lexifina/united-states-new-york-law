@@ -685,4 +685,9 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Gold Star Families Memorial Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
+        344-k.     Portion of the state highway system to be designated
+                     as the "Officer Kevin F. Crossley Memorial
+                     Highway".
+        344-k.     Portion of the state highway system to be designated
+                     as "Melvin Harris, Jr. Way".
         345-a.     Abandonment and transfer of state highways.
