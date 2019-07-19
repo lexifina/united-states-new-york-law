@@ -43,7 +43,7 @@ Article
    12-A    Arthur O. Eve Elementary and secondary education opportunity
              program (§§ 559-563.)
    13      Higher education student financial aid programs
-             (§§ 601--609-a.)
+             (§§ 601-609.)
    13-A    Liberty scholarships (§§ 610-612.)
    13-B    Student lending accountability, transparency and enforcement
              act (§§ 620-632.)
