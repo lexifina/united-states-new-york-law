@@ -4,9 +4,12 @@ Section 700.   Findings and policy.
         701.   Definitions.
         702.   Special mediators.
         702-a. Settlement of labor disputes.
+        702-b. Impasse resolution procedures for agricultural employers
+                 and farm laborers.
         703.   Rights of employees.
         704.   Unfair labor practices.
         704-a. Unfair practices; performing arts.
+        704-b. Unfair labor practices.
         705.   Representatives and elections.
         706.   Prevention of unfair labor practices.
         707.   Judicial review.
