@@ -148,6 +148,7 @@ Section 390.       Substitution of spurious oils for internal combustion
         398-d.     Disposal of abandoned molds.
         398-e.     Indemnity provision in motor carrier transportation
                      contracts.
+        398-f.     Children's non-regulated camp.
         399.       Cigarette package labeling.
         399-a.     Pay toilets; prohibition.
         399-aa.    Prohibition of the selling of fur, hair, skin or
