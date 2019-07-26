@@ -15,3 +15,5 @@ Section 50.   Right of privacy.
                 certain proceedings prohibited.
         52-a. Private right of action for unwarranted video imaging of
                 residential premises.
+        52-b. Private right of action for unlawful dissemination or
+                publication of an intimate image.
