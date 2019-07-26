@@ -683,6 +683,16 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Kathy Cairo Davis Memorial Bridge".
         344-h*14.  Portion of the state highway system to be designated
                      as the "Gold Star Families Memorial Highway".
+        344-i.     Portion of the state highway system to be designated
+                     as the "Trooper Nicholas F. Clark Memorial Bridge".
+        344-i*2.   Portion of the state highway system to be designated
+                     as the "Specialist Allan Milk Memorial Bridge".
+        344-i*3.   Portion of the state highway system to be designated
+                     as the "Justice Thurgood Marshall memorial
+                     highway".
+        344-i*4.   Portion of the state highway system to be designated
+                     as the "Sergeant Jeremy J. VanNostrand Memorial
+                     Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         344-k.     Portion of the state highway system to be designated
