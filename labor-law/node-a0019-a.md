@@ -6,6 +6,7 @@ Section 670.   Statement of public policy; findings.
         673.   Minimum wage.
         673-a. Farm workers; mandatory work agreements.
         674.   Regulations.
+        674-a. Farm laborers wage board.
         676.   Appeals from regulations.
         677.   Appeals from compliance orders.
         678.   Commissioner's powers of investigation.
