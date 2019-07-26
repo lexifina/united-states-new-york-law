@@ -55,3 +55,4 @@ Section 350.   Definitions.
         380.   Use of elephants in entertainment acts.
         380*2. Examination of seized animals or animals taken possession
                  of.
+        381.   Prohibition of the declawing of cats.

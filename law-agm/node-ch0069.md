@@ -89,7 +89,7 @@ Article   1.      Short title; definitions; matters of public interest
                     (§§ 321-326).
          25-AAAA. Farmland Viability Program (§§ 327-330).
          25-B.    Abandoned animals (§§ 331-332).
-         26.      Animals (§§ 350-380).
+         26.      Animals (§§ 350-381).
          26-A.    Care of animals by pet dealers (§§ 400-408).
          26-B     Animal response teams (§ 410).
          28.      Special powers and duties of the department with
