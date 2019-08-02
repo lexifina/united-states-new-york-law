@@ -17,3 +17,4 @@ Section 325.   Definitions.
                  system.
         335.   County of Tompkins enhanced 911 emergency telephone
                  system.
+        336.   County of Broome enhanced 911 emergency telephone system.
