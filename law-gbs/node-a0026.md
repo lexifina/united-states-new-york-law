@@ -184,6 +184,9 @@ Section 390.       Substitution of spurious oils for internal combustion
                      information.
         399-i.     Prohibit the sale of unsafe cribs and restrict use of
                      such cribs in certain settings.
+        399-ii.    Furniture tip restraint device.
+        399-ii*2.  Prohibit the sale of crib bumper pads and restrict
+                     use of such pads in certain settings.
         399-j.     Safety standards; moveable soccer goals.
         399-m.     Disclosures in advertisement and sale of unassembled
                      goods.
