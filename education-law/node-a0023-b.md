@@ -16,4 +16,6 @@ Section 1125.   Definitions.
         1132.   Duties of the commissioner; child abuse in an
                   educational setting.
         1133.   Unreported resignation against public policy.
-        1134.   Reporting to the vulnerable persons' central register.
+        1134.   Reporting to the vulnerable persons' central register
+                  and the statewide central register of child abuse and
+                  maltreatment.
