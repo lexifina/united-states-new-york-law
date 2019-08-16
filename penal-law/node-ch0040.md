@@ -51,7 +51,7 @@ Article     1. General purposes (§§ 1.00-1.05).
           170. Forgery and related offenses (§§ 170.00-170.75).
           175. Offenses involving false written statements
                  (§§ 175.00-175.45).
-          176. Insurance fraud (§§ 176.00-176.70).
+          176. Insurance fraud (§§ 176.00-176.80).
           177. Health care fraud (§§ 177.00-177.30).
           178. Criminal diversion of prescription medications and
                  prescriptions (§§ 178.00-178.25).
