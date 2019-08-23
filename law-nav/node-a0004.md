@@ -7,6 +7,7 @@ Section 40.          Equipment.
         42.          Searchlights; unlawful to flash.
         42-a.        Tow-chains.
         43.          Lights to be displayed.
+        43-a.        Use of digital billboards.
         44.          Noise levels on pleasure vessels.
         45.          Reckless operation of a vessel; speed.
         45-a.        Beaching a disabled water craft.
