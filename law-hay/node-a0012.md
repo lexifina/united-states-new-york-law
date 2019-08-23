@@ -700,6 +700,13 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Dennis 'Matt' Howe Memorial Highway".
         344-i*7.   Portion of the state highway system to be designated
                      as the "SSgt Louis Bonacasa Memorial Bridge".
+        344-i*8.   Portion of the state highway system to be designated
+                     as the "Lance Corporal Aaron M. Swanson Memorial
+                     Highway".
+        344-i*9.   Portion of the state highway system to be designated
+                     as the "Steve Godlewski Memorial Bridge".
+        344-i*10.  Portion of state highway system to be designated as
+                     "NYPD Det. TSgt. Joseph G. Lemm Memorial Bridge".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         344-k.     Portion of the state highway system to be designated
