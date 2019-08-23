@@ -14,6 +14,7 @@ Section 90.    Kinds of permits.
         96-b.  Reconditioning permit.
         97.    Temporary beer and wine permit.
         97-a.  Temporary retail permit.
+        97-b.  Sale of alcoholic beverages at the New York state fair.
         98.    Caterer's permit.
         99.    Special permit to remain open during certain hours of the
                  morning.
