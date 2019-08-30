@@ -1,4 +1,4 @@
-                             * ARTICLE  63-A
+                              ARTICLE  63-A
                      EXTREME RISK PROTECTION ORDERS
 Section 6340. Definitions.
         6341. Application for an extreme risk protection order.
@@ -10,4 +10,3 @@ Section 6340. Definitions.
         6346. Expiration of an extreme risk protection order.
         6347. Effect of findings and determinations in subsequent
                 proceedings.
-  * NB Effective August 24, 2019
