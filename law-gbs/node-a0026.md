@@ -220,6 +220,8 @@ Section 390.       Substitution of spurious oils for internal combustion
                      prohibited.
         399-yy.    Cable television company providing telephone
                      services.
+        399-yyy.   Satellite television company providing television
+                     and/or telephone services.
         399-z.     Telemarketing; establishment of no telemarketing
                      sales calls statewide registry; authorization of
                      the transfer of telephone numbers on the no

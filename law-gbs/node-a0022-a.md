@@ -9,6 +9,7 @@ Section 349.     Deceptive acts and practices unlawful.
                    elderly persons.
         349-d.   Energy services company consumers bill of rights.
         349-e.   Counterfeit and non-functional airbags.
+        349-f.   Pension poaching prevention.
         350.     False advertising unlawful.
         350-a.   False advertising.
         350-b.   Disclosures required in advertisements using the title
