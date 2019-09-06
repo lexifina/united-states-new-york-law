@@ -707,6 +707,9 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Steve Godlewski Memorial Bridge".
         344-i*10.  Portion of state highway system to be designated as
                      "NYPD Det. TSgt. Joseph G. Lemm Memorial Bridge".
+        344-i.     Portion of the state highway system to be designated
+                     as the "Private Charles S. Cooper, Jr. Memorial
+                     Highway".
         344-j.     Portion of the state highway system to be designated
                      as the "Chief George Bell Memorial Highway".
         344-k.     Portion of the state highway system to be designated
