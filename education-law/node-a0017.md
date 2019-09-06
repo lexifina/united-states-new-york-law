@@ -8,6 +8,8 @@ Section 801.    Courses of instruction in patriotism and citizenship and
         802-a.  Instruction relating to general elections.
         803.    Instruction in physical education and kindred subjects.
         803-a.  Courses of study in prevention of child abduction.
+        803-b.  Courses of study in prevention of child sexual
+                  exploitation and child sexual abuse.
         804.    Health education regarding mental health, alcohol,
                   drugs, tobacco abuse and the prevention and detection
                   of certain cancers.
