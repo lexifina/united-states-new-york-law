@@ -3,7 +3,7 @@
 ARTICLE   1. General provisions. (§§ 101-110)
           2. Organization of the department of financial services. (§§
                201-214)
-          3. Administrative and procedural provisions. (§§ 301-342)
+          3. Administrative and procedural provisions. (§§ 301-343)
           4. Insurance frauds prevention. (§§ 401-411)
           5. Certificates of insurance. (§§ 501-505)
          11. Licensing of insurers. (§§ 1101-1124*2)
