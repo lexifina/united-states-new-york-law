@@ -1,4 +1,4 @@
-                              ARTICLE   45
+                               ARTICLE 45
                                 EVIDENCE
         4501.   Self-incrimination.
         4502.   Spouse.
@@ -81,6 +81,7 @@
         4532-a. Admissibility of graphic, numerical, symbolic or
                   pictorial representations of medical or diagnostic
                   tests.
+        4532-b. (Enacted without section heading).
         4533.   Market reports.
         4533-a. Prima facie proof of damages.
         4533-b. Proof of payment by joint tort-feasor.
