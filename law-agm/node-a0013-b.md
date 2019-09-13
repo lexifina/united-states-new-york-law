@@ -1,4 +1,4 @@
-                              ARTICLE 13-B
+                              ARTICLE 13-b
 Section 160-h. Grapes; definitions.
         160-i. Grades or standards; establishment; sale.
         160-j. Marking requirements.

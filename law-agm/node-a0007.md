@@ -24,4 +24,3 @@ Section 106.   Purpose.
         123-a. Exemption from civil liability.
         123-b. Offenses against service animals and handlers.
         124.   Powers of commissioner.
-        125.   Indemnification for dog damage.
