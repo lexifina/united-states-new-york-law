@@ -22,8 +22,10 @@ Article  1.   Short title (§§ 1--1-a).
          V-A. Membership corporations and unincorporated associations
                 (§§ 53-57).
          6.   Change of name (§§ 60-65).
-         7.   Miscellaneous rights and immunities (§§ 70--79-n*2).
+         7.   Miscellaneous rights and immunities (§§ 70--79-o).
          8.   Causes of action for alienation of affections, criminal
                 conversation, seduction and breach of contract to marry
                 abolished (§§ 80-a--84).
-         9.   Laws repealed; when to take effect (§§ 90-91).
+         9.   Right to call police and emergency assistance/victim
+                protections (§§ 90-98).
+         10.  Laws repealed; when to take effect (§§ 100-101).
