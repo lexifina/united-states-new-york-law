@@ -36,3 +36,5 @@ Section 70.     Vexatious suits.
                   service; injunction.
         79-n.   Bias-related violence or intimidation; civil remedy.
         79-n*2. Funeral or bereavement leave.
+        79-o.   Closed captioning in places of public accommodation,
+                  resort or amusement.
