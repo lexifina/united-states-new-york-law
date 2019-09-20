@@ -64,7 +64,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          20-A.    Petroleum well casings and pipes (§§ 324-327).
          21.      Publications (§§ 330-337).
          21-A.    Fraudulent transactions in securities (§§ 339--339-f).
-         22.      Monopolies (§§ 340-347).
+         22.      Monopolies (§§ 340-347-a).
          22-A.    Consumer protection from deceptive acts and practices
                     (§§ 349--350-f-1).
          22-B.    Water treatment units (§§ 350-g--350-i).
