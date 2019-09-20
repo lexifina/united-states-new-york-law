@@ -12,3 +12,4 @@ Section 340.   Contracts or agreements for monopoly or in restraint of
         343.   Investigation by the attorney general.
         345.   Witnesses' immunity.
         347.   Criminal prosecution.
+        347-a. Fines payable to the office of victim services.
