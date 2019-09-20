@@ -241,6 +241,8 @@ Section 70.        Classification of funds.
         97-pppp*2. Sickle cell disease research and education fund.
         97-qqqq.   Cystic fibrosis research and education fund.
         97-rrrr.   Lupus education and prevention fund.
+        97-ssss.   Leukemia, lymphoma and myeloma research, education
+                     and treatment fund.
         97-xxxx.   State health innovation plan account.
         97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.
