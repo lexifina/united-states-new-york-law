@@ -1,7 +1,5 @@
- ARTICLE 110--* REQUIRING DEFENDANT'S APPEARANCE IN LOCAL CRIMINAL COURT
+  ARTICLE 110--REQUIRING DEFENDANT'S APPEARANCE IN LOCAL CRIMINAL COURT
              OR YOUTH PART OF SUPERIOR COURT FOR ARRAIGNMENT
-  * NB See ch. 59/2017 Pt. WWW § 106 sb b for further contingencies for
-10/1/2019
 Section 110.10 Methods of requiring defendant's appearance in local
                  criminal court or youth part of the superior court for
                  arraignment; in general.
