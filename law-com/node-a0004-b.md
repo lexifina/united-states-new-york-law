@@ -10,4 +10,3 @@ Section 130. Legislative findings and objectives.
         137. Small business stationary source ombudsman program.
         138. Small business pollution prevention and environmental
                compliance ombudsman program.
-        139. Advisory panel on employee-owned enterprises.
