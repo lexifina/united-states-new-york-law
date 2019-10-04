@@ -16,17 +16,7 @@ to disengage the device. The division of state police shall develop and
 promulgate rules and regulations setting forth the specific devices or
 the minimum standards and criteria therefor which constitute an
 effective gun locking device.
-  * (2) Every person, firm or corporation engaged in the retail business
-of selling rifles, shotguns or firearms, as such terms are defined in
-section 265.00 of the penal law, shall, in the place where such rifles,
-shotguns or firearms are displayed or transferred to the purchaser, post
-a notice conspicuously stating in bold print that: "The use of a locking
-device or safety lock is only one aspect of responsible firearm storage.
-For increased safety firearms should be stored unloaded and locked in a
-location that is both separate from their ammunition and inaccessible to
-children and any other unauthorized person."
-  * NB Effective until September 28, 2019
-  * (2) Every person, firm or corporation engaged in the retail business
+  (2) Every person, firm or corporation engaged in the retail business
 of selling rifles, shotguns or firearms, as such terms are defined in
 section 265.00 of the penal law, shall, in the place where such rifles,
 shotguns or firearms are displayed or transferred to the purchaser, post
@@ -44,7 +34,6 @@ YOU TO IMPRISONMENT, FINE, OR BOTH." Nothing in this subdivision shall
 be deemed to affect, impair or supersede any special or local law
 relating to the posting of notice regarding the safe storage of rifles,
 shotguns or firearms.
-  * NB Effective September 28, 2019
   (3) Any person, firm or corporation who fails to comply with the
 provisions of this section shall be guilty of a violation punishable as
 provided in the penal law. Any person, firm, or corporation who fails to
