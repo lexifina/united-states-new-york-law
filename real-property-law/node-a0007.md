@@ -15,10 +15,10 @@ Section  220.   Action for use and occupation.
          226-c. Notice of rent increase or non-renewal of residential
                   tenancy.
          227.   When tenant may surrender premises.
-         227-a. Termination of residential lease by senior citizens
-                  moving to a residence of a family member or entering
-                  certain health care facilities, adult care facilities
-                  or housing projects.
+         227-a. Termination of residential lease by senior citizens or
+                  individuals with a disability moving to a residence of
+                  a family member or entering certain health care
+                  facilities, adult care facilities or housing projects.
          227-b. Termination of certain contracts by senior citizens.
          227-c. Termination of residential lease by victims of domestic
                   violence.
