@@ -31,6 +31,7 @@ Section 100.     Alcoholic beverages generally.
         110-a.   Notice of application for certain licenses to be
                    published by applicant.
         110-b.   Notification to municipalities.
+        110-c.   Public license query.
         111.     License to be confined to premises licensed.
         112.     Bonds of licensees and permittees.
         113.     Premises for which no license shall be granted.
