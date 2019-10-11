@@ -1,4 +1,4 @@
-                             * ARTICLE 14-A
+                              ARTICLE 14-A
                          STUDENT LOAN SERVICERS
 Section 710. Definitions.
         711. Licensing.
@@ -17,4 +17,3 @@ Section 710. Definitions.
         723. Penalties for violations of this article.
         724. Severability of provisions.
         725. Compliance with other laws.
-  * NB Effective October 9, 2019
