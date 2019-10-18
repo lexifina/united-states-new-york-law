@@ -35,6 +35,7 @@ Article
 12-B. Approval of motor vehicle accident prevention courses ...... 399-a
 12-C. Accident prevention course internet, and other technology pilot
         program .................................................. 399-k
+12-D. Pre-licensing course internet pilot program ................ 399-p
 IV.   Registration of vehicles ..................................... 400
 Article
 13.   Application of this title .................................... 400

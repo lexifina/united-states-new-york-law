@@ -16,3 +16,4 @@ Article  4.    Application of this title.
         12-B.  Approval of motor vehicle accident prevention courses.
         12-C.  Accident prevention course internet, and other technology
                  pilot program.
+        12-D.  Pre-licensing course internet pilot program.
