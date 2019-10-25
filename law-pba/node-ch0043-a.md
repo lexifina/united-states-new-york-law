@@ -18,7 +18,7 @@ Article 1.   Short title (§ 1-7).
         5.   Public utility authorities (§§ 1000-1348).
         6.   Port authorities (§§ 1350-1399).
         7.   Parking authorities (§§ 1425--1622-t).
-        8.   Miscellaneous authorities (§§ 1675--2799-zzz).
+        8.   Miscellaneous authorities (§§ 1675--2799-qqqq).
         9.   General provisions (§§ 2800-2987).
        10.   New York State Municipal Assistance Corporation Act
                (§§ 3001-3060).
