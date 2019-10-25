@@ -1,5 +1,5 @@
                                ARTICLE 133
-                      DENTISTRY AND DENTAL HYGIENE
+       DENTISTRY, DENTAL HYGIENE, AND REGISTERED DENTAL ASSISTING
 Section 6600.   Introduction.
         6601.   Definition of practice of dentistry.
         6602.   Practice of dentistry and use of title "dentist".
@@ -14,10 +14,10 @@ Section 6600.   Introduction.
         6606.   Definition of practice of dental hygiene.
         6607.   Practice of dental hygiene and use of title "dental
                   hygienist".
-        6608.   Definition of practice of certified dental assisting.
-        6608-a. Practice of certified dental assisting and use of title
-                  "certified dental assistant".
-        6608-b. Requirements for certification as a certified dental
+        6608.   Definition of practice of registered dental assisting.
+        6608-a. Practice of registered dental assisting and use of title
+                  "registered dental assistant".
+        6608-b. Requirements for certification as a registered dental
                   assistant.
         6608-c. Exempt persons.
         6608-d. Limited permits.

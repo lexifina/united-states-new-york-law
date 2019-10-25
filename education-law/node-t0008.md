@@ -8,7 +8,8 @@ Article 130*.  General provisions (§§ 6500-6516).
         131-B. Physician assistants and specialist assistants
                  (§§ 6540-6548).
         132.   Chiropractic (§§ 6550-6556).
-        133.   Dentistry and dental hygiene (§§ 6600-6613).
+        133.   Dentistry, dental hygiene, and registered dental
+                 assisting (§§ 6600-6613).
         134.   Licensed perfusionists (§§ 6630-6636).
         135.   Veterinary medicine and animal health technology
                  (§§ 6700-6714).
