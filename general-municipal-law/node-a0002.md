@@ -58,3 +58,4 @@ Section 3.     Compensation for property of a municipal corporation,
         22.    Claims against fire insurance proceeds; procedure.
         23.    Flexible benefits program.
         24.    Corporation for the benefit of the city of New York.
+        25.    Treatment of capital costs and restricted fund balances.
