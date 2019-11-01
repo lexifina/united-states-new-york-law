@@ -142,6 +142,11 @@ Section 200.      Defining qualifications of exempt volunteer
                     by governor; powers of sheriffs.
         209-ff.   Provisions relating to certain accidental disability
                     benefits.
+        209-fff.  Provisions relating to a membership date in the New
+                    York city police pension fund attributable to
+                    service in the titles of police cadet program and
+                    police cadet program II in the New York city police
+                    department cadet program.
         209-g.    Liability for outside aid.
         209-i.    Emergency service by volunteer firefighters.
         209-j.    Mutual aid programs in counties.
