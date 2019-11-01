@@ -115,7 +115,8 @@ Section 3-400. Election inspectors and poll clerks; provision for.
                  coordinators; compensation.
                                  TITLE V
                           ALTERNATE PROVISIONS
-Section 3-502. Nassau county; board of elections, special provisions.
+Section 3-500. Alternative poll site staffing plan.
+        3-502. Nassau county; board of elections, special provisions.
         3-504. Suffolk county; board of elections, special provisions.
         3-506. Boards of elections; voting materials in Russian.
                                 ARTICLE 4
