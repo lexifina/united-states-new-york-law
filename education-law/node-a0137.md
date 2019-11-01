@@ -44,3 +44,4 @@ Section 6800.   Introduction.
                   labeling.
         6830.   Standardized patient-centered data elements.
         6831.   Special provisions relating to outsourcing facilities.
+        6832.   Limitations on assistance of an unlicensed person.
