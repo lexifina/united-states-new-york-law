@@ -1,7 +1,7 @@
                                 ARTICLE 8
                     OTHER LIENS ON PERSONAL PROPERTY
 Section 180. Artisans' lien on personal property.
-        182. Self-service storage facilities; lien.
+        182. Self-storage facilities; lien.
         183. Lien of bailee of animals.
         184. Lien of bailee of motor vehicles, motor boats or aircraft.
         185. Lien of manufacturers and throwsters of silk goods.
