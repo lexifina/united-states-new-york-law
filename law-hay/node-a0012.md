@@ -56,6 +56,8 @@ Section 340-a.     Designation of state interstate routes.
         342-ee.    Portion of state highway system to be designated and
                      known as the "Assemblyman Philip B. Healey Memorial
                      Parkway."
+        342-eee.   Portion of the state highway system to be designated
+                     as the "Sidney Veterans' Memorial Highway".
         342-f.     Portion of state highway system to be designated as
                      the "Seaway Trail".
         342-ff.    Portion of the state highway system to be designated
