@@ -88,6 +88,8 @@
                  combination of substances found within an area
                  designated as a superfund site.
         214-g. Certain child sexual abuse cases.
+        214-h. Certain actions by public water suppliers to recover
+                 damages for injury to property.
         215.   Actions to be commenced within one year: against sheriff,
                  coroner or constable; for escape of prisoner; for
                  assault, battery, false imprisonment, malicious
