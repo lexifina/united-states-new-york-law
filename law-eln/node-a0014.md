@@ -6,6 +6,7 @@ Section 14-100.   Definitions.
                     committees.
         14-104.   Statements of campaign receipts, contributions,
                     transfers and expenditures by and to candidates.
+        14-105.   Elimination of duplicate electronic filing.
         14-106.   Political communication.
         14-107.   Independent expenditure reporting.
         14-107-a. Prohibited spending by independent expenditure
