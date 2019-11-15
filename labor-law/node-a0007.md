@@ -44,6 +44,8 @@ Section 200.   General duty to protect health and safety of employees;
         203-b. Seats for female employees.
         203-c. Employee privacy protection.
         203-d. Employee personal identifying information.
+        203-e. Prohibition of discrimination based on an employee's or a
+                 dependent's reproductive health decision making.
         204.   Inspection of boilers; enforcement; fees; identification;
                  exceptions.
         204-b. Refunds.
