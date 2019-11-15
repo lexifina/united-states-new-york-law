@@ -244,6 +244,7 @@ Section 70.        Classification of funds.
         97-ssss.   Leukemia, lymphoma and myeloma research, education
                      and treatment fund.
         97-xxxx.   State health innovation plan account.
+        97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
         98.        Investment of state funds.
         98-a.      Investment of general funds, bond proceeds, and other
