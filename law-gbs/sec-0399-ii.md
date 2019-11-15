@@ -35,4 +35,3 @@ furniture to a consumer at retail in violation of the provisions of this
 section shall be liable for a civil penalty not to exceed five hundred
 dollars for each violation.
   * NB There are 2 § 399-ii's
-  * NB Effective November 11, 2019
