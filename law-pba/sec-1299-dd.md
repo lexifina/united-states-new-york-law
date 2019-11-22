@@ -5,48 +5,57 @@ constituting a public benefit corporation. It shall consist of at least
 one member from each county that elects to join the authority except
 that the county of Monroe shall have seven members of whom three shall
 be appointed from the city of Rochester and four at large from the
-county of Monroe and shall have one non-voting member as described in
-paragraph (b) of this subdivision. The members shall be appointed by the
-governor by and with the advice and consent of the senate. The governor
-shall make initial appointments to the authority in such number and from
-lists submitted as follows: three members shall be appointed to the
-authority from a list of not less than six names, all of whom must be
-residents of the city of Rochester, submitted to the governor by the
-council of the city of Rochester; four persons from a list of not less
-than eight persons, all of whom must be residents of the county of
-Monroe submitted by the legislature of the county of Monroe. Other
-counties electing to participate shall each submit to the governor a
-list of not less than two persons for each one hundred thousand or major
-fraction of the total population, as determined by the last federal
-decennial or federal county-wide special census. From the counties
-outside the county of Monroe which shall elect to participate, the
-governor shall appoint one member for each one hundred thousand or major
-fraction of the total population, as determined by the last federal
-decennial or federal county-wide special census, with a minimum of one
-member to represent each county outside the county of Monroe so electing
-to participate. All members of the authority shall be residents of the
-area from which they are nominated.
-  (b) There shall also be one non-voting member of the authority, which
-shall not be considered in determining a quorum. The non-voting member
-shall be recommended to the governor by the labor organization
-representing the plurality of the employees within the authority and
-shall be a resident of the Rochester-Genesee regional transportation
-district as described in section twelve hundred ninety-nine-cc of this
-title. The non-voting member shall be appointed for a term of five
-years, provided, however, that if at any time during the term of
-appointment the non-voting member ceases to be affiliated with the labor
-organization representing the plurality of employees within the
-authority, then such labor organization may at any time during such term
-recommend a new member to the governor who shall serve the remainder of
-the term. If the local bargaining unit decertifies its existing union
-affiliation and certifies a new union, the union which represents the
-plurality of the employees may recommend a new member to the governor
-who shall serve the remainder of the term. The chairman of the
-authority, at his or her discretion, may exclude such non-voting member
-from attending any portion of a meeting of the authority or of any
-committee held for the purpose of discussing negotiations with labor
-organizations, pending litigation involving the labor organization, or
-the investigation, evaluation, or discipline of an employee.
+county of Monroe and shall have two non-voting members as described in
+paragraphs (b) and (c) of this subdivision. The members shall be
+appointed by the governor by and with the advice and consent of the
+senate. The governor shall make initial appointments to the authority in
+such number and from lists submitted as follows: three members shall be
+appointed to the authority from a list of not less than six names, all
+of whom must be residents of the city of Rochester, submitted to the
+governor by the council of the city of Rochester; four persons from a
+list of not less than eight persons, all of whom must be residents of
+the county of Monroe submitted by the legislature of the county of
+Monroe. Other counties electing to participate shall each submit to the
+governor a list of not less than two persons for each one hundred
+thousand or major fraction of the total population, as determined by the
+last federal decennial or federal county-wide special census. From the
+counties outside the county of Monroe which shall elect to participate,
+the governor shall appoint one member for each one hundred thousand or
+major fraction of the total population, as determined by the last
+federal decennial or federal county-wide special census, with a minimum
+of one member to represent each county outside the county of Monroe so
+electing to participate. All members of the authority shall be residents
+of the area from which they are nominated.
+  (b) The first non-voting member of the authority who shall not be
+considered in determining a quorum, shall be recommended to the governor
+by the labor organization representing the plurality of the employees
+within the authority and shall be a resident of the Rochester-Genesee
+regional transportation district as described in section twelve hundred
+ninety-nine-cc of this title. Such first non-voting member shall be
+appointed for a term of five years, provided, however, that if at any
+time during the term of appointment such non-voting member ceases to be
+affiliated with the labor organization representing the plurality of
+employees within the authority, then such labor organization may at any
+time during such term recommend a new member to the governor who shall
+serve the remainder of the term. If the local bargaining unit
+decertifies its existing union affiliation and certifies a new union,
+the union which represents the plurality of the employees may recommend
+a new member to the governor who shall serve the remainder of the term.
+The chairman of the authority, at his or her discretion, may exclude
+such non-voting member from attending any portion of a meeting of the
+authority or of any committee held for the purpose of discussing
+negotiations with labor organizations, pending litigation involving the
+labor organization, or the investigation, evaluation, or discipline of
+an employee.
+  (c) There shall also be a second non-voting member of the authority,
+who shall not be considered in determining a quorum. The second
+non-voting member shall be appointed by the governor as a representative
+of the transit dependent and/or disabled community. The second
+non-voting member shall be appointed for a term of five years. The chair
+of the authority, at his or her discretion, may exclude such non-voting
+member from attending any portion of a meeting of the authority or of
+any committee held pursuant to the executive session provisions of the
+open meetings law.
   2. The members of the authority shall continue in office until their
 successors are appointed and shall have qualified. One member appointed
 from the city of Rochester and one member appointed from the county of
