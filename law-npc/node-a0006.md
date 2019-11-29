@@ -10,7 +10,7 @@ Section 601. Members.
         608. Quorum at meeting of members.
         609. Proxies.
         610. Selection of inspectors at meetings of members; duties.
-        611. Qualification  of  voters;  fixing record date to determine
+        611. Qualification of voters; fixing record date to determine
                eligibility to vote; voting entitlement.
         612. Limitations on right to vote.
         613. Vote of members.
@@ -21,8 +21,9 @@ Section 601. Members.
         618. Power of supreme court respecting elections.
         619. Agreements by members as to voting.
         620. Preemptive rights.
-        621. Books  and  records;  right  of  inspection;  prima   facie
+        621. Books and records; right of inspection; prima facie
                evidence.
         622. Infant members.
-        623. Members'  derivative  action  brought  in  the right of the
+        623. Members' derivative action brought in the right of the
                corporation to procure a judgment in its favor.
+        624. Notification to tenants.

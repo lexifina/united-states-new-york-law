@@ -16,7 +16,7 @@ Article 1.    Short   title;   definitions;  application;  certificates;
         5.    Corporate finance. (§§ 501-521)
         5-A.  Prudent  management  of  institutional  funds   act.   (§§
                 550-558).
-        6.    Members. (§§ 601-623)
+        6.    Members. (§§ 601-624)
         7.    Directors and officers. (§§ 701-726)
         8.    Amendments and changes. (§§ 801-805)
         9.    Merger or consolidation. (§§ 901-910)
