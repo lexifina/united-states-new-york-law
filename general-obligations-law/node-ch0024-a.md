@@ -18,7 +18,7 @@ Article  1.   Short   title;   construction;  applicability  of  certain
                 obligations. (§§ 5-101--5-1709.)
          7.   Obligations relating to property received as security.
                 (§§ 7-101--7-401.)
-         9.   Obligations of care. (§§ 9-101--9-105.)
+         9.   Obligations of care. (§§ 9-101--9-107.)
         11.   Obligations to make compensation or restitution.
                 (§§ 11-100--11-107.)
         12.   Drug dealer liability act. (§§ 12-101--12-110.)
