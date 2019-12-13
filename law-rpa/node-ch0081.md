@@ -27,7 +27,7 @@ Article   1.   Short title; definitions; jurisdiction of certain
                  manufactured homes (§§ 790-795.)
           8.   Waste and other actions and rights of action for injury
                  to real property. (§§ 801-881.)
-          9.   Action for partition. (§§ 901-992.)
+          9.   Action for partition. (§§ 901-993.)
          10.   Action for dower. (§§ 1001-1093.)
          11.   Proceeding to discover the death of a tenant for life.
                  (§§ 1101-1143.)
