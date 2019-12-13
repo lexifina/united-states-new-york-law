@@ -19,7 +19,7 @@ Article 1.    Short title; definitions (§§ 1-2).
         9.    Recording instruments affecting real property
                 (§§ 290-336).
         9-A.  Subdivided lands (§§ 337--339-c).
-        9-B.  Condominium act (§§ 339-d--339-kk).
+        9-B.  Condominium act (§§ 339-d--339-ll).
         10.   Discharge of ancient mortgages (§ 345).
         12.   Registering title to real property (§§ 370-436).
         12-A. Real estate brokers and real estate salesmen
