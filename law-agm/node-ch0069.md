@@ -96,5 +96,6 @@ Article   1.      Short title; definitions; matters of public interest
                     respect to retail food stores, food service
                     establishments and food warehouses (§ 500).
          29.      Growth of industrial hemp (§§ 505-514).
+         29-A.    Regulation of hemp extract (§§ 520-547).
          30.      Saving clauses; laws repealed; when to take effect
                     (§§ 550-555).
