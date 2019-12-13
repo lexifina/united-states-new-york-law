@@ -11,6 +11,8 @@ Section 13.01   Transfer of parks, parkways and other property.
         13.10   Deposit of rubbish.
         13.11   Real property abutting parks or parkways.
         13.13   Regulation of boating and water sports.
+        13.14   Closure of lands owned, held or administered by the
+                  office.
         13.15   Fees and deposits; refunds.
         13.16   Annual vehicular access fee.
         13.17   Regional state park police.
