@@ -12,6 +12,8 @@ Section 37-0101. Definitions.
                    public facilities.
         37-0111. Prohibition against brominated flame retardants.
         37-0113. Lead and mercury-added wheel weights; prohibited.
+        37-0115. Prohibition of cosmetic products and personal care
+                   products containing 1,4-dioxane.
                                 TITLE II
                            HAZARDOUS PACKAGING
 Section 37-0201. Legislative findings and intent.
