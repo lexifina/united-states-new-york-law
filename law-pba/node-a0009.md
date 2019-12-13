@@ -2,7 +2,7 @@
                            GENERAL PROVISIONS
 Title  1.   Reports by pubic authorities (§§ 2800-2806).
        2.   Boards of public authorities (§§ 2824-2828).
-       3.   Employees of Public Authorities (§§ 2850-2851).
+       3.   Employees of Public Authorities (§§ 2850-2854).
        3-A. Business practices of public authorities (§ 2855).
        4.   Contracts of public authorities (§§ 2875-2881).
        5.   Funds and accounts of public authorities (§ 2890).
