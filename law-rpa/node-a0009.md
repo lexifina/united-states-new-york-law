@@ -51,3 +51,4 @@ Section 901. By whom maintainable.
         991. Proceeding for share of unknown heirs; presumption of
                death; service.
         992. Judgment in proceeding for share of unknown heirs.
+        993. Uniform partition of heirs property act.
