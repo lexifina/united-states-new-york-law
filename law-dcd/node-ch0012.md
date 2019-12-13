@@ -23,6 +23,6 @@ Article 1.    Short title (§ 1).
                 (§§ 160-218).
         9.    Payment of debts of incompetent person or conservatee
                 (§§ 250-255).
-        10.   Fradulent conveyances (§§ 270-281).
+        10.   Uniform voidable transactions act (§§ 270-281-a).
         10-A. Personal bankruptcy exemptions (§§ 282-285).
         11.   Laws repealed; when to take effect (§§ 290-291).
