@@ -32,3 +32,4 @@ Section 1301. Separate action for mortgage debt.
         1362. Payment of surplus out of court.
         1371. Deficiency judgment.
         1391. Proceeding for share of unknown heirs.
+        1392. Foreclosure actions involving abandoned properties.
