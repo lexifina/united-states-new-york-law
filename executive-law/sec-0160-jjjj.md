@@ -22,9 +22,18 @@ transactions.
   3. An appraisal management company may not hire, employ or engage, or
 in any way contract with or pay a person who is not licensed or
 certified as a real estate appraiser by the department pursuant to
-article six-E of this chapter, unless the work being performed is a
-comparative market analysis for the purpose of or intention to list or
-sell real estate.
+article six-E of this chapter for the purposes of performing an
+appraisal as defined in this article. Nothing in this section shall
+prohibit an appraisal management company from hiring, employing,
+engaging or contracting with or paying a person to perform a property
+inspection, or property evaluation if they are licensed as an appraiser,
+a real estate broker including associate real estate brokers and real
+estate salespersons pursuant to article twelve-A of the real property
+law or a home inspector pursuant to article twelve-B of the real
+property law, or a person to perform a broker price opinion if they are
+licensed as a real estate broker including associate real estate brokers
+and real estate salespersons pursuant to article twelve-A of the real
+property law.
   4. An appraiser shall be considered part of an appraisal management
 company's appraiser panel until: (a) the appraisal management company
 sends a written notice to such appraiser removing such appraiser with an

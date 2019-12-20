@@ -20,3 +20,4 @@ Section 155.     Office of fire prevention and control; creation; state
         159.     Advisory council for fire prevention and control.
         159-a.   Inclusion on the fallen firefighters memorial.
         159-c-1. Training; live fire conditions.
+        159-d.   Training for fire chiefs.
