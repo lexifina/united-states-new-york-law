@@ -321,6 +321,10 @@ location; or
 requirements of subdivision six of this section to a customer, or to
 engage in any deceptive or unfair act or practice in association with
 telemarketing.
+  f. knowingly make an unsolicited telemarketing sales call to any
+person in a county, city, town or village under a declared state of
+emergency or disaster emergency as described in sections twenty-four or
+twenty-eight of the executive law.
   7-a. Unlawful transmission of certain caller identification
 information.  It shall be unlawful for any telemarketer or seller to
 knowingly cause any caller identification service to transmit
