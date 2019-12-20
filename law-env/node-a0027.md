@@ -16,6 +16,7 @@ Title   1.   Solid and hazardous waste management policy and planning
        17.   Lead-acid battery recycling
        18.   Rechargeable battery recycling
        19.   Waste tire management and recycling
+       20.   Postconsumer paint collection program
        21.   Mercury-added consumer products
        22.   Food donation and food scraps recycling
        23.   Vehicle dismantling facilities
