@@ -36,7 +36,7 @@ Article 1.    Short title (§§ 1--1-a).
        10-A.  Grand jury stenographers (§§ 321-330).
        10.    Attendants, officers and messengers (§§ 340-352).
        11.    Criers (§§ 360-364).
-       12.    Interpreters (§§ 380-390).
+       12.    Interpreters (§§ 380-391).
        13.    Sheriffs and constables (§§ 400--411-b).
        13-A.  Judicial proceedings for the removal of public officers by
                 impeachment (§§ 415-428).
