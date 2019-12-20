@@ -60,7 +60,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         35.   Detergents and other household cleansing products
                 (§ 35-0101 to 35-0109).
         36.   Participation in Flood Insurance Programs
-                (§ 36-0101 to 36-0113).
+                (§ 36-0101 to 36-0115).
         37.   Substances Hazardous or Acutely Hazardous to Public
                 Health, safety or the Environment
                 (§ 37-0101 to 37-0709).
