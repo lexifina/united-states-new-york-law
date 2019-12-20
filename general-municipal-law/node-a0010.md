@@ -23,6 +23,7 @@ Section 200.      Defining qualifications of exempt volunteer
         204-b.    Youth programs.
         204-c.    Plan for arson investigation.
         204-d.    Duties of the fire chief.
+        204-dd.   Qualifications of a fire chief.
         204-e.    Unauthorized destruction of property.
         204-f.    Plan for hazardous materials incidents response.
         205.      Payments to injured or representatives of deceased
