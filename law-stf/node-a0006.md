@@ -49,6 +49,7 @@ Section 70.        Classification of funds.
         91-c.      Special offset fiduciary account.
         91-d.      Recruitment incentive and retention account.
         91-f.      Adult home quality enhancement fund.
+        91-g.      Senior wellness in nutrition fund.
         92.        Tax stabilization reserve fund.
         92-b.      Stock transfer tax fund.
         92-c.      State lottery fund.

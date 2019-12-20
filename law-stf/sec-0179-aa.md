@@ -11,9 +11,9 @@ office of the state comptroller, and the education department. The
 governor shall also designate four members from among the following
 agencies: the department of state, the office of children and family
 services, the office of temporary and disability assistance, the
-department of health, the office of mental hygiene, the office of mental
-retardation and developmental disabilities, and the department of labor.
-The governor shall designate an appointee to serve as chair of the
+department of health, the office of mental hygiene, the office for
+people with developmental disabilities, and the department of labor. The
+governor shall designate an appointee to serve as chair of the
 committee. The advisory committee shall meet at least quarterly and upon
 its own initiative may: comment and report on the implementation and
 operation of the not-for-profit short-term revolving loan fund; advise
