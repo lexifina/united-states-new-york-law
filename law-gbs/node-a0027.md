@@ -15,6 +15,7 @@ Section 400.   Definitions.
         407.   Examinations.
         408.   Licenses; display; renewal; duplicates.
         408-a. Trainee.
+        408-b. Domestic violence and sexual assault awareness education.
         409.   Fees.
         410.   Administration.
         411.   Denial of license; complaints; notice of hearing.
