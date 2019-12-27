@@ -64,6 +64,7 @@ Section 3201.   Approval of life, accident and health, credit
         3224-b. Rules relating to the processing of health claims and
                   overpayments to physicians.
         3224-c. Coordination of benefits.
+        3224-d. Prescription synchronization.
         3225.   Eligibility for health insurance in cases of exposure to
                   DES.
         3226.   Reinsurance contracts excepted.
