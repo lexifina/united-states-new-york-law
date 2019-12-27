@@ -50,6 +50,7 @@ Section 200.     Compensation of supervisors.
         226-b.   Solid waste management; resource recovery.
         226-c.   Waiver of fees for veterans' organizations.
         226-c*2. Waiver of fees for veterans organizations.
+        226-c*3. Waiver of fees for veterans' organizations.
         227.     Legalizing acts.
         228.     Disputed town boundaries.
         229.     Erection and dissolution of towns.
