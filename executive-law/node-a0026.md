@@ -20,4 +20,5 @@ Section 709.   Division of homeland security and emergency services;
                  aviation, petroleum and natural gas fuel transmission
                  facilities and pipelines.
         717.   Office of interoperable and emergency communications.
+        717-a. Direct dialing to public service answering points.
         718.   Voluntary surveillance access database.
