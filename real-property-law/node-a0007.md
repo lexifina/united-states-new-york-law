@@ -62,6 +62,8 @@ Section  220.     Action for use and occupation.
          235-e.   Duty to provide written receipt.
          235-f.   Unlawful restrictions on occupancy.
          235-g.   Electronic billing and/or payment of rent.
+         235-h.   Waiver of right to bring a declaratory judgment
+                    action.
          236.     Assignment of lease of a deceased tenant.
          237.     Discrimination in leases with respect to bearing of
                     children.
