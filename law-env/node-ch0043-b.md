@@ -81,6 +81,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 46-0101 to 46-0115).
         47.   County and regional environmental management councils
                 (§ 47-0101 to 47-0117).
+        48.   Environmental justice (§ 48-0101 to 48-0113).
         49.   Protection of natural and man-made beauty
                 (§ 49-0101 to 49-0311).
         51.   Implementation of Environmental Quality Bond Act of 1972
@@ -101,3 +102,4 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 72-0101 to 72-1011).
         73.   New York state canal flood mitigation task force
                 (§ 73-0101 to 73-0107).
+        75.   Climate change (§ 75-0101 to 75-0119).
