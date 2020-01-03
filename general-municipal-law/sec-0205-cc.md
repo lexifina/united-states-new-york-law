@@ -10,11 +10,18 @@ interior of buildings and having successfully passed a physical
 examination on entry to the firefighter service, which examination
 failed to reveal any evidence of cancers as defined in paragraph b of
 this subdivision; and
-  (ii) Having submitted proof of five years of interior firefighting
+  * (ii) Having submitted proof of five years of interior firefighting
+service by providing verification that he or she has passed at least
+five yearly certified mask fitting tests as set forth in 29 CFR 1910.134
+or the applicable National Fire Protection Association standards for
+mask fit testing.
+  * NB Effective until December 23, 2029
+  * (ii) Having submitted proof of five years of interior firefighting
 service by providing verification that he or she has passed at least
 five yearly certified mask fitting tests as set forth in 29 CFR 1910.134
 or the current National Fire Protection Association standards for mask
 fit testing.
+  * NB Effective December 23, 2029
   b. "Cancer" means:
   (i) A disease caused by an uncontrolled division of abnormal cells in
 a part of the body or a malignant growth or tumor resulting from the
@@ -118,3 +125,15 @@ enhanced cancer disability benefit, how the beneficiary of such eligible
 volunteer firefighter files a claim for the enhanced cancer death
 benefit, the process by which claimants can appeal a denial of benefits
 and what proof is deemed acceptable to qualify for such benefits.
+  * 8. In the absence of the documentation required in paragraph a of
+subdivision one of this section, the volunteer firefighter shall be
+eligible if they submit alternative documentation as determined by the
+office of fire prevention and control. The office of fire prevention and
+control shall promulgate rules and regulations as to an acceptable
+combination of alternative documentation and such documentation shall
+include, but not be limited to, training records, documentation that the
+firefighter was an active interior volunteer firefighter as evidenced by
+National Fire Incident Reports submitted by the volunteer's fire
+department, or any other combination of official documents capable of
+evidencing that the firefighter meets the requirements of this section.
+  * NB Repealed December 23, 2029
