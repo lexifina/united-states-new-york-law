@@ -1,4 +1,4 @@
-  § 97-ssss. Leukemia, lymphoma and myeloma research, education and
+  * § 97-ssss. Leukemia, lymphoma and myeloma research, education and
 treatment fund. 1. There is hereby established in the joint custody of
 the commissioner of taxation and finance and the comptroller, a special
 fund to be known as the "leukemia, lymphoma and myeloma research,
@@ -44,3 +44,4 @@ of health.
   5. To the extent practicable, the commissioner of health shall ensure
 that all monies received during a fiscal year are expended prior to the
 end of that fiscal year.
+  * NB There are 2 § 97-ssss's

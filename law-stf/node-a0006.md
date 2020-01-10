@@ -244,6 +244,8 @@ Section 70.        Classification of funds.
         97-rrrr.   Lupus education and prevention fund.
         97-ssss.   Leukemia, lymphoma and myeloma research, education
                      and treatment fund.
+        97-ssss*2. Elevator and related conveyances safety program
+                     account.
         97-xxxx.   State health innovation plan account.
         97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
