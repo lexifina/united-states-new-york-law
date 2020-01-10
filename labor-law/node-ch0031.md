@@ -44,6 +44,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        20-B.  Psychological stress evaluators and employment.
                 (§§ 733-739)
        20-C.  Retaliatory action by employers. (§§ 740-741)
+       21.    New York call center jobs act. (§§ 770-776)
        22.    Boards of inquiry in labor disputes. (§§ 800-805)
        22-A.  Injunctions in labor disputes. (§§ 807-808)
        23.    Apprenticeship training. (§§ 810-819)
@@ -71,4 +72,5 @@ Article 1.    Short title; definitions. (§§ 1-4)
        31.    New York professional employer act. (§§ 915-924)
        32.    Licensing of mold inspection, assessment and remediation
                 specialists and minimum work standards. (§§ 930-948)
+       33.    Elevators and other conveyances; licensing. (§§ 950-957)
        40.    When to take effect. (§ 1200)
