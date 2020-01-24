@@ -30,4 +30,4 @@ Section 520. Definitions.
         545. Hemp workgroup.
         546. Prohibitions.
         547. Severability.
-  * NB Effective March 8, 2020
+  * NB Effective and Repealed March 8, 2020
