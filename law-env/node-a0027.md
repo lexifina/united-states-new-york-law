@@ -9,6 +9,8 @@ Title   1.   Solid and hazardous waste management policy and planning
         9.   Industrial hazardous waste management
        10.   Litter and solid waste control
        11.   Industrial siting hazardous waste facilities
+       12.   Mitigation and remediation of certain solid waste sites and
+               drinking water contamination
        13.   Inactive hazardous waste disposal sites
        14.   Brownfield cleanup program
        15.   Storage, treatment, disposal and transportation of
