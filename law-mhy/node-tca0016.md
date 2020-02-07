@@ -7,7 +7,7 @@ Section 16.00  Regulation and quality control of services for
         16.03  Operating certificate required.
         16.05  Issuance of operating certificates.
         16.09  Approval of new construction.
-        16.11  Visitation and inspection of facilities.
+        16.11  Oversight of facilities and services.
         16.13  Duties of providers of services.
         16.17  Suspension, revocation, or limitation of an operating
                  certificate.

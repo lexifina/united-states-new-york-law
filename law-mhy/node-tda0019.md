@@ -2,8 +2,6 @@
                 OFFICE OF ALCOHOLISM AND SUBSTANCE ABUSE
 Section 19.01   Declaration of policy.
         19.03   Definitions.
-        19.05   Advisory council on alcoholism and substance abuse
-                  services.
         19.06   Advisory council on underage alcohol consumption and
                   youth substance abuse.
         19.07   Office of alcoholism and substance abuse services; scope
