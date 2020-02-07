@@ -2,7 +2,6 @@
                          OFFICE OF MENTAL HEALTH
 Section 7.01    Declaration of policy.
         7.03    Definitions.
-        7.05    Mental health services council.
         7.07    Office of mental health; scope of responsibilities.
         7.09    Powers of the office and commissioner; how exercised.
         7.11    Organization and administration of the office of mental
