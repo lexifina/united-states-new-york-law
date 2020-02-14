@@ -45,3 +45,12 @@ Section 37-0701. Short title.
         37-0705. Child care products.
         37-0707. Preemption.
         37-0709. Rules and regulations.
+                                TITLE IX
+                 TOXIC CHEMICALS IN CHILDREN'S PRODUCTS
+Section 37-0901. Definitions.
+        37-0903. Consumer notice.
+        37-0905. Reporting on the use of chemicals.
+        37-0907. Sales prohibition.
+        37-0909. Applicability.
+        37-0911. Enforcement and implementation.
+        37-0913. Regulations.
