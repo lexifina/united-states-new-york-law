@@ -20,7 +20,7 @@ the closure, abandonment and/or removal of a home heating oil storage
 tank. In addition, any person making such estimate shall also provide a
 copy of any applicable local law, or if there is no local law then such
 person shall provide a written statement to that effect.
-  * NB Effective March 19d 2020
+  * NB Effective March 19, 2020
   2. Every estimate of the cost to secure a storage tank as part of a
 home heating system conversion shall include the removal of all fill and
 vent pipes and such other related materials and/or equipment.
