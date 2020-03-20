@@ -36,19 +36,7 @@ design or input standards; and
   (iii) an exemption from coverage by the rule, or by any part thereof,
 so long as the public health, safety or general welfare is not
 endangered.
-  3. * In proposing a rule for adoption or in adopting a rule on an
-emergency basis, the agency shall issue a rural area flexibility
-analysis regarding the rule being proposed for adoption or the emergency
-rule being adopted. A copy of such analysis and any finding, and reasons
-for such finding, pursuant to this section, shall be submitted to the
-governor, the temporary president of the senate, the speaker of the
-assembly, the office for regulatory and management assistance and the
-administrative regulations review commission at the time such analysis
-is submitted to the secretary of state for publication and, upon written
-request, a copy shall be sent to any other person. Each rural area
-flexibility analysis shall contain:
-  * NB Effective until March 19, 2020
-  * In proposing a rule for adoption or in adopting a rule on an
+  3. In proposing a rule for adoption or in adopting a rule on an
 emergency basis, the agency shall issue a rural area flexibility
 analysis regarding the rule being proposed for adoption or the emergency
 rule being adopted. A copy of such analysis and any finding, and reasons
@@ -62,7 +50,6 @@ electronically transmitted to the secretary of state for publication
 and, upon written or electronic request, a copy shall be sent or
 electronically transmitted to any other person. Each rural area
 flexibility analysis shall contain:
-  * NB Effective March 19, 2020
   (a) A description of the types and an estimate of the number of rural
 areas to which the rule will apply;
   (b) A description of (i) the reporting, recordkeeping and other
