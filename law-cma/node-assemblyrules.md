@@ -2,7 +2,7 @@
                         OF THE STATE OF NEW YORK
                                 2019-2020
   Rules of the Assembly for the years 2019--2020, as adopted by Assembly
-Resolution number 6 of 2019.
+Resolution number 644 of 2020.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
@@ -10,7 +10,7 @@ as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
 (Assembly)  of  2009  and as amended by Concurrent Resolution number 404
 (Senate) and number 25 (Assembly) of 2017.
-                                 2/14/18
+                                 3/23/20
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -590,61 +590,65 @@ from such clerk's records.
 set forth herein shall have the right to distribute  such  bill  bearing
 the  endorsement  "multi-sponsored by" and insert his or her own name as
 multi-sponsor.
-  § 4. Final day. a. The final day for  the  unlimited  introduction  of
+  § 4. Final day.  a. The final day for the  unlimited  introduction  of
 bills,  including  those  recommended  by  the  state  government, local
 governments, public authorities and other public  corporations  and  all
 departments,  agencies  and other instrumentalities thereof shall be the
-last Tuesday in May of the second year of  the  term  of  the  Assembly.
-After  the  last  Tuesday  in  May of such second year, no bill shall be
-introduced except by the Committee on Rules, by message from the  Senate
-or,  with  the  consent  of the Speaker, by members elected at a special
-election who take office on or after the first Tuesday in May.
+Monday  of  the  week  four  weeks  before  the  scheduled  end  of  the
+legislative session as established by the annual legislative calendar in
+the  second  year  of  the  term of the Assembly. After such date in the
+second year, no bill shall be introduced  except  by  the  Committee  on
+Rules,  by  message from the Senate or, with the consent of the Speaker,
+by members elected at a special election who take office on or after the
+first Tuesday in May.
   b.  Notwithstanding  the  provisions of subdivision a of this section,
 bills may be introduced at any time by unanimous consent of the House.
   § 5. Resolutions.
   a. Original resolutions, concurrent or otherwise other than privileged
 resolutions may be introduced by a member  under  the  proper  order  of
-business  on or before the last Tuesday in May of the second year of the
-term of the Assembly.  After the last Tuesday in May of such second year
-no such resolution shall be introduced except by the Committee on  Rules
-or  by  message  from the Senate or, with the consent of the Speaker, by
-members elected at a special election who take office on  or  after  the
-last  Tuesday  in  May.   Such resolutions shall be in quadruplicate and
-bear the name of the introducer and shall  be  referred  to  a  standing
-committee  for  consideration  and  report.  No  such  resolution may be
-introduced unless copies thereof first shall have been furnished to  the
-Speaker,  the  Majority Leader and the Minority Leader. Before the House
-may vote on a resolution, copies of such resolution shall be  placed  on
-each member's desk prior to such vote in written or electronic format.
-  b.  The  following  resolutions  and motions relating thereto shall be
-considered privileged and their presentation and consideration shall  be
+business  on  or  before  the  Monday  of the week four weeks before the
+scheduled end of the legislative session as established  by  the  annual
+legislative  calendar  in  the  second year of the term of the Assembly.
+After such  date  in  the  second  year  no  such  resolution  shall  be
+introduced  except  by  the  Committee  on  Rules or by message from the
+Senate or, with the consent of the Speaker,  by  members  elected  at  a
+special  election  who  take office on or after the last Tuesday in May.
+Such resolutions shall be in quadruplicate and  bear  the  name  of  the
+introducer   and   shall   be  referred  to  a  standing  committee  for
+consideration and report. No such resolution may  be  introduced  unless
+copies  thereof  first  shall  have  been  furnished to the Speaker, the
+Majority Leader and the Minority Leader. Before the House may vote on  a
+resolution,  copies  of such resolution shall be placed on each member's
+desk prior to such vote in written or electronic format.
+  b. The following resolutions and motions  relating  thereto  shall  be
+considered  privileged and their presentation and consideration shall be
 in order under any order of business:
     (1) resolutions recalling a bill from the Senate;
     (2) resolutions returning a bill to the Senate;
-    (3)  resolutions  relating to the disposition of matters immediately
+    (3) resolutions relating to the disposition of  matters  immediately
 before the House;
-    (4) resolutions relating  to  the  business  of  the  day  including
+    (4)  resolutions  relating  to  the  business  of  the day including
 adjournment or recess;
-    (5)  resolutions  relating  to  the impeachment of State or judicial
+    (5) resolutions relating to the impeachment  of  State  or  judicial
 officers;
-    (6) resolutions relating to printing  bills,  documents  or  chapter
+    (6)  resolutions  relating  to  printing bills, documents or chapter
 slips;
     (7)  resolutions  relating  to  the  reports  of  joint  legislative
 committees; and
-    (8) resolutions  in  memoriam  or  honorific  in  nature,  provided,
-however,  that such resolutions shall be placed on each member's desk in
+    (8)  resolutions  in  memoriam  or  honorific  in  nature, provided,
+however, that such resolutions shall be placed on each member's desk  in
 either written or electronic format prior to their consideration.
-  c. Messages from the  Senate  communicating  a  concurrent  resolution
-shall,  if  objection is made to immediate consideration, be referred to
+  c.  Messages  from  the  Senate  communicating a concurrent resolution
+shall, if objection is made to immediate consideration, be  referred  to
 the appropriate committee with power to report at any time.
-  d. Concurrent resolutions proposing amendments to the Constitution  of
-the  State  and  concurrent resolutions ratifying proposed amendments to
-the Constitution  of  the  United  States  shall,  for  all  legislative
+  d.  Concurrent resolutions proposing amendments to the Constitution of
+the State and concurrent resolutions ratifying  proposed  amendments  to
+the  Constitution  of  the  United  States  shall,  for  all legislative
 purposes, be deemed to be and treated as bills.
-  e.  All  resolutions  calling  for  or leading to expenditures, except
-resolutions for printing extra copies of bills,  documents  and  chapter
-slips,  shall  be  referred  to  the Committee on Ways and Means and all
-other  resolutions  shall  be  referred  to  the  appropriate   standing
+  e. All resolutions calling for  or  leading  to  expenditures,  except
+resolutions  for  printing  extra copies of bills, documents and chapter
+slips, shall be referred to the Committee on  Ways  and  Means  and  all
+other   resolutions  shall  be  referred  to  the  appropriate  standing
 committee or to an assembly calendar, as the Speaker may designate.
   f.  All resolutions shall be adopted by a majority vote of the members
 present and voting, provided, however, concurrent resolutions  proposing
@@ -700,54 +704,54 @@ once  it has been on the printed Calendar on the order of second reading
 for at least one legislative day on that  order,  except  where  made  a
 special  order by report of the Committee on Rules, in which case it may
 be considered on second and third reading on the same day.
-  e.  In all cases where unanimous consent is asked for advancing a bill
+  e. In all cases where unanimous consent is asked for advancing a  bill
 or entertaining a motion or resolution out of its order, it shall be the
-duty of the Speaker to proclaim  such  request  and  determine  if  such
+duty  of  the  Speaker  to  proclaim  such request and determine if such
 consent will be granted.
-  f.  A  bill  appearing  on  the Calendar may be "starred" by or at the
-request of the introducer, whereupon all further  action  on  such  bill
+  f. A bill appearing on the Calendar may be  "starred"  by  or  at  the
+request  of  the  introducer,  whereupon all further action on such bill
 shall be suspended, although it retains its place on the Calendar. Other
-than  for  the  purpose  of  amendment or recommittal, a star may not be
+than for the purpose of amendment or recommittal,  a  star  may  not  be
 removed from a bill until one day after the request therefor.  A bill on
-any order of third reading which has  been  laid  aside  by  or  at  the
-request  of the introducer on three separate days shall be automatically
+any  order  of  third  reading  which  has  been laid aside by or at the
+request of the introducer on three separate days shall be  automatically
 starred.
-  g. Substitution of Bills. Where there is a Senate bill in  a  standing
-committee  and  the identical Assembly bill is on the order of second or
-any order of third reading, the Senate bill may be substituted  for  the
-Assembly  bill  upon  a motion by, or on behalf of, the introducer and a
-vote of a majority of the members present and voting.    The  motion  to
+  g.  Substitution  of Bills. Where there is a Senate bill in a standing
+committee and the identical Assembly bill is on the order of  second  or
+any  order  of third reading, the Senate bill may be substituted for the
+Assembly bill upon a motion by, or on behalf of, the  introducer  and  a
+vote  of  a  majority  of the members present and voting.  The motion to
 substitute may also be made on an identical Assembly bill which has been
 passed, recalled, vote reconsidered and restored to third reading.
   § 8. Revision and engrossing.
-  a.  The  Office  of  Assembly  Revision  shall examine and correct all
+  a. The Office of Assembly  Revision  shall  examine  and  correct  all
 bills, for the purpose of avoiding repetitions, insuring accuracy in the
-text and references, and consistency with the language of  the  existing
-statutes.  Any  recommendation  of the Office of Assembly Revision which
-requires further amendment of the bill shall be handled  by  the  member
-introducing  it  or  by  the  Majority  or  Minority Leader as a regular
+text  and  references, and consistency with the language of the existing
+statutes. Any recommendation of the Office of  Assembly  Revision  which
+requires  further  amendment  of the bill shall be handled by the member
+introducing it or by the  Majority  or  Minority  Leader  as  a  regular
 amendment to the bill.
   b. All bills when ordered to a third reading except Senate bills which
-have not been amended in the House, or bills, which  have  been  made  a
-special  order  on  second and third reading, shall be sent to the Index
-Clerk to be jacketed with the proper jurat for  certification  of  final
-passage.  Each  such  bill  shall,  after  passage  by  both  Houses, be
-engrossed, if so ordered by the Speaker, or stamped "Official  Copy"  in
+have  not  been  amended  in the House, or bills, which have been made a
+special order on second and third reading, shall be sent  to  the  Index
+Clerk  to  be  jacketed with the proper jurat for certification of final
+passage. Each  such  bill  shall,  after  passage  by  both  Houses,  be
+engrossed,  if  so ordered by the Speaker, or stamped "Official Copy" in
 which case it shall be deemed to have been engrossed.
-  §  9.  Printing  and placement on the desks. For the purposes of these
-Rules,  any  requirement  for  the  copying,  printing,  reprinting   or
-placement  of bills on the desks of members may be satisfied with either
-bills printed on paper or bills in electronic  format  as  described  in
+  § 9. Printing and placement on the desks. For the  purposes  of  these
+Rules,   any  requirement  for  the  copying,  printing,  reprinting  or
+placement of bills on the desks of members may be satisfied with  either
+bills  printed  on  paper  or bills in electronic format as described in
 section fourteen of Article III of the Constitution.
-  §  10. Transmittal of bills to the Governor. All Assembly bills passed
-by the Assembly and sent to the Senate for action  shall,  upon  passage
-and  return  by  the Senate to the Assembly, be transmitted by the Index
+  § 10. Transmittal of bills to the Governor. All Assembly bills  passed
+by  the  Assembly  and sent to the Senate for action shall, upon passage
+and return by the Senate to the Assembly, be transmitted  by  the  Index
 Clerk to the Governor within ten legislative days after receipt from the
-Senate, except that any bill returned for transmittal  to  the  Assembly
+Senate,  except  that  any bill returned for transmittal to the Assembly
 after the first of May and before the first of June shall be transmitted
-to  the  Governor  within  thirty  days  of  such  receipt, and any bill
-returned for transmittal to the Assembly on or after the first  of  June
-shall  be  transmitted  to  the  Governor within forty-five days of such
+to the Governor within  thirty  days  of  such  receipt,  and  any  bill
+returned  for  transmittal to the Assembly on or after the first of June
+shall be transmitted to the Governor  within  forty-five  days  of  such
 receipt.
                                  RULE IV
                                COMMITTEES
@@ -1117,11 +1121,12 @@ such committee, be referred to the  Committee  on  Judiciary  for  final
 consideration.  In  the  event that such a resolution is not referred to
 the Committee on  Judiciary,  the  chairperson  of  such  Committee  may
 require such referral subject to the approval of the Speaker.
-  n. On and after the first legislative day in June, all bills favorably
-reported  by a standing committee which would otherwise be placed on the
-order of second reading shall be referred, in accordance with  paragraph
-one  of  subdivision  b  of  section ten of Rule IV, to the Committee on
-Rules.
+  n.  On  and  after  the  Monday  of  the  week  three weeks before the
+scheduled end of the legislative session as established  by  the  annual
+legislative session calendar, all bills favorably reported by a standing
+committee which would otherwise be placed on the order of second reading
+shall  be referred, in accordance with paragraph one of subdivision b of
+section ten of Rule IV, to the Committee on Rules.
   § 7. Discharge. a. No standing committee shall be discharged from  the
 consideration  of  a  bill or resolution until after the printed bill or
 resolution has been assigned by the Index Clerk  to  the  committee  and
@@ -1417,8 +1422,8 @@ banc.
   d. The Acting Clerk of the Assembly or designee thereof shall lead the
 Members  of  Assembly  in  the  Pledge  of Allegiance to the Flag of the
 United States of America.
-  e. The Acting Clerk of the Assembly shall call the roll  to  ascertain
-the presence of a quorum.
+  e. The Acting Clerk of the Assembly shall ascertain the presence of  a
+quorum.
   f.  Nominations  shall  be  in  order for the office of Speaker of the
 Assembly for a term of two years, and a vote shall be had thereon.
   g. Nominations shall be in order for the office of the  Clerk  of  the
