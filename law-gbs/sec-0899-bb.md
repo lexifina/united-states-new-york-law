@@ -1,4 +1,4 @@
-  * § 899-bb. Data security protections. 1. Definitions. (a) "Compliant
+  § 899-bb. Data security protections. 1. Definitions. (a) "Compliant
 regulated entity" shall mean any person or business that is subject to,
 and in compliance with, any of the following data security requirements:
   (i) regulations promulgated pursuant to Title V of the federal
@@ -79,4 +79,3 @@ and on behalf of the people of the state of New York to enjoin such
 violations and to obtain civil penalties under section three hundred
 fifty-d of this chapter.
   (e) Nothing in this section shall create a private right of action.
-  * NB Effective March 21, 2020
