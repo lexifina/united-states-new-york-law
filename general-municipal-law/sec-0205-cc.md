@@ -4,17 +4,31 @@ maintain for each eligible volunteer firefighter, an enhanced cancer
 disability benefit insurance program.
   1. Definitions. As used in this section:
   a. "Eligible volunteer firefighter" means:
-  (i) A volunteer firefighter having five or more years of faithful and
-actual service in the protection of life and property from fire in the
-interior of buildings and having successfully passed a physical
+  * (i) A volunteer firefighter having five or more years of faithful
+and actual service in the protection of life and property from fire in
+the interior of buildings subsequent to having successfully passed a
+physical examination which failed to reveal any evidence of cancers as
+defined in paragraph b of this subdivision; and
+  * NB Effective until December 23, 2029
+  * (i) A volunteer firefighter having five or more years of faithful
+and actual service in the protection of life and property from fire in
+the interior of buildings and having successfully passed a physical
 examination on entry to the firefighter service, which examination
 failed to reveal any evidence of cancers as defined in paragraph b of
 this subdivision; and
+  * NB Effective December 23, 2029
   * (ii) Having submitted proof of five years of interior firefighting
 service by providing verification that he or she has passed at least
 five yearly certified mask fitting tests as set forth in 29 CFR 1910.134
 or the applicable National Fire Protection Association standards for
-mask fit testing.
+mask fit testing or, for firefighters who entered the fire service prior
+to January first, two thousand twenty, documentation identified by the
+office of fire prevention and control in rules and regulations
+promulgated pursuant to subdivision seven of this section which shall
+include, but not be limited to, training or certification records,
+health care provider records, internal fire department records, or any
+combination of official documents capable of evidencing that the
+firefighter meets the requirements of this section.
   * NB Effective until December 23, 2029
   * (ii) Having submitted proof of five years of interior firefighting
 service by providing verification that he or she has passed at least
@@ -116,15 +130,27 @@ chair of the senate finance committee and the chair of the assembly ways
 and means committee the number of firefighters who have filed claims
 pursuant to this section and the number of firefighters who have
 received benefits under the provisions of this section.
-  7. The office of fire prevention and control, in consultation with the
-department of financial services and the workers' compensation board,
-shall adopt such rules and regulations as are reasonable and necessary
-to implement the provisions of this section. Such regulations shall
-include the process by which a firefighter files a claim for the
+  * 7. The office of fire prevention and control, in consultation with
+the department of financial services and the workers' compensation
+board, shall adopt such rules and regulations as are reasonable and
+necessary to implement the provisions of this section. Such regulations
+shall include establishing acceptable documentation for proof of
+eligibility, the process by which a firefighter files a claim for the
 enhanced cancer disability benefit, how the beneficiary of such eligible
 volunteer firefighter files a claim for the enhanced cancer death
 benefit, the process by which claimants can appeal a denial of benefits
 and what proof is deemed acceptable to qualify for such benefits.
+  * NB Effective until December 23, 2029
+  * 7. The office of fire prevention and control, in consultation with
+the department of financial services and the workers' compensation
+board, shall adopt such rules and regulations as are reasonable and
+necessary to implement the provisions of this section. Such regulations
+shall include the process by which a firefighter files a claim for the
+enhanced cancer disability benefit, how the beneficiary of such eligible
+volunteer firefighter files a claim for the enhanced cancer death
+benefit, the process by which claimants can appeal a denial of benefits
+and what proof is deemed acceptable to qualify for such benefits.
+  * NB Effective December 23, 2029
   * 8. In the absence of the documentation required in paragraph a of
 subdivision one of this section, the volunteer firefighter shall be
 eligible if they submit alternative documentation as determined by the
