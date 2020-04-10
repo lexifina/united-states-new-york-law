@@ -1,4 +1,4 @@
-  * § 399-aaaa. Menstrual product labeling. 1. For purposes of this
+  § 399-aaaa. Menstrual product labeling. 1. For purposes of this
 section:
   (a) "ingredient" shall mean an intentionally added substance present
 in the menstrual product;
@@ -18,4 +18,3 @@ of law.
 of one percent of the manufacturer's total annual in-state sales not to
 exceed one thousand dollars per package or box shall be imposed on the
 manufacturer.
-  * NB Effective April 8, 2020
