@@ -20,3 +20,4 @@ Section 70.   Establishment, use and designation of correctional
         79-a. Closure of correctional facilities; notice.
         79-b. Adaptive reuse plan for consideration prior to prison
                 closure.
+        80.   Transfer of adolescents from the department.

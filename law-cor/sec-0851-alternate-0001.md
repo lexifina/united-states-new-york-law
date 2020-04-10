@@ -106,7 +106,7 @@ commissioner for the purpose of formulating, modifying and revoking
 temporary release programs at an institution.
   12. "Superintendent" means the person in charge of an institution, by
 whatever title he or she may be known.
-  * NB Effective September 1, 2020 until the expiration of §42 of ch.
+  * NB Effective September 1, 2021 until the expiration of §42 of ch.
 60/1994, §10 of ch. 339/1972 and §3 of ch. 554/1986
   * § 851. Definitions. As used in this article the following terms have
 the following meanings:

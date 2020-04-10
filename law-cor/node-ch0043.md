@@ -24,7 +24,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                 (§§ 5-29).
          3.   State commission of correction (§§ 40-48).
          4.   Establishment of correctional facilities, commitments to
-                department and custody of inmates (§§ 70--79-b).
+                department and custody of inmates (§§ 70-80).
          4-B. Alternate correctional facilities for the city of New York
                 (§§ 86--89-l).
          5.   Coordinated use of state and local correctional
