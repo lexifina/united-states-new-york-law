@@ -15,7 +15,6 @@ Section 620.   Declaration of policy and legislative intent.
         630.   Emergency awards.
         631.   Awards.
         631-a. Crime victim service programs.
-        631-b. Safe way home transportation program.
         632.   Manner of payment.
         632-a. Crime victims.
         633.   Confidentiality of records.
