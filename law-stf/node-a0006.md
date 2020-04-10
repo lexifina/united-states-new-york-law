@@ -306,3 +306,4 @@ Section 70.        Classification of funds.
         99-ff.     Parks retail stores fund.
         99-ff*2.   New York central business district trust fund.
         99-gg.     Golf fund.
+        99-hh.     Criminal justice discovery compensation fund.
