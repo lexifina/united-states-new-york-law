@@ -86,6 +86,7 @@ Article
 34-A. Operation of motorcycles .................................... 1250
 34-B. Riding horses ............................................... 1260
 34-C. Operation of electric personal assistive mobility devices ... 1270
+34-D. Operation of electric scooters .............................. 1280
 VIII. Respective powers of state and local authorities ............ 1600
 Article
 35.   Uniform statewide application ............................... 1600

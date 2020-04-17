@@ -16,3 +16,5 @@ Article 23.   Obedience to and effect of traffic laws.
         34.   Operation of bicycles and play devices.
         34-A. Operation of motorcycles.
         34-B. Riding horses.
+        34-C. Operation of electric personal assistive mobility devices.
+        34-D. Operation of electric scooters.
