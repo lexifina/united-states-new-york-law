@@ -65,6 +65,7 @@
         213-b. Action by a victim of a criminal offense.
         213-c. Action by victim of conduct constituting certain sexual
                  offenses.
+        213-d. Actions to be commenced within three years; medical debt.
         214.   Actions to be commenced within three years: for non-
                  payment of money collected on execution; for penalty
                  created by statute; to recover chattel; for injury to
