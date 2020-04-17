@@ -18,6 +18,8 @@ Title  4.     Dormitory Authority (§§ 1675-1694).
        9.     New York State Energy Research and Development Authority
                 (§§ 1850-1883).
        9-A    Green Jobs-Green New York Program (§§ 1890--1899-a).
+       9-B    Clean energy resources development and incentives program
+                (§§ 1900-1905).
        10-B.  Upper Mohawk Valley Memorial Auditorium Authority.
                 (§§ 1940--1949-k)
        11.    Troy Industrial Development Authority (§§ 1950-1969).
