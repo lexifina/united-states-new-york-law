@@ -167,4 +167,6 @@ AN ACT relating to general business, constituting chapter twenty of the
          41.      Combative sports (§§ 1000-1022).
          43.      New York state secure choice savings program
                     (§§ 1300-1316).
+         44.      Regulation of surrogacy programs and assisted
+                    reproduction service providers (§§ 1400-1404).
          46.      Laws repealed; when to take effect (§§ 1600-1601).

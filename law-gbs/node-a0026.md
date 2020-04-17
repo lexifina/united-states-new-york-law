@@ -40,6 +40,8 @@ Section 390.       Substitution of spurious oils for internal combustion
                      commonly known as "dxm".
         391-s*2.   Sale and distribution of novelty lighters prohibited.
         391-t.     Sale of small animals; instructions on care.
+        391-u.     Pricing goods and services on the basis of gender
+                     prohibited.
         392.       Second-hand watches.
         392-a.     Sale of new computers.
         392-b.     False labels and misrepresentations.
