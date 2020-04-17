@@ -1,6 +1,7 @@
                                  TITLE E
                            GENERAL PROVISIONS
 Article 29 General provisions relating to in-patient facilities
+        30 Comprehensive care centers for eating disorders
         31 Regulation and quality control of services for the mentally
              disabled
         32 Regulation and quality control of chemical dependence
