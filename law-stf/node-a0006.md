@@ -246,6 +246,7 @@ Section 70.        Classification of funds.
                      and treatment fund.
         97-ssss*2. Elevator and related conveyances safety program
                      account.
+        97-tttt.   Restore mother nature bond fund.
         97-xxxx.   State health innovation plan account.
         97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
@@ -307,3 +308,7 @@ Section 70.        Classification of funds.
         99-ff*2.   New York central business district trust fund.
         99-gg.     Golf fund.
         99-hh.     Criminal justice discovery compensation fund.
+        99-hh*2.   Public health emergency charitable gifts trust fund.
+        99-hh*3.   Endangered and threatened species mitigation bank
+                     fund.
+        99-hh*4.   Behavioral health parity compliance fund.

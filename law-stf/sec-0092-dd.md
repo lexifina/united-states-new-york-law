@@ -41,13 +41,12 @@ fund.
 to the pool administrator from the comptroller, continue to make
 payments as required pursuant to sections twenty-eight hundred seven-k,
 twenty-eight hundred seven-m (not including payments made pursuant to
-subparagraph (ii) of paragraph (b) and paragraphs (c), (d), (e), (f) and
-(g) of subdivision five-a and subdivision seven of section twenty-eight
-hundred seven-m), and twenty-eight hundred seven-w of the public health
-law, paragraph (e) of subdivision twenty-five of section twenty-eight
-hundred seven-c of the public health law, paragraphs (b) and (c) of
-subdivision thirty of section twenty-eight hundred seven-c of the public
-health law, paragraph (b) of subdivision eighteen of section
+paragraphs (c), (d),, (f) and (g) of subdivision five-a of section
+twenty-eight hundred seven-m), and twenty-eight hundred seven-w of the
+public health law, paragraph (e) of subdivision twenty-five of section
+twenty-eight hundred seven-c of the public health law, paragraphs (b)
+and (c) of subdivision thirty of section twenty-eight hundred seven-c of
+the public health law, paragraph (b) of subdivision eighteen of section
 twenty-eight hundred eight of the public health law, subdivision seven
 of section twenty-five hundred-d of the public health law and section
 eighty-eight of chapter one of the laws of nineteen hundred ninety-nine.
