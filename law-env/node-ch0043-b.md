@@ -49,7 +49,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         24.   Freshwater wetlands (§ 24-0101 to 24-1305).
         25.   Tidal Wetlands (§ 25-0101 to 25-0601).
         27.   Plastic bag reduction, reuse and recycling
-                (§ 27-0101 to 27-2909).
+                (§ 27-0101 to 27-3009).
         27*2. Collection, treatment and disposal of refuse and other
                 solid waste (§ 27-0101 to 27-2703).
         28.   Pollution prevention (§ 28-0101 to 28-0113)
@@ -63,7 +63,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 36-0101 to 36-0115).
         37.   Substances Hazardous or Acutely Hazardous to Public
                 Health, safety or the Environment
-                (§ 37-0101 to 37-0913).
+                (§ 37-0101 to 37-0917).
         38.   Chlorofluorocarbon compounds (§ 38-0101 to 38-0111).
         39.   Sewage system cleaners and additives used in restricted
                 geographical areas (§ 39-0101 to 39-0107).
@@ -96,6 +96,8 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 1996 (§ 56-0101 to 56-0611).
         57.   Long Island Pine Barrens Maritime Reserve Act
                 (§ 57-0101 to 57-0213).
+        58.   Implementation of the environmental bond act of 2020
+                "restore mother nature" (§ 58-0101 to 58-1103).
         70.   Uniform procedures (§ 70-0101 to 70-0121).
         71.   Enforcement (§ 71-0101 to 71-4412).
         72.   Environmental regulatory program fees

@@ -30,3 +30,5 @@ Title   1.   Solid and hazardous waste management policy and planning
        27*2. Drug management and disposal
        28.   Bag waste reduction
        29.   Mercury thermostat collection act
+       30.   Expanded polystyrene foam container and polystyrene loose
+               fill packaging ban
