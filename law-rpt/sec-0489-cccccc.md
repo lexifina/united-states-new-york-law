@@ -46,10 +46,21 @@ provided for utility property.
   (c) Restricted activity. No benefits pursuant to this title shall be
 granted for construction work on property any part of which is to be
 used for a restricted activity.
+  (d) Self-storage facilities. For purposes of this title, "self-storage
+facility" shall mean any real property or a portion thereof that is
+designed and used for the purpose of occupying storage space by
+occupants who are to have access thereto for the purpose of storing and
+removing personal property, pursuant to subdivision one of section one
+hundred eighty-two of the lien law. No benefits shall be granted
+pursuant to this title for construction work on real property where any
+portion of such property is to be used as a self-storage facility.
   4. Hotel uses. Benefits shall be available for commercial construction
 work or renovation construction work on a building or structure for the
 property's square footage used to provide lodging and support services
-for transient guests.
+for transient guests, provided the applicant is not otherwise
+disqualified pursuant to paragraph (c) of subdivision five of this
+section, or section four hundred eighty-nine-eeeeee or four hundred
+eighty-nine-iiiiii of this title.
   5. Filing requirements. (a) Time to file. (i) Preliminary application.
 (A) Building permit. No benefits pursuant to this title shall be granted
 for any construction work unless the applicant filed a preliminary
@@ -96,16 +107,26 @@ general partner of the applicant or such person was finally adjudicated
 by a court of competent jurisdiction to have violated section two
 hundred thirty-five of the real property law or any section of article
 one hundred fifty of the penal law or any similar arson law of another
-state with respect to any building, or was an officer, director or
+state with respect to any building, or finally adjudicated by a
+competent authority, agency, or a court of competent jurisdiction to
+have violated any state, city, or municipal business regulations or
+ordinances related to payment of taxes, payment of wages, or fraudulent
+representation to governmental entities, or was an officer, director or
 general partner of a person at the time such person was finally
-adjudicated to have violated such law; and
+adjudicated to have violated such state, city, or municipal laws,
+business regulations, and ordinances related to payment of taxes,
+payment of wages, or fraudulent representation to governmental entities;
+and
   (ii) a statement setting forth any pending charges alleging violation
 of section two hundred thirty-five of the real property law or any
 section of article one hundred fifty of the penal law or any similar
-arson law of another jurisdiction with respect to any building by the
-applicant or any person owning a substantial interest in the property as
-defined in subparagraph (iii) of this paragraph, or any officer,
-director or general partner of the applicant or such person.
+arson law of another jurisdiction with respect to any building and
+pending charges alleging violation of state, city, or municipal business
+regulations or ordinances related to payment of taxes, payment of wages,
+or fraudulent representation to governmental entities by the applicant
+or any person owning a substantial interest in the property as defined
+in subparagraph (iii) of this paragraph, or any officer, director or
+general partner of the applicant or such person.
   (iii) "Substantial interest" as used in this subdivision shall mean
 ownership and control of an interest of ten percent or more in a
 property or any person owning a property.
