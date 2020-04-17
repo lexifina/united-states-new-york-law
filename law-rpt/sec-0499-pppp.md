@@ -7,10 +7,8 @@ public utility mass real property owner situated in each assessing unit.
 respect to a tentative determination of an assessment ceiling, the
 commissioner shall give effect to any special equalization rate
 established pursuant to section twelve hundred twenty-four of this
-chapter or the final state equalization rate for the assessment roll for
-which the ceiling is established as provided in section four hundred
-ninety-nine-nnnn of this title prior to the date for the final
-determination of the assessment ceiling.
+chapter prior to the date for the final determination of the assessment
+ceiling.
   3. No later than ten days before the last date prescribed by law for
 the levy of taxes, the commissioner shall file a certificate setting
 forth each assessment ceiling as finally determined with the assessor of

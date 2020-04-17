@@ -10,4 +10,8 @@ statement as to a material fact or omits to state any material fact
 necessary to make the statements not false or misleading, and may
 declare any applicant or recipient who makes such false or misleading
 statement or omission ineligible for future tax abatements for this
-property or another property.
+property or another property; or
+  3. A recipient is found to have failed to cure any violation of state,
+city, or municipal business regulations or ordinances related to payment
+of taxes, payment of wages, or fraudulent representation to governmental
+entities.
