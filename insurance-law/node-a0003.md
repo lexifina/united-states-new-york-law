@@ -39,3 +39,6 @@ Section 301. Regulations by superintendent.
         341. Notification regarding qualified health insurance plans.
         342. Public awareness to finance long term care.
         343. Mental health and substance use disorder parity report.
+        344. Mental health and substance use disorder parity compliance
+               programs.
+        345. Health care claims reports.

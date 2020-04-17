@@ -9,4 +9,6 @@ Section 101. Short title.
         107. Definitions of terms of general use in this chapter.
         108. Applicability of business corporation law to insurers.
         109. Penalties; civil actions.
-        110. Cooperation with other regulatory agencies.
+110.    Cooperation with other regulatory agencies.
+         111.Investigation by the superintendent with respect to
+               prescription drugs.
