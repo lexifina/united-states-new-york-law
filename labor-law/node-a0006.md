@@ -13,6 +13,7 @@ Section 190.   Definitions.
         195.   Notice and record-keeping requirements.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.
+        196-b. Sick leave requirements.
         196-d. Gratuities.
         197.   Civil penalty.
         198.   Costs, remedies.

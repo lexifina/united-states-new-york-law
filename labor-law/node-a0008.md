@@ -24,3 +24,7 @@ Section 220.   Hours, wages and supplements.
         222-a. Prevention of dust hazard in public works.
         223.   Enforcement of article.
         224.   Contracting for public work; enforcement.
+        224-a. Prevailing wage requirements applicable to construction
+                 projects performed under private contract.
+        224-b. Stop-work orders.
+        224-c. Public subsidy board.
