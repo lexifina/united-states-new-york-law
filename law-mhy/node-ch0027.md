@@ -13,8 +13,8 @@ Title A. Organization of department of mental hygiene. (Arts. 1 and 5).
            (Arts. 13 and 15).
       D. Alcoholism and substance abuse act. (Arts. 19, 22, and 25)
       E. General provisions.
-           (Arts. 29, 31-33, 41, 43, 45, 61, 67, 71, 75, 79-81, 83, 84
-           and 91)
+           (Arts. 29-33, 41, 43, 45, 61, 67, 71, 75, 79-81, 83, 84 and
+           91)
                                       TITLE A
                     ORGANIZATION OF DEPARTMENT OF MENTAL HYGIENE
 Article   1 Short title and definitions (§§ 1.01-1.03).
@@ -37,7 +37,7 @@ Article  13 Office for people with developmental disabilities (§§
 Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.43).
          22 Chemical dependence programs, treatment facilities, and
               services (§§ 22.01-22.11).
-         25.Funding for services of the office of alcoholism and
+         25 Funding for services of the office of alcoholism and
               substance abuse services (§§ 25.01-25.17).
          26 Funding of chemical dependence services and compulsive
               gambling services (§ 26.00).
@@ -45,6 +45,8 @@ Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.43).
                                   GENERAL PROVISIONS
 Article  29 General provisions relating to in-patient facilities
               (§§ 29.01-29.29).
+         30 Comprehensive care centers for eating disorders (§§
+              30.01-30.06).
          31 Regulation and quality control of services for the mentally
               disabled (§§ 31.01-31.37).
          32 Regulation and quality control of chemical dependence
