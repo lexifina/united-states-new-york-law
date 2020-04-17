@@ -38,6 +38,10 @@ Section 835.     Definitions.
                    medical technician and other first responder
                    applicants.
         837-t.   Use of force reporting.
+        837-u.   The division of criminal justice services, in
+                   conjunction with the chief administrator of the
+                   courts, shall collect data and report annually
+                   regarding pretrial release and detention.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

@@ -10,6 +10,7 @@ Section 90.    Department of state; secretary of state.
                  advisory opinions; investigation and enforcement.
         94-a.  Consumer protection division.
         94-b.  Office for new Americans.
+        94-c.  Major renewable energy development program.
         95.    Legislative manual.
         96.    Fees and refunds.
         96-a.  Fees for services rendered pursuant to the uniform
