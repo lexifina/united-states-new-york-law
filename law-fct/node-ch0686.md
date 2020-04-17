@@ -16,6 +16,9 @@ Article 1.   Family court established.
         5-A. Special provisions relating to enforcement of support and
                establishment of paternity.
         5-B. Uniform Interstate Family Support Act.
+        5-C. Judgments of parentage of children conceived through
+               assisted reproduction or pursuant to surrogacy
+               agreements.
         6.   Permanent termination of parental rights, adoption,
                guardianship and custody.
         7.   Proceedings concerning whether a person is in need of
