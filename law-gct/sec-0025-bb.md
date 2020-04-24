@@ -190,10 +190,10 @@ subdivision (a) or (q) of section twenty-five-aa of this article.
 Application for such certification must be filed after the thirtieth day
 of June, nineteen hundred ninety-five and before a building permit is
 issued for the construction or renovation required by such subdivisions
-and before the first day of July, two thousand twenty, provided that no
-certification for a targeted eligible building shall be issued after
-October thirty-first, two thousand. Such application shall identify
-expenditures to be made that will affect eligibility under such
+and before the first day of July, two thousand twenty-three, provided
+that no certification for a targeted eligible building shall be issued
+after October thirty-first, two thousand. Such application shall
+identify expenditures to be made that will affect eligibility under such
 subdivision (a) or (q). Upon completion of such expenditures, an
 applicant shall supplement such application to provide information (i)
 establishing that the criteria of such subdivision (a) or (q) have been
