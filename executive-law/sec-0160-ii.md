@@ -27,10 +27,11 @@ the policy.
 the liability under the workers' compensation law of any central
 dispatch facility with respect to black car operators prior to the fund
 liability date.
-  5. The fund shall have the authority to provide additional health
+  * 5. The fund shall have the authority to provide additional health
 benefits, consistent with its plan of operation, for all black car
 operators entitled thereto pursuant to this chapter, provided that the
 fund shall have complied with all applicable statutory and regulatory
 requirements. The surcharge amount not related to payments of workers'
-compensation claims and the administration of those claims shall be
-one-half of one percent (0.5%).
+compensation claims and the administration of those claims shall be up
+to one-half of one percent (0.5%).
+  * NB Repealed December 20, 2022
