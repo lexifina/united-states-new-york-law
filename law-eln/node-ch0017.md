@@ -524,6 +524,8 @@ Section 13-104. Special  provisions as to the time for holding a primary
                   election in the city of New York in the year  nineteen
                   hundred eighty-one.
                                ARTICLE 14
+          CAMPAIGN RECEIPTS AND EXPENDITURES; PUBLIC FINANCING
+                                 TITLE I
                    CAMPAIGN RECEIPTS AND EXPENDITURES
 Section 14-100. Definitions.
         14-102. Statements    of   campaign   receipts,   contributions,
@@ -548,6 +550,25 @@ Section 14-100. Definitions.
         14-128. Disposition of anonymous contributions.
         14-130. Campaign funds for personal use.
         14-132. Disposition of campaign funds.
+                                TITLE II
+                            PUBLIC FINANCING
+Section 14-200.   Legislative findings and intent.
+        14-200-a. Definitions.
+        14-201.   Political committee registration.
+        14-202.   Proof of compliance.
+        14-203.   Eligibility.
+        14-204.   Limits on public financing.
+        14-205.   Payment of public matching funds.
+        14-206.   Use  of  public  matching  funds;  qualified  campaign
+                    expenditures.
+        14-207.   Composition, powers, and duties of the public campaign
+                    finance board.
+        14-208.   Audits and repayments.
+        14-209.   Enforcement and penalties  for  violations  and  other
+                    proceedings.
+        14-210.   Reports.
+        14-211.   Debates for candidates for statewide office.
+        14-212.   Severability.
                                ARTICLE 15
                             VILLAGE ELECTIONS
 Section 15-100. Application of article.
@@ -607,26 +628,26 @@ Section 17-100. Definitions.
                   or members of any police force.
         17-112. Soliciting media support.
         17-114. Failure to furnish information; false information.
-        17-116. Removal,  mutilation  or destruction of election booths,
+        17-116. Removal, mutilation or destruction of  election  booths,
                   supplies, poll-lists or cards of instruction.
         17-118. Refusal to permit employees to attend election.
-        17-120. Misconduct in relation to certificate of nomination  and
+        17-120. Misconduct  in relation to certificate of nomination and
                   official ballot.
         17-122. Misconduct in relation to petitions.
         17-124. Failure to deliver official ballots.
         17-126. Misconduct of election officers.
-        17-128. Violations   of   election  law  by  public  officer  or
+        17-128. Violations  of  election  law  by  public   officer   or
                   employee.
         17-130. Misdemeanor in relation to elections.
         17-132. Illegal voting.
         17-134. Unlawful use of pasters.
         17-136. False returns; unlawful acts respecting returns.
-        17-140. Furnishing money or entertainment to  induce  attendance
+        17-140. Furnishing  money  or entertainment to induce attendance
                   at polls.
         17-142. Giving consideration for franchise.
         17-144. Receiving consideration for franchise.
         17-146. Offender a competent witness; witnesses' immunity.
-        17-148. Bribery  or  intimidation of elector in military service
+        17-148. Bribery or intimidation of elector in  military  service
                   of the United States.
         17-150. Duress and intimidation of voters.
         17-152. Conspiracy to promote or prevent election.
@@ -635,7 +656,7 @@ Section 17-100. Definitions.
         17-158. Corrupt use of position or authority.
         17-160. Procuring fraudulent documents in order to vote.
         17-162. Judicial candidates not to contribute.
-        17-164. Political contributions  by  owners  of  polling  places
+        17-164. Political  contributions  by  owners  of  polling places
                   prohibited.
         17-166. Penalty.
         17-168. Crimes  against  the  elective  franchise  not otherwise
