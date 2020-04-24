@@ -47,7 +47,7 @@ AN ACT relating to general business, constituting chapter twenty of the
                     (§§ 199-a--199-n).
          12.      Hotels and boarding houses (§§ 200--209-g).
          12-B.    Mercantile establishments (§§ 217--218-aa).
-         12-C.    Trampoline park safety (§§ 220--228-b).
+         12-C.    Trampoline park safety (§§ 220-228).
          13.      Silver, gold and diamonds (§§ 229-a--229-j).
          13-A.    Platinum stamping (§§ 230-238).
          13-B.    Appraisers of jewelry, works of art, watches and
