@@ -15,16 +15,27 @@ vent pipes and such other related materials and/or equipment.
   3. Upon entering into an agreement for the conversion of an existing
 home heating system from an oil home heating system to an alternative
 method of home heating, and prior to the commencement of the new home
-heating service, the utility company, gas corporation, or electric
-corporation, as defined in section two of the public service law, or any
-home improvement contractor installing the alternate home heating
-system, shall provide to the homeowner a written copy of the notice
-created by the department of state pursuant to subdivision four of this
-section, in no less than 14 point bold type and separate form from any
-other document provided to such homeowner. The department of state shall
-have the authority to promulgate any rules or regulations necessary to
-implement the provisions of this subdivision.
-  4. The department of state shall create and make available to the
+heating service, any home improvement contractor installing the
+alternate home heating system shall provide to the homeowner a written
+copy of the notice created by the department of state pursuant to
+subdivision five of this section, in no less than 14 point bold type and
+separate from any other document provided to such homeowner and provide
+as may be required by state or local law, written notice of the
+agreement for the conversion of an existing home heating system to the
+municipal code enforcement official having authority to enforce the New
+York state uniform fire prevention and building code, or local code
+applicable to cities with a population of one million or more, whichever
+code applies to the jurisdiction in which the home heating system is
+located.
+  4. (a) Prior to the commencement of the new home heating service, the
+property owner shall provide written notice to such property owner's
+heating oil supplier or suppliers to inform them of such conversion to
+an alternate fuel prior to the commencement of the new home heating
+service.
+  (b) The department of state shall have the authority to promulgate any
+rules or regulations necessary to implement the provisions of this
+subdivision.
+  5. The department of state shall create and make available to the
 public on the department's website a notice informing homeowners who are
 converting their existing oil home heating system to an alternative
 method of home heating of the provisions of subdivision thirteen of
@@ -32,8 +43,8 @@ section three hundred seventy-eight of the executive law, in addition to
 any other state laws, rules, or regulations related to the closure,
 abandonment, and/or removal of a heating oil storage tank, including
 fill and vent pipes and other related materials and equipment. Such
-notice shall include a requirement that the homeowner must provide
-written notice to his or her home heating oil supplier to inform such
-supplier of such conversion prior to the commencement of the new home
-heating service, and shall also advise the homeowner that there may be
-other local laws related to such conversion.
+notice shall include information to inform the homeowner that the
+homeowner shall provide written notice to his or her home heating oil
+supplier to inform such supplier of such conversion prior to the
+commencement of the new home heating service, and shall also advise the
+homeowner that there may be other local laws related to such conversion.
