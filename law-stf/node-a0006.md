@@ -66,6 +66,7 @@ Section 70.        Classification of funds.
         92-q*2.    The institute for the Hudson River Collection fund.
         92-r.      Local government assistance tax fund.
         92-s.      Environmental protection fund.
+        92-t.      New York state campaign finance fund.
         92-u.      New York state canal system development fund.
         92-v.      Linked deposit program fund.
         92-w.      Missing and exploited children clearinghouse fund.
@@ -81,6 +82,10 @@ Section 70.        Classification of funds.
         92-gg.     Charitable gifts trust fund.
         92-gg*2.   Subway assistance fund.
         92-hh.     Health care transformation fund.
+        92-ii.     Metropolitan transportation authority capital
+                     assistance fund.
+        92-jj.     Metropolitan transportation authority paratransit
+                     assistance fund.
         93.        Capital projects fund.
         93-a.      New York state storm recovery capital fund.
         93-b.      Dedicated infrastructure investment fund.
