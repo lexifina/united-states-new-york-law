@@ -26,6 +26,8 @@ Section 200.      Defining qualifications of exempt volunteer
         204-dd.   Qualifications of a fire chief.
         204-e.    Unauthorized destruction of property.
         204-f.    Plan for hazardous materials incidents response.
+        204-g.    Restrictions on the use of firefighting foam
+                    containing PFAS chemicals.
         205.      Payments to injured or representatives of deceased
                     volunteer firefighters.
         205-a.    Additional right of action to certain injured or
