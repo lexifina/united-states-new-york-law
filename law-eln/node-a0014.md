@@ -28,9 +28,9 @@ Section 14-100.   Definitions.
         14-128.   Disposition of anonymous contributions.
         14-130.   Campaign funds for personal use.
         14-132.   Disposition of campaign funds.
-  * NB Effective until November 9, 2020
+  * NB Effective until November 9, 2022
                                * ARTICLE 14
            CAMPAIGN RECEIPTS AND EXPENDITURES PUBLIC FINANCING
 Title  I. Campaign receipts and expenditures.
       II. Public financing.
-  * NB Effective November 6, 2022
+  * NB Effective November 9, 2022
