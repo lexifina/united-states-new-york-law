@@ -33,7 +33,7 @@ section, and provided further, that nothing in this section shall
 require a manufacturer or wholesaler to accept a check tendered by or
 drawn on the account of a retail licensee on the delinquent list unless
 the same has been certified.
-  * h. "Business payment card" means: (1) any credit card issued to a
+  h. "Business payment card" means: (1) any credit card issued to a
 retail licensee for business or commercial use pursuant to an agreement
 that allows the holder thereof to obtain goods and services on the
 credit of the issuer or a debit card that provides access to a bank
@@ -45,33 +45,17 @@ their use benefits a manufacturer or wholesaler. Such card must be
 issued in the same name as a retail licensee and registered to the same
 address as the address on the retail license, or as otherwise permitted
 by the authority in regulation.
-  * NB Effective April 25, 2020
-  * i. "Final cash invoice amount" means the amount charged by a
+  i. "Final cash invoice amount" means the amount charged by a
 manufacturer or wholesaler to a retail licensee pursuant to paragraphs
 (a) and (b) of subdivision two of this section.
-  * NB Effective April 25, 2020
-  * j. "Final business payment card invoice amount" means the amount
+  j. "Final business payment card invoice amount" means the amount
 charged by a manufacturer or wholesaler to a retail licensee pursuant to
 paragraph (c) of subdivision two of this section; and shall equal the
 final cash invoice amount plus three percent of the final cash invoice
 amount. The three percent represents the surcharges and fees that are
 charged to the manufacturer or wholesaler by the business payment card
 issuer or a person or entity associated with the issuer.
-  * NB Effective April 25, 2020
-  * 2. No manufacturer or wholesaler licensed under this chapter shall
-sell or deliver any beer, mead, cider or wine products to any retail
-licensee except as provided for in this section:
-  (a) for cash to be paid at the time of delivery; or
-  (b) on terms requiring payment by such retail licensee for such beer,
-mead, cider, or wine products on or before the final payment date of any
-credit period within which delivery is made.
-  Provided, however, that the sale of wine products mead, or cider to a
-retail licensee by a wholesaler licensed under section fifty-eight,
-sixty-two, or seventy-eight of this chapter, or a licensed manufacturer
-of liquor, mead or wine or a cider producer's license, shall be governed
-by the provisions of section one hundred-one-aa of this article.
-  * NB Effective until April 25, 2020
-  * 2. No manufacturer or wholesaler licensed under this chapter shall
+  2. No manufacturer or wholesaler licensed under this chapter shall
 sell or deliver any beer, mead, cider or wine products to any retail
 licensee except as provided for in this section:
   (a) for cash to be paid at the time of delivery;
@@ -88,22 +72,18 @@ retail licensee by a wholesaler licensed under section fifty-eight,
 sixty-two, or seventy-eight of this chapter, or a licensed manufacturer
 of liquor, mead or wine or a cider producer's license, shall be governed
 by the provisions of section one hundred-one-aa of this article.
-  * NB Effective April 25, 2020
-  * 2-a. A manufacturer or wholesaler that accepts business payment
-cards shall clearly state the final cash invoice amount and the final
-business payment card invoice amount on an invoice provided to a retail
-licensee.  Nothing in this section shall preclude, or permit a
-manufacturer or wholesaler to prevent, a retail licensee that receives
-such an invoice from electing to use any other form of payment method
-permitted pursuant to subdivision two of this section following receipt
-of such invoice.
-  * NB Effective April 25, 2020
-  * 2-b. Nothing herein contained shall be construed to require any
+  2-a. A manufacturer or wholesaler that accepts business payment cards
+shall clearly state the final cash invoice amount and the final business
+payment card invoice amount on an invoice provided to a retail licensee.
+Nothing in this section shall preclude, or permit a manufacturer or
+wholesaler to prevent, a retail licensee that receives such an invoice
+from electing to use any other form of payment method permitted pursuant
+to subdivision two of this section following receipt of such invoice.
+  2-b. Nothing herein contained shall be construed to require any
 manufacturer or wholesaler to accept business payment cards as a method
 of payment by any retail licensee, provided that if such payment method
 is made available it shall be available on equal terms to all retail
 licensees.
-  * NB Effective April 25, 2020
   3. Each such manufacturer and wholesaler shall, on or before the
 respective delinquent notice date, give written notice of default, by
 first class mail, to all such licensees who have failed to make payment
