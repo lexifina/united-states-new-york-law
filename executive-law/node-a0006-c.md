@@ -19,7 +19,5 @@ Section 155.     Office of fire prevention and control; creation; state
         158.     Firefighting training.
         159.     Advisory council for fire prevention and control.
         159-a.   Inclusion on the fallen firefighters memorial.
-        159-b.   Restrictions on the use of firefighting equipment
-                   containing PFAS chemicals.
         159-c-1. Training; live fire conditions.
         159-d.   Training for fire chiefs.
