@@ -40,6 +40,7 @@ Section 500.   Application.
         508-a. Death benefit for vested members who die prior to
                  retirement.
         509.   Accidental death benefits.
+        509-a. COVID-19 benefit.
         510.   Escalation of benefits.
         511.   Coordination with social security benefits.
         512.   Final average salary.
