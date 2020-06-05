@@ -70,6 +70,7 @@ Section 600.     Application.
                    attorney investigators.
         607-h.   Disability benefits; Westchester county district
                    attorney investigators.
+        607-i.   COVID-19 benefit.
         608.     Final average salary.
         609.     Credit for service.
         610.     Options.
