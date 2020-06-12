@@ -151,15 +151,3 @@ volunteer firefighter files a claim for the enhanced cancer death
 benefit, the process by which claimants can appeal a denial of benefits
 and what proof is deemed acceptable to qualify for such benefits.
   * NB Effective December 23, 2029
-  * 8. In the absence of the documentation required in paragraph a of
-subdivision one of this section, the volunteer firefighter shall be
-eligible if they submit alternative documentation as determined by the
-office of fire prevention and control. The office of fire prevention and
-control shall promulgate rules and regulations as to an acceptable
-combination of alternative documentation and such documentation shall
-include, but not be limited to, training records, documentation that the
-firefighter was an active interior volunteer firefighter as evidenced by
-National Fire Incident Reports submitted by the volunteer's fire
-department, or any other combination of official documents capable of
-evidencing that the firefighter meets the requirements of this section.
-  * NB Repealed December 23, 2029
