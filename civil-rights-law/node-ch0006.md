@@ -11,7 +11,7 @@ Assembly, do enact as follows:
 Article  1.   Short title (§§ 1--1-a).
          2.   Bill of rights (§§ 2-15).
          2-A. Equal rights to publicly-aided housing (§§ 18-a--19-b).
-         3.   Privilege from arrest (§§ 20-27).
+         3.   Privilege from arrest (§§ 20-28).
          4.   Equal rights in places of public accommodation and
                 amusement (§§ 40-45).
          4-B. Rights of persons with a disability accompanied by guide
@@ -22,7 +22,7 @@ Article  1.   Short title (§§ 1--1-a).
          V-A. Membership corporations and unincorporated associations
                 (§§ 53-57).
          6.   Change of name (§§ 60-65).
-         7.   Miscellaneous rights and immunities (§§ 70--79-o).
+         7.   Miscellaneous rights and immunities (§§ 70--79-p).
          8.   Causes of action for alienation of affections, criminal
                 conversation, seduction and breach of contract to marry
                 abolished (§§ 80-a--84).

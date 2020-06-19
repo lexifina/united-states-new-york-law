@@ -38,3 +38,4 @@ Section 70.     Vexatious suits.
         79-n*2. Funeral or bereavement leave.
         79-o.   Closed captioning in places of public accommodation,
                   resort or amusement.
+        79-p.   Recording certain activities.
