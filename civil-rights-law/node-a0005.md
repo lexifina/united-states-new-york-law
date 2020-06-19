@@ -1,8 +1,6 @@
                                 ARTICLE 5
                             Right of Privacy
 Section 50.   Right of privacy.
-        50-a. Personnel records of police officers, firefighters and
-                correction officers.
         50-b. Right of privacy; victims of sex offenses or offenses
                 involving the transmission of the human immunodeficiency
                 virus.
