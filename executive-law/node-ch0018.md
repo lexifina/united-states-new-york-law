@@ -17,7 +17,7 @@ The People of the State of New York, represented in Senate and Assembly,
           4-A. Office of the state inspector general (§§ 51-55).
           4-B. Office   of   the  inspector  general  of  New  York  for
                  transportation (§§ 56-58).
-          5.   Department of law (§§ 60-74).
+          5.   Department of law (§§ 60-75).
           6.   Department of state (§§ 90-144).
           6-A. State register (§§ 145-149).
           6-B. Services to localities (§§ 150-153).
@@ -40,7 +40,7 @@ The People of the State of New York, represented in Senate and Assembly,
          10.   Office of general services (§§ 200--203-a).
          10-B. New York State office of science, technology and academic
                  research (§§ 209--209-t).
-         11.   Division of state police (§§ 210-233).
+         11.   Division of state police (§§ 210-234).
          12.   Division of probation and correctional alternatives
                  (§§ 240-249).
          12-A. Probation officers and related matters (§§ 255-258).

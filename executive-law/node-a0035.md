@@ -42,6 +42,9 @@ Section 835.     Definitions.
                    conjunction with the chief administrator of the
                    courts, shall collect data and report annually
                    regarding pretrial release and detention.
+        837-v.   Report of discharge of weapon.
+        837-v*2. Reporting duties of law enforcement departments with
+                   respect to arrest-related deaths.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.
