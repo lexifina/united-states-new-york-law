@@ -13,6 +13,8 @@ Section 180.10 Proceedings upon felony complaint; arraignment;
         180.50 Proceedings upon felony complaint; reduction of charge.
         180.60 Proceedings upon felony complaint; the hearing; conduct
                  thereof.
+        180.65 Hearing upon felony complaint; emergency provision during
+                 disaster emergency.
         180.70 Proceedings upon felony complaint; disposition of felony
                  complaint after hearing.
         180.75 Proceedings upon felony complaint; juvenile offender.
