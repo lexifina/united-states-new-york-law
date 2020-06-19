@@ -9,7 +9,7 @@ Assembly, do enact as follows:
                    CHAPTER 51 OF THE CONSOLIDATED LAWS
                        RELIGIOUS CORPORATIONS LAW
 Article 1.    Short title and definitions (§§ 1--2-b).
-        2.    General provisions (§§ 3-27).
+        2.    General provisions (§§ 3-28).
         3.    Protestant Episcopal Parishes or Churches (§§ 40-49).
         3-A.  Apostolic Episcopal Parishes or Churches (§§ 50--59-b).
         3-b.  Parishes or Churches of the Holy Orthodox Church in
