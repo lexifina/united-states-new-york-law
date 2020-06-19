@@ -12,3 +12,4 @@ Section 20. No imprisonment for non-payment of costs in certain cases.
         25. Witness exempt from arrest.
         26. Action against officer making arrest of exempt person.
         27. Discharge of exempt witness.
+        28. Medical attention for persons under arrest.
