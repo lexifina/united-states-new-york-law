@@ -27,4 +27,4 @@ overtime costs, litigation readiness, and pretrial services. Eligible
 entities shall include, but not be limited to counties, cities with
 populations less than one million, and law enforcement and prosecutorial
 entities within towns and villages.
-  ** NB There are 4 § 99-h's
+  ** NB There are 4 § 99-hh's
