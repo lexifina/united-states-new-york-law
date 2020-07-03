@@ -1,4 +1,4 @@
-  * § 396-aaa. Public display of tobacco and electronic cigarette
+  § 396-aaa. Public display of tobacco and electronic cigarette
 advertisements and smoking paraphernalia prohibited. 1. For purposes of
 this section:
   (a) "Advertisement" means words, pictures, photographs, symbols,
@@ -42,4 +42,3 @@ partnership, association or any other business entity in violation of
 this section shall be subject to a civil penalty of not more than five
 hundred dollars for a first violation and not more than one thousand
 dollars for a second or subsequent violation.
-  * NB Effective July 1, 2020
