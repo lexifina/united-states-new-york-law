@@ -1,4 +1,4 @@
-                              * ARTICLE 21
+                               ARTICLE 21
                       NEW YORK CALL CENTER JOBS ACT
 Section 770. Definitions.
         771. List of relocated call centers.
@@ -7,4 +7,3 @@ Section 770. Definitions.
         774. State benefits for workers.
         775. No private right of action.
         776. Regulations.
-  * NB Effective June 30, 2020
