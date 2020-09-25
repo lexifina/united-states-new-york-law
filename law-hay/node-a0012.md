@@ -721,4 +721,6 @@ Section 340-a.     Designation of state interstate routes.
                      as "Melvin Harris, Jr. Way".
         344-k*3.   Portion of the state highway system to be designated
                      as the "Charles 'Chuck' Kelly Memorial Highway".
+        344-l.     Portion of the state highway system to be designated
+                     as the "Savannah Marie Williams Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
