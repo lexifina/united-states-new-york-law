@@ -5,7 +5,7 @@ Section 1000.   Legislative intent.
         1002.   General jurisdiction.
         1003.   Licenses for simulcast facilities.
         1004.   Suspension of simulcast licenses.
-        1005.   Power of the board to impose fines and penalties.
+        1005.   Power of the commission to impose fines and penalties.
         1006.   Refunds.
         1007.   Simulcasts track to track.
         1008.   Simulcasts to off-track branch offices.
