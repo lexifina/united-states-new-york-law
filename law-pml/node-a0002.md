@@ -63,8 +63,7 @@ Section 201.   Incorporation.
         247.   Racing zones.
         248.   Racing season; allotment of dates for racing.
         249.   Pari-mutuel employees to be citizens and residents.
-        250.   Power of state racing and wagering board to impose
-                 penalties.
+        250.   Power of commission to impose penalties.
         251.   Definitions.
         252.   New York state thoroughbred breeding and development
                  fund.
