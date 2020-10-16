@@ -25,3 +25,5 @@ Section 2601.   Unfair claim settlement practices; penalties.
         2615.   Genetic testing written informed consent.
         2616.   Discrimination because of status as a living organ or
                   tissue donor.
+        2617.   Unfair discrimination for the use of prescriptions to
+                  block the effects of opioids.
