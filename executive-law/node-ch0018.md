@@ -79,7 +79,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 548-a--548-h).
          20.   Protection of people with special needs (§§ 550-562).
          21.   New York state office  for  the  prevention  of  domestic
-                 violence (§§ 575-576).
+                 violence (§ 575).
          21-A. Emergency services council (§ 580).
          21-B. Manufactured homes (§§ 600-617)
          22.   Crime victims board (§§ 620-635).

@@ -3,4 +3,3 @@
                    THE PREVENTION OF DOMESTIC VIOLENCE
 Section 575. New  York  state  office  for  the  prevention  of domestic
                violence.
-        576. Batterers project.
