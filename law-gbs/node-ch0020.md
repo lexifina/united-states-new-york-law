@@ -93,7 +93,7 @@ AN ACT relating to general business, constituting chapter twenty of the
                     (§§ 480-486).
          28-E.    Children's product safety and recall effectiveness act
                     of 2008 (§§ 490--490-h).
-         28-F.    Crohn's and colitis fairness act (§§ 491-493).
+         28-F.    Crohn's and colitis fairness act (§§ 491-494).
          29.      Manufacture, sale and introduction or movement in
                     commerce of flammable wearing apparel, fabrics,
                     related material and interior furnishings prohibited
