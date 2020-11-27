@@ -730,4 +730,10 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Sandra L. Wilson Memorial Highway".
         344-l*4.   Portion of the state highway system to be designated
                      as the "Firefighter Tim Gunther Memorial Highway".
+        344-l*5.   Portion of the state highway system to be designated
+                     as the "North Dansville Veterans Memorial Highway".
+        344-l*6.   Portion of the state highway system to be designated
+                     as the "Colchester Veterans Memorial Bridge".
+        344-l*7.   Portion of the state highway system to be designated
+                     as the "Wappinger Veterans Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
