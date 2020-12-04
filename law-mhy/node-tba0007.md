@@ -37,3 +37,4 @@ Section 7.01    Declaration of policy.
         7.43    The children's plan.
         7.45    Retaliatory personnel actions.
         7.47    Mental illness anti-stigma grants.
+        7.48    Frontline workers trauma informed care advisory council.
