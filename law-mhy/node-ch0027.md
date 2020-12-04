@@ -21,7 +21,7 @@ Article   1 Short title and definitions (§§ 1.01-1.03).
           5 Department of mental hygiene (§§ 5.01-5.09).
                                         TITLE B
                                    MENTAL HEALTH ACT
-Article   7 Office of mental health (§§ 7.01-7.47).
+Article   7 Office of mental health (§§ 7.01-7.48).
           9 Hospitalization of the mentally ill (§§ 9.01-9.63)
          10 Sex offenders requiring civil commitment or supervision
               (§§ 10.01-10.17)
