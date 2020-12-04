@@ -8,6 +8,7 @@ Section 50.   Right of privacy.
         50-d. Personnel records of court officers.
         50-e. Personnel records of bridge and tunnel officers, sergeants
                 and lieutenants.
+        50-f. Right of publicity.
         51.   Action for injunction and for damages.
         52.   Televising, broadcasting or taking motion pictures of
                 certain proceedings prohibited.
@@ -15,3 +16,6 @@ Section 50.   Right of privacy.
                 residential premises.
         52-b. Private right of action for unlawful dissemination or
                 publication of an intimate image.
+        52-c. Private right of action for unlawful dissemination or
+                publication of a sexually explicit depiction of an
+                individual.
