@@ -32,3 +32,4 @@ Title   1.   Solid and hazardous waste management policy and planning
        29.   Mercury thermostat collection act
        30.   Expanded polystyrene foam container and polystyrene loose
                fill packaging ban
+       31.   Construction and demolition waste
