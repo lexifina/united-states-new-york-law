@@ -6,3 +6,4 @@ Section 140. Fire and emergency protection in public buildings.
         143. Lighting restrictions.
         144. Lactation room in public buildings.
         145. Gender neutral single-occupancy bathrooms.
+        146. Prohibit symbols of hate.
