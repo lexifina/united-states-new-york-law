@@ -6,6 +6,7 @@ Section 2.    Courts of record.
         2-b.  General powers of courts of record.
         3.    Use of term "court" prohibited.
         4.    Sittings of courts to be public.
+        4-a.  Certain powers of the courts regarding civil arrests.
         5.    Courts not to sit on Sunday except in special cases nor on
                 Saturday in certain cases.
         6.    Adjournment of term of court of record to future day.
