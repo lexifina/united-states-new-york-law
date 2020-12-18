@@ -19,7 +19,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
                (§§ 2101-2139)
          22. Certification of employees of insurers and savings banks
                offering life insurance. (§§ 2201-2209)
-         23. Property/casualty insurance rates. (§§ 2301-2351)
+         23. Property/casualty insurance rates. (§§ 2301-2353)
          24. Unfair methods of competition and unfair and deceptive acts
                and practices. (§§ 2401-2409)
          25. Prohibitions against controlled business. (§§ 2502-2505)

@@ -53,6 +53,8 @@ Section 2301.   Purpose.
                   insurance rates; premium reductions in certain cases.
         2336-a. Snowmobile liability insurance rates; premium reductions
                   in certain cases.
+        2336-b. Boat liability insurance rates; premium reductions in
+                  certain cases.
         2337.   Private passenger automobile physical damage insurance;
                   statistics on use of anti-theft devices and the
                   maximum discount for all anti-theft devices.
@@ -76,3 +78,6 @@ Section 2301.   Purpose.
                   policies.
         2351.   Homeowners' insurance policies.
         2352.   Multiple rating programs.
+        2353.   For-hire motor vehicle safety program; reduction in
+                  rates of certain commercial risk insurance premiums
+                  for motor vehicles.
