@@ -72,6 +72,8 @@ Section 240.   Definitions and use of terms.
         280-a. Reverse mortgage loans for persons seventy years of age
                  or older.
         280-b. Federal home equity conversion mortgage regulation.
+        280-d. Federal home equity conversion mortgage default and
+                 foreclosure regulation.
         281.   Credit line mortgage.
         282.   Mortgagor's right to recover attorneys' fees in actions
                  or proceedings arising out of foreclosures of
