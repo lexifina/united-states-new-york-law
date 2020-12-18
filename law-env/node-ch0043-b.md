@@ -48,10 +48,8 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         23.   Mineral resources (§ 23-0101 to 23-2723).
         24.   Freshwater wetlands (§ 24-0101 to 24-1305).
         25.   Tidal Wetlands (§ 25-0101 to 25-0601).
-        27.   Plastic bag reduction, reuse and recycling
-                (§ 27-0101 to 27-3009).
-        27*2. Collection, treatment and disposal of refuse and other
-                solid waste (§ 27-0101 to 27-2703).
+        27.   Collection, treatment and disposal of refuse and other
+                solid waste (§ 27-0101 to 27-3101).
         28.   Pollution prevention (§ 28-0101 to 28-0113)
         29.   Low-level radioactive waste facilities
                 (§ 29-0101 to 29-0703).
