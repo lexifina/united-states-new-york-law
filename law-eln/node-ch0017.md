@@ -196,6 +196,7 @@ Section 5-300. Enrollment; generally.
         5-304. Enrollment; change of enrollment  or  new  enrollment  by
                  previously registered voters.
         5-306. Enrollment; correction of.
+        5-308. Enrollment; automatic voter registration.
         5-310. Enrollment; forms of affidavits, mailing requirements.
                                 TITLE IV
                       CANCELLATION OF REGISTRATION
@@ -240,6 +241,14 @@ Section 5-800. Electronic voter registration transmittal system.
         5-802. Online voter registration application.
         5-804. Failure  to  provide  exemplar  signature  not to prevent
                  registration.
+                                TITLE IX
+                      AUTOMATIC VOTER REGISTRATION
+Section 5-900. Integrated  personal   voter   registration   application
+                 required.
+        5-902. Failure  to  receive  exemplar  signature  not to prevent
+                 registration.
+        5-904. Presumption of innocent authorized error.
+        5-906. Forms.
                                 ARTICLE 6
                 DESIGNATION AND NOMINATION OF CANDIDATES
 Section 6-100. Nominations and designations; generally.
@@ -597,7 +606,7 @@ Section 15-100. Application of article.
                                ARTICLE 16
                           JUDICIAL PROCEEDINGS
 Section 16-100. Jurisdiction; supreme court, county court.
-        16-102. Proceedings as to designations and nominations,  primary
+        16-102. Proceedings  as to designations and nominations, primary
                   elections, etc.
         16-104. Proceedings as to form of ballot, party name, etc.
         16-106. Proceedings as to the casting and canvass of ballots.
@@ -605,49 +614,49 @@ Section 16-100. Jurisdiction; supreme court, county court.
         16-110. Proceedings as to enrollment.
         16-112. Proceedings for examination or preservation of ballots.
         16-113. Audit of voter verifiable records.
-        16-114. Proceedings  to compel filing of statements or corrected
+        16-114. Proceedings to compel filing of statements or  corrected
                   statements  of  campaign  receipts,  expenditures  and
                   contributions.
-        16-115. Proceedings  with respect to utilizing certain buildings
+        16-115. Proceedings with respect to utilizing certain  buildings
                   as polling places.
         16-116. Proceedings; provisions in relation thereto.
-        16-118. Proceedings to review removal  of  committee  member  or
+        16-118. Proceedings  to  review  removal  of committee member or
                   officer.
         16-120. Enforcement proceedings.
                                ARTICLE 17
                   VIOLATIONS OF THE ELECTIVE FRANCHISE
 Section 17-100. Definitions.
-        17-102. Misdemeanors   at,   or   in  connection  with,  primary
-                  elections, caucuses, enrollment in political  parties,
+        17-102. Misdemeanors  at,  or  in   connection   with,   primary
+                  elections,  caucuses, enrollment in political parties,
                   committees, and conventions.
         17-104. False registration.
         17-106. Misconduct of election officers.
-        17-108. False  affidavits;  mutilation,  destruction  or loss of
+        17-108. False affidavits; mutilation,  destruction  or  loss  of
                   registry list or affidavits.
         17-110. Misdemeanors concerning police commissioners or officers
                   or members of any police force.
         17-112. Soliciting media support.
         17-114. Failure to furnish information; false information.
-        17-116. Removal, mutilation or destruction of  election  booths,
+        17-116. Removal,  mutilation  or destruction of election booths,
                   supplies, poll-lists or cards of instruction.
         17-118. Refusal to permit employees to attend election.
-        17-120. Misconduct  in relation to certificate of nomination and
+        17-120. Misconduct in relation to certificate of nomination  and
                   official ballot.
         17-122. Misconduct in relation to petitions.
         17-124. Failure to deliver official ballots.
         17-126. Misconduct of election officers.
-        17-128. Violations  of  election  law  by  public   officer   or
+        17-128. Violations   of   election  law  by  public  officer  or
                   employee.
         17-130. Misdemeanor in relation to elections.
         17-132. Illegal voting.
         17-134. Unlawful use of pasters.
         17-136. False returns; unlawful acts respecting returns.
-        17-140. Furnishing  money  or entertainment to induce attendance
+        17-140. Furnishing money or entertainment to  induce  attendance
                   at polls.
         17-142. Giving consideration for franchise.
         17-144. Receiving consideration for franchise.
         17-146. Offender a competent witness; witnesses' immunity.
-        17-148. Bribery or intimidation of elector in  military  service
+        17-148. Bribery  or  intimidation of elector in military service
                   of the United States.
         17-150. Duress and intimidation of voters.
         17-152. Conspiracy to promote or prevent election.
@@ -659,6 +668,6 @@ Section 17-100. Definitions.
         17-164. Political  contributions  by  owners  of  polling places
                   prohibited.
         17-166. Penalty.
-        17-168. Crimes  against  the  elective  franchise  not otherwise
+        17-168. Crimes against  the  elective  franchise  not  otherwise
                   provided for.
         17-170. Destroying or delaying election returns.
