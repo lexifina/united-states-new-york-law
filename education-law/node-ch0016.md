@@ -9,7 +9,7 @@ Assembly, do enact as follows:
                                  TITLE I
                            General Provisions
 Article
-    1      Short title and definitions (§§ 1--2-d.)
+    1      Short title and definitions (§§ 1--2-e.)
     2      Dignity for all students (§§ 10-18.)
     3      Education department (§§ 101-187.)
              Part I - General provisions (§§ 101-140.)
