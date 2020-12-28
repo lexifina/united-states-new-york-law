@@ -8,3 +8,4 @@ TITLE    I. General provisions.
         VI. Filing and custody of registration records.
        VII. Checks against fraudulent practices.
       VIII. Electronic personal voter registration process.
+        IX. Automatic voter registration.
