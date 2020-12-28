@@ -7,3 +7,4 @@ Section 1.   Short title.
         2-c. Release of student information to certain entities.
         2-d. Unauthorized release of personally identifiable
                information.
+        2-e. Use of biometric identifying technology.
