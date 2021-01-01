@@ -93,3 +93,6 @@ Section 3401.   Insurable interest in property.
         3456.   Prohibition against cancellation of policy when motor
                   vehicle is used or operated through a transportation
                   network company program.
+        3457.   Group fleet policy for motor vehicles engaged in the
+                  business of carrying or transporting passengers
+                  for-hire.
