@@ -11,6 +11,7 @@ Section 1501.   Declaration of policy.
         1506-a. Cemetery corporations; restrictions.
         1506-b. Transfer of lands of Valley View Rural Cemetery.
         1506-c. Abandoned cemetery maintenance by cemetery corporations.
+        1506-d. Cemetery merger authorization.
         1507.   Trust funds.
         1507-a. State cemetery board citizens advisory council.
         1508.   Reports by cemeteries.
