@@ -39,3 +39,4 @@ Section 70.     Vexatious suits.
         79-o.   Closed captioning in places of public accommodation,
                   resort or amusement.
         79-p.   Recording certain activities.
+        79-p*2. Gender neutral single-occupancy bathroom facilities.
