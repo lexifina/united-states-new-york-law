@@ -17,6 +17,7 @@ Section 2.    Courts of record.
                 same court.
         7-c.  Continuance of special proceeding before another officer.
         8.    Emergency relocations of court terms.
+        9.    Recusal; reason.
         13.   Court or judge may direct the filing of original
                 stenographic minutes with clerk.
         13-a. Power to remove certain officers and to appoint
