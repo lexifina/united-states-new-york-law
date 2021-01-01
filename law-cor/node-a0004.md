@@ -8,6 +8,7 @@ Section 70.   Establishment, use and designation of correctional
         72.   Confinement of persons by the department.
         72-a. Community treatment facilities.
         72-b. Discharge of inmates to adult care facilities.
+        72-c. Placement of individuals with children.
         73.   Residential treatment facilities.
         74.   Discharge on holidays, Saturdays and Sundays.
         75.   Notice of voting rights.
