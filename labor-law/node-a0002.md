@@ -62,3 +62,4 @@ Section 10.   Department of labor; commissioner of labor.
         42.   Youth education, employment and training program.
         43.   Transfer of funds to the unemployment insurance
                 occupational training fund.
+        44.   Workplace fatality registry; construction.

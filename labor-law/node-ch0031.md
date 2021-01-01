@@ -7,7 +7,7 @@ Assembly, do enact as follows:
                   CHAPTER 31 OF THE CONSOLIDATED LAWS.
                                LABOR LAW.
 Article 1.    Short title; definitions. (§§ 1-4)
-        2.    The department of labor. (§§ 10-43)
+        2.    The department of labor. (§§ 10-44)
         3.    Administrative and judicial review. (§§ 100-104)
         4.    Employment of minors. (§§ 130-145)
         4-A.  Employment and education of child performers.
