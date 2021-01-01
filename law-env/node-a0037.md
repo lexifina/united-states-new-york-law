@@ -15,6 +15,10 @@ Section 37-0101.   Definitions.
         37-0115.   Prohibition of cosmetic products and personal care
                      products containing 1,4-dioxane.
         37-0115*2. Lead-containing jewelry.
+        37-0117.   Prohibition of cosmetic products and personal care
+                     products containing 1,4-dioxane.
+        37-0119.   Prohibition against certain uses of
+                     trichloroethylene.
                                 TITLE II
                            HAZARDOUS PACKAGING
 Section 37-0201. Legislative findings and intent.
