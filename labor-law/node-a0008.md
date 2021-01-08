@@ -17,6 +17,7 @@ Section 220.   Hours, wages and supplements.
         220-g. Additional enforcement of article.
         220-h. Occupational Safety and Health Administration (OSHA)
                  construction safety and health course.
+        220-i. Amounts due in the case of certain nuclear power plants.
         221.   Company stores.
         221-a. Permits required.
         221-b. Issue of permits.
