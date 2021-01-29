@@ -10,4 +10,5 @@ Section 101.   Definitions.
         106.   Responsibility to respond to the freedom of information
                  law for certain data.
         106-a. Health care proxy information.
+        106-b. Use of biometric identifying technology in schools.
         107.   Severability.
