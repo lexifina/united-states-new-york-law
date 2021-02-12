@@ -1,8 +1,8 @@
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2019-2020
-Rules  of  the  Senate  for  the  year  2019-2020,  as adopted by Senate
-Resolution number 3 of 2019.
+                                2021-2022
+Rules  of  the  Senate  for  the  year  2021-2022,  as adopted by Senate
+Resolution number 2 of 2021.
   Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
 Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
 and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
@@ -10,12 +10,12 @@ as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  number 2775 (Senate) and number 787
 (Assembly) of 2009 and as amended by Concurrent  Resolution  number  404
 (Senate) and number 25 (Assembly) of 2017.
-                                 1/09/19
-RESOLVED,  That  the  rules  of  the  Senate for the years 2019-2020 are
+                                 2/09/21
+RESOLVED,  That  the  rules  of  the  Senate for the years 2020-2021 are
 hereby adopted to read as follows:
                            RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2019-2020
+                                2021-2022
                                  RULE I
 THE PRESIDENT
   Section 1. The Lieutenant Governor of the State shall be President  of
@@ -29,48 +29,48 @@ of  the  members of the Senate elected, who shall be the majority leader
 and who shall preside, or designate some other  member  to  preside,  in
 case  of  the  absence from the Chamber or impeachment of the Lieutenant
 Governor, or when he or she shall refuse to act as President,  or  shall
-act as Governor.  The Temporary President shall exercise such powers and
-duties as given by law or these rules during the 2019-2020 session.
+act  as Governor. The Temporary President shall exercise such powers and
+duties as given by law or these rules during the 2021-2022 session.
   § 2. He or she shall appoint and designate the Officers of the Senate,
-the  chair, vice-chair and members of all committees and sub-committees,
+the chair, vice-chair and members of all committees and  sub-committees,
 except when the Senate shall otherwise order.
   § 3. He or she shall be Chair of the Committee on Rules.
-  § 4. He or she shall appoint, in conjunction with the Speaker  of  the
-Assembly   and  the  Legislative  Librarian,  an  Assistant  Legislative
-Librarian, to have charge and custody of all legislative  documents,  as
-defined  in  this  section,  who  shall  be  responsible for collecting,
+  §  4.  He or she shall appoint, in conjunction with the Speaker of the
+Assembly  and  the  Legislative  Librarian,  an  Assistant   Legislative
+Librarian,  to  have charge and custody of all legislative documents, as
+defined in this  section,  who  shall  be  responsible  for  collecting,
 numbering, indexing and retaining the same in the Legislative Library in
-an area designated for such use by the Legislative Librarian.  At  least
-two  copies  of  all such documents shall be kept in such library at all
-times and made available to Members of the Legislature  and  legislative
+an  area  designated for such use by the Legislative Librarian. At least
+two copies of all such documents shall be kept in such  library  at  all
+times  and  made available to Members of the Legislature and legislative
 employees for public inspection and duplication during library hours.
-  The  function  of  the Legislative Library is to serve the information
-and research needs of Members of the Legislature and  legislative  staff
-as  defined  by the Legislative Law. The services provided shall include
-professional reference, access to standard commercial  online  databases
-and  the  availability  of  records  of  the  Library's  holding  on the
-Legislative Retrieval System (LRS). The  Library  is  charged  with  the
+  The function of the Legislative Library is to  serve  the  information
+and  research  needs of Members of the Legislature and legislative staff
+as defined by the Legislative Law. The services provided  shall  include
+professional  reference,  access to standard commercial online databases
+and the  availability  of  records  of  the  Library's  holding  on  the
+Legislative  Retrieval  System  (LRS).  The  Library is charged with the
 collection and custody of all Legislative and State documents as defined
-by  this  section.  Access  to  the  collection shall be provided by the
-Legislative Library State Documents (LLSD) database  on  LRS.  Documents
-may  be  retained  in  paper,  microform, laser disk or any other medium
+by this section. Access to the  collection  shall  be  provided  by  the
+Legislative  Library  State  Documents (LLSD) database on LRS. Documents
+may be retained in paper, microform, laser  disk  or  any  other  medium
 approved for archiving documents.
-  To effectuate the purposes of this section, the Assistant  Legislative
-Librarian  in  charge  of  legislative  documents  may  request from any
-committee, commission, task force or office of the Legislature, and  the
-same  are  authorized  to provide, such assistance, services and data as
-will enable such librarian to carry out his or her duties as  prescribed
+  To  effectuate the purposes of this section, the Assistant Legislative
+Librarian in charge  of  legislative  documents  may  request  from  any
+committee,  commission, task force or office of the Legislature, and the
+same are authorized to provide, such assistance, services  and  data  as
+will  enable such librarian to carry out his or her duties as prescribed
 in this section.
-  For  purposes  of  this  section,  the term legislative document shall
-include the Rules of the Senate, the Rules of the Assembly,  reports  of
-the   Legislature   and   reports   of   every   legislative  committee,
-subcommittee, task force or other adjunct of  the  Legislature  and  all
-reports  and  documents required by law or regulation to be submitted to
-the Legislature by any department, board, bureau,  commission  or  other
+  For purposes of this section,  the  term  legislative  document  shall
+include  the  Rules of the Senate, the Rules of the Assembly, reports of
+the  Legislature   and   reports   of   every   legislative   committee,
+subcommittee,  task  force  or  other adjunct of the Legislature and all
+reports and documents required by law or regulation to be  submitted  to
+the  Legislature  by  any department, board, bureau, commission or other
 agency of the State.
-  The  provisions  of this section and paragraph ten of subdivision c of
-section one of Rule I of the Assembly are  intended  to  result  in  the
-appointment  of  a  single Assistant Legislative Librarian to serve both
+  The provisions of this section and paragraph ten of subdivision  c  of
+section  one  of  Rule  I  of the Assembly are intended to result in the
+appointment of a single Assistant Legislative Librarian  to  serve  both
 Houses of the Legislature.
   §   5.  He  or  she  shall  represent  the  Senate,  or  engage  legal
 representation  on  behalf  of  the  Senate,  in  any  legal  action  or
@@ -95,10 +95,13 @@ same  has  been  duly passed or adopted, with the date thereof, together
 with the fact whether  passed  as  a  majority  or  two-thirds  bill  or
 resolution, or with three-fifths of the members present, as the case may
 be,  as  required by the Constitution and laws of the State, and deliver
-said bill or resolution to the Secretary.
-  § 3. When the Presiding Officer is other than  the  President  of  the
-Senate,  such  Presiding  Officer shall be vested with all of the powers
-and duties conferred by these rules and by any other rule  or  law  upon
+said bill or resolution to  the  Secretary.  Any  certification  by  the
+Presiding  Officer  related  to  the  presence  of  a  member  shall  be
+consistent with the provisions of subdivision b of section one  of  Rule
+IX.
+  §  3.  When  the  Presiding Officer is other than the President of the
+Senate, such Presiding Officer shall be vested with all  of  the  powers
+and  duties  conferred  by these rules and by any other rule or law upon
 the President.
                                  RULE IV
 THE SENATE AND ITS OFFICERS AND EMPLOYEES
@@ -120,7 +123,7 @@ appropriation,  in the manner provided by law. Each officer and employee
 of the Senate shall perform such duties as may be prescribed by law,  or
 by  these  rules,  or  as may be incumbent upon them in their respective
 positions.
-  § 4. a.  It shall be the duty of the Secretary of the Senate  to  have
+  § 4. a. It shall be the duty of the Secretary of the  Senate  to  have
 the journals, bills, calendars, messages and other documents printed and
 distributed  in  the  manner provided by law. He or she shall present to
 the Governor, and enter upon the journals,  such  bills  as  shall  have
@@ -213,7 +216,7 @@ the Committee on Rules shall be received at any time.
 special order for a particular day, and it shall  not  be  completed  on
 that  day,  it  shall, unless otherwise ordered, retain its place on the
 calendar as a special order in the order of business  in  which  it  was
-considered.  When  a special order is under consideration, it shall take
+considered.   When a special order is under consideration, it shall take
 precedence over any special order for a subsequent hour of the same day;
 but such subsequent order may be taken up immediately after disposal  of
 the previous special order.
@@ -313,27 +316,29 @@ INTRODUCTION OF BILLS AND RESOLUTIONS
   Section  1. Introduction. Bills and resolutions shall be introduced by
 a Senator, or on the report of a  committee,  or  by  message  from  the
 Assembly,  or  by  order  of  the Senate, or by the Governor pursuant to
-Article VII of the Constitution.  Every  bill  introduced  shall  be  in
-duplicate  and  shall  have endorsed thereon a title and the name of the
-bill's sponsor and shall be accompanied by the  introducer's  memorandum
-in  quadruplicate.  Such  memorandum  shall  contain  a statement of the
-purposes and intent of the bill and, if the member deems it appropriate,
-may set forth such other statements  that  the  member  feels  necessary
-including,  but  not limited to, statements relating to economic impact,
-environmental impact or the impact on the judicial system. A  Committee,
-where  it  deems necessary, may require that the introducer's memorandum
-be amended to include such appropriate statements.
-  Bills introduced by Senators shall  be  deposited  with  the  Revision
-Clerk  for the purpose of having such clerk examine and correct bills to
-avoid repetition of introduction and ensure accuracy  in  the  text  and
-references.    Upon  introduction, each bill shall be deemed to have had
-its first and second reading, unless  otherwise  ordered  and  shall  be
-given  a number.  The Temporary President shall refer bills or designate
-an officer to refer bills to the appropriate standing  committee.  Bills
+Article VII of  the  Constitution.  Every  bill  introduced  shall  have
+endorsed thereon a title and the name of the bill's sponsor and shall be
+accompanied  by  the  introducer's  memorandum.  Such  memorandum  shall
+contain a statement of the purposes and intent of the bill and,  if  the
+member  deems  it  appropriate, may set forth such other statements that
+the member feels necessary including, but  not  limited  to,  statements
+relating  to  economic impact, environmental impact or the impact on the
+judicial system. A Committee, where it deems necessary, may require that
+the introducer's memorandum  be  amended  to  include  such  appropriate
+statements.  Bills  shall  be  introduced  in  a  manner  or  method  in
+accordance  with  any  other  guidelines  provided  by   the   Temporary
+President.
+  Bills  introduced  by  Senators  shall  be deposited with the Revision
+Clerk for the purpose of having such clerk examine and correct bills  to
+avoid  repetition  of  introduction  and ensure accuracy in the text and
+references. Upon introduction, each bill shall be deemed to have had its
+first and second reading, unless otherwise ordered and shall be given  a
+number.  The  Temporary  President  shall  refer  bills  or designate an
+officer to refer bills to  the  appropriate  standing  committee.  Bills
 shall be referred in accordance with a set of guidelines to be published
 annually  by  the  Temporary  President  setting  forth  the  respective
 statutes over which each of the standing committees shall  have  subject
-matter  jurisdiction  for  purposes  of referral.   Such referrals shall
+matter  jurisdiction  for  purposes  of  referral.  Such referrals shall
 reflect the subject matter having predominance in the bill as determined
 by the Temporary President.
   §  2.  Multi-sponsorship.  Any  Senator  may  join  together  in   the
@@ -341,10 +346,10 @@ multi-sponsorship  of a bill. If two or more Senators join together when
 a bill is first introduced and before it is published, the names of  all
 multi-sponsors  shall  appear  on  the  printed  bill upon the following
 conditions:
-  a. Multi-sponsors shall file a written request in duplicate to act  as
-such,  on  forms  provided,  with  the Revision Clerk of the Senate. The
-first name appearing on the bill shall be deemed the introducer and  all
-others deemed multi-sponsors.
+  a. Multi-sponsors shall file a written request  to  act  as  such,  on
+forms  provided,  with  the Revision Clerk of the Senate. The first name
+appearing on the bill shall be deemed  the  introducer  and  all  others
+deemed multi-sponsors.
   b.  The  introducer shall at all times retain exclusive control of the
 bill until formally acted upon by the Senate and any motion to discharge
 a bill out of committee by a member who is not  the  introducer  of  the
@@ -357,190 +362,190 @@ bill, however, shall not be republished.
   d. Senators and Senators-elect may multi-sponsor bills that have  been
 pre-filed  and  bills  introduced  after the opening of each legislative
 session upon the following conditions:
-  (1) After a bill has been introduced and published and before  it  has
-been  reported  favorably out of the Committee to which it was referred,
-any Senator or Senators may file with the Revision Clerk a request on  a
+  (1)  After  a bill has been introduced and published and before it has
+been reported favorably out of the Committee to which it  was  referred,
+any  Senator or Senators may file with the Revision Clerk a request on a
 form provided to become a multi-sponsor of such bill. Such forms must be
 signed by the multi-sponsor.
-  (2)  Such bill shall not be reprinted solely for the purpose of adding
+  (2) Such bill shall not be reprinted solely for the purpose of  adding
 or deleting names of multi-sponsors.
-  §  3.  Placement  on  desks.  a.  Every  bill  immediately  upon   its
-introduction  shall  be  placed  on  the  bill files on the desks of the
-Senators, where it shall remain for at least three calendar  legislative
-days.  All  bills  reported  favorably or for consideration, if reported
+  §   3.  Placement  on  desks.  a.  Every  bill  immediately  upon  its
+introduction shall be placed on the bill  files  on  the  desks  of  the
+Senators,  where it shall remain for at least three calendar legislative
+days. All bills reported favorably or  for  consideration,  if  reported
 with  amendments,  and  all  bills  amended  in  the  Senate,  shall  be
 immediately placed on each Senator's desk, except that any bill which is
-amended  by restoring it to an earlier form, shall not be required to be
-placed on each Senator's desk again, and thereafter the  number  of  the
-bill  in  the form placed on each Senator's desk to which it has been so
-restored shall constitute the final form of  such  bill  unless  further
-amended.   Whenever a bill is amended, a letter of the alphabet starting
+amended by restoring it to an earlier form, shall not be required to  be
+placed  on  each  Senator's desk again, and thereafter the number of the
+bill in the form placed on each Senator's desk to which it has  been  so
+restored  shall  constitute  the  final form of such bill unless further
+amended. Whenever a bill is amended, a letter of the  alphabet  starting
 with "A" shall be added to its number.
-  b. Any requirement provided  for  in  these  Rules  for  the  copying,
-printing,  reprinting  or placement of bills on the desks of members may
-be satisfied with either bills printed on paper  or  bills  provided  in
-electronic  format as so described in section fourteen of Article III of
+  b.  Any  requirement  provided  for  in  these  Rules for the copying,
+printing, reprinting or placement of bills on the desks of  members  may
+be  satisfied  with  either  bills printed on paper or bills provided in
+electronic format as so described in section fourteen of Article III  of
 the Constitution.
-  § 4. Title and body of bill. The title of  every  bill  shall  briefly
+  §  4.  Title  and  body of bill. The title of every bill shall briefly
 state the subject thereof. The title of every bill amending or repealing
-any  provision  of a consolidated law shall refer to such law. The title
-of every bill amending or repealing any unconsolidated law  shall  refer
+any provision of a consolidated law shall refer to such law.  The  title
+of  every  bill amending or repealing any unconsolidated law shall refer
 to such law by its short title, if it has one; if it has no short title,
 the title of such bill shall state the chapter number, year of enactment
-and  the  complete  title of the original bill or a short summary of the
-provisions to which the  law  relates.  If  such  bill  is  amending  or
-repealing  a  proposed provision of law contained in a bill that has not
-been enacted into law, the title shall state  the  number  of  the  bill
+and the complete title of the original bill or a short  summary  of  the
+provisions  to  which  the  law  relates.  If  such  bill is amending or
+repealing a proposed provision of law contained in a bill that  has  not
+been  enacted  into  law,  the  title shall state the number of the bill
 containing the proposed provision of law to be amended or repealed, with
-suffix,  if there be one, and the subject of the provisions to which the
-amendatory bill relates. No private or local bill may  be  passed  which
-shall  embrace  more  than  one  subject which shall be expressed in the
+suffix, if there be one, and the subject of the provisions to which  the
+amendatory  bill  relates.  No private or local bill may be passed which
+shall embrace more than one subject which  shall  be  expressed  in  the
 title.
-  a. In any bill, each section proposing an amendment to or  the  repeal
-of:  (i)  any  consolidated law, or any part thereof; or (ii) the Family
-Court Act, the Court of Claims Act, the Uniform District Court Act,  the
+  a.  In  any bill, each section proposing an amendment to or the repeal
+of:  (i) any consolidated law, or any part thereof; or (ii)  the  Family
+Court  Act, the Court of Claims Act, the Uniform District Court Act, the
 Uniform Justice Court Act, the Uniform City Court Act, the New York City
-Charter,  the  Administrative Code of the City of New York, the New York
-City Civil Court Act, the New York  City  Criminal  Court  Act,  or  the
-Charter  of the City of Buffalo, or any part thereof shall refer to such
-law, act, charter or code.  In  any  bill,  each  section  proposing  an
-amendment  to  or  the  repeal  of  an unconsolidated law having a short
-title, or any part thereof, shall refer  to  such  law  by  its  chapter
-number  and  year of enactment and its short title. If an unconsolidated
-law shall have no short title, each  section  shall  state  the  chapter
-number  and  year  of  enactment of such law, and a short summary of the
-provisions to which the  law  relates  or  the  complete  title  of  the
+Charter, the Administrative Code of the City of New York, the  New  York
+City  Civil  Court  Act,  the  New  York City Criminal Court Act, or the
+Charter of the City of Buffalo, or any part thereof shall refer to  such
+law,  act,  charter  or  code.  In  any  bill, each section proposing an
+amendment to or the repeal of  an  unconsolidated  law  having  a  short
+title,  or  any  part  thereof,  shall  refer to such law by its chapter
+number and year of enactment and its short title. If  an  unconsolidated
+law  shall  have  no  short  title, each section shall state the chapter
+number and year of enactment of such law, and a  short  summary  of  the
+provisions  to  which  the  law  relates  or  the  complete title of the
 original bill. If such section amends or repeals a proposed provision of
 law contained in a bill that has not been enacted into law, each section
-shall  state  the number of the bill containing such proposed provisions
+shall state the number of the bill containing such  proposed  provisions
 of  law  to be amended or repealed, with suffix, if there be one. If the
 portion of the law proposed to be amended has been added, renumbered  or
 amended since the original enactment or last general revision of the law
 of  which it is a part, such section shall also state the chapter number
 and year of the last act adding, renumbering or amending  the  same,  as
-the  case may be. There shall be appended at the end of every bill which
-proposes the repeal or extension of any existing law, or  part  thereof,
-merely  by reference thereto, without setting forth the text thereof, an
-explanatory note which shall briefly and  concisely  state  the  subject
+the case may be.  There shall be appended at the end of every bill which
+proposes  the  repeal or extension of any existing law, or part thereof,
+merely by reference thereto, without setting forth the text thereof,  an
+explanatory  note  which  shall  briefly and concisely state the subject
 matter of the law, or part thereof, proposed to be repealed or extended,
-unless  such  subject  matter  is  stated in the title of such bill. The
-Revision Clerk of the Senate  shall  return  any  bill  to  the  Senator
-introducing  the same when it is called to his or her attention that the
-provisions of this section, or of section one of  this  Rule,  have  not
-been  complied  with,  or  when  any  copy  of  a  bill  is illegible or
+unless such subject matter is stated in the  title  of  such  bill.  The
+Revision  Clerk  of  the  Senate  shall  return  any bill to the Senator
+introducing the same when it is called to his or her attention that  the
+provisions  of  this  section,  or of section one of this Rule, have not
+been complied with,  or  when  any  copy  of  a  bill  is  illegible  or
 incomplete.
-  b. Every bill when introduced, and every amendment thereafter made  to
-such  bill  amending existing law, must have all new matter underscored,
-and all matter eliminated by amendment from existing law must appear  in
-its  proper  place  enclosed in brackets. In the published bill such new
-matter shall be underscored and all matter eliminated by amendment  from
-existing  law  shall  be  enclosed  in  black-faced  brackets.  When any
-existing law or part thereof is proposed to be repealed by a  bill,  the
-word  "repealed"  as  it  appears  in  such  bill  shall  be  printed in
-bold-faced type. When a bill is amended by eliminating new  matter  from
-such  bill,  the  same  shall  be  omitted  in  the republication of the
-original. When amendments are offered to a printed  bill,  the  proposed
-changes,  indicating  page  and  line  numbers,  shall be listed on four
-detail sheets and the same changes shall be incorporated and  marked  on
-two  copies  of  the bill; provided, however, that no amendment shall be
-allowed to any bill which is not  germane  to  the  original  object  or
-purpose  thereof.  Furthermore,  when  a  printed  bill  is  amended the
-accompanying introducer's memorandum, required pursuant to  section  one
-of  this Rule, shall also be amended to reflect any changes. It shall be
-the duty of the Secretary of the Senate to direct the Revision Clerk  to
-cause  any  bill  appearing  on the calendar and not complying with this
+  b.  Every bill when introduced, and every amendment thereafter made to
+such bill amending existing law, must have all new  matter  underscored,
+and  all matter eliminated by amendment from existing law must appear in
+its proper place enclosed in brackets. In the published  bill  such  new
+matter  shall be underscored and all matter eliminated by amendment from
+existing law  shall  be  enclosed  in  black-faced  brackets.  When  any
+existing  law  or part thereof is proposed to be repealed by a bill, the
+word "repealed"  as  it  appears  in  such  bill  shall  be  printed  in
+bold-faced  type.  When a bill is amended by eliminating new matter from
+such bill, the same  shall  be  omitted  in  the  republication  of  the
+original.  When  amendments  are offered to a printed bill, the proposed
+changes, indicating page and line  numbers,  shall  be  listed  on  four
+detail  sheets  and the same changes shall be incorporated and marked on
+two copies of the bill; provided, however, that no  amendment  shall  be
+allowed  to  any  bill  which  is  not germane to the original object or
+purpose thereof.   Furthermore, when  a  printed  bill  is  amended  the
+accompanying  introducer's  memorandum, required pursuant to section one
+of this Rule, shall also be amended to reflect any changes. It shall  be
+the  duty of the Secretary of the Senate to direct the Revision Clerk to
+cause any bill appearing on the calendar and  not  complying  with  this
 section to be immediately amended so as to comply with the same.
-  § 5. Final date. a. The Temporary President may designate  a  date  in
-writing  after  which no bill or original resolution shall be introduced
-except by message from the Assembly, but no  date  prior  to  the  first
-Tuesday  of  April  shall  be so designated; provided, however, that all
-bills recommended by a State department or agency must be  submitted  to
-the  Temporary  President  not  later than the first day of March. Bills
-proposed by the Governor, the Attorney  General,  the  Comptroller,  the
-Department  of  Education  or the Office of Court Administration must be
-submitted to the Temporary President no later than the first Tuesday  in
+  §  5.  Final  date. a. The Temporary President may designate a date in
+writing after which no bill or original resolution shall  be  introduced
+except  by  message  from  the  Assembly, but no date prior to the first
+Tuesday of April shall be so designated;  provided,  however,  that  all
+bills  recommended  by a State department or agency must be submitted to
+the Temporary President not later than the first  day  of  March.  Bills
+proposed  by  the  Governor,  the Attorney General, the Comptroller, the
+Department of Education or the Office of Court  Administration  must  be
+submitted  to the Temporary President no later than the first Tuesday in
 April.
-  b.  All  bills  introduced  in  the Senate after the first day of June
+  b. All bills introduced in the Senate after  the  first  day  of  June
 shall be introduced to the Committee on Rules.
-  § 6. Budget bills. When  a  bill  is  submitted  or  proposed  by  the
-Governor  by  authority  of  Article  VII  of the Constitution, it shall
-become, for all legislative  purposes,  a  legislative  bill,  and  upon
-receipt  thereof by the Senate it shall be endorsed "Budget Bill" and be
-given a number by the Secretary and shall be  referred  to  the  Finance
-Committee.    Budget  bills  may  be reported from the Finance Committee
+  §  6.  Budget  bills.  When  a  bill  is  submitted or proposed by the
+Governor by authority of Article  VII  of  the  Constitution,  it  shall
+become,  for  all  legislative  purposes,  a  legislative bill, and upon
+receipt thereof by the Senate it shall be endorsed "Budget Bill" and  be
+given  a  number  by  the Secretary and shall be referred to the Finance
+Committee. Budget bills may  be  reported  from  the  Finance  Committee
 direct to the third reading calendar.
-  § 7. Program, departmental and agency bills. Every  bill  proposed  by
+  §  7.  Program,  departmental and agency bills. Every bill proposed by
 the  Governor,  the  Attorney  General,  the  Comptroller  or  by  state
-departments and agencies shall be submitted to the  Temporary  President
-and  shall  be  forwarded  for  introduction purposes to the appropriate
+departments  and  agencies shall be submitted to the Temporary President
+and shall be forwarded for  introduction  purposes  to  the  appropriate
 standing committee in accordance with section one of this Rule. Any such
-bill which is not so forwarded within three weeks after receipt  by  the
-Temporary  President  shall be offered to the Minority Leader who may in
-accordance with section one of this Rule,  forward  such  bills  to  any
+bill  which  is not so forwarded within three weeks after receipt by the
+Temporary President shall be offered to the Minority Leader who  may  in
+accordance  with  section  one  of  this Rule, forward such bills to any
 member for introduction purposes.
-  §  8.  Reintroduction. Any Senate bill introduced in the first year of
+  § 8. Reintroduction. Any Senate bill introduced in the first  year  of
 the term of the Senate which during that regular Legislative Session was
-not reported  from  a  Standing  Committee  or  if  reported  and  later
-recommitted  to  a  Standing  Committee  is  deemed  to be automatically
-reintroduced for the second year of the term of the  Senate.  All  bills
+not  reported  from  a  Standing  Committee  or  if  reported  and later
+recommitted to a  Standing  Committee  is  deemed  to  be  automatically
+reintroduced  for  the  second year of the term of the Senate. All bills
 which remain on the calendar at the end of the first year of the term of
 the Senate shall be recommitted to committee.
-  §   9.   Resolutions.   a.   All  original  resolutions  shall  be  in
-quadruplicate, and no  original  resolution  may  be  introduced  unless
-copies   thereof   first  shall  have  been  furnished,  to  the  extent
-practicable, forty-eight hours prior to the  time  for  acting  on  such
-resolution  to  the  Temporary  President  and  Minority  Leader.    All
-resolutions, upon introduction, shall  be  referred  to  a  standing  or
-select  committee by the Temporary President or an officer designated by
-the Temporary President  and  shall  at  all  times  remain  within  the
-exclusive   control  of  the  introducer.  Notwithstanding  any  of  the
-foregoing provisions of this section, resolutions recalling  bills  from
-or  returning  bills to the Assembly, or relating to adjournment, may be
-introduced at any time for immediate consideration.
-  b. A resolution supporting or condemning, or  proposing  or  urging  a
-change  in  Federal  law  which  is not directly germane to the affairs,
-business, rights, benefits and obligations of New York  State  shall  be
-out  of order and shall not be reported and any resolution recommending,
-urging, supporting, altering or  condemning  a  position  or  change  in
-foreign  policy  of  the  United  States  Government  or the domestic or
-foreign affairs of any other government of the World  shall  be  out  of
-order  and  shall  not  be  reported.   Any resolution which recommends,
-urges, supports the alteration of the laws of  this  state,  resolutions
-which   honor  current  elected  office  holders  or  resolutions  which
-recognize, honor or support the positions of a political party shall  be
-out of order and shall not be reported.
+  § 9. Resolutions. a. All original resolutions shall be introduced in a
+manner or method provided by the Temporary President,  and  no  original
+resolution may be introduced unless copies thereof first shall have been
+furnished,  to  the  extent  practicable, forty-eight hours prior to the
+time for acting on  such  resolution  to  the  Temporary  President  and
+Minority  Leader.  All resolutions, upon introduction, shall be referred
+to a standing or select committee  by  the  Temporary  President  or  an
+officer  designated  by  the  Temporary President and shall at all times
+remain within the exclusive control of the  introducer.  Notwithstanding
+any  of  the foregoing provisions of this section, resolutions recalling
+bills  from  or  returning  bills  to  the  Assembly,  or  relating   to
+adjournment, may be introduced at any time for immediate consideration.
+  b.  A  resolution  supporting  or condemning, or proposing or urging a
+change in Federal law which is not  directly  germane  to  the  affairs,
+business,  rights,  benefits  and obligations of New York State shall be
+out of order and shall not be reported and any resolution  recommending,
+urging,  supporting,  altering  or  condemning  a  position or change in
+foreign policy of the  United  States  Government  or  the  domestic  or
+foreign  affairs  of  any  other government of the World shall be out of
+order and shall not be reported. Any resolution which recommends, urges,
+supports the alteration of the laws of  this  state,  resolutions  which
+honor  current  elected  office  holders or resolutions which recognize,
+honor or support the positions of a political  party  shall  be  out  of
+order and shall not be reported.
   c.   All   resolutions  which  propose  any  amendment  to  the  State
 Constitution shall be referred to the Attorney General  as  provided  in
 Article  XIX  of the Constitution, and shall be treated in the same form
 of proceedings as that provided for bills; and resolutions which  ratify
 any proposed amendment to the Constitution of the United States shall be
 treated  in  the same form of proceedings as provided for bills. After a
-resolution to amend the State Constitution shall be  advanced  to  third
+resolution  to  amend  the State Constitution shall be advanced to third
 reading, no motion to amend the same shall be in order without unanimous
 consent; and if such resolution to amend the State Constitution shall be
-amended  after  the  opinion  of  the  Attorney General thereon has been
-received as provided in Article XIX of the Constitution, it shall  again
-be  referred  to  the  Attorney  General.  Any  such  resolution  may be
+amended after the opinion of  the  Attorney  General  thereon  has  been
+received  as provided in Article XIX of the Constitution, it shall again
+be referred  to  the  Attorney  General.  Any  such  resolution  may  be
 committed prior to the final reading thereof.
-  d. All resolutions calling for  the  expenditure  of  moneys  must  be
-decided  by a majority vote of all of the members elected to the Senate,
+  d.  All  resolutions  calling  for  the  expenditure of moneys must be
+decided by a majority vote of all of the members elected to the  Senate,
 upon a call of the roll.
   e. All resolutions deemed proper by the Temporary President other than
-those mentioned and treated in the preceding subdivisions  c  and  d  of
-this  section  and  reported by the committee of reference designated by
-the Temporary President shall be  placed  upon  the  calendar  upon  the
-approval  of the Temporary President.  When in the order of business the
-resolutions are reached, the Senate may  adopt  such  resolutions  as  a
-group,  by  one  vote  upon  the  question  of  the  entire  calendar of
-resolution, excepting that any member may request that any one  or  more
-of  the  resolutions  on  such  calendar  shall be voted upon or debated
+those  mentioned  and  treated  in the preceding subdivisions c and d of
+this section and reported by the committee of  reference  designated  by
+the  Temporary  President  shall  be  placed  upon the calendar upon the
+approval of the Temporary President. When in the order of  business  the
+resolutions  are  reached,  the  Senate  may adopt such resolutions as a
+group, by  one  vote  upon  the  question  of  the  entire  calendar  of
+resolution,  excepting  that any member may request that any one or more
+of the resolutions on such calendar  shall  be  voted  upon  or  debated
 separately. This subdivision shall not apply to any resolution recalling
-bills  from  or  returning  bills  to  the  Assembly,  or  relating   to
-adjournment  or  to resolutions pertaining to the rules of the Senate or
-to those resolutions regarded as "privileged".   A resolution  shall  be
-deemed  privileged  only  if  it  encompasses  a  subject  of particular
-importance to the house or is a question  of  specific  urgency  and  in
-either  case  a  resolution  shall  only  be  deemed privileged if it is
+bills   from  or  returning  bills  to  the  Assembly,  or  relating  to
+adjournment or to resolutions pertaining to the rules of the  Senate  or
+to  those  resolutions  regarded  as "privileged". A resolution shall be
+deemed privileged  only  if  it  encompasses  a  subject  of  particular
+importance  to  the  house  or  is a question of specific urgency and in
+either case a resolution shall  only  be  deemed  privileged  if  it  is
 designated by the Temporary President as such.
                                 RULE VII
 STANDING COMMITTEES
@@ -548,7 +553,7 @@ STANDING COMMITTEES
 shall serve and shall continue throughout the year:
   To consist of twenty-three Senators:
   Finance
-  To consist of nineteen Senators:
+  To consist of twenty-one Senators:
   Rules
   To consist of fifteen Senators:
   Education
@@ -575,19 +580,22 @@ shall serve and shall continue throughout the year:
   Budget and Revenues
   Children and Families
   Civil Service and Pensions
-  Cities
+  Cities 1
+  Cities 2
   Consumer Protection
   Corporations, Authorities and Commissions
   Crime Victims, Crime and Correction
   Cultural Affairs, Tourism, Parks and Recreation
-  Domestic Animal Welfare
+  Disabilities
   Elections
   Ethics and Internal Governance
   Internet and Technology
   Investigations and Government Operations
+  Libraries
   Local Government
-  Mental Health and Development Disabilities
+  Mental Health
   New York City Education
+  Procurement and Contracts
   Racing, Gaming and Wagering
   Social Services
   Women's Issues
@@ -604,111 +612,110 @@ unless otherwise provided by the act or resolution creating them,  shall
 be  composed,  as  nearly as may be, of Majority Conference and Minority
 Conference members in the same proportion  as  the  number  of  Majority
 Conference  and  Minority  Conference members in the Senate bears to the
-total membership of the Senate.
-  For  purposes  of  committee  composition,  in  the  event  that   the
-proportion  of  Majority Conference members would result in a fractional
-amount, the number of Majority Conference members shall be rounded up to
-the next whole number.  Further, in the case of an  excused  absence  of
-any  committee  member on either the Finance or the Rules Committee, the
-Conference Leader(s) for the conference which has an excused absence  on
-such  committee  may designate an alternate member of the conference for
-meetings of such committees provided  written  notice  is  provided  and
-accepted  by  the  Temporary  President  at  least one hour prior to the
-commencement of such committee meeting.
+total  membership of the Senate.  For purposes of committee composition,
+in the event that the proportion of Majority  Conference  members  would
+result in a fractional amount, the number of Majority Conference members
+shall be rounded up to the next whole number. Further, in the case of an
+excused  absence  of  any  committee member on either the Finance or the
+Rules Committee, the Conference Leader(s) for the conference  which  has
+an  excused  absence on such committee may designate an alternate member
+of the conference for  meetings  of  such  committees  provided  written
+notice  is provided and accepted by the Temporary President at least one
+hour prior to the commencement of such committee meeting.
   d. The Ethics and Internal Governance Committee shall consist of  four
 members from the Majority conference and three members from the Minority
 conference.
   e. The provisions of this Rule may be amended by resolution adopted by
 a majority of members elected.
-  § 2.  Open Meetings of Standing Committees. a. (1) Standing committees
+  §  2. Open Meetings of Standing Committees. a. (1) Standing committees
 shall hold regular meetings at such time and on such day as scheduled by
-the  Temporary  President  in joint consultation with the chair and such
-schedule shall be published one week in advance  of  the  date  of  such
-meeting  and  shall be posted on the Senate committee board and website.
+the Temporary President in joint consultation with the  chair  and  such
+schedule  shall  be  published  one  week in advance of the date of such
+meeting and shall be posted on the Senate committee board  and  website.
 The attendance of the members of the committee shall be recorded at each
 meeting, and a copy of such report shall be filed with the Journal Clerk
 of the Senate and made available to the public. Each chair of a standing
-committee shall to the extent practicable, no  later  than  5  p.m.  the
+committee  shall  to  the  extent  practicable, no later than 5 p.m. the
 Thursday  preceding  the  regular  meeting,  furnish  to  the  Temporary
-President  and  publish  the  agenda  together  with  the   introducer's
+President   and  publish  the  agenda  together  with  the  introducer's
 memorandum for each bill listed on such agenda for such regular meeting.
-In  addition,  copies  of  such agenda for such regular meeting shall be
-made available to representatives of the news media and to  the  general
-public.  However,  in  case  of necessity, the chair with consent of the
-ranking Minority Conference member may add no more than  four  items  on
-the  agenda  or  delete  items  on  the  agenda no less than 24 hours in
-advance of the scheduled meeting and members shall be notified  of  such
-additions  or  deletions. Each standing committee chair shall decide all
+In addition, copies of such agenda for such  regular  meeting  shall  be
+made  available  to representatives of the news media and to the general
+public.  However, in case of necessity, the chair with  consent  of  the
+ranking  Minority  Conference  member may add no more than four items on
+the agenda or delete items on the  agenda  no  less  than  24  hours  in
+advance  of  the scheduled meeting and members shall be notified of such
+additions or deletions. Each standing committee chair shall  decide  all
 procedural issues which arise during meetings of standing committees.
   (2) Standing committees may hold special meetings in case of necessity
-upon the call of the chair when the announcement is made from the  floor
-during  session,  or  the  ranking  Minority  Conference  member  of the
-committee consents thereto, or upon the call of a majority  of  all  the
+upon  the call of the chair when the announcement is made from the floor
+during session,  or  the  ranking  Minority  Conference  member  of  the
+committee  consents  thereto,  or upon the call of a majority of all the
 members thereof, entry of which fact shall be made on the records of the
 committee and announced by the Secretary of the Senate.
-  (3)   All   meetings   of  committees  shall  be  open  to  authorized
+  (3)  All  meetings  of  committees  shall  be   open   to   authorized
 representatives of the news media and the general public as observers.
-  (4) All meetings of committees shall be recorded by video and  to  the
-extent  practicable  webcast live. Video of all committee meetings shall
-be made available on the Senate website.
-  (5) Upon the personal vote of a majority  of  all  the  members  of  a
+  (4)  All  meetings of committees shall be recorded by video and to the
+extent practicable webcast live. Video of all committee  meetings  shall
+be made available on the Senate web site.
+  (5)  Upon  the  personal  vote  of  a majority of all the members of a
 committee, taken in an open meeting pursuant to a motion identifying the
-general  area  or  areas  of the subject or subjects to be considered, a
+general area or areas of the subject or subjects  to  be  considered,  a
 committee may conduct an executive session of which only members of such
-committee are present for the following  enunciated  purposes  provided,
+committee  are  present  for the following enunciated purposes provided,
 however,  that  no  action  by formal vote shall be taken to appropriate
 public monies:
   (a) matters which will imperil the public safety if disclosed;
-  (b)  any  matter  which may disclose the identity of a law enforcement
+  (b) any matter which may disclose the identity of  a  law  enforcement
 agent or informer;
   (c)  information  relating  to  current  or  future  investigation  or
-prosecution  of  a  criminal  offense  which would imperil effective law
+prosecution of a criminal offense  which  would  imperil  effective  law
 enforcement if disclosed;
   (d) discussions regarding proposed, pending or current litigation;
-  (e) collective negotiations pursuant to Article fourteen of the  Civil
+  (e)  collective negotiations pursuant to Article fourteen of the Civil
 Service Law;
   (f) the medical, financial, credit, character or employment history of
-any  person  or  corporation,  or  matters  leading  to the appointment,
-employment, promotion, demotion, discipline,  suspension,  dismissal  or
+any person or  corporation,  or  matters  leading  to  the  appointment,
+employment,  promotion,  demotion,  discipline, suspension, dismissal or
 removal of any person or corporation;
   (g) the preparation, grading or administration of examinations; and
   (h) the proposed acquisition, sale or lease of real property, but only
 when publicity would substantially affect the value of the property.
-  (6)  Attendance  at  an  executive  session  shall be permitted to any
-member of  the  committee  and  any  other  persons  authorized  by  the
+  (6) Attendance at an executive  session  shall  be  permitted  to  any
+member  of  the  committee  and  any  other  persons  authorized  by the
 committee.
   b. (1) Minutes shall be taken at all open meetings of committees which
-shall  consist  of  a  record  or  summary  of  all  motions, proposals,
-resolutions and any other  matter  formally  voted  upon  and  the  vote
+shall consist  of  a  record  or  summary  of  all  motions,  proposals,
+resolutions  and  any  other  matter  formally  voted  upon and the vote
 thereon.
   (2) Minutes shall be taken at executive sessions of any action that is
-taken  by  formal vote which shall consist of a record or summary of the
-final determination of such action,  and  the  date  and  vote  thereon;
-provided,  however, that such summary shall not include any matter which
+taken by formal vote which shall consist of a record or summary  of  the
+final  determination  of  such  action,  and  the date and vote thereon;
+provided, however, that such summary shall not include any matter  which
 is not required to be made public by "the freedom of information law" as
 added by Article six of the Public Officers Law.
-  (3) Minutes of meetings of all committees shall be  available  to  the
-public  in  accordance  with the provisions of Article six of the Public
-Officers Law, "the freedom of information law", and  at  such  time  and
-place  as prescribed by the Temporary President, provided, however, that
-minutes for executive session meetings shall be available to the  public
+  (3)  Minutes  of  meetings of all committees shall be available to the
+public in accordance with the provisions of Article six  of  the  Public
+Officers  Law,  "the  freedom  of information law", and at such time and
+place as prescribed by the Temporary President, provided, however,  that
+minutes  for executive session meetings shall be available to the public
 within one week from the date of such executive session.
-  c.  The provisions of this section except paragraphs three and four of
-subdivision a, and subdivision b shall not apply  to  the  Committee  on
+  c. The provisions of this section except paragraphs three and four  of
+subdivision  a,  and  subdivision  b shall not apply to the Committee on
 Rules or the Ethics and Internal Governance Committee.
-  d.  Committee  presentations.  The  chair  of  a  committee may invite
+  d. Committee presentations.  The  chair  of  a  committee  may  invite
 interested persons to offer a presentation for a given amount of time on
-a bill on the  meeting  agenda  with  notice  provided  to  the  ranking
-Minority  Conference  member  no less than seventy-two hours in advance.
-Where a committee chair makes such an  invitation,  the  ranking  member
+a  bill  on  the  meeting  agenda  with  notice  provided to the ranking
+Minority Conference member no less than seventy-two  hours  in  advance.
+Where  a  committee  chair  makes such an invitation, the ranking member
 shall be afforded an equal number of speakers who may speak for an equal
-amount  of  time. In addition, the ranker, without consent of the chair,
+amount of time. In addition, the ranker, without consent of  the  chair,
 shall  be  able  to  schedule  three committee presentations with notice
 provided to the chair at least seventy-two hours in advance.  The  chair
 shall be afforded an equal number of speakers who may speak for an equal
 amount of time.
   e.  Motion  for  committee  consideration.  No  motion  for  committee
-consideration shall be in order after the first Monday in May.   In  the
+consideration shall be in order after the first Monday in  May.  In  the
 course  of  a session year the sponsor of any bill may file, through the
 Journal Clerk, no more than three motions for  committee  consideration.
 Such  motions  shall  be  in order forty-five days after a bill has been
@@ -717,92 +724,92 @@ filed, the chair of the committee shall place the bill  on  a  committee
 agenda  and  schedule  a vote on the bill within forty-five days, if the
 forty-five days shall expire while the senate is  in  recess,  the  bill
 shall  be  placed  on  the  next regularly scheduled committee meeting's
-agenda following the end of the forty-five day period.  In the case of a
-bill  that  is  referred  to  a  standing  committee  having   secondary
-reference,  the  bill  shall be considered within the next two committee
+agenda following the end of the forty-five day period. In the case of  a
+bill   that  is  referred  to  a  standing  committee  having  secondary
+reference, the bill shall be considered within the  next  two  committee
 meetings.
   § 3. Ethics and Internal Governance Committee. The Ethics and Internal
 Governance Committee may sit at any time and shall hold regular meetings
-at such time and on such day as scheduled by the Temporary President  of
-the  Senate  in  consultation with the Chair. The committee shall review
-any matter deemed appropriate by the affirmative vote of  at  least  one
-member  from  each  conference.    The  committee shall evaluate and, if
+at  such time and on such day as scheduled by the Temporary President of
+the Senate in consultation with the Chair. The  committee  shall  review
+any  matter  deemed  appropriate by the affirmative vote of at least one
+member from each  conference.  The  committee  shall  evaluate  and,  if
 necessary, make recommendations regarding compliance with Rules X, XIII,
-XIV  and  XV.  The  committee  shall  review,  and  if  necessary,  make
-recommendations  regarding  policies  of  the  Senate, including but not
-limited to per diem  and  travel  expenses,  time  and  attendance,  and
-workplace  ethics.  The  committee  shall report annually as required in
+XIV  and  XV.    The  committee  shall  review,  and  if necessary, make
+recommendations regarding policies of  the  Senate,  including  but  not
+limited  to  per  diem  and  travel  expenses,  time and attendance, and
+workplace ethics. The committee shall report  annually  as  required  in
 sections four and five of Rule IV. The committee shall have jurisdiction
 over any matter referred to it by the Secretary of the Senate pertaining
-to the ethical conduct of legislative members.   Any  recommendation  or
+to  the  ethical  conduct  of legislative members. Any recommendation or
 referral made by the committee on any matter other than a vote to report
-legislation  from  the  committee  must have the affirmative vote of the
-majority of members appointed and the affirmative vote of at  least  one
+legislation from the committee must have the  affirmative  vote  of  the
+majority  of  members appointed and the affirmative vote of at least one
 member from both the Majority and Minority Conferences.
-  §  4.  Committee  on Rules. The Committee on Rules may sit at any time
-and shall report bills out of committee only if  they  shall  have  been
-duly  reported  to  the  Committee on Rules from a standing committee of
-origin, or from a committee of secondary reference, or if the  chair  of
-such  standing  committee  consents,  or if the bill was referred to the
-Committee on Rules upon introduction. Other than a  motion  to  hold,  a
-motion  to discharge, or a motion to report, no other motion shall be in
-order in the Committee on Rules without the  consent  of  the  Committee
-Chair.  The reception and consideration of its report shall always be in
-order; debate on its adoption shall not exceed one hour,  with  one-half
-hour  for  each  conference,  such  time to be allotted by the Temporary
-President and Minority Leader; and no other motion, except a  motion  by
-the  Temporary  President  for  a  call  of the Senate, to adjourn or to
-recess, shall be in order until the vote of the Senate is  had  thereon.
-If  the  report  be  adopted, all inconsistent rules of the Senate shall
-automatically be suspended until the subject of  such  report  has  been
+  § 4. Committee on Rules. The Committee on Rules may sit  at  any  time
+and  shall  report  bills  out of committee only if they shall have been
+duly reported to the Committee on Rules from  a  standing  committee  of
+origin,  or  from a committee of secondary reference, or if the chair of
+such standing committee consents, or if the bill  was  referred  to  the
+Committee  on  Rules  upon  introduction. Other than a motion to hold, a
+motion to discharge, or a motion to report, no other motion shall be  in
+order  in  the  Committee  on Rules without the consent of the Committee
+Chair. The reception and consideration of its report shall always be  in
+order;  debate  on its adoption shall not exceed one hour, with one-half
+hour for each conference, such time to  be  allotted  by  the  Temporary
+President  and  Minority Leader; and no other motion, except a motion by
+the Temporary President for a call of  the  Senate,  to  adjourn  or  to
+recess,  shall  be in order until the vote of the Senate is had thereon.
+If the report be adopted, all inconsistent rules  of  the  Senate  shall
+automatically  be  suspended  until  the subject of such report has been
 disposed of, including final action thereon.
-  §  5.  Hearings.  a. Committee hearings. Chairs of standing committees
-may call  public  hearings  to  permit  interested  persons,  groups  or
-organizations  the  opportunity  to  testify  orally  or  in  writing on
+  § 5. Hearings. a. Committee hearings. Chairs  of  standing  committees
+may  call  public  hearings  to  permit  interested  persons,  groups or
+organizations the  opportunity  to  testify  orally  or  in  writing  on
 legislation or issues pending before such standing committee. Chairs are
-encouraged to hold public hearings on legislation  of  important  public
-interest,  where,  outside  of  the  budget, significant public money is
-allocated, broad conduct is regulated or where the proposal has a  broad
-public  impact. Chairs may request that the Official Stenographer make a
-stenographic record of  a  public  hearing.  Official  hearings  may  be
-conducted  in accordance with procedure established by law. No committee
-may take testimony at a hearing unless at least two of its  members  are
-present  at  such  hearing. Prior notice of all public hearings shall be
-filed by the chair or his or her  designee  with  The  Legislative  Bill
-Drafting  Commission  and  the  Secretary  of the Senate and such notice
+encouraged  to  hold  public hearings on legislation of important public
+interest, where, outside of the  budget,  significant  public  money  is
+allocated,  broad conduct is regulated or where the proposal has a broad
+public impact. Chairs may request that the Official Stenographer make  a
+stenographic  record  of  a  public  hearing.  Official  hearings may be
+conducted in accordance with procedure established by law. No  committee
+may  take  testimony at a hearing unless at least two of its members are
+present at such hearing. Prior notice of all public  hearings  shall  be
+filed  by  the  chair  or  his or her designee with The Legislative Bill
+Drafting Commission and the Secretary of  the  Senate  and  such  notice
 shall contain information as to subject matter, date and place.
-  b. Public forums. Notwithstanding the  public  hearings  conducted  by
-standing  committees, any Senator may convene a public forum on proposed
+  b.  Public  forums.  Notwithstanding  the public hearings conducted by
+standing committees, any Senator may convene a public forum on  proposed
 or pending legislation within the jurisdiction of a committee upon which
-he or she is a member, provided that any charge  incurred  attendant  to
-such  forum  be  borne  by  said Senator or his or her party conference.
-Prior notice of such  forum  shall  be  filed  with  the  chair  of  the
+he  or  she  is a member, provided that any charge incurred attendant to
+such forum be borne by said Senator or  his  or  her  party  conference.
+Prior  notice  of  such  forum  shall  be  filed  with  the chair of the
 committee.
-  c.  Committee  oversight function. Each standing committee is required
-to conduct oversight of the  administration  of  laws  and  programs  by
+  c. Committee oversight function. Each standing committee  is  required
+to  conduct  oversight  of  the  administration  of laws and programs by
 agencies within its jurisdiction.
-  d.  Each  standing committee is required to file with the Secretary of
-the Senate an annual report, detailing  its  legislative  and  oversight
+  d. Each standing committee is required to file with the  Secretary  of
+the  Senate  an  annual  report, detailing its legislative and oversight
 activities. Such report shall be posted to the Senate web site.
   e. Petition for a public hearing on a bill. By a petition of one-third
-of  the  members assigned to a committee rounded up to the nearest whole
+of the members assigned to a committee rounded up to the  nearest  whole
 number, a public hearing shall be scheduled on a specific bill or number
-of bills within the jurisdiction of a committee, unless the majority  of
-members  of  the committee reject such petition. Such petitions shall be
+of  bills within the jurisdiction of a committee, unless the majority of
+members of the committee reject such petition. Such petitions  shall  be
 submitted on the proper form to the Senate Desk for Operations, who will
-forward it to the appropriate committee, for presentation  at  the  next
-committee  meeting.  Such public hearings shall be held if they meet the
-guidelines as promulgated by the Temporary President.   Public  hearings
-scheduled  by petition will be held at least fourteen days following the
+forward  it  to  the appropriate committee, for presentation at the next
+committee meeting. Such public hearings shall be held if they  meet  the
+guidelines  as  promulgated  by the Temporary President. Public hearings
+scheduled by petition will be held at least fourteen days following  the
 committee meeting at which the petition was considered.
-  f. Hearings of standing committees shall be video recorded and to  the
-extent  practicable  webcast live. Video of such hearing shall be posted
+  f.  Hearings of standing committees shall be video recorded and to the
+extent practicable webcast live. Video of such hearing shall  be  posted
 to the Senate web site within twenty-four hours.
-  § 6. Reports. a. No committee shall vote to report  a  bill  or  other
-matter  unless  a  majority  of all the members thereof vote in favor of
-such report. Each report of a committee upon a bill shall have the  vote
-of  each  Senator  attached  thereto  and  such report and vote shall be
-available for public inspection. A member's vote on  any  matter  before
+  §  6.  Reports.  a.  No committee shall vote to report a bill or other
+matter unless a majority of all the members thereof  vote  in  favor  of
+such  report. Each report of a committee upon a bill shall have the vote
+of each Senator attached thereto and  such  report  and  vote  shall  be
+available  for  public  inspection. A member's vote on any matter before
 the committee shall be entered by the member on a signed official voting
 sheet delivered to the Committee Chair.
   Any  standing  committee  having secondary subject matter jurisdiction
@@ -858,34 +865,34 @@ shall  not  be  confirmed  without  reference  on the day on which it is
 received except by unanimous consent. The names of those who  voted  for
 or  against the nomination may be entered alphabetically on the journal,
 if any five Senators request it.
-  §  8.  Finance  Committee.  A  bill  or  resolution  providing  for an
+  § 8.  Finance  Committee.  A  bill  or  resolution  providing  for  an
 appropriation or creating or increasing a charge upon the State Treasury
-shall, when reported by any committee other than the Finance  Committee,
-be  referred  to the Finance Committee, and the committee reporting such
-bill or resolution shall, at the time of making such  report,  recommend
-the  further  reference thereof to the Finance Committee. At the request
-of the Temporary President or the Chair of the  Finance  Committee,  any
-such  bill  or  resolution  shall,  at  any time before final reading or
-adoption, be referred to the Finance Committee, which may  consider  and
+shall,  when reported by any committee other than the Finance Committee,
+be referred to the Finance Committee, and the committee  reporting  such
+bill  or  resolution shall, at the time of making such report, recommend
+the further reference thereof to the Finance Committee. At  the  request
+of  the  Temporary  President or the Chair of the Finance Committee, any
+such bill or resolution shall, at  any  time  before  final  reading  or
+adoption,  be  referred to the Finance Committee, which may consider and
 report  upon  any  features  in  the  bill  or  resolution  creating  or
 increasing such charge.
-  The sponsor of a bill providing for an increase or decrease  in  state
+  The  sponsor  of a bill providing for an increase or decrease in state
 revenues or in the appropriation or expenditure of state moneys, without
-stating  the amount thereof, must, before such bill is reported from the
-Finance Committee or other committee to which referred,  file  with  the
-Finance  Committee  and  such  other committee a fiscal note which shall
-state, so far as possible, the amount  in  dollars  whereby  such  state
-moneys,  revenues  or  appropriations  would  be  affected by such bill,
-together with a similar estimate, if the same is  possible,  for  future
-fiscal  years.  Such an estimate must be secured by the sponsor from the
-Division of the Budget or the department or agency of  state  government
-charged  with  the  fiscal  duties, functions or powers provided in such
-bill and the name of such department or agency must be  stated  in  such
+stating the amount thereof, must, before such bill is reported from  the
+Finance  Committee  or  other committee to which referred, file with the
+Finance Committee and such other committee a  fiscal  note  which  shall
+state,  so  far  as  possible,  the amount in dollars whereby such state
+moneys, revenues or appropriations  would  be  affected  by  such  bill,
+together  with  a  similar estimate, if the same is possible, for future
+fiscal years. Such an estimate must be secured by the sponsor  from  the
+Division  of  the Budget or the department or agency of state government
+charged with the fiscal duties, functions or  powers  provided  in  such
+bill  and  the  name of such department or agency must be stated in such
 note.
-  The  Finance  Committee  shall keep and maintain a file containing all
-bills requiring fiscal notes and the notes appertaining  thereto,  which
-shall  be  available  to Senators and officers of the Senate, accredited
-representatives of the press, and other  responsible  persons  having  a
+  The Finance Committee shall keep and maintain a  file  containing  all
+bills  requiring  fiscal notes and the notes appertaining thereto, which
+shall be available to Senators and officers of  the  Senate,  accredited
+representatives  of  the  press,  and other responsible persons having a
 legitimate interest therein.
                                 RULE VIII
 PASSAGE OF BILLS
@@ -949,45 +956,45 @@ calendar of any given day, the Temporary President may publish an active
 list  of  bills on the third reading calendar which may be acted upon on
 that date and he or she may lay aside  any  bill  upon  which  no  final
 action  may  be  taken,  provided however, that no bill shall be so laid
-aside for a period exceeding five calendar legislative days.  Bills laid
+aside for a period exceeding five calendar legislative days. Bills  laid
 aside by the Temporary President shall retain their place in the regular
-order of business until called for debate by  the  Temporary  President.
-Such  active list shall be published to the extent practicable by 8 p.m.
-the previous evening or within  two  hours  following  the  end  of  the
-previous days' session, whichever is later.
-  b.  The question on the final passage of every bill on the active list
-shall be taken immediately after the third reading and  without  debate.
+order  of  business  until called for debate by the Temporary President.
+Such active list shall be published to the extent practicable by 8  p.m.
+the  previous  evening  or  within  two  hours  following the end of the
+previous day's session, whichever is later.
+  b. The question on the final passage of every bill on the active  list
+shall  be  taken immediately after the third reading and without debate.
 On the final passage of every bill and concurrent resolution a fast roll
 call shall be taken by the Secretary calling the names of five Senators,
-two  of  whom  shall  be the Temporary President and the Minority Leader
-provided, however, that each Senator's name shall be called  on  a  slow
-roll  call  if requested by five Senators. Each roll call, including the
-names of the Senators who were absent shall be entered on  the  journal.
-Upon  each roll call vote, the Secretary shall announce the names of the
-Senators voting in the negative and the names of the Senators  who  were
-absent.  Such  roll  calls shall be available for public inspection upon
-request in the office of the Journal Clerk. When a  bill  or  concurrent
-resolution  does  not  receive  the  number  of  votes  required  by the
-Constitution to pass it, it shall be  declared  lost,  except  in  cases
-provided for by subdivision d of section two of Rule IX hereof.
-  §  7.  Starred  bills.  a.  A  bill  appearing  on the calendar may be
-"starred" only by or on behalf of the introducer, whereupon all  further
+two of whom shall be the Temporary President  and  the  Minority  Leader
+provided,  however,  that  each Senator's name shall be called on a slow
+roll call if requested by five Senators. Each roll call,  including  the
+names  of  the Senators who were absent shall be entered on the journal.
+Upon each roll call vote, the Secretary shall announce the names of  the
+Senators  voting  in the negative and the names of the Senators who were
+absent. Such roll calls shall be available for  public  inspection  upon
+request  in  the  office of the Journal Clerk. When a bill or concurrent
+resolution does  not  receive  the  number  of  votes  required  by  the
+Constitution  to  pass  it,  it  shall be declared lost, except in cases
+provided for by subdivision d of section two of Rule IX.
+  § 7. Starred bills. a.  A  bill  appearing  on  the  calendar  may  be
+"starred"  only by or on behalf of the introducer, whereupon all further
 action on such bill shall be suspended, although it retains its place on
 the Calendar.
-  b.  Other  than for the purpose of amendment or recommittal, no action
-may be taken on a bill from which a star has been removed until one  day
+  b. Other than for the purpose of amendment or recommittal,  no  action
+may  be taken on a bill from which a star has been removed until one day
 after such removal.
   § 8. Recall and concurrence. All Senate bills amended by the Assembly,
-and  returned  to the Senate, for its concurrence, and all bills amended
-by the report of  a  conference  committee,  shall  be  subject  to  the
+and returned to the Senate, for its concurrence, and all  bills  amended
+by  the  report  of  a  conference  committee,  shall  be subject to the
 provisions of section one of this Rule.
-  §  9. Transmittal of bills to the Governor. All Senate bills passed by
-the Senate and sent to the Assembly for action shall, upon  passage  and
+  § 9. Transmittal of bills to the Governor. All Senate bills passed  by
+the  Senate  and sent to the Assembly for action shall, upon passage and
 return by the Assembly to the Senate, be transmitted by the Secretary of
-the  Senate  to  the  Governor within thirty days after receipt from the
-Assembly; except that upon the filing of a request  to  hold  such  bill
-with  the Temporary President by the sponsor of the bill, the bill shall
-be held until such time as the sponsor rescinds the request to hold  the
+the Senate to the Governor within thirty days  after  receipt  from  the
+Assembly;  except  that  upon  the filing of a request to hold such bill
+with the Temporary President by the sponsor of the bill, the bill  shall
+be  held until such time as the sponsor rescinds the request to hold the
 bill and upon such rescission the Secretary of the Senate shall transmit
 the bill to the Governor within seven days.
                                  RULE IX
@@ -1008,9 +1015,19 @@ Senator  absent  from a roll call vote shall be allowed to vote thereon;
 however, within the same day, a Senator  required  to  attend  a  public
 hearing  or  other meeting of a standing or conference committee, or any
 other meeting which the Temporary President designates  as  appropriate,
-may  cast his or her vote at any time prior to 5 P.M. or the adjournment
+may  cast his or her vote at any time prior to 5 p.m. or the adjournment
 of the Senate, whichever shall be later.
-  b. A Senator desiring to be excused from voting for a direct  personal
+  b. Notwithstanding the provisions of subdivision a  of  this  section,
+during  a  declared  period  of  a  state  of  emergency,  the Temporary
+President may promulgate  a  policy  allowing  for  Senators  to  be  in
+attendance  and  participate  in any proceeding of the Senate, including
+voting on any bill on the controversial calendar, by remote means, which
+may include  but  shall  not  be  limited  to  teleconference  or  video
+conference.   A   technical   failure   resulting   in  the  inadvertent
+disconnection  of  any  Senator  or  group  of  Senators   from   Senate
+proceedings  shall  not invalidate any action taken by a majority of the
+Senators elected.
+  c. A Senator desiring to be excused from voting for a direct  personal
 or  pecuniary interest in the issue then before the Senate may, when his
 or her name is called, state such desire and if there  be  an  objection
 make  a  brief statement, not occupying over two minutes, of the reasons
@@ -1043,55 +1060,58 @@ Senators, or a quorum of three-fifths thereof, is  under  consideration,
 such  concurrence  or quorum, as the case may be, shall not be requisite
 except on the question of its final passage.
   f. If at any time during the session of the Senate a question shall be
-raised  by  any  Senator  as  to the presence of a quorum, the Presiding
+raised by any Senator as to the presence  of  a  quorum,  the  Presiding
 Officer shall forthwith direct the Secretary to call the roll, and shall
 announce the result, and such proceeding shall be without debate; but no
 Senator while speaking shall be interrupted by any other Senator raising
-the question of a lack of a quorum, and the question as to the  presence
-of  a  quorum  shall  not  be  raised more often than once in every hour
-unless the lack of a quorum shall be disclosed upon a roll call  of  the
+the  question of a lack of a quorum, and the question as to the presence
+of a quorum shall not be raised more  often  than  once  in  every  hour
+unless  the  lack of a quorum shall be disclosed upon a roll call of the
 ayes and nays.
-  g.  Whenever upon a roll call any Senator who is upon the floor of the
-Senate Chamber refuses to make response when his or her name is  called,
-it  shall  be  the duty of the Presiding Officer, either upon his or her
+  g. Whenever upon a roll call any Senator who is upon the floor of  the
+Senate  Chamber refuses to make response when his or her name is called,
+it shall be the duty of the Presiding Officer, either upon  his  or  her
 own motion or upon the suggestion of any Senator, to request the Senator
-so remaining silent to respond to his or her name, and if  such  Senator
+so  remaining  silent to respond to his or her name, and if such Senator
 fails to do so, the fact of such request and refusal shall be entered in
-the  journal,  and  such  Senator  shall  be  counted as present for the
+the journal, and such Senator  shall  be  counted  as  present  for  the
 purpose of constituting a quorum.
-  § 3. Debate. a. Debate shall only be in order when it  is  germane  to
+  h.  The  Presiding Officer shall determine whether a member is present
+for the purposes of quorum  in  a  manner  consistent  with  any  policy
+provided for pursuant to subdivision b of section one of this Rule.
+  §  3.  Debate.  a. Debate shall only be in order when it is germane to
 the question under discussion.
-  b.  If  the  question in debate contains several points, a Senator may
-have the same divided, provided  the  division  called  for  embodies  a
+  b. If the question in debate contains several points,  a  Senator  may
+have  the  same  divided,  provided  the  division called for embodies a
 distinct principle or statement of fact.
-  c.  When  any bill, resolution or motion is under consideration and it
-appears that no Senator desires  to  be  heard  further,  the  Presiding
-Officer  shall  put  the  question: "Does any Senator desire to be heard
-further?" If no Senator shall rise  to  debate,  the  Presiding  Officer
-shall  declare  the  debate  closed; except that thereafter the Minority
-Leader may speak once, or may yield the floor to  any  Senator  who  may
-speak  once, and may be followed by the Temporary President who may also
-speak once, or may yield the floor to any Senator who  may  speak  once.
+  c. When any bill, resolution or motion is under consideration  and  it
+appears  that  no  Senator  desires  to  be heard further, the Presiding
+Officer shall put the question: "Does any Senator  desire  to  be  heard
+further?"  If  no  Senator  shall  rise to debate, the Presiding Officer
+shall declare the debate closed; except  that  thereafter  the  Minority
+Leader  may  speak  once,  or may yield the floor to any Senator who may
+speak once, and may be followed by the Temporary President who may  also
+speak  once,  or  may yield the floor to any Senator who may speak once.
 The main question shall then be put immediately.
-  d.  Debate on motions or resolutions other than concurrent resolutions
-shall be limited to  one  hour  with  one-half  hour  allocated  to  the
-Majority   Conference  and  one-half  hour  allocated  to  the  Minority
-Conference.   Debate upon any bill or  concurrent  resolution  shall  be
-limited  to  four  hours,  which  shall  include sufficient time for all
+  d. Debate on motions or resolutions other than concurrent  resolutions
+shall  be  limited  to  one  hour  with  one-half  hour allocated to the
+Majority  Conference  and  one-half  hour  allocated  to  the   Minority
+Conference.    Debate  upon  any  bill or concurrent resolution shall be
+limited to four hours, which  shall  include  sufficient  time  for  all
 Senators to explain their votes. No single Senator shall debate any bill
-or concurrent resolution for more than thirty minutes. When any bill  or
+or  concurrent resolution for more than thirty minutes. When any bill or
 concurrent resolution shall have been under consideration for two hours,
-including  all  amendments thereto, it shall be in order for any Senator
-to move to close debate, and the Presiding Officer shall  recognize  the
-Senator  who  wishes  to  make  such motion. Such motion to close debate
+including all amendments thereto, it shall be in order for  any  Senator
+to  move  to close debate, and the Presiding Officer shall recognize the
+Senator who wishes to make such motion.  Such  motion  to  close  debate
 shall not be amendable or debatable and shall be immediately put, and if
-it shall receive the affirmative vote of  a  majority  of  the  Senators
-elected,  the  pending  measure  shall  take  precedence  over all other
+it  shall  receive  the  affirmative  vote of a majority of the Senators
+elected, the pending  measure  shall  take  precedence  over  all  other
 business.
-  e. The vote shall thereupon be taken upon  such  bill,  resolution  or
-motion  with  such  amendments  as  may  be  pending at the time of such
-motion, according to the  Rules  of  the  Senate,  but  without  further
-debate,  except that upon the roll call the sponsor of a bill before the
+  e.  The  vote  shall  thereupon be taken upon such bill, resolution or
+motion with such amendments as may  be  pending  at  the  time  of  such
+motion,  according  to  the  Rules  of  the  Senate, but without further
+debate, except that upon the roll call the sponsor of a bill before  the
 house  may  speak,  not to exceed five minutes, in explanation of his or
 her vote, and any Senator, including co-sponsors of the bill before  the
 house,  may speak not to exceed two minutes in explanation of his or her
@@ -1115,14 +1135,14 @@ same be on appeal or otherwise, shall be decided without debate.
 Presiding Officer shall ask those in the  chamber  to  rise  and  pledge
 allegiance to the flag. Those in attendance shall remain standing during
 the  daily  invocation  and  until  asked  to  take  their  seats by the
-Presiding Officer. Senators shall not  interrupt  the  business  of  the
+Presiding Officer.  Senators shall not interrupt  the  business  of  the
 Senate,  or  read  any newspaper while the journals or public papers are
 being read; or walk out of or across  the  Chamber  when  the  Presiding
 Officer  is  putting  a  question;  or  when a Senator is speaking, pass
 between him or her and the Chair. Cellular telephones and audible pagers
 shall not be used in the Chamber or Galleries. No sign, placard or  prop
 shall  be  displayed,  posted or carried in the Chamber or in the Senate
-Galleries.  Cellular telephones shall not be used to  take  photographs,
+Galleries. Cellular telephones shall not be used  to  take  photographs,
 videos  or  perform  any other recording function in the Senate Chamber,
 Galleries or Lobbies without permission of the Secretary of the  Senate,
 except  those photographic and recording functions performed by official
@@ -1130,14 +1150,15 @@ Senate photographers and videographers.  Accredited  representatives  of
 the press as so designated by the Legislative Correspondents Association
 shall be generally authorized to take photographs, videos or perform any
 other  recording  function  in  the Senate Chamber, Galleries or Lobbies
-unless otherwise specified by the Secretary of the Senate.    No  person
+unless otherwise specified by the Secretary of  the  Senate.  No  person
 shall  be  introduced  by  a  Senator during the regular business of the
 Senate, except that it shall be permissible to introduce  a  person  who
 has served as a member of the New York State Legislature or a person who
 is  present in the Chamber for the purpose of nomination to an office to
-be confirmed by the Senate. On the nomination of any person to an office
-which is subject to the  confirmation  of  the  Senate,  nominating  and
-seconding speeches shall be limited to fifteen minutes per conference.
+be confirmed by the Senate.   On the nomination  of  any  person  to  an
+office  which  is  subject to the confirmation of the Senate, nominating
+and  seconding  speeches  shall  be  limited  to  fifteen  minutes   per
+conference.
   b. Members are expected to uphold the highest standards of civility in
 dealing  with  other  members. Debate should be dignified and lacking in
 personal invective. A Senator rising to debate or present  a  paper,  to
@@ -1146,45 +1167,48 @@ Officer and shall not proceed further until recognized by the Chair;  he
 or  she  shall  speak on the same subject but twice the same day without
 leave of the Senate; and when two or more Senators  address  the  Chair,
 the  Presiding  Officer  shall name the Senator who is first to speak. A
-Senator,  while  speaking  after  recognition  by  the  Chair, may, upon
-request of a Senator, yield to him or her  temporarily  without  thereby
-relinquishing  his  or her prior right to the floor and, thereafter, may
-terminate such interruption and resume speaking at any  time;  provided,
+Senator, while speaking  after  recognition  by  the  Chair,  may,  upon
+request  of  a  Senator, yield to him or her temporarily without thereby
+relinquishing his or her prior right to the floor and,  thereafter,  may
+terminate  such  interruption and resume speaking at any time; provided,
 however, that it shall not be in order for a Senator to rise and request
 that a Senator, other than the one with the right to the floor, yield to
-a  question.  Furthermore,  it shall not be in order for a Senator, with
-the right to the floor, to ask another Senator to yield to  a  question,
-unless  such  Senator  has  previously  spoken  during the debate on the
+a question. Furthermore, it shall not be in order for  a  Senator,  with
+the  right  to the floor, to ask another Senator to yield to a question,
+unless such Senator has previously  spoken  during  the  debate  on  the
 matter. All questions and responses shall be directed through the Chair,
-and the Presiding Officer shall not be interrupted when speaking.  After
-completion  of the order of business for the day, and with the unanimous
-consent of the Senate, a Senator may make  a  statement,  not  exceeding
-fifteen  minutes  in  length, concerning a subject or matter not pending
+and  the Presiding Officer shall not be interrupted when speaking. After
+completion of the order of business for the day, and with the  unanimous
+consent  of  the  Senate,  a Senator may make a statement, not exceeding
+fifteen minutes in length, concerning a subject or  matter  not  pending
 before the Senate for consideration.
-  c. When a Senator shall be called to order, he or she shall  take  his
+  c.  When  a Senator shall be called to order, he or she shall take his
 or her seat until the Presiding Officer shall have determined whether he
-or  she is in order or not; and if decided to be out of order, he or she
-shall not proceed without  the  permission  of  the  Senate;  and  every
-question  of order shall be decided by the Presiding Officer, subject to
-an appeal to the Senate by any Senator. It shall require an  affirmative
-vote  of  a  majority of all members elected to overrule a ruling of the
-Chair. No second appeal shall be determined until  the  original  appeal
-shall  be  decided;  and if a Senator shall be called to order for words
-spoken, the words  excepted  to  shall  be  immediately  taken  down  in
+or she is in order or not; and if decided to be out of order, he or  she
+shall  not  proceed  without  the  permission  of  the Senate; and every
+question of order shall be decided by the Presiding Officer, subject  to
+an  appeal to the Senate by any Senator. It shall require an affirmative
+vote of a majority of all members elected to overrule a  ruling  of  the
+Chair.  No  second  appeal shall be determined until the original appeal
+shall be decided; and if a Senator shall be called to  order  for  words
+spoken,  the  words  excepted  to  shall  be  immediately  taken down in
 writing.
-  §  5.  Presentation  of  papers. a. A Senator presenting a paper shall
-endorse the same with his or her name and a brief written  statement  of
+  § 5. Presentation of papers. a. A Senator  presenting  a  paper  shall
+endorse  the  same with his or her name and a brief written statement of
 the subject of its contents.
-  b.  When  the  reading of a paper is called for, except petitions, and
+  b. When the reading of a paper is called for,  except  petitions,  and
 the same is objected to by any Senator, it shall be determined by a vote
 of the Senate, without debate.
   § 6. Call of the Senate. For the purpose of securing the attendance of
 Senators, a call of the Senate may be ordered at any time, but such call
-shall not be in order after the voting on any question  has  begun,  nor
-after  the  third  reading  of  a bill has been completed, nor after the
-motion to close debate has been ordered pursuant  to  section  three  of
-this  Rule, unless it shall appear upon an actual count by the Presiding
-Officer that a quorum is not present.
+shall  not  be  in order after the voting on any question has begun, nor
+after the third reading of a bill has  been  completed,  nor  after  the
+motion  to  close  debate  has been ordered pursuant to section three of
+this Rule, unless it shall appear upon an actual count by the  Presiding
+Officer  that  a  quorum  is  not  present.  The Presiding Officer shall
+determine whether a member is present for the  purposes  of  any  quorum
+required  by  this  section  in  accordance with any policy provided for
+pursuant to subdivision b of section one of this Rule.
   § 7. Absences. In all cases of absence of Senators during the sessions
 of the Senate, the Temporary President or a  majority  of  the  Senators
 elected  may  take  such  measures  as they deem necessary to secure the
@@ -1265,7 +1289,7 @@ amendment to or suspension of the Senate Rules shall  be  considered  by
 the  Senate  unless  a  resolution  for  such  amendment  or suspension,
 together with a  memorandum  specifying  the  purpose  of  the  proposed
 amendment,  suspension,  or  rescission,  shall  be  introduced  to  the
-Committee on Rules and reported therefrom to the Senate floor.   Passing
+Committee on Rules and reported therefrom to the Senate  floor.  Passing
 of   any  such  rules  change  shall  require  an  affirmative  vote  of
 three-fifths of all Senators elected.
   § 2. Motion for Chamber Consideration. a. It shall be in order for any
@@ -1340,9 +1364,9 @@ calendars, the Senate payroll report and expenditure reports.
 available  for  public  inspection  and  copying  in accordance with the
 provisions of Article 6 of the Public  Officers  Law,  "The  Freedom  of
 Information Law."
-  c.   The Secretary of the Senate shall be the repository for all rules
+  c.  The  Secretary of the Senate shall be the repository for all rules
 and regulations  regarding  public  inspection  and  copying  of  Senate
-records.  Such  rules  and  regulations  shall  pertain to the times and
+records.    Such  rules  and  regulations shall pertain to the times and
 places such records are available, the persons from  whom  such  records
 may  be obtained, the fees for copies of such records and the procedures
 to be followed.
@@ -1366,1032 +1390,3 @@ issue or the candidacy of any person for any elective office; or
   § 2. The televised proceedings of sessions of the Senate  as  provided
 for  in  section  one  of  this  Rule,  in any form, shall be deemed the
 property of the New York State Senate.
-            PERMANENT JOINT RULES OF THE SENATE AND ASSEMBLY
-                              JOINT RULE I
-  Section  1.  Requirement  of  Fiscal Impact Notes. Fiscal impact notes
-shall be required  for  all  bills  and  amendments,  other  than  those
-excepted  as  provided in section four hereof, which would substantially
-affect the revenues or expenses, or both, of  any  county,  city,  town,
-village, school district or special district (hereinafter referred to as
-"political  subdivisions").  For purposes of this Joint Rule and section
-51 of the Legislative Law, the term  "special  district"  shall  mean  a
-district  possessing  the  power  to  contract  indebtedness and levy or
-require the levy of taxes or benefit assessments upon real property.
-  § 2. Sufficiency and Contents of Fiscal Impact  Notes.  Fiscal  impact
-notes  shall  be  deemed  sufficient  for purposes of this Joint Rule if
-prepared in conformity with this section.
-  A.  Scope  of  fiscal  estimates.   Fiscal   impact   upon   political
-subdivisions  shall  be estimated on the basis of any one or more of the
-following:
-  (i) Individual political subdivisions; or
-  (ii) Aggregates of political subdivisions (a) statewide or  by  lesser
-geographic  area,  or  (b)  by  classification  or  subclassification of
-relevant characteristics; or
-  (iii)   Representative   political    subdivisions    with    relevant
-characteristics  thereof  quantitatively  set  forth,  e.g., population,
-area, weighted average daily attendance of pupils; or
-  (iv) Any other  appropriate,  convenient  or  accessible  grouping  of
-political subdivisions.
-  B.  Units  of measurement. Fiscal impact measurements shall be made in
-units of money, personal services, equipment, or any other  appropriate,
-convenient or accessible units of measurement.
-  C.  Negligible  Impact. A fiscal impact note filed by the sponsor of a
-bill which states that the fiscal impact of the bill is negligible shall
-be deemed to be in compliance with this Joint Rule.
-  § 3. Procedure. A. (i) The Temporary President of the Senate  and  the
-Speaker  of the Assembly shall each designate a person in such officer's
-respective house to examine each bill in such house, without  regard  to
-its  house  of  origin, for the purpose of ascertaining whether a fiscal
-impact note is required pursuant to this Joint Rule, and if such note is
-required, such person shall so notify the sponsor of such bill.
-  (ii) The sponsor of such bill shall provide such fiscal impact note on
-a separate form prescribed therefor by the Temporary  President  of  the
-Senate and the Speaker of the Assembly jointly.
-  (iii)  Such  fiscal  impact note shall state the source thereof, which
-may be the sponsor; provided, however,  that  in  the  case  of  a  bill
-proposed  by  a  state department or agency, such note shall be prepared
-and furnished by such department or agency.
-  (iv)  Such designated person in each house shall thereupon review each
-fiscal impact note for compliance with  the  provisions  of  this  Joint
-Rule.
-  B.  No  bill  requiring  a fiscal impact note shall be reported to the
-floor of the house unless accompanied by the appropriate  note  for  the
-version  of  such  bill  so reported, except as provided in section four
-hereof.
-  C. If an amendment to a bill has a fiscal impact, the member  offering
-such  amendment  shall  provide  the fiscal impact note required by such
-amendment. If such amendment  prevails,  the  sponsor  shall  provide  a
-fiscal  impact  note  for  the amended bill before final passage, unless
-excepted pursuant to subdivision F of section four hereof.
-  § 4. Exceptions. A fiscal impact note shall  not  be  required  for  a
-bill:
-  A. subject to the provisions of section 50 of the Legislative Law;
-  B. requested by a county, city, town or village in accordance with the
-provisions of paragraph two of subdivision (b) of section two of Article
-IX of the Constitution;
-  C. which provides discretionary authority to a political subdivision;
-  D. submitted pursuant to section 24 of the State Finance Law;
-  E.  reported to the floor of the House by the Rules Committee, if such
-committee, in its discretion, determines that  such  action  is  in  the
-public interest;
-  F. which has been amended on the floor of either house, where a fiscal
-impact  note would otherwise have been required for such amended bill by
-this Joint Rule and section 51 of the Legislative Law, if the  Temporary
-President of the Senate or the Speaker of the Assembly, respectively, in
-such officer's discretion, determines that the amended bill may be acted
-on in such officer's house without such note; or
-  G.  which  inadvertently  passes the Legislature where a fiscal impact
-note would otherwise have been required by this Joint Rule  and  section
-51 of the Legislative Law.
-  § 5. Effect of Inaccuracy. If the estimate or estimates contained in a
-fiscal  impact  note  are  inaccurate, such inaccuracy shall not affect,
-impair or invalidate such bill.
-  § 6. Application. The provisions of this Joint  Rule  shall  apply  to
-bills  and  amendments proposed for introduction at the nineteen hundred
-eighty-five regular legislative session and permanently thereafter.
-                              JOINT RULE II
-  Section  1.  Committee  on  Conference. The Temporary President of the
-Senate and the Speaker of the  Assembly  may  jointly  convene  a  Joint
-Committee  on  Conference  to  consider  and  report  upon substantially
-similar but not identical legislation that has passed each House of  the
-Legislature.  Such  committee  shall  be  constituted by the filing of a
-joint certificate by the Temporary  President  of  the  Senate  and  the
-Speaker  of  the Assembly with the Secretary of the Senate and the Clerk
-of the Assembly, and shall consist of the same number  of  members  from
-each House. Unless otherwise provided in the certificate, there shall be
-five  members  on  such committee from each House to be appointed by the
-Temporary President of the Senate who shall appoint the members from the
-Senate and the Speaker of the Assembly who  shall  appoint  the  members
-from the Assembly; provided, however, that of each House's delegation at
-least  one  member  shall  represent  the  minority  in  each House. The
-Temporary President of the Senate and the Speaker of the Assembly  shall
-each  appoint a co-chairperson of the committee and such co-chairpersons
-shall convene and recess meetings of  the  committee.  Meetings  jointly
-convened  by  the  co-chairpersons shall be subject to the provisions of
-Article 7 of the Public Officers Law. The committee shall file a written
-report setting forth the joint recommendations of  a  majority  of  each
-House's delegation with the Secretary of the Senate and the Clerk of the
-Assembly or such other committees or officers as may be set forth in the
-certificate  and  such  report  may  include specific bill language that
-would implement the joint committee's recommendations. No  report  shall
-be  filed  except upon the affirmative vote of a majority of the members
-of each House's delegation on the committee.
-                             JOINT RULE III
-  Section  1.  Budget Consideration Schedule. In accordance with section
-54-a of the Legislative Law, within ten days of the  submission  of  the
-budget  by the Governor pursuant to article VII of the Constitution, the
-Temporary President of the Senate and the Speaker of the Assembly  shall
-promulgate  a  schedule  of  dates  for considering and acting upon such
-submission. Such schedule shall include  the  dates  for  those  actions
-required  to  be  taken by the legislature pursuant to section 53 of the
-Legislative Law, dates for the convening of a  joint  budget  conference
-committee  or  committees  as  provided herein, and a date by which such
-committee or committees shall issue a final report or reports.
-  § 2. Joint Budget Conference Committee.  In  accordance  with  section
-54-a  of  the  Legislative Law, within ten days of the submission of the
-budget by the Governor pursuant to article VII of the Constitution,  the
-Temporary  President of the Senate and the Speaker of the Assembly shall
-jointly establish a Joint Budget Conference Committee and, as they  deem
-necessary,  any number of subcommittees subordinate to such Joint Budget
-Conference Committee, to consider and reconcile such budget  resolutions
-or  bills  passed  by,  or as may be passed by, the Senate and Assembly.
-Such  Joint  Budget  Conference  Committee  shall  be  constituted   and
-conducted  as  prescribed  in  Joint  Rule II and shall file its written
-report in accord with the schedule established pursuant to section 1  of
-this rule.
-                              JOINT RULE IV
-  Section  1.  Joint  Advisory  Board  on  Broadcast of State Government
-Proceedings. The Temporary President of the Senate and  the  Speaker  of
-the  Assembly  shall  convene  a  bi-partisan, bi-cameral joint advisory
-board to  oversee  current  and  future  broadcast  of  New  York  State
-Government  proceedings.  This  board  shall consist of eight members of
-whom three shall be appointed by the Temporary President of the  Senate,
-three  members shall be appointed by the Speaker of the Assembly and one
-member shall be appointed by each of the minority leaders of each house.
-The appointments shall be of members of the  respective  houses  of  the
-Legislature.  The  Temporary  President of the Senate and the Speaker of
-the Assembly shall each appoint a co-chair of the board.
-  § 2. Duties of the Joint Advisory  Board.  The  joint  advisory  board
-shall   engage  in  such  activities  as  it  deems  necessary  for  the
-preparation and formulation of  a  report  to  review  the  efficacy  of
-current  programming  and  explore  future  expansion of such to include
-additional legislative and other governmental proceedings,  as  well  as
-other  related  public policy and educational material. The report shall
-include specific recommendations concerning the broadcast or webcast  on
-the  Internet  of  all  legislative  committee  meetings.  On  or before
-November 1, 2009,  the  report  shall  be  submitted  to  the  Temporary
-President  of  the  Senate,  the  Speaker  of the Assembly, the Minority
-Leader of the Senate and the Minority Leader of the Assembly.
-                              JOINT RULE V
-  Section  1.  Advisory  Opinions  in relation to Outside Employment.  A
-member of the legislature who intends to  undertake  or  who  undertakes
-outside  employment  shall submit to the Legislative Ethics Commission a
-written  request  for  a  formal  advisory  opinion,  pursuant  to   the
-provisions  of  paragraph  i  of  subdivision  7  of  section  80 of the
-Legislative Law, regarding whether the outside employment is  consistent
-with  the  provisions  of sections 73 and 74 of the Public Officers Law.
-For  the  purposes  of  this  joint  rule,  "outside  employment"  means
-compensation  in  excess  of 5,000 dollars per calendar year, other than
-compensation provided pursuant to sections 5 and 5-a of the  Legislative
-Law,  from  employment  for services rendered or goods sold as part of a
-regular course of any business during a member's term.
-  § 2. Timeframe. Members of the legislature shall be required to submit
-such written requests as follows:
-  a. For members of the legislature who are currently engaged in outside
-employment  and  have  not  previously  submitted  a  request   to   the
-Legislative   Ethics   Commission  for  a  formal  advisory  opinion  in
-connection with such employment, within thirty days of the  adoption  of
-this resolution by the Senate and the Assembly;
-  b.  For  members of the legislature in relation to prospective outside
-employment, prior to the receipt  of  compensation  in  excess  of  five
-thousand dollars from such outside employment; and
-  c.  For  newly-elected  members  of  the  legislature  in  relation to
-maintaining previously-held outside employment, within  thirty  days  of
-assuming office.
-  §  3.  Impact.  Such  written  advisory  opinions are binding upon the
-Legislative Ethics Commission and the Joint Commission on Public  Ethics
-in  accordance  with  the  provisions of paragraph i of subdivision 7 of
-section 80 of the Legislative Law.
-                      INDEX TO RULES OF THE SENATE
-                                    A
-ABSENTEES-----
-  Censure or penalty for unexcused ............................ X Sec. 7
-  Excuse of ................................................... X Sec. 1
-  Suspension of unexcused ....................................  X Sec. 7
-  Securing presence of ........................................ X Sec. 7
-  Sergeant at arms may be sent for ...................... X Sec. 2, sb a
-ADJOURNMENT-----
-  Limitation upon .......................................... XIII Sec. 1
-  Measure under consideration at ........................ X Sec. 3, sb f
-  Motion for, always in order, exceptions .............. VI Sec. 8, sb b
-  Debate not allowed on ................................ VI Sec. 8, sb b
-  One, only, in order after close of debate ............. X Sec. 3, sb f
-  Precedence of, when question pending ................. VI Sec. 8, sb a
-  Previous question ................................. VI Sec. 8, sb a, d
-  Reconsideration of, not in order ..................... VI Sec. 9, sb a
-ADMISSION TO FLOOR-----
-  Persons entitled to ........................................ XI Sec. 2
-  Reporters entitled to ....................................... V Sec. 5
-                                                         XI Sec. 2, sb d
-  Sergeant at arms to enforce rules respecting ................ V Sec. 6
-                                                         XI Sec. 2, sb j
-ALTER OR AMEND SENATE RULES (See "RULES OF SENATE")
-AMENDMENTS-----
-  Bills reported favorably, if amended to be reprinted ...... VII Sec. 3
-  Constitutional, how treated ......................... VII Sec. 9, sb c
-  Filing of ............................................ IX Sec. 4, sb c
-  Germane, requirement respecting ..................... VII Sec. 4, sb b
-  Matter added and eliminated by, how treated ......... VII Sec. 4, sb b
-  Motion to amend by non-sponsor ....................... IX Sec. 4, sb a
-  Order of precedence of motion offering ............... VI Sec. 8, sb a
-  Pending, after debate, how vote taken ................. X Sec. 3, sb e
-  Preparation of ............................................ VII Sec. 4
-  Proposed, to be filed with committee chairman ........ IX Sec. 4, sb c
-  Restoring bill to earlier form ............................ VII Sec. 3
-  Third reading, allowed prior to completion of ........ IX Sec. 4, sb c
-  Two copies for introduction of ...................... VII Sec. 4, sb b
-AMENDMENTS TO FEDERAL CONSTITUTION
-(See "CONSTITUTION OF UNITED STATES")
-AMENDMENTS TO STATE CONSTITUTION
-(See "CONSTITUTION OF NEW YORK STATE")
-APPEAL-----
-  Decision of presiding officer subject to ................... IV Sec. 1
-                                                          X Sec. 4, sb c
-  Motions or questions on, when not debatable ........ X Sec. 3, sb e, f
-  Second, not to be determined until original is decided  X Sec. 4, sb c
-APPROPRIATIONS-----
-  Employees provided for by, appointment of ................... V Sec. 4
-  Quorum required for certain bills making .............. X Sec. 2, sb c
-  Reconsideration of vote on bills making .............. VI Sec. 9, sb b
-  Reference of bills or resolutions providing for .......... VIII Sec. 7
-  Resolutions making, vote required ................... VII Sec. 9, sb d
-  Vote required for certain bills making ................ X Sec. 2, sb b
-ASSEMBLY-----
-  Bills, amended and returned by ............................. IX Sec. 8
-    Introduced by message from .............................. VII Sec. 1
-    Recalled from, reconsideration of .................. VI Sec. 9, sb a
-    Substitution of, for Senate bills ........................ IX Sec. 5
-  Consent of, necessary for adjournment longer than two days XIII Sec. 1
-  Messages from, shall be received at any time ............... VI Sec. 4
-  Resolution recalled from, reconsideration of ......... VI Sec. 9, sb a
-  Resolution recalling bill or resolution from ........ VII Sec. 9, sb a
-AYES AND NAYS-----
-  Final passage,to be taken on, and entered on journal.. IX Sec. 6, sb b
-  Five Senators may require "slow" roll call of ............ VIII Sec. 6
-                                                         IX Sec. 6, sb b
-  Quorum, presence of, when determined by call of ....... X Sec. 2, sb f
-                                    B
-BILLS-----
-  Action on, Secretary's duty respecting ...................... V Sec. 5
-  Amended by restoring to earlier printed form .............. VII Sec. 3
-  Amending Constitution, amendment and committal ...... VII Sec. 9, sb c
-  Amending existing laws, matter eliminated in brackets VII Sec. 4, sb b
-  Amending existing laws, new matter underscored ...... VII Sec. 4, sb b
-  Amendments, how prepared ............................ VII Sec. 4, sb b
-    Must be germane to original object of ............. VII Sec. 4, sb b
-    Allowed any time prior to third reading ............ IX Sec. 4, sb a
-  Appropriating money, etc. .......................... X Sec. 2, sb b, c
-    Fiscal notes required .................................. VIII Sec. 7
-  Bill sections, requirements respecting ............. VIII Sec. 4, sb a
-  Budget bills, submission of, by Governor .................. VII Sec. 6
-  Constitutional quorum on vote for certain ............. X Sec. 2, sb c
-    If absent retains place on calendar ................. X Sec. 2, sb d
-    Needed only for final passage ....................... X Sec. 2, sb e
-  Copies of, number required for introduction ............... VII Sec. 1
-  Correction of, by revision clerk .......................... VII Sec. 1
-  Daily calendar of ........................................... V Sec. 5
-  Debate on, generally ........................................ X Sec. 3
-  Desks of Senators, to be placed on ........................ VII Sec. 3
-  Explanatory note to be appended to certain .......... VII Sec. 4, sb a
-  Final date for introduction ............................... VII Sec. 5
-  Final passage of, generally ................................ IX Sec. 6
-    Appropriating money, requirements for certain .... X Sec. 2, sb b, c
-    Appropriating money, when may be reconsidered ...... VI Sec. 9, sb b
-    Preparation for .................................... IX Sec. 3, sb b
-    Presiding officer to certify ............................. IV Sec. 2
-    Question on, not debatable after third reading ..... IX Sec. 6, sb b
-    Question on, taken immediately after third reading . IX Sec. 6, sb b
-    Quorum required for, certain bills ........................ X Sec. 2
-    Vote on, how taken ................................. IX Sec. 6, sb b
-    Vote required for, certain bills .......................... X Sec. 2
-    When declared lost ................................. IX Sec. 6, sb b
-  "Home rule" requests necessary before bill passage . VIII Sec. 5, sb c
-  Fiscal notes required, in certain cases .................. VIII Sec. 7
-  Illegible bills to be returned ...................... VII Sec. 4, sb a
-  Introduction of ........................................... VII Sec. 1
-    By Senator, committee, message, etc. .................... VII Sec. 1
-    Memos ................................................... ViI Sec. 1
-    Reading, first and second, prior to ..................... VII Sec. 1
-    Two copies required for ................................. VII Sec. 1
-    Time limit on ........................................... VII Sec. 5
-  Jacketing of, by Jacketing Clerk ..................... IX Sec. 3, sb b
-  Laid aside, retain place, order of business .......... VI Sec. 6, sb b
-    Time restriction ................................... IX Sec. 6, sb a
-  Motions respecting (See "Motions")
-  Multi-sponsorship ......................................... VII Sec. 2
-  New matter, how shown ............................... VII Sec. 4, sb b
-  Notice of public hearing on .............................. VIII Sec. 4
-  Official copy ........................................ IX Sec. 3, sb b
-  Passage of, certification by presiding officer ............. IV Sec. 2
-  Passage of, certain requirements for final ................. IX Sec. 1
-  Petition out of committee, notice ......................... XII Sec. 3
-  Printed immediately on introduction ....................... VII Sec. 3
-  Program, departmental and agency,
-    submitted to Temporary President ........................ VII Sec. 7
-    Offered to Minority Leader .............................. VII Sec. 7
-  Placed on bill files on desks of Senators ................. VII Sec. 3
-  Private or local, one subject only, expressed in title .... VII Sec. 4
-  Public hearing on ........................................ VIII Sec. 4
-  Quorum, three-fifths, required for passage
-    of certain ....................................... X Sec. 2, sb c, e
-    Reading, first and second ............................... VII Sec. 1
-    Recalled from Assembly, etc., subject to certain rules ... IX Sec. 8
-    For amendment, or amended by Assembly .................... IX Sec. 8
-    For reconsideration ................................ VI Sec. 9, sb a
-  Reconsideration of ......................................... VI Sec. 9
-    When not in order .................................. VI Sec. 9, sb a
-  Referred to Revision Clerk ................................ VII Sec. 1
-  Referred to Jacketing Clerk .......................... IX Sec. 3, sb b
-  Reintroduction for second year of term .................... VII Sec. 8
-  Repealing existing laws ................................... VII Sec. 4
-  Report of committee to which bill referred ....... VIII Sec. 5 sb a, b
-  Reported favorably, with amendments, to be reprinted ...... VII Sec. 3
-  Reprinting, when not complying with rules ........... VII Sec. 4, sb b
-  Restored to earlier form, not to be reprinted ............. VII Sec. 3
-  Revision Clerk shall return, if illegible ........... VII Sec. 4, sb a
-  Special order, if incompleted, bill retains place .......... VI Sec. 5
-  Starred bills .............................................. IX Sec. 7
-  State department bills, last day for submission ........... VII Sec. 5
-  Subject matter jurisdiction, primary, secondary .... VIII Sec. 5, sb a
-  Substitution of Assembly bills ............................. IX Sec. 5
-  Third reading calendar, what constitutes ............. IX Sec. 3, sb a
-    Provisions regarding ............................... IX Sec. 6, sb a
-  Third reading, no amendments allowed on completion of  IX Sec. 4, sb a
-    Order of precedence ................................ VI Sec. 6, sb a
-  Three day rule, before passage ............................. IX Sec. 1
-  Three-fifths quorum required for passage of certain  X Sec. 2, sb c, e
-  Three readings required before passage ............... IX Sec. 2, sb a
-  Time limit on introduction of ............................. VII Sec. 5
-  Titles of, amending certain laws, what to contain ......... VII Sec. 4
-  To amend Constitution, limitation on amendment ...... VII Sec. 9, sb c
-  Two-thirds vote required for passage of certain .... X Sec. 2, sb b, e
-  Two year "carry over" ..................................... VII Sec. 8
-  Vetoed by Governor, vote for passage .................. X Sec. 2, sb b
-BUDGET BILLS (See also "APPROPRIATIONS")-----
-  Consideration of .......................................... VII Sec. 6
-  Reference of .............................................. VII Sec. 6
-BUFFALO-----
-  Amendments to charter of ............................ VII Sec. 4, sb a
-BUSINESS-----
-  Interruption of, prohibited ........................... X Sec. 4, sb a
-  Invocation, daily ..................................... X Sec. 4, sb a
-  Journal to be read and approved, first business ...... VI Sec. 3, sb a
-  Order of ................................................... VI Sec. 3
-  Pledge of allegiance to the flag ..................... VI Sec. 3, sb a
-                                                          X Sec. 4, sb a
-  Quorum necessary to do ............................... VI Sec. 3, sb b
-                                                          X Sec. 2, sb a
-                                    C
-CALENDAR-----
-  Bills, acted upon in their order on .................. VI Sec. 6, sb a
-    Certain, to retain place on ......................... X Sec. 2, sb d
-    Daily ..................................................... V Sec. 5
-  General, how constituted ................................... VI Sec. 6
-  Resolutions, acted upon in their order on ............ VI Sec. 3, sb b
-                                                        VII Sec. 9, sb e
-  Secretary's duty respecting bills on ........................ V Sec. 5
-  Special orders, when unfinished ........................... VII Sec. 5
-  Third reading, what bills to constitute .............. IX Sec. 3, sb a
-CALL OF SENATE-----
-  Motion for, and order of precedence .................. VI Sec. 8, sb b
-  When may be ordered ......................................... X Sec. 6
-  When not in order ........................................... X Sec. 6
-CLOSE DEBATE, MOTION TO-----
-  May be ordered on single motion, etc. ........... X Sec. 3, sb d, e, f
-  May embrace all pending motions or amendments ...... X Sec. 3, sb e, f
-  Motions in order after adoption of ................. X Sec. 3, sb e, f
-  Not amendable or debatable ............................ X Sec. 3, sb d
-  To be immediately put ................................. X Sec. 3, sb d
-COMMIT, MOTION TO-----
-  Allowable after adoption of motion to close debate .... X Sec. 3, sb f
-  Order of precedence of certain ....................... VI Sec. 8, sb a
-  Until decided, precludes debate on main question ..... VI Sec. 8, sb d
-COMMITTEE-----
-  Bills introduced on report of, to be referred to .......... VII Sec. 1
-    Jurisdiction over, secondary, primary ............ VIII Sec. 5, sb a
-  Official hearings, testimony ............................. VIII Sec. 4
-  Petition, motion to ......................................... X Sec. 2
-    Notice required; exceptions ............................... X Sec. 2
-  Public hearing by, prior notice required ................. VIII Sec. 4
-  Report from, involving seat of Senator, always in order .... VI Sec. 4
-  Report, disposition of ............................. VIII Sec. 5, sb a
-    Shall be entered upon journal .................... VIII Sec. 5, sb a
-    Shall be made by majority of ..................... VIII Sec. 5, sb a
-    Shall be made directly to Committee on Rules, when VIII Sec. 5, sb a
-    Committee presentations .......................... VIII Sec. 3, sb d
-    Motion for committee consideration ............... VIII Sec. 3, sb e
-    Committee oversight function ..................... VIII Sec. 4, sb c
-    Petition for a public hearing on a bill .......... VIII Sec. 4, sb e
-COMMITTEE ON CONFERENCE-----
-  Joint Committee created .................................. PJR* Sec. 1
-  * PJR = Permanent Joint Rule of Senate and Assembly
-COMMITTEES-----
-  Chairs of, appointment by Temporary President ............. III Sec. 2
-  Deputy Republican Conference Leader,
-    ex officio member of all ............................... VIII Sec. 1
-  Deputy Independent Democratic
-    Conference Leader, ex officio member of all............. VIII Sec. 1
-  Deputy Democratic Conference Leader,
-   ex officio member of all ................................ VIII Sec. 1
-  Executive sessions, conduct ........... VIII Sec. 3, sb a Par (5), (6)
-    Minutes required; exception ......... VIII Sec. 3, sb b Par (2), (3)
-  Meeting of scheduled, open ......................... VIII Sec. 3, sb a
-    Minutes required; available to public VIII Sec. 3, sb b Par (1), (3)
-  Members of, appointment by Temporary President ............ III Sec. 2
-  Democratic Conference Leader, ex officio member of all ... VIII Sec. 1
-  Select, reports of ................................... VI Sec. 3, sb a
-  Standing, list of, and number of members
-    composing, continuing .................................. VIII Sec. 1
-    Special meetings, when may be held........ VIII Sec. 3, sb a Par (2)
-    Republican Conference Leader,
-    ex officio member of all ............................... VIII Sec. 1
-    Independent Democratic Conference Leader,
-    ex officio member of all ............................... VIII Sec. 1
-CONCURRENT RESOLUTION (See "RESOLUTIONS")
-CONSTITUTION OF NEW YORK STATE-----
-  Resolution to amend, amendment of, further reference to
-    Attorney General .................................. VII Sec. 9, sb c
-  Amendment of, limitation on, after
-    ordered to third reading .......................... VII Sec. 9, sb c
-  After final passage, duty of Presiding Officer ............. IV Sec. 2
-  Final reading of, may be committed prior to ........... V Sec. 9, sb c
-  Treated same as bill .................................. V Sec. 9, sb c
-CONSTITUTION OF UNITED STATES-----
-  Resolutions ratifying amendment to .................... V Sec. 9, sb c
-    Duty of Presiding Officer upon final passage ............. IV Sec. 2
-    Must be germane to affairs of the state ........... VII Sec. 9, sb b
-CONTEMPT-----
-  Refusal of Senator to vote, may be deemed; exception .. X Sec. 1, sb a
-                                    D
-DEBATE-----
-  Closing ............................................ X Sec. 3, sb d, e
-  Germane to the question ............................... X Sec. 3, sb a
-  Limitation upon speaking in ........................ X Sec. 3, sb d, e
-                                                          X Sec. 4, sb b
-  Conference Leaders may speak once after close of ...... X Sec. 3, sb c
-  Motion to close, when in order ............... X Sec. 3, sb c, d, e, f
-  What motions in order after adoption of ............ X Sec. 3, sb e, f
-  Question in, when may be divided ...................... X Sec. 3, sb b
-  Question not debatable, call of Senate ............... VI Sec. 8, sb b
-  Main question, until certain motions are decided ..... VI Sec. 8, sb d
-  Objections to reading paper other than petitions ...... X Sec. 5, sb b
-  Of presence of quorum ................................. X Sec. 2, sb f
-  On final passage ..................................... IX Sec. 6, sb b
-  Priority of business ......................... VI Sec. 3, sb a par (3)
-  To adjourn ........................................... VI Sec. 8, sb b
-  To close debate .................................... X Sec. 3, sb d, e
-  To commit, when motion to close debate is pending ..... X Sec. 3, sb f
-  To lay on table ................................... VI Sec. 8, sb a, b
-  Of order, after motion to close debate ................ X Sec. 3, sb f
-  Temporary President to close .......................... X Sec. 3, sb f
-  Vote taken after, with amendments pending .......... X Sec. 3, sb e, f
-DOORS OF SENATE-----
-  Matters discussed when closed, to be kept secret ........... VI Sec. 7
-  Motion to close ............................................ VI Sec. 7
-    During discussion of, doors to remain shut ............... VI Sec. 7
-  Open except when public welfare requires secrecy ........... XI Sec. 1
-                                    E
-EMPLOYEES-----
-  Appointment of, generally ................................... V Sec. 4
-  Certain, to be appointed by Temporary President ........... III Sec. 4
-  Duties of, generally ........................................ V Sec. 4
-EXECUTIVE SESSION-----
-  Committee may call, certain cases .......... VIII Sec. 3, sb a Par (5)
-  When Senate shall go into .................................. VI Sec. 7
-    All to withdraw, except Senators, etc .................... VI Sec. 7
-                                    F
-FINANCE, STANDING COMMITTEE ON-----
-  Certain bills and resolutions to be referred to .......... VIII Sec. 7
-  Fiscal notes, to keep file of bills requiring ............ VIII Sec. 7
-  Certain bills not to be reported without ................. VIII Sec. 7
-  Nominations by Governor, to be submitted to; exception ... VIII Sec. 6
-FISCAL NOTES-----
-  Certain bills require .................................... VIII Sec. 7
-  Contents of .............................................. VIII Sec. 7
-  Filing prior to report by committee ...................... VIII Sec. 7
-  Finance committee to maintain file of .................... VIII Sec. 7
-FISCAL IMPACT NOTES-----
-  Applicable for ......................................... PJR* I Sec. 6
-  Exceptions to .......................................... PJR* I Sec. 4
-  Inaccuracy, effect thereof ............................. PJR* I Sec. 5
-  Procedure for .......................................... PJR* I Sec. 3
-  Requirements for on bills and amendments ............... PJR* I Sec. 1
-  Sufficiency and contents of ............................ PJR* I Sec. 2
-  *PJR= Permanent Joint Rule of Senate and Assembly
-FLOOR-----
-  Admission to, persons entitled to .......................... XI Sec. 2
-  Reporters entitled to admission ........................... III Sec. 5
-                                                         XI Sec. 2, sb d
-  Sergeant at arms to enforce rules respecting ................ V Sec. 6
-                                                         XI Sec. 2, sb i
-  Assistant Sergeant at arms, doorkeepers ..................... V Sec. 6
-  Yielding, temporarily ................................. X Sec. 4, sb b
-FREEDOM OF INFORMATION-----
-  Freedom of Information Law ................................. XV Sec. 1
-                                    G
-GALLERIES-----
-  Disturbance in, presiding officer may clear ................ IV Sec. 1
-GOVERNOR-----
-  Admission to floor ................................... XI Sec. 2, sb a
-  Bills returned from, without approval, vote to repass . X Sec. 2, sb b
-  Budget bills submitted by ................................. VII Sec. 6
-  Messages from, for passage of certain bills ........ VIII Sec. 5, sb c
-                                                               IX Sec. 1
-  Order of business of ......................... VI Sec. 3, sb a Par (3)
-    Shall be received at any time ............................ VI Sec. 4
-  Nominations sent by, reference and confirmation of ....... VIII Sec. 6
-                                    H
-"HOME RULE" REQUESTS-----
-  Requirement respecting, bill ....................... VIII Sec. 5, sb c
-                                    J
-JACKETING CLERK-----
-  Shall cause bills to be jacketed ..................... IX Sec. 3, sb b
-  Shall cause official copies readied .................. IX Sec. 3, sb b
-JOINT RULES-----
-  Motion to amend, suspend, etc., requires
-    written notice or unanimous consent ..................... XII Sec. 2
-    Order of business in which received ..................... XII Sec. 2
-    When to be made ......................................... XII Sec. 2
-  Permanent joint rules of the Senate and Assembly
-  (see *COMMITTEE ON CONFERENCE and/or FISCAL IMPACT NOTES)
-  Vote required to amend, suspend, etc. ..................... XII Sec. 1
-JOURNAL-----
-  Correction of ........................................ VI Sec. 3, sb a
-  Executive and legislative proceedings to be in separate .... VI Sec. 1
-  Question on final passage of bills to be entered on .. IX Sec. 6, sb b
-  Reading and approval of, first business .............. VI Sec. 3, sb a
-  Report of committee on bill, when entered upon ..... VIII Sec. 5, sb a
-  Roll Call ............................................ IX Sec. 6, sb b
-  Senate shall keep and publish .............................. VI Sec. 1
-  Senator's refusal to respond, to be entered on ........ X Sec. 2, sb g
-  To be printed, distributed, etc. ............................ V Sec. 5
-JUDICIARY, STANDING COMMITTEE ON-----
-  Nominations referred to .................................. VIII Sec. 6
-                                    L
-LEGISLATIVE LIBRARIAN ....................................... III Sec. 7
-LEGISLATIVE LIBRARY ......................................... III Sec. 7
-  Function of ............................................... III Sec. 7
-LIEUTENANT GOVERNOR (See also "PRESIDENT")-----
-  Shall be President of Senate ................................ I Sec. 1
-  Shall have only casting vote in Senate ...................... I Sec. 1
-LIMITATION UPON SPEAKING (See "SPEAKING")-----
-                                    M
-MAJORITY-----
-  Quorum is majority of senators elected ................ X Sec. 2, sb a
-  Reconsideration of certain bills requires ............ VI Sec. 9, sb b
-  Resolutions for expenditure of money, require ....... VII Sec. 9, sb d
-  Suspension of rules requires ................................ X Sec. 1
-MESSAGES-----
-  From Assembly, shall be received at any time ............... VI Sec. 4
-  From Governor, shall be received at any time ............... VI Sec. 4
-  For passage of certain bills ....................... VIII Sec. 5, sb c
-                                                               IX Sec. 1
-  Order of business of, from Governor, and Assembly .... VI Sec. 3, sb a
-CONFERENCE LEADERS-----
-  Closing debate, may speak when ........................ X Sec. 3, sb c
-  Ex Officio member of all committees ...................... VIII Sec. 1
-MOTIONS-----
-  For call of the Senate, after close of debate,
-    one in order ..................................... X Sec. 3, sb e, f
-    Always in order; exceptions ........................ VI Sec. 8, sb b
-    Not debatable ...................................... VI Sec. 8, sb b
-  Precedence of ........................................ VI Sec. 8, sb a
-  Previous question, of ................................ VI Sec. 8, sb a
-  Question pending, when, what motions in order .............. VI Sec. 8
-  To adjourn, after close of debate, one
-    in order ............................................ X Sec. 3, sb f
-    Always in order; exceptions ........................ VI Sec. 8, sb b
-    Not debatable ...................................... VI Sec. 8, sb b
-    Not to be reconsidered ............................. VI Sec. 9, sb a
-  To adopt report of Committee on Rules, no other motion
-    in order, until decided; exceptions .................... VIII Sec. 2
-  To amend rule of Senate or joint rule, when in order ........ X Sec. 1
-  To certain day, precludes debate on main question .... VI Sec. 8, sb d
-  To close debate, in order after bill, etc., considered
-      two hours ......................................... X Sec. 3, sb d
-    May be ordered on single motion, series of
-      motions, etc. .................................. X Sec. 3, sb e, f
-    May embrace all authorized motions,
-      amendments, etc. ............................... X Sec. 3, sb e, f
-    No other motion in order until voted
-      on; exceptions ................................. X Sec. 3, sb e, f
-    Not amendable or debatable .......................... X Sec. 3, sb d
-    Presiding Officer shall recognize Senator
-      wishing to make ................................... X Sec. 3, sb d
-  To be immediately put ................................. X Sec. 3, sb d
-  To close doors, doors shall remain closed during
-    discussion of ............................................ VI Sec. 7
-  To commit, after close of debate, one in order ........ X Sec. 3, sb f
-    Precludes debate on main question .................. VI Sec. 8, sb d
-    To select committee, order of precedence ... VI Sec. 8, sb a Par (7)
-    To standing committee, order of precedence . VI Sec. 8, sb a Par (6)
-  To excuse from voting, to be decided by consent, two-thirds present
-                                                          X Sec. 1, sb b
-  To lay on table, always in order; exceptions ......... VI Sec. 8, sb b
-    Not debatable ...................................... VI Sec. 8, sb b
-    Not to be reconsidered ............................. VI Sec. 9, sb a
-    To postpone to certain day, order of
-      precedence ............................... VI Sec. 8, sb a Par (5)
-  To petition a bill, when out of order ............... VII Sec. 2, sb b
-  To petition a bill or resolution out of committee ......... XII Sec. 2
-    Agreement required ...................................... XII Sec. 2
-    Notice required ......................................... XiI Sec. 2
-    When not in order ....................................... XII Sec. 2
-  To reconsider, bill recalled from Assembly ........... VI Sec. 9, sb a
-    Not in order, when bill not in possession of Senate  VI Sec. 9, sb a
-    Vote necessary in certain cases .................... VI Sec. 9, sb b
-    Vote to adjourn or lay on table, not in order ...... VI Sec. 9, sb a
-    When in order ...................................... VI Sec. 9, sb a
-    When required to be made ........................... VI Sec. 9, sb a
-    To refer, until decided, precludes debate on main question
-                                                         VI Sec. 8, sb d
-  To rescind rule or Senate or joint rule, when in order .... XII Sec. 1
-  To substitute Assembly for Senate bill, when in order ...... IX Sec. 5
-  To suspend rule of Senate or joint rule,
-    Notice required ......................................... XII Sec. 2
-    Vote required ........................................... XII Sec. 1
-  Withdrawal of, before decision or amendment .......... VI Sec. 8, sb c
-  Written, may be required ............................. VI Sec. 8, sb c
-                                    N
-NEW YORK, CITY OF-----
-  Amendments to charter and administrative code of .... VII Sec. 4, sb a
-NOMINATIONS, CONFIRMATION BY SENATE ..................... X Sec. 4, sb a
-NOMINATIONS BY GOVERNOR-----
-  Reference and confirmation of ............................ VIII Sec. 6
-NOTICE; REQUIREMENTS RESPECTING-----
-  Of motion to amend, suspend or rescind rules .............. XII Sec. 1
-  Of motion to petition committee ........................... XII Sec. 2
-  Of public hearings by committees ......................... VIII Sec. 4
-                                    O
-OFFICERS-----
-  Appointment of certain, by Temporary President ............ III Sec. 5
-  Certain, to be present during executive sessions ........... VI Sec. 7
-    To keep secret proceedings of executive sessions ......... VI Sec. 7
-  Duties of, generally ........................................ V Sec. 4
-  Election of certain, by Senate .............................. V Sec. 4
-  Nominations of, sent by Governor, proceedings upon ....... VIII Sec. 6
-  State, communications and reports from, always in order .... VI Sec. 4
-  Order of business of ................................. VI Sec. 3, sb a
-                                                               VI Sec. 4
-ORDER-----
-  Of business ................................................ VI Sec. 3
-  Cellular phones, audible pagers; use prohibited ....... X Sec. 4, sb a
-  Questions of, after motion to close debate,
-    not debatable ....................................... X Sec. 3, sb f
-  Decision by presiding officer on, subject to appeal ........ IV Sec. 1
-                                                          X Sec. 4, sb c
-  Senator called to, must take his seat ................. X Sec. 4, sb c
-  Senator out of, must not proceed without permission ... X Sec. 4, sb c
-  Words on which called to, must be taken in writing .... X Sec. 4, sb c
-                                    P
-PAPERS, PETITIONS, MEMORIALS, ETC.-----
-  Objection to reading of, how decided .................. X Sec. 5, sb b
-  Presented by Senator, shall be endorsed ............... X Sec. 5, sb a
-PASSAGE OF BILLS (See "BILLS")
-PETITION BILL OR RESOLUTION OUT OF COMMITTEE-----
-  Agreement required to ..................................... XII Sec. 2
-  Motion to ................................................. XII Sec. 2
-    Limitation on ........................................... XII Sec. 2
-    Notice required ......................................... XII Sec. 2
-    When not in order ....................................... XII Sec. 2
-PETITIONS-----
-  Endorsement of, required .............................. X Sec. 5, sb a
-  Presentation of, first order of business ..... VI Sec. 3, sb a Par (1)
-  Subject of, to be endorsed thereon .................... X Sec. 5, sb a
-POSTPONE-----
-  To certain day, motion to, order of precedence ....... VI Sec. 8, sb d
-    Until decided, precludes debate on main question ... VI Sec. 8, sb d
-PRECEDENCE-----
-  Of motions ................................................. VI Sec. 8
-  Of special order under consideration ....................... VI Sec. 5
-  Pending measure to have, after close of debate ........ X Sec. 3, sb d
-PRESIDENT-----
-  Lieutenant Governor shall be ................................ I Sec. 1
-  Vote, shall have only casting ............................... I Sec. 1
-PRESIDING OFFICER-----
-  Bills and certain resolutions, shall certify vote by
-    which passed ............................................. IV Sec. 2
-  Debate, when shall declare closed ..................... X Sec. 3, sb c
-  Debate, shall recognize Senator desiring to close ..... X Sec. 3, sb d
-  Decisions, may assign reasons for, if appealed from ........ IV Sec. 1
-  Executive session, shall direct withdrawal of all except
-    members, during .......................................... VI Sec. 7
-    Lobbies and galleries, may clear ......................... IV Sec. 1
-    Motions, may require to be reduced to writing ...... VI Sec. 8, sb c
-    Order, shall decide all questions of subject to appeal ... IV Sec. 1
-                                                          X Sec. 4, sb c
-  Order and decorum, shall preserve .......................... IV Sec. 1
-  Passage of bills and certain resolutions, shall certify .... IV Sec. 2
-  Quorum, on questions of, shall direct calling of
-    roll ................................................ X Sec. 2, sb f
-  Roll call, shall request Senator to respond at ........ X Sec. 2, sb g
-  Senate, shall take the chair at hour to which
-    adjourned .......................................... VI Sec. 3, sb a
-  Senator to speak, when two or more address chair, to
-    be named by ......................................... X Sec. 4, sb b
-  When other than President .................................. IV Sec. 3
-PRINTING OF BILLS-----
-  General provisions relative to ............................ VII Sec. 3
-PRIORITY OF BUSINESS-----
-  Questions relating to, not debatable ......... VI Sec. 3, sb b, par(3)
-PRIVATE OR LOCAL BILLS-----
-  "Home rule" message required before committee report VIII Sec. 5, sb c
-  One subject, only, to be expressed in title .. VII Sec. 4, opening Par
-PRIVILEGES OF THE FLOOR-----
-  Persons entitled to ........................................ XI Sec. 2
-  Reporters entitled to ..................................... III Sec. 6
-                                                         XI Sec. 2, sb d
-PUBLIC MONEYS-----
-  Bills appropriating, limitation upon reconsideration . VI Sec. 9, sb b
-    Referred to finance committee .......................... VIII Sec. 7
-    Three-fifths quorum necessary, passage of certain  X Sec. 2, sb c, e
-    Vote necessary for passage of certain ............... X Sec. 2, sb b
-  Resolutions calling for expenditure of, how decided . VII Sec. 9, sb d
-  Reference to finance committee ........................... VIII Sec. 7
-  Vote necessary for passage .......................... VII Sec. 9, sb d
-                                    Q
-QUESTION-----
-  Division of, in debate ................................ X Sec. 3, sb b
-  Germane to, under discussion .......................... X Sec. 3, sb a
-  Main, when debate precluded .......................... VI Sec. 8, sb d
-  Motion to reconsider, when in order .................. VI Sec. 9, sb a
-  Of priority of business, decided without
-  debate.........................................VI Sec. 3, sb b, par(3)
-  Reconsideration of, allowed only once, limitations ......... VI Sec. 9
-  When before Senate, only certain motions in order .......... VI Sec. 8
-  When put and decided ................................. VI Sec. 9, sb a
-QUORUM-----
-  Lack of, Senator not to be interrupted by question of . X Sec. 2, sb f
-  Majority of Senators elected constitute ............... X Sec. 2, sb a
-  Order of business, when necessary to proceed ......... VI Sec. 3, sb b
-    Presence of, how determined, not debatable .......... X Sec. 2, sb f
-    How secured ......................................... X Sec. 2, sb a
-    Question of, how often may be raised ................ X Sec. 2, sb f
-  Senator refusing to respond, counted present for ...... X Sec. 2, sb g
-  Three-fifths, required for passage of certain bills  X Sec. 2, sb c, e
-    Bill retains place in absence of .................... X Sec. 2, sb d
-  When less than, convenes, absentees may be sent for ... X Sec. 2, sb a
-                                    R
-RECOMMIT, MOTION TO-----
-  Until decided, preclude debate on main question ...... VI Sec. 8, sb d
-RECONSIDERATION-----
-  Motions for, bills recalled from Assembly ............ VI Sec. 9, sb a
-    Limitations upon ................................... VI Sec. 9, sb a
-    Time within which to be made ....................... VI Sec. 9, sb a
-    Vote necessary for certain ......................... VI Sec. 9, sb b
-    When in order ...................................... VI Sec. 9, sb a
-    When not in order .................................. VI Sec. 9, sb a
-  Question subject to, only once ....................... VI Sec. 9, sb a
-  Vote to adjourn or lay on table, not subject to ...... VI Sec. 9, sb a
-REFERENCE-----
-  Bills, providing for appropriation ....................... VIII Sec. 7
-    To appropriate committee, upon introduction ............. VII Sec. 1
-    To revision and jacketing clerks ................... IX Sec. 3, sb b
-  Nominations .............................................. VIII Sec. 6
-  Resolutions providing for appropriations ................. VIII Sec. 7
-REPORTS-----
-  Committee, certain, to be received at any time ............. VI Sec. 4
-    Majority of members necessary for ................ VIII Sec. 5, sb a
-    Order of business of ............................... VI Sec. 3, sb a
-  Expenditure ............................................... XIV Sec. 2
-  From state officers ........................................ VI Sec. 4
-REPORTERS FOR NEWS MEDIA-----
-  Admission to floor of Senate .............................. III Sec. 5
-                                                         XI Sec. 2, sb d
-RESCIND RULES (See "RULES OF SENATE")-----
-RESOLUTIONS-----
-  Action on, Secretary's duty respecting ...................... V Sec. 5
-  Appropriating money, reference to finance committee ...... VIII Sec. 7
-  Federal law, must be germane to state ............... VII Sec. 9, sb b
-    When out of order ................................. VII Sec. 9, sb b
-  Introduction of, limitation upon .................... VII Sec. 9, sb a
-  Order of business of ................................. VI Sec. 3, sb b
-  Original, limitation upon introduction of ........... VII Sec. 9, sb a
-    Copies to be supplied Majority Coalition Leaders ... VII Sec 9, sb a
-    To be in quadruplicate ............................ VII Sec. 9, sb a
-  Petition from committee, notice ....................... X Sec. 2, sb b
-  Privileged, certain, always in order ................ VII Sec. 9, sb a
-    Certain, regarded as privileged .................... VI Sec. 9, sb a
-  Proposing amendment to Constitution, how treated .... VII Sec. 9, sb c
-    Passage certified by Presiding Officer ................... IV Sec. 2
-    Reference to Attorney General ..................... VII Sec. 9, sb c
-  Reconsideration of, after out of possession of Senate  VI Sec. 9, sb a
-    Limitation upon .................................... VI Sec. 9, sb a
-  Reference to committee; exceptions .................. VII Sec. 9, sb a
-  Senator presenting, must endorse ...................... X Sec. 5, sb a
-  Vote necessary for certain, calling for
-    expenditure of money .............................. VII Sec. 9, sb d
-REVISION CLERK-----
-  Multi-sponsorship ......................................... VII Sec. 2
-  Shall receive, examine and correct bills .................. VII Sec. 1
-  Shall return bills incorrectly prepared to introducer VII Sec. 4, sb a
-RULES-----
-  Standing committee on ............................. VIII Secs. 1, 2, 3
-    Authority to introduce and refer bills ........... VIII Sec. 5, sb a
-    Consideration of report of, always in order ............ VIII Sec. 2
-    May sit at any time .................................... VIII Sec. 2
-    Meeting of ............................................. VIII Sec. 3
-    Exclusion from certain provisions ................ VIII Sec. 3, sb c
-    News media, open to ...................... VIII Sec. 3, sb a Par (3)
-    Report from may be received at any time ................ VIII Sec. 2
-    Debate on adoption of .................................. VIII Sec. 2
-  Suspension, upon adoption of report of ................... VIII Sec. 2
-RULES OF SENATE (See also "MOTIONS")-----
-  Bills and amendments not complying with .......... VII Sec. 4, sb a, b
-  Breach of certain, any Senator may point out ......... XI Sec. 2, sb i
-  Motion to amend, suspend, etc. ............................ XII Sec. 2
-    Notice required ......................................... XII Sec. 2
-    Order of business in which received ........ VI Sec. 3, sb b Par (3)
-                                                              XII Sec. 2
-    When to be made ......................................... XII Sec. 2
-  Suspension, upon adoption of report of
-    Rules Committee ........................................ VIII Sec. 2
-  Vote required to amend, suspend, etc. ..................... XII Sec. 1
-                                    S
-SECRETARY OF SENATE-----
-  Assembly, shall deliver certain bills to .................... V Sec. 5
-  Bills, duties respecting action on certain .................. V Sec. 5
-    Direct Revision Clerk to cause certain to be amendedVII Sec. 4, sb b
-    General orders calendar of, shall prepare ................. V Sec. 5
-    Governor, shall present certain bills to .................. V Sec. 5
-    Journals, shall make entries respecting certain in ........ V Sec. 5
-    Presiding Officer shall deliver certain, to .............. IV Sec. 2
-  Budget bills to be given introductory number by ........... VII Sec. 6
-  Committee hearings, notice to be announced by ............ VIII Sec. 3
-  Duties of, generally ........................................ V Sec. 5
-  Election of, by Senate ...................................... V Sec. 4
-  Executive business of Senate, to remain during ............. VI Sec. 7
-  General orders calendar, to print and distribute ............ V Sec. 5
-  Governor, shall present certain bills to .................... V Sec. 5
-  Journal, shall have printed, distributed, etc. .............. V Sec. 5
-  Motions, when written and delivered to ............... VI Sec. 8, sb c
-  Quorum, shall call roll on question of ................ X Sec. 2, sb f
-  Senate may choose ........................................... V Sec. 4
-  Stenographer, under direction of, copies of records from .... V Sec. 7
-  Term of ..................................................... V Sec. 4
-  Third reading calendar, to print and distribute ............. V Sec. 5
-SENATE (See also "SENATORS")-----
-  Admission to floor of ...................................... XI Sec. 2
-  Call of ..................................................... X Sec. 6
-    Always in order; exceptions ............................... X Sec. 6
-    Not debatable ...................................... VI Sec. 8, sb b
-    Order of precedence ........................ VI Sec. 8, sb a Par (2)
-  Committees of ............................................ VIII Sec. 1
-  Doors of, to be kept open; exception ....................... XI Sec. 1
-  Executive session of ....................................... VI Sec. 7
-  Hours in session ........................................... VI Sec. 2
-  Journal, shall keep and publish ............................ VI Sec. 1
-  Motions received by, precedence of ......................... VI Sec. 8
-  Presiding Officer to call to order ......................... VI Sec. 3
-  Rules (see "RULES OF SENATE")
-  Secretary, may be chosen by ................................. V Sec. 4
-  Sergeant at arms, may be chosen by .......................... V Sec. 4
-  Stenographer, may be chosen by .............................. V Sec. 4
-  Temporary President, shall be chosen by ................... III Sec. 1
-SENATE CHAMBER-----
-  Standing prohibited in certain areas ................. XI Sec. 2, sb h
-  Temporary President shall have general control over ....... III Sec. 6
-SENATORS-----
-  Absence of, may be punished ................................. X Sec. 7
-  Appeals of, from decision of Presiding Officer ............. IV Sec. 1
-                                                          X Sec. 4, sb c
-  Presiding Officer may assign reasons ....................... IV Sec. 1
-  Attendance of, call of Senate to secure ..................... X Sec. 6
-  Other measures to secure, Temporary President or
-    majority of elected ....................................... X Sec. 7
-  Bills must be placed on bill files on desks of ............ VII Sec. 3
-  Business of Senate, not to interrupt .................. X Sec. 4, sb a
-  Called to order ....................................... X Sec. 4, sb c
-  Chairs of, not to be occupied by others .............. XI Sec. 2, sb h
-  Excused from voting, may state reasons ................ X Sec. 1, sb b
-  Executive session, shall keep secret proceedings of ........ VI Sec. 7
-  Explaining vote upon roll calls ....................... X Sec. 3, sb e
-  Floors, may yield temporarily ......................... X Sec. 4, sb b
-  Hours in session ........................................... VI Sec. 2
-  Limitation upon speaking during same day .............. X Sec. 4, sb b
-  List of bills etc., to be supplied with ..................... V Sec. 5
-  Majority of elected, constitute quorum ................ X Sec. 2, sb a
-  Motions, may require in writing ...................... VI Sec. 8, sb c
-  Order of, during reading of journal ................... X Sec. 4, sb a
-  When Presiding Officer is putting question ............ X Sec. 4, sb a
-  While another Senator is speaking ..................... X Sec. 4, sb a
-  Out of order, shall not proceed ....................... X Sec. 4, sb c
-  Personal or pecuniary interest of, in outcome of vote ....... X Sec. 1
-  Papers presented by, must be endorsed ................. X Sec. 5, sb a
-  Presence of, during sessions required; exceptions ..... X Sec. 1, sb a
-  Presiding, vested with powers of President ................. IV Sec. 3
-  Question, shall vote on each .......................... X Sec. 1, sb a
-  Quorum, raising question of ........................... X Sec. 2, sb f
-  Refusing to respond at roll call ...................... X Sec. 2, sb g
-  Refusing to vote deemed a contempt .................... X Sec. 1, sb a
-  Rising to debate, etc. ................................ X Sec. 4, sb b
-  Speaking, limitation upon (See "SPEAKING")
-  Statements, may make, in certain cases ................ X Sec. 4, sb b
-  Vote, may explain ..................................... X Sec. 3, sb e
-    Vote, regularly assigned seat ....................... X Sec. 1, sb a
-    Not to, if financially interested ................ X Sec. 1, sb a, b
-    Refusal to, may be contempt ......................... X Sec. 1, sb a
-    Required to, unless excused ...................... X Sec. 1, sb a, b
-  Voting, motion to excuse from, granted by consent ..... X Sec. 1, sb b
-  Funds for staffing .......................................... X Sec. 8
-  Resources ................................................... X Sec. 9
-  District offices ........................................... X Sec. 10
-  Allocation for community projects .......................... X Sec. 11
-SERGEANT AT ARMS-----
-  Absentees, may be sent for ............................ X Sec. 2, sb a
-  Assistant Sergeant at Arms, doorkeepers, shall assign ....... V Sec. 6
-  Attendance of, upon sessions of Senate ...................... V Sec. 6
-  Hearings of Senate, maintain order .......................... V Sec. 6
-  Jurisdiction, under ......................................... V Sec. 6
-  Order, shall enforce, under direction of Presiding Officer .. V Sec. 6
-  Privileges of floor, shall enforce rule respecting .......... V Sec. 6
-  Senate floor, to enforce rules respecting admission to XI Sec. 2, sb i
-  Senate may choose ........................................... V Sec. 4
-SPEAKING-----
-  Limitation upon ....................................... X Sec. 4, sb a
-  Statements allowed in certain cases ................... X Sec. 4, sb b
-  Vote, explanation of or to be excused ................. X Sec. 1, sb b
-                                                          X Sec. 3, sb e
-SPECIAL ORDERS----
-  When not completed, to retain place ........................ VI Sec. 5
-  When under consideration, shall take precedence ............ VI Sec. 5
-STATE DEPARTMENTS AND AGENCIES-----
-  Bills recommended by, last day for introduction ........... VII Sec. 5
-  Procedure for introduction purposes ....................... VII Sec. 7
-STENOGRAPHER-----
-  Attendance of, required at sessions of Senate ............... V Sec. 7
-  Debates of Senate ........................................... V Sec. 7
-  Public hearings, duties respecting .......................... V Sec. 7
-  Secretary of Senate, under direction of ..................... V Sec. 7
-  Senate may choose ........................................... V Sec. 4
-SUBSTITUTION OF ASSEMBLY BILLS-----
-  When in order .............................................. IX Sec. 5
-SUSPENSION OF THE RULES (See also "RULES OF SENATE")-----
-  Motion for ................................................ XII Sec. 2
-    To petition committee ................................... XII Sec. 3
-    When in order ........................................... XII Sec. 3
-    Notice required ................................... XII Sec. 2, sb b
-                                    T
-TELEVISING SESSION-----
-  Statewide public broadcast ................................ XVI Sec. 1
-  Proprietary rights ........................................ XVI Sec. 2
-TEMPORARY PRESIDENT-----
-  Attendance of Senators at sessions, secure .................. X Sec. 7
-  Bills, may designate last day for introduction ............ VII Sec. 5
-    Final passage, duties regarding .......................... IX Sec. 6
-    Laid aside, duties respecting ...................... VI Sec. 6, sb b
-    May require further reference of certain ............... VIII Sec. 7
-    Program, departmental and agency bills, duties respecting VII Sec. 7
-    Secondary, referencing, requests for consideration VIII Sec. 5, sb a
-  Chosen by Senate .......................................... III Sec. 1
-  Committee reports, establish date for referral
-   of all to Rules ................................... VIII Sec. 5, sb a
-  Committees, shall appoint chairs and members of all ....... III Sec. 2
-  Shall establish set of guidelines for referral .............. V Sec. 1
-  Debate, may speak once ................................ X Sec. 3, sb c
-  Employees, may appoint certain ............................ III Sec. 4
-  Expenditure reporting ..................................... XIV Sec. 2
-  Legal actions or proceedings .............................. III Sec. 8
-  Legislative librarian, assistant .......................... III Sec. 7
-  Majority leader, shall be ................................. III Sec. 1
-  Motions, certain, may be made only by .................... VIII Sec. 2
-                                                          X Sec. 3, sb f
-  Preside, when he shall .................................... III Sec. 1
-    Designation of other member to .......................... III Sec. 1
-  Records of Senate, duties regarding ........................ XV Sec. 1
-  Reporters, shall designate those entitled
-    to admission to floor ................................... III Sec. 5
-    May fix final day for introduction ...................... VII Sec. 5
-  Rules committee, shall be chairman of ..................... III Sec. 3
-  Senators to preside, designation by ....................... III Sec. 1
-THIRD READING-----
-  Amendment of bill allowed prior to completion of ..... IX Sec. 4, sb a
-  Bills advanced to, to be jacketed .................... IX Sec. 3, sb b
-  Bills to have three readings ......................... IX Sec. 2, sb a
-  Calendar of bills on ................................. IX Sec. 3, sb a
-  List of, when to be laid aside ....................... IX Sec. 6, sb a
-  Question to be taken immediately after ............... IX Sec. 2, sb b
-THREE-FIFTHS QUORUM-----
-  Bills requiring, for final passage ................. X Sec. 2, sb c, e
-    Not required except for final passage ............... X Sec. 2, sb e
-    To retain place on calendar, if absent .............. X Sec. 2, sb d
-TITLES OF BILLS-----
-  Amending certain laws, what to contain .................... VII Sec. 4
-TWO-THIRDS VOTE (See "VOTE")-----
-                                    V
-VETO-----
-  Two-thirds vote necessary to pass after ............... X Sec. 2, sb b
-VOTE-----
-  Bills lost unless receiving required ................. IX Sec. 6, sb b
-  Committee reports required majority, of committee .. VIII Sec. 5, sb a
-  Explanation of (See "VOTING")
-  Majority, of all Senators elected, necessary to pass certain resolutions
-                                                        VII Sec. 9, sb d
-    To reconsider vote on certain bills ................ VI Sec. 9, sb b
-    To suspend rules ........................................ XII Sec. 1
-  Majority, of Senators present, necessary to close debateX Sec. 3, sb d
-    To consider executive business ........................... VI Sec. 7
-    To reconsider, on certain bills .................... VI Sec. 9, sb b
-  Reconsideration of ......................................... VI Sec. 9
-  Senators shall, unless excused ........................ X Sec. 1, sb a
-  Two-thirds, of all Senators elected necessary to pass bills after veto
-                                                          X Sec. 2, sb b
-  Two-thirds, of all Senators elected necessary to pass certain bills
-                                                          X Sec. 2, sb b
-  Bills to retain place on calendar if absent ........... X Sec. 2, sb d
-VOTING-----
-  Excused from .......................................... X Sec. 1, sb b
-  Explanation of ........................................ X Sec. 3, sb e
-                                    W
-WITHDRAWAL OF MOTION-----
-  When in order ........................................ VI Sec. 8, sb b
