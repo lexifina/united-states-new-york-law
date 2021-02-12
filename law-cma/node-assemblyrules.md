@@ -787,9 +787,11 @@ Libraries and Education Technology ................ 9
 Local Governments ................................ 20
 Mental Health .................................... 13
 Oversight, Analysis and Investigation ............. 7
+People with Disabilities .......................... 9
 Racing and Wagering .............................. 11
 Real Property Taxation ........................... 10
 Rules ............................................ 31
+Science and Technology ............................ 9
 Small Business ................................... 17
 Social Services .................................. 18
 Tourism, Parks, Arts and Sports Development ...... 21
@@ -809,8 +811,8 @@ regularly scheduled meeting of a standing committee at which  bills  are
 scheduled  to  be  considered  shall  be removed from one or more of the
 standing committees to  which  he  or  she  is  assigned.  The  standing
 committee  shall notify the member upon each unexcused absence and shall
-notify the Committee on Committees upon the second  and  any  subsequent
-unexcused  absences. The Committee on Committees shall notify the member
+notify  the  Committee  on Committees upon the second and any subsequent
+unexcused absences. The Committee on Committees shall notify the  member
 of any resulting reduction in his or her committee assignments.
   c.  Members  of  the Assembly shall serve on no more than six standing
 committees; provided, however that members serving as the chairperson of
@@ -915,57 +917,57 @@ Assembly sessions pursuant to Rule X.
 pursuant  to  paragraph  four  of subdivision c of section one of Rule I
 shall be comprised of at least three members of the standing  committee;
 provided,  however  that  there shall be at least one minority member on
-each subcommittee.  The  chairperson  of  such  standing  committee  may
-request  that  a  sub-committee  report  back  to the committee within a
-specified period of time with respect to  the  following:  analysis  and
-recommendations  regarding  a  bill  referred to the standing committee;
-recommendations for proposed legislative action; and  the  findings  and
+each  subcommittee.  The  chairperson  of  such  standing  committee may
+request that a sub-committee report  back  to  the  committee  within  a
+specified  period  of  time  with respect to the following: analysis and
+recommendations regarding a bill referred  to  the  standing  committee;
+recommendations  for  proposed  legislative action; and the findings and
 recommendations  of  the  sub-committee  resulting  from  any  hearings,
-studies or investigations relating to matter within the jurisdiction  of
-the  standing  committee.  Any  report  issued  by  a sub-committee to a
-standing committee must  be  in  writing  and  indicate  any  dissenting
-opinion.  Meetings  of sub-committees shall be subject to the provisions
-of article seven of the Public Officers Law known as the "Open  Meetings
+studies  or investigations relating to matter within the jurisdiction of
+the standing committee. Any  report  issued  by  a  sub-committee  to  a
+standing  committee  must  be  in  writing  and  indicate any dissenting
+opinion. Meetings of sub-committees shall be subject to  the  provisions
+of  article seven of the Public Officers Law known as the "Open Meetings
 Law".
-  §  4.  Hearings.   a. During each legislative session, chairpersons of
-standing committees  may  call  public  hearings  to  permit  interested
+  § 4. Hearings.  a. During each legislative  session,  chairpersons  of
+standing  committees  may  call  public  hearings  to  permit interested
 persons, groups or organizations the opportunity to testify orally or in
-writing  on  legislation  or  other matters pending before such standing
-committee provided, however,  that  each  chairperson  shall  call  such
-public  hearings  upon a petition signed by a majority of the members of
-the committee.  Such testimony if submitted in writing shall  be  posted
+writing on legislation or other matters  pending  before  such  standing
+committee  provided,  however,  that  each  chairperson  shall call such
+public hearings upon a petition signed by a majority of the  members  of
+the  committee.   Such testimony if submitted in writing shall be posted
 on the Assembly Internet site to the extent practicable.
-  b.  Consistent  with the provisions of subdivision d of section one of
+  b. Consistent with the provisions of subdivision d of section  one  of
 Rule IV hereof, the chairperson of each standing committee shall call at
-least one  public  hearing  after  the  adoption  of  the  state  budget
-regarding   the   implementation   and  administration  of  programs  of
+least  one  public  hearing  after  the  adoption  of  the  state budget
+regarding  the  implementation  and  administration   of   programs   of
 departments,  agencies,  divisions,  authorities,  boards,  commissions,
-public  benefit  corporations and other entities within the jurisdiction
+public benefit corporations and other entities within  the  jurisdiction
 of such committee. The purpose of such public hearing shall include, but
-not be limited to, the impact, if  any,  of  the  state  budget  on  the
-implementation  and administration of the programs within such entities'
+not  be  limited  to,  the  impact,  if  any, of the state budget on the
+implementation and administration of the programs within such  entities'
 jurisdiction.
-  c. Other public hearings may be called by committee chairpersons  with
-prior   consent   of  the  Speaker  and  in  accordance  with  procedure
+  c.  Other public hearings may be called by committee chairpersons with
+prior  consent  of  the  Speaker  and  in  accordance   with   procedure
 established by law.
-  d. Each chairperson shall prepare a schedule setting  forth  the  date
-and  place for hearings and the subject matter to be considered thereat.
-Copies of such schedule shall be made available to  the  general  public
-and  representatives  of the news media at least seven days prior to the
-date of such hearing and filed  with  the  Assembly  Public  Information
+  d.  Each  chairperson  shall prepare a schedule setting forth the date
+and place for hearings and the subject matter to be considered  thereat.
+Copies  of  such  schedule shall be made available to the general public
+and representatives of the news media at least seven days prior  to  the
+date  of  such  hearing  and  filed with the Assembly Public Information
 Office.
-  §  5.  Consideration  of  bills; requests by sponsor. a. Each standing
-committee may consider any bill referred to it at any time if  otherwise
-in  conformity with these Rules. (1) In considering any bill, a standing
-committee may vote favorably,  unfavorably  or  to  hold  the  bill  for
-further  action  and/or  study, provided, however, that a motion to hold
-which fails shall not be deemed to satisfy a request for  consideration.
-Insofar  as  may be practicable, each standing committee shall vote upon
-such bills in the order in which  such  requests  are  filed,  provided,
-however,  that  a  chairperson  may  schedule the consideration of bills
+  § 5. Consideration of bills; requests by  sponsor.  a.  Each  standing
+committee  may consider any bill referred to it at any time if otherwise
+in conformity with these Rules. (1) In considering any bill, a  standing
+committee  may  vote  favorably,  unfavorably  or  to  hold the bill for
+further action and/or study, provided, however, that a  motion  to  hold
+which  fails shall not be deemed to satisfy a request for consideration.
+Insofar as may be practicable, each standing committee shall  vote  upon
+such  bills  in  the  order  in which such requests are filed, provided,
+however, that a chairperson may  schedule  the  consideration  of  bills
 jointly if such bills deal with similar subject matter.
-  (2) No bill shall be considered by a  standing  committee  unless  the
-final  printed copy of the bill has been available to each member of the
+  (2)  No  bill  shall  be considered by a standing committee unless the
+final printed copy of the bill has been available to each member of  the
 committee for at least seven days and copies thereof have been available
 to the general public and representatives of the news media for at least
 such  period  of  time.    A  bill reported by a standing committee with
