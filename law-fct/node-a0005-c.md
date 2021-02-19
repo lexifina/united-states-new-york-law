@@ -1,4 +1,4 @@
-                              * ARTICLE 5-C
+                               ARTICLE 5-C
       JUDGMENTS OF PARENTAGE OF CHILDREN CONCEIVED THROUGH ASSISTED
             REPRODUCTION OR PURSUANT TO SURROGACY AGREEMENTS
 PART 1. General provisions (581-101 - 581-102)
@@ -9,4 +9,3 @@ PART 1. General provisions (581-101 - 581-102)
           581-502)
      6. Surrogates' bill of rights (581-601 - 581-607)
      7. Miscellaneous provisions (581-701 - 581-704)
-* NB Effective February 15, 2021
