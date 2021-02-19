@@ -42,8 +42,8 @@ Section 10.   Department of labor; commissioner of labor.
         27-a. Safety and health standards for public employees.
         27-b. Duty of public employers to develop and implement programs
                 to prevent workplace violence.
-        27-c. Duty of public employers to develop operation plans in the
-                event of certain declared public health emergencies.
+        27-c. Preparation of public employers for state disaster
+                emergencies involving public health.
         29.   Procedure for issuing safety and health rules.
         30.   Variations.
         31.   Duty to furnish information and facilitate inspections.
