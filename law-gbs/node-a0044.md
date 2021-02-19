@@ -1,4 +1,4 @@
-                              * ARTICLE 44
+                               ARTICLE 44
               REGULATION OF SURROGACY PROGRAMS AND ASSISTED
                      REPRODUCTION SERVICE PROVIDERS
 Section 1400. Definitions.
@@ -8,4 +8,3 @@ Section 1400. Definitions.
         1403. Conflicts of interest; prohibition on payments; funds in
                 escrow; licensure; notice of surrogates' bill of rights.
         1404. Regulations.
-  * NB Effective February 15, 2021
