@@ -6,6 +6,5 @@ Section 70. Habeas corpus for child detained by parent.
         72. Special proceeding or habeas corpus to obtain visitation
               rights or custody in respect to certain infant
               grandchildren.
-        73. Legitimacy of children born by artificial insemination.
         74. Certain provisions relating to the custody of children by
               persons who are not the parents of such children.
