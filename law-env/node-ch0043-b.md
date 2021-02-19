@@ -94,8 +94,6 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 1996 (§ 56-0101 to 56-0611).
         57.   Long Island Pine Barrens Maritime Reserve Act
                 (§ 57-0101 to 57-0213).
-        58.   Implementation of the environmental bond act of 2020
-                "restore mother nature" (§ 58-0101 to 58-1103).
         70.   Uniform procedures (§ 70-0101 to 70-0121).
         71.   Enforcement (§ 71-0101 to 71-4412).
         72.   Environmental regulatory program fees
