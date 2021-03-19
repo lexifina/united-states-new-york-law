@@ -18,3 +18,4 @@ Section 150.   Suspension of pension and annuity during public
                  programs.
         159-a. Disability program.
         159-b. Excused leave to undertake a screening for cancer.
+        159-c. Leave time for COVID-19 vaccination.
