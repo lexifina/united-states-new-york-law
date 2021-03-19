@@ -14,6 +14,7 @@ Section 190.   Definitions.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.
         196-b. Sick leave requirements.
+        196-c. Leave time for COVID-19 vaccination.
         196-d. Gratuities.
         197.   Civil penalty.
         198.   Costs, remedies.
