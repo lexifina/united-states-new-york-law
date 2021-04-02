@@ -1,11 +1,7 @@
                                 ARTICLE 9
-   PREVAILING WAGE FOR BUILDING SERVICE EMPLOYEES AND COVERED AIRPORT
-                                 WORKERS
+             PREVAILING WAGE FOR BUILDING SERVICE EMPLOYEES
 Section 230.     Definitions.
-        231.     Prevailing wage for building service employees.
-        231-a.   Prevailing wage in the case of certain nuclear power
-                   plants.
-        231-a*2. Prevailing wage for covered airport workers.
+        231.     Prevailing wage.
         232.     Overtime.
         233.     Record keeping.
         234.     Powers of the fiscal officer.
