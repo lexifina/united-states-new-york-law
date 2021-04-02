@@ -72,7 +72,7 @@ Article     1. General purposes (§§ 1.00-1.05).
           215. Other offenses relating to judicial and other proceedings
                  (§§ 215.00-215.80).
           220. Controlled substances offenses (§§ 220.00-220.78).
-          221. Offenses involving marihuana (§§ 221.00-221.55).
+          222. Cannabis (§§ 220.00-220-65).
           225. Gambling offenses (§§ 225.00-225.95).
           230. Prostitution offenses (§§ 230.00-230.40).
           235. Obscenity and related offenses (§§ 235.00-235.24).
