@@ -67,6 +67,7 @@ bond act in November, 1992
         16-z.   Marketing orders.
         16-aa.  Life sciences initiatives program.
         16-dd.  Community development revolving loan program.
+        16-ee.  Loans to social and economic equity applicants.
         17.     Bonds and notes of the corporation.
         18.     Bond authorization.
         19.     Security for bonds or notes; construction and
