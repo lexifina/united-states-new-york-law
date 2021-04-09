@@ -4,7 +4,7 @@ Section 7.  Establishment of the cannabis control board or "board".
         8.  Establishment of an office of cannabis management.
         9.  Executive director.
         10. Powers and duties of the cannabis control board.
-        11. Functions, powers and duties of the executive director;
+        11. * Functions, powers and duties of the executive director;
               office of cannabis control.
         12. Chief equity officer.
         13. Rulemaking authority.
@@ -15,4 +15,6 @@ Section 7.  Establishment of the cannabis control board or "board".
         17. Formal hearings; notice and procedure.
         18. Ethics, transparency and accountability.
         19. Public health and education campaign.
-        20. Uniform policies and best practices.
+        20. * Uniform policies and best practices.
+  * NB Section heading in this schedule does not match heading of
+section text
