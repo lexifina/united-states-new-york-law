@@ -38,7 +38,7 @@ Section 70.        Classification of funds.
         89-f.      Workers' compensation security fund payment account.
         89-g.      Accident prevention course internet, and other
                      technology pilot program fund.
-        89-h.      Medical marihuana trust fund.
+        89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
         90.        New York state department of transportation highway
                      safety program fund.
@@ -316,3 +316,7 @@ Section 70.        Classification of funds.
         99-hh*3.   Endangered and threatened species mitigation bank
                      fund.
         99-hh*4.   Behavioral health parity compliance fund.
+        99-ii.     New York state cannabis revenue fund.
+        99-jj.     New York state drug treatment and public education
+                     fund.
+        99-kk.     New York state community grants reinvestment fund.
