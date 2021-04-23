@@ -79,7 +79,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          25.      Fair credit reporting act (§§ 380--380-v).
          25-A.    Articles of bedding (§§ 383--389-c).
          25-B.    Use of safety glazing materials (§§ 389-m--389-r).
-         26.      Miscellaneous (§§ 390--399-zzz).
+         26.      Miscellaneous (§§ 390--399-zzzzz).
          27.      Licensing of nail specialty, natural hair styling,
                     esthetics and cosmetology (§§ 400-417).
          27-A.    Licensing of coin processors (§§ 418-429).
