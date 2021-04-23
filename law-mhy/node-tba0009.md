@@ -28,12 +28,12 @@ Section 9.01 Definitions.
                treatment.
         9.40 Emergency observation, care and treatment in comprehensive
                psychiatric emergency programs.
-        9.41 Emergency admissions for immediate observation, care, and
+        9.41 Emergency assessment for immediate observation, care, and
                treatment; powers of certain peace officers and police
                officers.
-        9.43 Emergency admissions for immediate observation, care, and
+        9.43 Emergency assessment for immediate observation, care, and
                treatment; powers of courts.
-        9.45 Emergency admissions for immediate observation, care, and
+        9.45 Emergency assessment for immediate observation, care, and
                treatment; powers of directors of community services.
         9.46 Reports of substantial risk or threat of harm by mental
                health professionals.

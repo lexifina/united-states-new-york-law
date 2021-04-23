@@ -7,6 +7,7 @@ Article 29 General provisions relating to in-patient facilities
         32 Regulation and quality control of chemical dependence
              services and compulsive gambling services
         33 Rights of patients
+        36 Addiction and mental health services and supports
         41 Local and unified services
         43 Fees for services
         47 Mental hygiene legal service
