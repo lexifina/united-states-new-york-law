@@ -36,4 +36,5 @@ Section 31.01  Evaluation of services for the mentally disabled.
         31.33  Mental health special needs plans.
         31.35  Review of criminal history information concerning certain
                  prospective employees.
+        31.36  Crisis stabilization services.
         31.37  Mental health incident review panels.
