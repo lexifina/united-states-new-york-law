@@ -1,8 +1,8 @@
                                ARTICLE 26
     * TEMPORARY RELEASE PROGRAMS FOR STATE CORRECTIONAL INSTITUTIONS
-  * NB Effective until September 1, 2021
+  * NB Effective until September 1, 2023
        * WORK RELEASE PROGRAM FOR STATE CORRECTIONAL INSTITUTIONS
-  * NB Effective September 1, 2021
+  * NB Effective September 1, 2023
 Section 851.  Definitions.
         852.  Establishment of temporary release.
         853.  Reporting and information.
