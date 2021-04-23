@@ -251,6 +251,7 @@ Section 70.        Classification of funds.
                      and treatment fund.
         97-ssss*2. Elevator and related conveyances safety program
                      account.
+        97-tttt.   Restore mother nature bond fund.
         97-xxxx.   State health innovation plan account.
         97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
@@ -320,3 +321,7 @@ Section 70.        Classification of funds.
         99-jj.     New York state drug treatment and public education
                      fund.
         99-kk.     New York state community grants reinvestment fund.
+        99-ll.     New York state council on the arts cultural programs
+                     fund.
+        99-mm.     Emergency rental assistance municipal corporation
+                     allocation fund.

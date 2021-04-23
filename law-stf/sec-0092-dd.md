@@ -86,9 +86,3 @@ hundred seven-k, twenty-eight hundred seven-l, twenty-eight hundred
 seven-m, and twenty-eight hundred seven-v of the public health law to
 address emergency provider cash needs, as determined by the commissioner
 of health.
-  (j) The state comptroller shall transfer from the HCRA resources fund
-to the general debt service fund, revenue bond tax fund (311.02) amounts
-equal to the debt service paid for bonds, notes, or other obligations
-issued pursuant to article five-C and article five-F of this chapter to
-finance the HEAL NY capital grant program authorized pursuant to section
-sixteen hundred eighty-j of the public authorities law.

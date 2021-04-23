@@ -38,3 +38,5 @@ Section 135.   Separate specifications for contract work for the state.
         145.   Acceptance of final payment under a state contract.
         146.   Certain construction contracts involving steel.
         147.   Mentor-protege program.
+        148.   Certain contracts involving personal protective equipment
+                 and medical supplies.
