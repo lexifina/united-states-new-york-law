@@ -20,6 +20,7 @@ Section 211.   Statement of policy.
         224.   Requirement for adequate service.
         224-a. Consumer protection.
         224-b. Cable bills.
+        224-c. Broadband and fiber optic services.
         225.   Rates.
         226.   Abandonment of service.
         227.   Termination of franchises.
