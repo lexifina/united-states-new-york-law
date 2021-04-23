@@ -20,3 +20,4 @@ Section 620.   Declaration of policy and legislative intent.
         633.   Confidentiality of records.
         634.   Subrogation.
         635.   Severability of provisions.
+        636.   Community violence intervention act.

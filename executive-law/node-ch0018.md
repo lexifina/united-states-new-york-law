@@ -82,7 +82,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  violence (§ 575).
          21-A. Emergency services council (§ 580).
          21-B. Manufactured homes (§§ 600-617)
-         22.   Crime victims board (§§ 620-635).
+         22.   Crime victims board (§§ 620-636).
          23.   Fair treatment standards for crime victims (§§ 640-649).
          24.   Office of employee relations (§§ 650-654).
          25.   Most integrated setting coordinating council
