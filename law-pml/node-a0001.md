@@ -37,3 +37,10 @@ Section 100.   Legislative intent.
         127.   Transfer of assets and liabilities.
         128.   Promulgation of rules and regulations.
         129.   Construction of other laws of provisions.
+        130.   The office of gaming inspector general.
+        131.   Gaming inspector general; functions and duties.
+        132.   Powers.
+        133.   Responsibilities of the commission and its officers and
+                 employees.
+        134.   Transfer of employees.
+        135.   Transfer of records.
