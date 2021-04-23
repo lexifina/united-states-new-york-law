@@ -7,4 +7,4 @@ Section 65.00  Definitions.
         65.20  Closed-circuit television; procedure for application and
                  grounds for determination.
         65.30  Closed-circuit television; special testimonial procedure.
-  * NB Repealed September 1, 2021
+  * NB Repealed September 1, 2023
