@@ -28,3 +28,4 @@ Section 220.   Hours, wages and supplements.
                  projects performed under private contract.
         224-b. Stop-work orders.
         224-c. Public subsidy board.
+        224-d. Wage requirements for certain renewable energy systems.
