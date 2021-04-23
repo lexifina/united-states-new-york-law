@@ -13,8 +13,8 @@ Title A. Organization of department of mental hygiene. (Arts. 1 and 5).
            (Arts. 13 and 15).
       D. Alcoholism and substance abuse act. (Arts. 19, 22, and 25)
       E. General provisions.
-           (Arts. 29-33, 41, 43, 45, 61, 67, 71, 75, 79-81, 83, 84 and
-           91)
+           (Arts. 29-33, 36, 41, 43, 45, 61, 67, 71, 75, 79-81, 83, 84
+           and 91)
                                       TITLE A
                     ORGANIZATION OF DEPARTMENT OF MENTAL HYGIENE
 Article   1 Short title and definitions (§§ 1.01-1.03).
@@ -53,6 +53,8 @@ Article  29 General provisions relating to in-patient facilities
               services and compulsive gambling services
               (§§ 32.01-32.39).
          33 Rights of patients (§§ 33.01-33.27).
+         36 Addiction and mental health services and supports
+              (§§ 36.01-36.02).
          41 Local and unified services (§§ 41.01-41.57).
          43 Fees for services (§§ 43.01-43.12).
          47 Mental Hygiene legal service (§§ 47.01-47.03).
