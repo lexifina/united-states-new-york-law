@@ -33,9 +33,10 @@ Section 64.     Application of article.
         66-m.   Green jobs-green New York on-bill recovery.
         66-n.   Net metering study.
         66-o.   Electric vehicle charging tariff.
-        66-p.   Gas and electric billing information for residential
+        66-p.   Establishment of a renewable energy program.
+        66-q.   Gas and electric billing information for residential
                   rental premises.
-        66-p*2. Establishment of a renewable energy program.
+        66-r.   Requirements for certain renewable energy systems.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.
