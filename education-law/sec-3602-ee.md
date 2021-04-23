@@ -88,16 +88,16 @@ later than June thirtieth, two thousand seventeen, at which time such
 certification shall be required for employment.
   (ii) Provided that, notwithstanding any provisions of this paragraph
 to the contrary, for the two thousand seventeen-two thousand eighteen
-through the two thousand twenty--two thousand twenty-one school years an
-exemption to the certification requirement of subparagraph (i) of this
-paragraph may be made for a teacher without certification valid for
-service in the early childhood grades who possesses a written plan to
-obtain certification and who has registered in the ASPIRE workforce
+through the two thousand twenty-one--two thousand twenty-two school
+years an exemption to the certification requirement of subparagraph (i)
+of this paragraph may be made for a teacher without certification valid
+for service in the early childhood grades who possesses a written plan
+to obtain certification and who has registered in the ASPIRE workforce
 registry as required under regulations of the commissioner of the office
 of children and family services. Notwithstanding any exemption provided
 by this subparagraph, certification shall be required for employment no
-later than June thirtieth, two thousand twenty-one; provided that for
-the two thousand twenty-two thousand twenty-one school year, school
+later than June thirtieth, two thousand twenty-two; provided that for
+the two thousand twenty-one--two thousand twenty-two school year, school
 districts with teachers seeking an exemption to the certification
 requirement of subparagraph (i) of this paragraph shall submit a report
 to the commissioner regarding (A) the barriers to certification, if any,
@@ -222,10 +222,16 @@ Chautauqua, Erie and Niagara counties.
 and early education, a day care provider, early childhood program or
 center, approved preschool special education program, Head Start or
 other such community-based organization.
-  16. The authority of the department to administer the universal
+  * 16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
 thousand twenty-one; provided that the program shall continue and remain
 in full effect.
+  * NB Effective until July 1, 2021
+  * 16. The authority of the department to administer the universal
+full-day pre-kindergarten program shall expire June thirtieth, two
+thousand twenty-two; provided that the program shall continue and remain
+in full effect.
+  * NB Effective July 1, 2021
   17. Notwithstanding any inconsistent provision of law to the contrary,
 for the purposes of determining the prekindergarten allocation on the
 electronic data file prepared by the commissioner pursuant to
