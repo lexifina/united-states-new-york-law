@@ -18,4 +18,4 @@ directed by the director of the budget.
 provide authorized benefits to eligible households of the respective
 municipal corporation from which monies were received in accordance with
 subdivision one of this section.
-  * NB Repealed September 31, 2025
+  * NB Repealed September 30, 2025
