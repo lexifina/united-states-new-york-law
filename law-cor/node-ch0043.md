@@ -35,7 +35,7 @@ Article  1.   Short title; definitions (§§ 1-2).
                 institutions (§§ 150-160).
          6-C. Sex offender registration act (§§ 168--168-w).
          7.   Labor in correctional institutions (§§ 170-200).
-         8.   Community supervision (§§ 201-208).
+         8.   Community supervision (§§ 201-209).
         11.   Executive clemency (§§ 261-266).
         12.   Local conditional release commission (§§ 270-276).
         12-B. Resident parole facility for youth.

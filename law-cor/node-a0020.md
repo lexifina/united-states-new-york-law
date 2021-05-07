@@ -27,6 +27,7 @@ Section 500.   Application of article.
         507.   Removal of prisoners in case of fire.
         508.   Removal of sick prisoners from jail.
         509.   Absence of inmate for funeral and deathbed visits.
+        510.   Voting upon release.
         514.   Confinement of civil prisoners.
         523.   Revocation of designation of jail.
         524.   Manner and effect of revocation.

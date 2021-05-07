@@ -9,3 +9,4 @@ Section 201. Authority and responsibility for community supervision.
                release.
         207. Cooperation.
         208. Deputization of out-of-state officers.
+        209. Notice of voting rights.
