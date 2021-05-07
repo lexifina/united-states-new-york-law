@@ -44,6 +44,7 @@ Section 10.   Department of labor; commissioner of labor.
                 to prevent workplace violence.
         27-c. Preparation of public employers for state disaster
                 emergencies involving public health.
+        27-d. Workplace safety committees.
         29.   Procedure for issuing safety and health rules.
         30.   Variations.
         31.   Duty to furnish information and facilitate inspections.

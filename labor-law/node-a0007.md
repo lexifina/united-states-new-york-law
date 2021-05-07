@@ -90,6 +90,8 @@ Section 200.   General duty to protect health and safety of employees;
                  policies of accident and health insurance.
         218.   Violations of certain provisions; civil penalties.
         218-a. Sun safety education for state employees.
+        218-b. Prevention of occupational exposure to an airborne
+                 infectious disease.
         219.   Violations of certain wage payment provisions; interest,
                  filing of order as judgment.
         219-a. Affirmation in lieu of oath.
