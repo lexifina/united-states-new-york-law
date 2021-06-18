@@ -61,8 +61,8 @@ Article   1.   Short title, applicability and definitions. (101-107.)
                  (5101-5107.)
          52.   Enforcement of money judgments.
                  (5201-5211, 5221-5242, 5250-5252.)
-         53.   Recognition of foreign country money judgments summary of
-                 article.  (5301-5309.)
+         53.   Recognition of foreign country money judgments.
+                 (5300-5308.)
          54.   Enforcement of judgments entitled to full faith and
                  credit summary of article. (5401-5408.)
          55.   Appeals generally. (5501, 5511-5532.)
