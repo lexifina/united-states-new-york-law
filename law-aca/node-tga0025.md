@@ -23,7 +23,7 @@ Section 25.01. Legislative findings.
         25.33. Private right of action.
         25.34. Ticket websites.
         25.35. Criminal penalties.
-  * NB Effective until July 1, 2021
+  * NB Effective until July 1, 2022
                               * ARTICLE 25
                              THEATRE TICKETS
 Section 25.01. Matters of public interest.
@@ -41,4 +41,4 @@ Section 25.01. Matters of public interest.
         25.24. Ticket purchasing software.
         25.25. Violations; penalties.
         25.27. Unlawful charges in connection with theatre tickets.
-  * NB Effective July 1, 2021
+  * NB Effective July 1, 2022
