@@ -12,3 +12,4 @@ Section 25.01 Definitions.
         25.13 Office is authorized state agency.
         25.15 Optimizing federal aid.
         25.17 Fees for services.
+        25.18 Statewide opioid settlements.
