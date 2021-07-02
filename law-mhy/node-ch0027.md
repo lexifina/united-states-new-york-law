@@ -38,7 +38,7 @@ Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.43).
          22 Chemical dependence programs, treatment facilities, and
               services (§§ 22.01-22.11).
          25 Funding for services of the office of alcoholism and
-              substance abuse services (§§ 25.01-25.17).
+              substance abuse services (§§ 25.01-25.18).
          26 Funding of chemical dependence services and compulsive
               gambling services (§ 26.00).
                                         TITLE E
