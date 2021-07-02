@@ -60,7 +60,7 @@ Article   1.      Short title; definitions; matters of public interest
                     (§§ 161--169-d).
          14-A.    Sale and distribution of lye and other caustic
                     substances (§§ 170--172-e).
-         15.      Bee diseases (§§ 173--175-d).
+         15.      Bee diseases (§§ 173--175-b).
          15-A.    Sales of baby chicks (§§ 175-m--175-r).
          16.      Weights and measures (§§ 176--197-b).
          17.      Adulteration, packing, and branding of food and food
