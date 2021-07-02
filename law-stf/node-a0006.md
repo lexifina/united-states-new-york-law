@@ -325,3 +325,4 @@ Section 70.        Classification of funds.
                      fund.
         99-mm.     Emergency rental assistance municipal corporation
                      allocation fund.
+        99-nn.     Opioid settlement fund.
