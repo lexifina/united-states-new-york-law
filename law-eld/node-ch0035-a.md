@@ -36,6 +36,7 @@ Section 201.   Office for the aging; director.
         223.   Economically sustainable transportation demonstration
                  program.
         224.   Informal caregivers in the workplace program.
+        225.   Elder abuse enhanced multidisciplinary team program.
                                  TITLE 3
           PROGRAM FOR ELDERLY PHARMACEUTICAL INSURANCE COVERAGE
 Section 240.   Short title.
