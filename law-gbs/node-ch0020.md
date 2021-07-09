@@ -160,6 +160,8 @@ AN ACT relating to general business, constituting chapter twenty of the
                     (§§ 895-897).
          39-DDD.  Private sale or disposal of firearms, rifles and
                     shotguns (§ 898).
+         39-DDDD. Sale, manufacturing, importing and marketing of
+                    firearms (§§ 898-a--898-e).
          39-E.    Uniform Athlete Agents Act (§§ 899--899-p).
          39-F.    Notification of unauthorized acquisition of private
                     information (§ 899-aa).
