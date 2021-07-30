@@ -91,7 +91,7 @@ Article     1. General purposes (§§ 1.00-1.05).
           265. Firearms and other dangerous weapons
                  (§§ 265.00-265.55).
           270. Other offenses relating to public safety
-                 (§§ 270.00-270.35).
+                 (§§ 270.00-270.40).
           275. Offenses relating to unauthorized recording of sound
                  (§§ 275.00-275.45).
           400. Licensing and other provisions relating to firearms
