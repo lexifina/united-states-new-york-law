@@ -738,4 +738,16 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Wappinger Veterans Memorial Highway".
         344-l*8.   Portion of the state highway system to be designated
                      as the "Charles W. Howard Memorial Highway".
+        344-m.     Portion of the state highway system to be designated
+                     as the "Sergeant David Lockwood Memorial Bridge".
+        344-m*2.   Portion of the state highway system to be designated
+                     as the "CPL William James Hillard II Memorial
+                     Bridge".
+        344-m*3.   Portion of the state highway system to be designated
+                     as the "Tec. 5 Edward Enser Memorial Highway".
+        344-m*4.   Portion of the state highway system to be designated
+                     as the "Dr. Martin Luther King Jr. - Michael Henry
+                     Schwerner Memorial Bridge".
+        344-m*5.   Portion of the state highway system to be designated
+                     as the "Trooper Joseph Gallagher Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
