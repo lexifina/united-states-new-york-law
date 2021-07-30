@@ -120,12 +120,16 @@ available appropriation. Savings that are actually and demonstrably
 realized by the participating local governments are eligible for
 matching funding. For actions that are part of an approved plan
 transmitted to the secretary of state in accordance with paragraph b of
-subdivision seven of this section, savings achieved from January first
-through December thirty-first from new actions implemented on or after
-January first through December thirty-first of the year immediately
-following an approved and transmitted plan may be eligible for matching
-funding. Only net savings between local governments for each action
-would be eligible for matching funding. Savings from internal
+subdivision seven of this section, savings achieved during either: (i)
+January first through December thirty-first from new actions implemented
+on or after January first through December thirty-first of the year
+immediately following an approved and transmitted plan, or (ii) July
+first of the year immediately following an approved and transmitted plan
+through June thirtieth of the subsequent year from new actions
+implemented July first of the year immediately following an approved
+plan through June thirtieth of the subsequent year may be eligible for
+matching funding. Only net savings between local governments for each
+action would be eligible for matching funding. Savings from internal
 efficiencies or any other action taken by a local government without the
 participation of another local government are not eligible for matching
 funding. Each county and all of the local governments within the county
@@ -139,7 +143,7 @@ county-wide shared services plans approved by the county-wide shared
 services panels created pursuant to part BBB of chapter fifty-nine of
 the laws of two thousand seventeen and this article and shall post the
 report on the department's website. Such report shall be provided on or
-before June thirtieth, two thousand twenty-two and shall include, but
+before June thirtieth, two thousand twenty-five and shall include, but
 not be limited to, the following:
   a. a detailed summary of projects included in county-wide shared
 services plans by category, such as:
@@ -183,4 +187,4 @@ members present at such meeting.
 panel for the purpose of revising or updating a previously approved
 plan, or developing a new plan, or to provide the secretary of state
 information pursuant to subdivision ten of this section, shall cease on
-December thirty-first, two thousand twenty-one.
+December thirty-first, two thousand twenty-four.
