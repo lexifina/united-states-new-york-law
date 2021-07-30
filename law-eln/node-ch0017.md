@@ -346,6 +346,7 @@ Section 8-100. Elections; dates of and hours for voting.
         8-102. Polls; opening of.
         8-104. Polls.
         8-106. Polling places; attendance for educational purposes.
+        8-108. Change of polling place.
                                 TITLE II
                            ELECTION INSPECTORS
 Section 8-202. Board of inspectors; conduct of.
@@ -453,16 +454,16 @@ Section 10-102. Military voters; definitions.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
         10-122. Military voter; absentee ballot, right to.
-        10-124. Military  voting;  division  for  servicemen's   voting;
+        10-124. Military   voting;  division  for  servicemen's  voting;
                   regulatory powers.
         10-126. Military voting; applicability of general provisions.
                                ARTICLE 11
    SPECIAL PRESIDENTIAL AND SPECIAL FEDERAL VOTERS AND SPECIAL BALLOTS
                                  TITLE I
                        SPECIAL PRESIDENTIAL VOTERS
-Section 11-102. Special   presidential   voters;  change  of  residence;
+Section 11-102. Special  presidential  voters;  change   of   residence;
                   special qualifications.
-        11-104. Registration and application  for  special  presidential
+        11-104. Registration  and  application  for special presidential
                   ballot.
         11-106. Processing of applications by board of elections.
         11-108. Special presidential voters lists.
@@ -471,7 +472,7 @@ Section 11-102. Special   presidential   voters;  change  of  residence;
                                 TITLE II
                          SPECIAL FEDERAL VOTERS
 Section 11-200. Special federal voters; qualifications.
-        11-202. Registration  and  enrollment  of special federal voters
+        11-202. Registration and enrollment of  special  federal  voters
                   and application for special federal ballot.
         11-204. Processing of applications by board of elections.
         11-206. Special federal voters; preparation of registration poll
@@ -573,7 +574,7 @@ Section 14-200.   Legislative findings and intent.
         14-207.   Composition, powers, and duties of the public campaign
                     finance board.
         14-208.   Audits and repayments.
-        14-209.   Enforcement and penalties  for  violations  and  other
+        14-209.   Enforcement  and  penalties  for  violations and other
                     proceedings.
         14-210.   Reports.
         14-211.   Debates for candidates for statewide office.
@@ -591,17 +592,17 @@ Section 15-100. Application of article.
         15-116. Inspectors of election.
         15-118. Registration of voters.
         15-120. Absentee voting at village elections.
-        15-122. Absentee  voting at village elections for persons unable
+        15-122. Absentee voting at village elections for persons  unable
                   to appear because of illness or physical disability.
         15-124. Duties of village clerk.
         15-126. Canvass of election.
         15-128. Notice to person chosen to a village office.
         15-130. Election of trustees by wards.
-        15-132. Votes upon  propositions  to  be  by  ballot  or  voting
+        15-132. Votes  upon  propositions  to  be  by  ballot  or voting
                   machine.
         15-134. Failure to designate terms.
         15-136. Refusal of officer to surrender his office.
-        15-138. Judicial   review   of   matters   relating  to  village
+        15-138. Judicial  review  of   matters   relating   to   village
                   elections.
                                ARTICLE 16
                           JUDICIAL PROCEEDINGS
