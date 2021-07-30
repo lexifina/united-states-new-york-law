@@ -22,7 +22,7 @@
                  (a) Confidential information privileged.
                  (b) Limitations on waiver.
         4509.   Library records.
-        4510.   Rape crisis counselor.
+        4510.   Rape crisis counselor or domestic violence advocate.
                  (a) Definitions.
                  (b) Confidential information privileged.
                  (c) Who may waive the privilege.
