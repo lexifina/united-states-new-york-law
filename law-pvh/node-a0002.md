@@ -40,6 +40,7 @@ Section 10.   Short title.
         31.   Rentals and selection of tenants.
         31-a. Resale price of shares.
         31-b. Assignment or pledge of tenant cooperator's shares.
+        31-c. Tenant-cooperators; application of shares.
         32.   Supervision and regulation.
         32-a. Additional supervision and regulation.
         32-b. Annual reports.
