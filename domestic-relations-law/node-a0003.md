@@ -19,7 +19,7 @@ Section 10.    Marriage a civil contract.
         14-a.  Town and city clerks to issue certificates of marriage
                  registration; form.
         15.    Duty of town and city clerks.
-        15-a.  Marriages of minors under fourteen years of age.
+        15-a.  Marriages of minors under eighteen years of age.
         15-b.  Temporary provisions authorizing issuance of marriage
                  license, upon court order, without consent of a parent
                  in armed forces of United States, merchant marine and
