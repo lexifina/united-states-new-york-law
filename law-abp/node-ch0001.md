@@ -25,7 +25,7 @@ Article    I.   Short title; declaration of policy; definitions.
          XII-A. Unclaimed or abandoned property in the possession,
                   custody or control of the United States of America.
                   (§§ 1213-1223)
-        XIII.   Miscellaneous unclaimed property. (§§ 1300-1317)
+        XIII.   Miscellaneous unclaimed property. (§§ 1300-1318)
          XIV.   General provisions. (§§ 1400-1422)
           XV.   Laws repealed; constitutionality; effective date.
                   (§§ 1500-1502)
