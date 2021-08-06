@@ -88,6 +88,19 @@ application is not filed within such one year period, abatement benefits
 shall not be granted until such application is filed, and the department
 may delay the granting of such benefits, at the department's discretion,
 to investigate the reason for the late filing.
+  (iii) Notwithstanding any provision of law to the contrary, the time
+limit to file a final application for benefits as specified in
+subparagraph (ii) of this paragraph shall not apply to brand-new
+construction from the ground up located on property purchased from the
+city of New York where such property which is the site of the new
+construction was purchased from the city of New York for the purposes of
+an eligible development pursuant to this article and where the sales
+agreement with the city of New York for such property includes a
+restriction preventing the sale or transfer of such property for a
+period of five years or more and where the first valuation and
+assessment for the purposes of property taxes occurred within that
+period of restriction from sale, provided the project meets the other
+requirements of this title.
   (b) Who may file for benefits. An applicant shall be:
   (i) obligated to pay real property tax on the property, either by
 virtue of ownership or contract; or
