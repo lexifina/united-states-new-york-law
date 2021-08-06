@@ -22,9 +22,10 @@ Article   1 Short title and definitions (§§ 1.01-1.03).
                                         TITLE B
                                    MENTAL HEALTH ACT
 Article   7 Office of mental health (§§ 7.01-7.47).
-          9 Hospitalization of the mentally ill (§§ 9.01-9.63)
+          9 Hospitalization of persons with a mental illness
+              (§§ 9.01-9.63).
          10 Sex offenders requiring civil commitment or supervision
-              (§§ 10.01-10.17)
+              (§§ 10.01-10.17).
                                         TITLE C
                             DEVELOPMENTAL DISABILITIES ACT
 Article  13 Office for people with developmental disabilities (§§

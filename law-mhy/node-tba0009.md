@@ -1,5 +1,5 @@
                                 ARTICLE 9
-                   HOSPITALIZATION OF THE MENTALLY ILL
+            HOSPITALIZATION OF PERSONS WITH A MENTAL ILLNESS
 Section 9.01 Definitions.
         9.03 Admission to a hospital.
         9.05 Examining physicians and medical certificates.
