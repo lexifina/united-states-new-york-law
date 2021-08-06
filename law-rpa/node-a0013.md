@@ -1,8 +1,7 @@
                                ARTICLE 13
                      ACTION TO FORECLOSE A MORTGAGE
 Section 1301.   Separate action for mortgage debt.
-        1302.   Foreclosure of high-cost home loans and subprime home
-                  loans.
+        1302.   Foreclosure of certain residential mortgages.
         1302-a. Defense of lack of standing; not waived.
         1303.   Foreclosures; required notices.
         1304.   Required prior notices.
