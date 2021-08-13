@@ -3,6 +3,8 @@
 Section 630.  Applicability.
         631.  Definitions.
         632.  Establishment of a furlough program.
-        633.  Procedure for furlough release of eligible inmates.
-        634.  Conduct of inmates participating in furlough program.
+        633.  Procedure for furlough release of eligible incarcerated
+                individuals.
+        634.  Conduct of incarcerated individuals participating in
+                furlough program.
   * NB Repealed September 1, 2023
