@@ -11,11 +11,12 @@ Section 500.   Application of article.
         500-h. Payment of costs for medical and dental services.
         500-i. County workhouses.
         500-j. Who may visit local correctional facilities.
-        500-k. Treatment of inmates.
+        500-k. Treatment of incarcerated individuals.
         500-l. Release on holidays, Saturdays and Sundays.
         500-m. Special provision relating to city of New York.
         500-n. Prisoners; unlawful fees prohibited.
-        500-o. Agreements for custody of inmates from other states.
+        500-o. Agreements for custody of incarcerated individuals from
+                 other states.
         500-p. Prohibition on the custody of youth in Rikers Island
                  facilities.
         501.   Jail physician.
@@ -26,7 +27,8 @@ Section 500.   Application of article.
                  services and treatment.
         507.   Removal of prisoners in case of fire.
         508.   Removal of sick prisoners from jail.
-        509.   Absence of inmate for funeral and deathbed visits.
+        509.   Absence of incarcerated individual for funeral and
+                 deathbed visits.
         510.   Voting upon release.
         514.   Confinement of civil prisoners.
         523.   Revocation of designation of jail.

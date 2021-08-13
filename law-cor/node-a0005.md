@@ -2,10 +2,12 @@
                       COORDINATED USE OF STATE AND
                      LOCAL CORRECTIONAL INSTITUTIONS
 Section 90. Purposes of article.
-        91. Agreements for custody of definite sentence inmates.
+        91. Agreements for custody of definite sentence incarcerated
+              individuals.
         92. Effect of agreement for custody of definite sentence
-              inmates.
-        93. Temporary custody of sentenced inmates in emergencies.
+              incarcerated individuals.
+        93. Temporary custody of sentenced incarcerated individuals in
+              emergencies.
         94. Use of local government institutions for residential
               treatment of persons under the custody of the state
               department of corrections and community supervision.
