@@ -2,8 +2,8 @@
                         MISCELLANEOUS PROVISIONS
 Section 600.   Certain correctional officers to administer oaths.
         600-a. Jail time records and certificates.
-        601.   Delivery of commitment with inmate; payment of fees for
-                 transportation.
+        601.   Delivery of commitment with incarcerated individual;
+                 payment of fees for transportation.
         601-a. Return of persons erroneously sentenced for the purpose
                  of resentence.
         601-b. Coram nobis prisoners; reimbursement for costs.
@@ -14,8 +14,9 @@ Section 600.   Certain correctional officers to administer oaths.
         604.   Payment of accounts for transporting prisoners.
         605.   Prisoners sentenced at one session of court to be
                  transported at same time.
-        605-a. Transportation of female inmates.
-        606.   Payment of costs for prosecution of inmates.
+        605-a. Transportation of female incarcerated individuals.
+        606.   Payment of costs for prosecution of incarcerated
+                 individuals.
         610.   Freedom of worship.
         611.   Births to inmates of correctional institutions and care
                  of children of inmates of correctional institutions.
@@ -33,6 +34,6 @@ Section 600.   Certain correctional officers to administer oaths.
         621.   Interstate cooperation with law enforcement officers and
                  agencies of other states and the federal government.
         622.   Sex offender treatment program.
-        623.   Inmate telephone services.
-        624.   Next of kin; death of inmate.
+        623.   Incarcerated individual telephone services.
+        624.   Next of kin; death of incarcerated individual.
         625.   Feminine hygiene products.
