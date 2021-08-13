@@ -4,12 +4,12 @@ Beginning on and after January first, two thousand eight:
 include the number issued by the federal social security administration
 and any number derived from such number. Such term shall not include any
 number that has been encrypted.
-  (b) For purposes of this section, the term "inmate" means a person
-confined in any local correctional facility as defined in subdivision
-sixteen of section two of the correction law or in any correctional
-facility as defined in paragraph (a) of subdivision four of section two
-of the correction law pursuant to such person's conviction of a criminal
-offense.
+  (b) For purposes of this section, the term "incarcerated individual"
+means a person confined in any local correctional facility as defined in
+subdivision sixteen of section two of the correction law or in any
+correctional facility as defined in paragraph (a) of subdivision four of
+section two of the correction law pursuant to such person's conviction
+of a criminal offense.
   2. No person, firm, partnership, association or corporation, not
 including the state or its political subdivisions, shall do any of the
 following:
@@ -46,10 +46,10 @@ the envelope having been opened.
 document, including, but not limited to, using a bar code, chip,
 magnetic strip, or other technology, in place of removing the social
 security number as required by this section.
-  (g) Knowingly use the labor or time of or employ any inmate in this
-state, or in any other jurisdiction, in any capacity that involves
-obtaining access to, collecting or processing social security account
-numbers of other individuals.
+  (g) Knowingly use the labor or time of or employ any incarcerated
+individual in this state, or in any other jurisdiction, in any capacity
+that involves obtaining access to, collecting or processing social
+security account numbers of other individuals.
   3. This section does not prevent the collection, use, or release of a
 social security account number as required by state or federal law, the
 use of a social security account number for internal verification, fraud
