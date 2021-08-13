@@ -6,9 +6,9 @@ Section 259.    Definitions.
         259-c.  State board of parole; functions, powers and duties.
         259-d.  Hearing officers.
         259-e.  Institutional parole services.
-        259-h.  Parole eligibility for certain inmates sentenced for
-                  crimes committed prior to September first, nineteen
-                  hundred sixty-seven.
+        259-h.  Parole eligibility for certain incarcerated individuals
+                  sentenced for crimes committed prior to September
+                  first, nineteen hundred sixty-seven.
         259-i.  Procedures for the conduct of the work of the state
                   board of parole.
         259-j.  Discharge of sentence.
@@ -21,5 +21,5 @@ Section 259.    Definitions.
         259-p.  Interstate detention.
         259-q.  Civil actions against division personnel.
         259-r.  Release on medical parole for terminally ill inmates.
-        259-s.  Release on medical parole for inmates suffering
-                  significant debilitating illnesses.
+        259-s.  Release on medical parole for incarcerated individuals
+                  suffering significant debilitating illnesses.
