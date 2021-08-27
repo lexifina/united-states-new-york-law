@@ -764,4 +764,13 @@ Section 340-a.     Designation of state interstate routes.
         344-m*10.  Portion of the state highway system to be designated
                      and known as the "State Trooper Donald A. Strand
                      Memorial Bridge".
+        344-m*11.  Portion of the state highway system to be designated
+                     as the "Detective Betsy Horner-Miller Cutrone
+                     Memorial Bridge".
+        344-m*12.  Portion of the state highway system to be designated
+                     as the "Rockland County Clerk Paul Piperato
+                     Memorial Highway".
+        344-m*13.  Portion of the state highway system to be designated
+                     and known as the "State Trooper Jose A. Rosado
+                     Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
