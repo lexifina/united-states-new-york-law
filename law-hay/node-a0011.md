@@ -6,7 +6,7 @@ Section 300.   Private road.
         303.   Copy and notice to be served.
         304.   List of jurors, and drawing jurors.
         305.   Delivery, execution and return of venire.
-        306.   Jury  to determine and assess damages; fees of justice of
+        306.   Jury to determine and assess damages; fees of justice of
                  peace and constable.
         307.   Their verdict.
         308.   Value of highway discontinued.
@@ -29,8 +29,8 @@ Section 300.   Private road.
         326.   Penalties, how recovered.
         327.   Lighting roads, highways and bridges.
         328.   Lighting of public highways or bridges.
-        329.   Land   monuments   and   markers;   duty    of    highway
-                 superintendents  and  commissioner of transportation in
+        329.   Land monuments and markers; duty of highway
+                 superintendents and commissioner of transportation in
                  regard thereto.
-        330.   Ramps for handicapped in street curbing.
+        330.   Ramps in street curbing.
         331.   Consideration of complete street design.
