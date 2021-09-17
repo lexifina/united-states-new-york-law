@@ -138,11 +138,15 @@ a line starting from the Hudson River and Canal Street; east on Canal
 Street to Pike Street; south on Pike Street to the East River; and
 extending to the lower tip of Manhattan.
   (e) In order to be eligible for consideration for such presumption,
-such member must file a written and sworn statement with the member's
-retirement system on a form provided by such system indicating the dates
-and locations of employment. Such statement must be filed not later than
-four years following the effective date of chapter one hundred four of
-the laws of two thousand five.
+such member must file either a written and sworn statement with the
+member's retirement system on a form provided by such system, or as
+allowed by the member's retirement system, electronically submit a
+statement on a form provided by such system through a secure online
+portal maintained by the member's retirement system that has duly
+validated the member's identity, indicating the dates and locations of
+employment. Such statement must be filed not later than four years
+following the effective date of chapter one hundred four of the laws of
+two thousand five.
   (f) The comptroller is hereby authorized to promulgate rules and
 regulations to implement the provisions of this paragraph.
   2. (a) Notwithstanding the provisions of this chapter or of any
@@ -185,10 +189,14 @@ member seeks to be eligible for the presumption provided for under this
 paragraph.
   (b) The reclassification provided for in subparagraph (a) of this
 paragraph shall not be granted, unless:
-  (i) the member files a written and sworn statement with the member's
-retirement system on a form provided by such system indicating the dates
-and locations of employment within four years following the effective
-date of chapter one hundred four of the laws of two thousand five; and
+  (i) the member files either a written and sworn statement with the
+member's retirement system on a form provided by such system, or as
+allowed by the member's retirement system, electronically submits a
+statement on a form provided by such system through a secure online
+portal maintained by the member's retirement system that has duly
+validated the member's identity, indicating the dates and locations of
+employment within four years following the effective date of chapter one
+hundred four of the laws of two thousand five; and
   (ii) the member must have successfully passed a physical examination
 for entry into public service which failed to disclose evidence of the
 qualifying condition or impairment of health that formed the basis for
