@@ -127,6 +127,7 @@ Section 240.    The Stony Brook university Cody center for autism and
         260-a.  Meetings of board of trustees.
         260-b.  Reduction of salaries for purchase of annuities.
         260-c.  Reduction of salaries for tax-deferred annuities.
+        260-d.  Board of trustees continuing education.
         261.    Incorporation.
         262.    Use of public and Indian libraries.
         263.    Reports.
