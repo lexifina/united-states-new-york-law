@@ -37,3 +37,4 @@ Section 600.   Certain correctional officers to administer oaths.
         623.   Incarcerated individual telephone services.
         624.   Next of kin; death of incarcerated individual.
         625.   Feminine hygiene products.
+        626.   Medication assisted treatment in correctional facilities.
