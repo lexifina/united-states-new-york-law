@@ -773,4 +773,19 @@ Section 340-a.     Designation of state interstate routes.
         344-m*13.  Portion of the state highway system to be designated
                      and known as the "State Trooper Jose A. Rosado
                      Memorial Bridge".
+        344-m*14.  Portion of state highway system to be designated as
+                     the "Atomic Veterans Memorial Bridge".
+        344-m*15.  Portion of the state highway system to be designated
+                     as the "Ulster County Korean War Veterans' Memorial
+                     Highway".
+        344-m*16.  Portion of the state highway system to be designated
+                     as the "SP4 C. Jay Hall Memorial Highway".
+        344-m*17.  Portion of the state highway system to be designated
+                     as the "CPL Gerald B. Ramsey Memorial Highway".
+        344-m*18.  Portion of the state highway system to be designated
+                     and known as the "Sgt. Daniel J. Murtha Memorial
+                     Bridge".
+        344-m*19.  Portion of the state highway system to be designated
+                     and known as the "Staff Sergeant Peter J. Blidy
+                     Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
