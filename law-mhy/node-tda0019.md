@@ -20,6 +20,8 @@ Section 19.01   Declaration of policy.
         19.17   Programs, services, and operation of facilities in the
                   office of alcoholism and substance abuse services.
         19.18-b Certified peer recovery advocate services program.
+        19.18-c Corrections-based substance use disorder treatment and
+                  transition services.
         19.19   Personnel of the office.
         19.20   Review of criminal history information concerning
                   certain prospective employees and volunteers.
