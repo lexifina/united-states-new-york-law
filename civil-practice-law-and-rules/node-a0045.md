@@ -56,6 +56,7 @@
                  (g) Pregnancy and childbirth costs.
         4519.   Personal transaction or communication between witness
                   and decedent or mentally ill person.
+        4519-a. Possession of opioid antagonists; receipt into evidence.
         4520.   Certificate or affidavit of public officer.
         4521.   Lack of record.
         4522.   Ancient filed maps, surveys and records affecting real
