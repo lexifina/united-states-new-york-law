@@ -121,6 +121,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          30.      Health club services (§§ 620-631).
          30-A.    Home-use medical diagnostic device marketing practices
                     (§ 640).
+         30-B.    Weight loss services (§§ 641-645).
          31.      Membership campgrounds (§§ 650-660).
          32.      Video consumer privacy act (§§ 670-675)
          32*.     Wheelchair warranties (§ 670*2)
