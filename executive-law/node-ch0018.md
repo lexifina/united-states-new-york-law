@@ -44,7 +44,7 @@ The People of the State of New York, represented in Senate and Assembly,
          12.   Division of probation and correctional alternatives
                  (§§ 240-249).
          12-A. Probation officers and related matters (§§ 255-258).
-         12-B. State division of parole (§§ 259--259-r).
+         12-B. State division of parole (§§ 259--259-t).
          13.   Division of housing (§ 260).
          13-A. Alternatives to incarceration service plans
                  (§§ 261-267).
