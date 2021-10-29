@@ -191,6 +191,7 @@ Section 390.         Substitution of spurious oils for internal
         399-gg.      Packaging of electronic liquid.
         399-h.       Disposal of records containing personal identifying
                        information.
+        399-hh.      Sale of whipped cream chargers.
         399-i.       Prohibit the sale of unsafe cribs and restrict use
                        of such cribs in certain settings.
         399-ii.      Furniture tip restraint device.
