@@ -67,7 +67,7 @@ Article
    15-C    Textbook access act (§§ 720-724.)
    16      Computer technology (§§ 751-755.)
    17      Instruction in certain subjects (§§ 801-816.)
-   19      Medical and health service (§§ 901-922.)
+   19      Medical and health service (§§ 901-923.)
    21      Vocational rehabilitation (§§ 1001-1009.)
    23      Career education in counties (§§ 1101-1116.)
              Part I - Vocational education and extension boards
