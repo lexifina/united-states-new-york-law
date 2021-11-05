@@ -22,6 +22,7 @@ Section 30.   Residential gas, electric and steam service policy.
         46.   Emergency disconnections to residences.
         47.   Inspection and examination of apparatus.
         48.   Emergency hotline.
+        48-a. Utility services; domestic violence victims.
         49.   Residential steam service.
         50.   Residential water service.
         51.   Rules and regulations.
