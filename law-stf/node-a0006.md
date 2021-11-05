@@ -40,6 +40,7 @@ Section 70.        Classification of funds.
                      technology pilot program fund.
         89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
+        89-j.      The school bus motorist education fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.
