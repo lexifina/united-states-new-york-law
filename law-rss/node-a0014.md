@@ -39,6 +39,14 @@ Section 500.     Application.
         508.     Death benefits.
         508-a.   Death benefit for vested members who die prior to
                    retirement.
+        508-b.   Death benefit for deputy sheriffs employed by Nassau
+                   county.
+        508-b*2. Death benefits for correction officers employed by
+                   Nassau county.
+        508-b*3. Death benefits for correction officers employed by
+                   Suffolk county.
+        508-b*4. Death benefits for deputy sheriffs employed by Suffolk
+                   county.
         509.     Accidental death benefits.
         509-a.   COVID-19 benefit.
         509-a*2. COVID-19 benefit.
