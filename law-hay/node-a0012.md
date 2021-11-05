@@ -788,4 +788,10 @@ Section 340-a.     Designation of state interstate routes.
         344-m*19.  Portion of the state highway system to be designated
                      and known as the "Staff Sergeant Peter J. Blidy
                      Memorial Bridge".
+        344-m*20.  Portion of the state highway system to be designated
+                     as the "SP4 Richard F. Walton, Jr. Memorial
+                     Highway".
+        344-m*21.  Portion of the state highway system to be designated
+                     as the "Trooper Thomas J. Consorte Memorial
+                     Bridge".
         345-a.     Abandonment and transfer of state highways.
