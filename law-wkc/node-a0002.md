@@ -38,6 +38,7 @@ Section  9.    Definitions.
         15.    Schedule in case of disability.
         15-a.  Assessment on insolvent group self-insured trusts.
         16.    Death benefits.
+        16-a.  Death benefits due to diesel exposure.
         17.    Aliens.
         18.    Notice of injury or death.
         18-a.  Notice: The New York Jockey Injury Compensation Fund,
