@@ -6,7 +6,6 @@ Section 401. General powers of commission.
                for commission approval.
         404. Right to hold quarter horse race meetings and races.
         405. Pari-mutuel betting at quarter horse races.
-        406. State admission tax.
         407. Licenses for quarter horse race meetings.
         408. Officials at quarter horse race meetings.
         409. Licenses for participants and employees at quarter horse
