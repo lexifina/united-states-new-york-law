@@ -89,7 +89,7 @@ Article     1. General purposes (§§ 1.00-1.05).
                  (§§ 260.00-260.34).
           263. Sexual performance by a child (§§ 263.00-263.30).
           265. Firearms and other dangerous weapons
-                 (§§ 265.00-265.55).
+                 (§§ 265.00-265.64).
           270. Other offenses relating to public safety
                  (§§ 270.00-270.40).
           275. Offenses relating to unauthorized recording of sound
