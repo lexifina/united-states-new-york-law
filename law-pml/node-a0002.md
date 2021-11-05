@@ -32,7 +32,6 @@ Section 201.   Incorporation.
         224.   Penalty for unlawful racing and betting.
         225.   Registration of race horses.
         226.   Increased or additional entrance fees.
-        227.   Admission tax.
         228.   Pension plans for backstretch employees.
         229.   Backstretch employees drug and alcohol rehabilitation
                  eligibility.
