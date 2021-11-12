@@ -44,4 +44,5 @@ Section 1501.   Existing school districts continued.
         1526.   Enlarged city school districts.
         1527.   Payroll deductions for deposit to employee bank
                   accounts.
+        1527-a. Prohibit symbols of hate.
         1527-c. Shared superintendent program.
