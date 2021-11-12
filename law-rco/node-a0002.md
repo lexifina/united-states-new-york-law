@@ -60,7 +60,9 @@ Section 3.    Filing and recording certificates of incorporation of
         26.   Worship.
         27.   Reservation as to Baptist churches, churches of the United
                 Church of Christ and Congregational Christian churches.
-        28.   Meetings for the duration of the state disaster emergency
+        * 28. Meetings for the duration of the state disaster emergency
                 declared by executive order two hundred two that began
                 on March seventh, two thousand twenty; electronic
                 communication.
+        * 28. Electronic meetings.
+  * NB § 28 Heading separately amended; cannot be put together
