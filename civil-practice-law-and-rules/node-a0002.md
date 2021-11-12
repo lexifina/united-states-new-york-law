@@ -91,6 +91,8 @@
         214-g. Certain child sexual abuse cases.
         214-h. Certain actions by public water suppliers to recover
                  damages for injury to property.
+               214-i. Certain actions arising out of consumer credit
+                 transactions to be commenced within three years.
         215.   Actions to be commenced within one year: against sheriff,
                  coroner or constable; for escape of prisoner; for
                  assault, battery, false imprisonment, malicious
