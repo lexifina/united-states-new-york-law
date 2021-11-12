@@ -45,3 +45,4 @@ Section 19.01   Declaration of policy.
         19.41   Facilities; receivership.
         19.42   Medical advisory panel.
         19.43   Retaliatory personnel actions.
+        19.45   Substance use disorder education and recovery grants.
