@@ -19,6 +19,7 @@ Section 37-0101.   Definitions.
                      products containing 1,4-dioxane.
         37-0119.   Prohibition against certain uses of
                      trichloroethylene.
+        37-0119*2. Coal tar; prohibited.
                                 TITLE II
                            HAZARDOUS PACKAGING
 Section 37-0201. Legislative findings and intent.
