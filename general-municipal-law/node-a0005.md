@@ -175,3 +175,4 @@ Section 70.     Payment of judgments against municipal corporation.
         99-u.   Municipal cooperation agreements for counties.
         99-v.   Veterans services; display of events.
         99-w.   Land for monument erection.
+        99-x.   Prohibit symbols of hate.

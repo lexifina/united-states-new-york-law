@@ -151,6 +151,7 @@ Section 200.      Defining qualifications of exempt volunteer
                     police cadet program II in the New York city police
                     department cadet program.
         209-g.    Liability for outside aid.
+        209-gg.   Symbols of hate.
         209-i.    Emergency service by volunteer firefighters.
         209-j.    Mutual aid programs in counties.
         209-l.    Removal of volunteer officers and volunteer members of

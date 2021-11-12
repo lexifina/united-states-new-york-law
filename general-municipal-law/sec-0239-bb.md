@@ -188,3 +188,13 @@ panel for the purpose of revising or updating a previously approved
 plan, or developing a new plan, or to provide the secretary of state
 information pursuant to subdivision ten of this section, shall cease on
 December thirty-first, two thousand twenty-four.
+  * 12. Notwithstanding any other provision of law to the contrary, the
+entity created pursuant to title five-A of article five of the public
+authorities law shall be eligible for one million dollars in each state
+fiscal year beginning with state fiscal year two thousand
+twenty-one--two thousand twenty-two; provided, however, that such monies
+shall be derived from the appropriation dedicated to the matching funds
+program pursuant to subdivision eight of this section and provided
+further, that such funding for such entity shall not be subject to the
+requirements of subdivision eight of this section related to savings.
+  * NB Effective February 1, 2022
