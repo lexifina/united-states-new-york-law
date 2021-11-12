@@ -22,7 +22,7 @@ immediately preceding article one is hereby amended to read as follows:
 Article  1.   Short title; definitions (§§ 1-2).
          2.   Department of correctional services; state board of parole
                 (§§ 5-29).
-         3.   State commission of correction (§§ 40-48).
+         3.   State commission of correction (§§ 40-49).
          4.   Establishment of correctional facilities, commitments to
                 department and custody of inmates (§§ 70-80).
          4-B. Alternate correctional facilities for the city of New York

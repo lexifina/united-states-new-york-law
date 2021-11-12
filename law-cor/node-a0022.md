@@ -17,6 +17,7 @@ Section 600.   Certain correctional officers to administer oaths.
         605-a. Transportation of female incarcerated individuals.
         606.   Payment of costs for prosecution of incarcerated
                  individuals.
+        607.   Prohibition of double-bunked housing.
         610.   Freedom of worship.
         611.   Births to inmates of correctional institutions and care
                  of children of inmates of correctional institutions.
