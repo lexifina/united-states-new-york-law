@@ -10,7 +10,7 @@ Assembly, do enact as follows:
                          THE PUBLIC SERVICE LAW.
 Article  1.   The department of public service. (Secs. 1-27.)
          2.   Residential  gas,  electric  and  steam  utility  service.
-                (Secs. 30-53.)
+                (Secs. 30--53-a.)
          3-C. Provisions   relating   to   liquid   petroleum   pipeline
                 corporations. (Secs. 63-ee--63-ff.)
          4.   Provisions  relating  to  gas  and  electric corporations;
