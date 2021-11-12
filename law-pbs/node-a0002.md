@@ -29,3 +29,5 @@ Section 30.   Residential gas, electric and steam service policy.
         52.   Gas, electric and steam service to tenants provided
                 through shared meters.
         53.   Application.
+        53-a. Prohibition of utilities engaging in detrimental conduct
+                towards a residential customer.
