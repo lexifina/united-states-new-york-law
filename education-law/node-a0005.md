@@ -94,6 +94,7 @@ Section 201.    Corporate name and objects.
         239-a.  Collection and distribution of student's residual
                   consumer goods.
         239-b.  Research dogs and cats.
+        239-c.  New York state firearm violence research institute.
                                 PART 1-A
           CODY CENTER FOR AUTISM AND DEVELOPMENTAL DISABILITIES
 Section 240.    The Stony Brook university Cody center for autism and
