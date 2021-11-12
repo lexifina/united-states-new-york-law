@@ -10,3 +10,4 @@ Section 40. Definitions.
         46. Additional functions, powers and duties of the commission.
         47. Functions, powers and duties of the board.
         48. Preference.
+        49. Commission on prison education.
