@@ -44,3 +44,5 @@
                     (ii) Exceptions.
                     (iii) Mandatory arbitration clause null and void.
                 (c)
+        7516.   Confirmation of an award based on a consumer credit
+                  transaction.

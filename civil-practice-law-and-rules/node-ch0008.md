@@ -78,7 +78,7 @@ Article   1.   Short title, applicability and definitions. (101-107.)
          70.   Habeas corpus. (7001-7012.)
          71.   Recovery of chattel. (7101-7112.)
          72.   Recovery of penalty or forfeiture. (7201-7205.)
-         75.   Arbitration. (7501-7515.)
+         75.   Arbitration. (7501-7516.)
          75-A. Health care arbitration. (7550-7565.)
          76.   Proceeding to enforce agreement for determination of
                  issue. (7601.)
