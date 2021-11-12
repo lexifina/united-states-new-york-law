@@ -29,7 +29,7 @@ Article   7 Office of mental health (§§ 7.01-7.47).
                                         TITLE C
                             DEVELOPMENTAL DISABILITIES ACT
 Article  13 Office for people with developmental disabilities (§§
-              13.01-13.43).
+              13.01-13.45).
          15 Admission of the mentally retarded to schools
               (§§ 15.01-15.37).
          16 Regulation and quality of services (§§ 16.00-16.37).
