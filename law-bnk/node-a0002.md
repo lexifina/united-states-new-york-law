@@ -49,6 +49,7 @@ Section 10.   Declaration of policy.
         28-a. Temporary change of location; approval or refusal;
                 certificate.
         28-b. Credit needs of local communities.
+        28-bb.Credit needs of local communities; mortgage bankers.
         28-c. Branch office closings; report to and action by the
                 superintendent.
         29.   Branch offices; public accommodation offices; approval or

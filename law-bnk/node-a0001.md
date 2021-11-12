@@ -37,6 +37,8 @@ Section 1.     Short title.
         6-m.   Subprime home loans.
         6-n.   Responsibility of banks for mortgages being processed for
                  modification.
+        6-o.   Single point of contact for modifying delinquent home
+                 loans.
         7.     Payment of dividends or interest upon unclaimed deposits
                  or shares; limitation of charges in connection with
                  saving accounts.
