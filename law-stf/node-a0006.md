@@ -26,6 +26,7 @@ Section 70.        Classification of funds.
         84.        The United States Olympic Committee/Lake Placid
                      Olympic Training Center Fund.
         84-a.      Olympic games guaranty fund.
+        86.        Gun violence research fund.
         88.        New York state infrastructure trust fund.
         88-a.      Mass transportation operating assistance fund.
         88-b.      Suburban transportation fund.
@@ -41,6 +42,7 @@ Section 70.        Classification of funds.
         89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
         89-j.      The school bus motorist education fund.
+        89-j*2.    Substance use disorder education and recovery fund.
         90.        New York state department of transportation highway
                      safety program fund.
         90-a.      New York state passenger facility charge fund.
@@ -127,6 +129,7 @@ Section 70.        Classification of funds.
         97-h.      Lake George park trust fund.
         97-i.      New York state local government records management
                      improvement fund.
+        97-j.      Firearm violence research fund.
         97-l.      Sewage treatment program management and
                      administration fund.
         97-p.      Community college tuition and instructional income
