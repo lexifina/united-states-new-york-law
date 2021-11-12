@@ -20,3 +20,4 @@ Section 325.   Definitions.
         336.   County of Broome enhanced 911 emergency telephone system.
         336*2. County of Madison enhanced 911 emergency telephone
                  system.
+        337.   County of Tioga enhanced 911 emergency telephone system.
