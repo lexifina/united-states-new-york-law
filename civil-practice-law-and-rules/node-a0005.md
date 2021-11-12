@@ -33,3 +33,4 @@
         512. Change of place of trial of action or issue triable without
                 a jury.
         513. Misplacement of venue in consumer credit transactions.
+        514. Actions relating to consumer goods.

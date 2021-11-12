@@ -1,4 +1,4 @@
-                                 ARTICLE 3
+                                ARTICLE 3
         JURISDICTION AND SERVICE, APPEARANCE AND CHOICE OF COURT
         301.   Jurisdiction over persons, property or status.
         302.   Personal jurisdiction by acts of non-domiciliaries.
@@ -26,6 +26,8 @@
                  with a notice of petition or order to show cause.
         306-c. Notice of commencement of action for personal injuries by
                  recipient of medical assistance.
+        306-d. Additional mailing of notice in an action arising out of
+                 a consumer credit transaction.
         307.   Personal service upon the state.
         308.   Personal service upon a natural person.
         309.   Personal service upon an infant, incompetent or
