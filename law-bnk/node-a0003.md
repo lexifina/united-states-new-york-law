@@ -57,6 +57,8 @@ Section  94.    Change from bank to trust company; from trust company to
         128.    Preservation of books and records.
         129.    Requirement of notice on withdrawal of certain time
                   deposits; notice to superintendent.
+        129-a.  Requirement of written notification; alternative payment
+                  schedules.
         130.    Restrictions on officers, directors and employees.
         131.    Prohibitions against encroachments upon certain powers
                   of banks and trust companies.
