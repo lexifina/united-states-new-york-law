@@ -2,6 +2,7 @@
            RESIDENTIAL GAS, ELECTRIC AND STEAM UTILITY SERVICE
 Section 30.   Residential gas, electric and steam service policy.
         31.   Applications for service.
+        31-a. Use of preferred name and pronouns.
         32.   Termination of service.
         33.   Discontinuance of residential utility service to multiple
                 dwellings.
