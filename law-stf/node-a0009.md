@@ -8,6 +8,8 @@ Section 135.   Separate specifications for contract work for the state.
         136-b. Selection of underwriters by state agencies.
         136-c. Contracts for employee training and organizational
                  development services.
+        136-d. Contracts involving industrial painting and industrial
+                 coatings.
         137.   Bond to secure payment of certain claims arising from a
                  public improvement; enforcement.
         138.   State contracts not to be assigned without consent.
