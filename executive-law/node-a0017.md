@@ -3,6 +3,7 @@
 Section 350.   Definitions.
         351.   Division of veterans' services.
         352.   Veterans' affairs commission.
+        352-a. Veterans employment task force.
         353.   General functions, powers and duties of division.
         353-a. Veteran speaker education program.
         354.   Cooperation and facilities of other departments.
@@ -28,6 +29,7 @@ Section 350.   Definitions.
         361.   Appropriations for expenses and activities of local
                  veterans' service agencies.
         361-b. Women veterans coordinator.
+        361-c. Women veterans advisory committee.
         362.   Creation of annuity.
         363.   Evidence of entitlement.
         364.   Persons who may receive annuity.
@@ -35,3 +37,4 @@ Section 350.   Definitions.
         366.   Veterans health screening.
         367.   Payment to parents of veterans.
         368.   Cremated remains of a veteran.
+        368-a. Intake forms for admission and residency.

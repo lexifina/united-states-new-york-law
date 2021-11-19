@@ -58,7 +58,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 328--328-a).
          16.   Martin Luther King, Jr. commission (§ 329).
          16-A. Highway safety (§§ 330-334).
-         17.   Veterans' affairs (§§ 350-368).
+         17.   Veterans' affairs (§§ 350--368-a).
          17-A. Veterans employment act (§§ 369--369-e).
          17-B. Participation  by  service-disabled veterans with respect
                  to state contracts (§§ 369-h--369-k).
