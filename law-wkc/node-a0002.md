@@ -40,6 +40,7 @@ Section  9.    Definitions.
         16.    Death benefits.
         16-a.  Death benefits due to diesel exposure.
         17.    Aliens.
+        17-a.  Limited English proficiency.
         18.    Notice of injury or death.
         18-a.  Notice: The New York Jockey Injury Compensation Fund,
                  Inc.
