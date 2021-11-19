@@ -123,4 +123,4 @@ connection with any such proposed application, the attorney general is
 authorized to take proof and make a determination of the relevant facts
 and to issue subpoenas in accordance with the civil practice law and
 rules.
-  * NB There are 2 § 399-zzzzz's
+  * NB There are 3 § 399-zzzzz's
