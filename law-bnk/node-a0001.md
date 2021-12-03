@@ -39,6 +39,8 @@ Section 1.     Short title.
                  modification.
         6-o.   Single point of contact for modifying delinquent home
                  loans.
+        6-o*2. Reverse cooperative apartment unit loans for persons
+                 sixty-two years of age or older.
         7.     Payment of dividends or interest upon unclaimed deposits
                  or shares; limitation of charges in connection with
                  saving accounts.
