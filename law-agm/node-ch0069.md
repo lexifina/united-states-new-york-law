@@ -89,9 +89,10 @@ Article   1.      Short title; definitions; matters of public interest
                     (§§ 321-326).
          25-AAAA. Farmland Viability Program (§§ 327-330).
          25-B.    Abandoned animals (§§ 331-332).
-         26.      Animals (§§ 350-381).
+         26.      Animals (§§ 350-382).
          26-A.    Care of animals by pet dealers (§§ 400-408).
-         26-B     Emergency response services for animals (§§ 410-411).
+         26-B.    Emergency response services for animals (§§ 410-411).
+         27.      Nourish New York (§§ 450-452).
          28.      Special powers and duties of the department with
                     respect to retail food stores, food service
                     establishments and food warehouses (§ 500).
