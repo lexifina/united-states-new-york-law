@@ -56,3 +56,5 @@ Section 350.   Definitions.
         380*2. Examination of seized animals or animals taken possession
                  of.
         381.   Prohibition of the declawing of cats.
+        382.   Prohibition of the slaughter of race horses and race
+                 horse breeding stock.
