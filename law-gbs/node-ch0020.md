@@ -99,7 +99,7 @@ AN ACT relating to general business, constituting chapter twenty of the
                     related material and interior furnishings prohibited
                     (§§ 500-509).
          29-A.    Unauthorized or improper use of credit cards and debit
-                    cards (§§ 511--520-d)
+                    cards (§§ 511--520-e)
          29-AAA. Credit card registration services (§§ 521--521-f).
          29-B.    Prohibited credit card practices involving providers
                     of travel services (§§ 523-526).
