@@ -165,7 +165,7 @@ Article
              (§§ 6101-6103.)
   125      City University of New York (§§ 6201-6234.)
   125-A    Board of higher education optional retirement program
-             (§§ 6250-6256.)
+             (§§ 6250-6257.)
   125-B    City university construction fund (§§ 6270-6283.)
   126      Community colleges and state-aided four-year colleges
              (§§ 6301-6310.)
