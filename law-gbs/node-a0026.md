@@ -46,6 +46,7 @@ Section 390.         Substitution of spurious oils for internal
                        prohibited.
         391-u*2.     Restrictions on the sale and use of firefighting
                        equipment containing PFAS chemicals.
+        391-v.       Third-party food delivery agreements.
         392.         Second-hand watches.
         392-a.       Sale of new computers.
         392-b.       False labels and misrepresentations.
