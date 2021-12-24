@@ -21,4 +21,3 @@ Section 161.   Definitions.
                  elm disease in municipalities.
         169-a. Spraying fruit trees or crops with poison.
         169-b. Fees.
-        169-d. Apiary industry advisory committee.

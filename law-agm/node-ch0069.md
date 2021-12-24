@@ -57,7 +57,7 @@ Article   1.      Short title; definitions; matters of public interest
                     (§ 160-v).
          14.      Prevention and control of disease in trees and plants;
                     insect pests; sale of fruit-bearing trees
-                    (§§ 161--169-d).
+                    (§§ 161--169-c).
          14-A.    Sale and distribution of lye and other caustic
                     substances (§§ 170--172-e).
          15.      Bee diseases (§§ 173--175-b).
