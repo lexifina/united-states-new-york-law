@@ -27,3 +27,5 @@ Section 50.     Examinations generally.
                   service.
         59-b.   Promotions of supervisory personnel of the emergency
                   medical service.
+        59-c.   State employment of persons and veterans with
+                  disabilities study.
