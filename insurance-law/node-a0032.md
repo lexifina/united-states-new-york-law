@@ -87,8 +87,6 @@ Section 3201.   Approval of life, accident and health, credit
                   disability policies.
         3234*2. Limitations on administrative services and stop-loss
                   coverage.
-        3234*3. Explanation of benefits forms relating to claims under
-                  certain accident and health insurance policies.
         3235.   Explanation of benefits forms relating to claims under
                   medicare supplemental insurance policies and limited
                   benefits health insurance policies or certificates
@@ -105,3 +103,5 @@ Section 3201.   Approval of life, accident and health, credit
         3242.   Prescription drug coverage.
         3243.   Discrimination because of sex or marital status in
                   hospital, surgical or medical expense insurance.
+        3244.   Explanation of benefits forms relating to claims under
+                  certain accident and health insurance policies.
