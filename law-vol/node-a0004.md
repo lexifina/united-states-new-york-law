@@ -22,4 +22,5 @@ Section 40.   Notice of injury or death.
         59.   Liberal construction.
         60.   Assessment for expenses.
         61.   Death or disability due to disease or malfunction of heart
-        or coronary arteries; claims and procedures.
+        or coronary arteries or due to vascular rupture; claims and
+        procedures.
