@@ -52,6 +52,7 @@ Section 600.     Application.
                    technician supervisors, ambulance medical technician
                    coordinators and ambulance medical technicians in
                    Nassau county.
+        605-f.   Disability benefits; certain disabilities.
         606.     Death benefits.
         606-a.   Death benefit for vested members who die prior to
                    retirement.
