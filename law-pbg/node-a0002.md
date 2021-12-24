@@ -16,4 +16,5 @@ Section 10.   Division of housing and community renewal.
         18.   Effects of breach or of acquisition of projects by third
                 persons.
         19.   Rules and regulations.
+        19-a. Electronic lease regulations.
         20.   Annual reports.
