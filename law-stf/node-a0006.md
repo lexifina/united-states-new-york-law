@@ -19,6 +19,7 @@ Section 70.        Classification of funds.
                      default reserve fund.
         79.        World Trade Center memorial foundation fund.
         80.        Real estate finance bureau fund.
+        80-a.      Anti-discrimination in housing fund.
         81.        Veterans' home assistance fund.
         82.        Gifts to food banks fund.
         83.        Conservation fund.
