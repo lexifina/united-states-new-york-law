@@ -51,6 +51,7 @@ Section  220.     Action for use and occupation.
          234.     Right to recover attorneys' fees in actions or summary
                     proceedings arising out of leases of residential
                     property.
+         234-a.   Unauthorized legal fees.
          235.     Wilful violations.
          235-a.   Tenant right to offset payments and entitlement to
                     damages in certain cases.
