@@ -5,6 +5,8 @@ Section 6500.   Introduction.
         6501.   Admission to a profession (licensing).
         6501-b. Affirmation of applications.
         6502.   Duration and registration of a license.
+        6502-a. Renewal of professional license, certification, or
+                  registration.
         6503.   Practice of a profession.
         6503-a. Waiver for entities providing certain professional
                   services.
