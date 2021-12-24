@@ -57,6 +57,7 @@ Section  9.    Definitions.
         21-a.  Temporary payment of compensation.
         22.    Modification of awards, decisions or orders.
         23.    Appeals.
+        23-a.  Mistakes, defects and irregularities.
         24.    Costs and fees.
         24-a.  Representation before the workers' compensation board.
         25.    Compensation, how payable.

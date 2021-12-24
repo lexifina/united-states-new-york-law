@@ -1,6 +1,6 @@
                                 ARTICLE 8
                              Administration
-Section 140.   Workmen's compensation board.
+Section 140.   Workers' compensation board.
         141.   General powers and duties of the chair.
         141-a. Civil enforcement.
         141-b. Suspension and debarment.
