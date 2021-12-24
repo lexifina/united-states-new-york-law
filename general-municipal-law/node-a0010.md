@@ -93,6 +93,8 @@ Section 200.      Defining qualifications of exempt volunteer
                     cities.
         207-kk.   Disabilities of firefighters in certain cities caused
                     by cancer.
+        207-kkk.  Disabilities of firefighters in certain cities caused
+                    by Parkinson's Disease.
         207-l.    Temporary supplemental retirement allowances for
                     certain police officers in towns and villages.
         207-n.    Performance of duty disability retirement.
