@@ -35,7 +35,7 @@ Article  13 Office for people with developmental disabilities (§§
          16 Regulation and quality of services (§§ 16.00-16.37).
                                         TITLE D
                           ALCOHOLISM AND SUBSTANCE ABUSE ACT
-Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.43).
+Article  19 Office of alcoholism and substance abuse (§§ 19.01-19.45).
          22 Chemical dependence programs, treatment facilities, and
               services (§§ 22.01-22.11).
          25 Funding for services of the office of alcoholism and
