@@ -49,7 +49,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         24.   Freshwater wetlands (§ 24-0101 to 24-1305).
         25.   Tidal Wetlands (§ 25-0101 to 25-0601).
         27.   Collection, treatment and disposal of refuse and other
-                solid waste (§ 27-0101 to 27-3101).
+                solid waste (§ 27-0101 to 27-3207).
         28.   Pollution prevention (§ 28-0101 to 28-0113)
         29.   Low-level radioactive waste facilities
                 (§ 29-0101 to 29-0703).
@@ -81,7 +81,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 47-0101 to 47-0117).
         48.   Environmental justice (§ 48-0101 to 48-0113).
         49.   Protection of natural and man-made beauty
-                (§ 49-0101 to 49-0311).
+                (§ 49-0101 to 49-0505).
         51.   Implementation of Environmental Quality Bond Act of 1972
                 (§ 51-0101 to 51-1105).
         52.   Implementation of Environmental Quality Bond Act of 1986

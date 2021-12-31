@@ -33,3 +33,5 @@ Title   1.   Solid and hazardous waste management policy and planning
        30.   Expanded polystyrene foam container and polystyrene loose
                fill packaging ban
        31.   Construction and demolition waste
+       32.   Small plastic bottle hospitality personal care product
+               restrictions
