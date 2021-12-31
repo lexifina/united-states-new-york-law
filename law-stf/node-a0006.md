@@ -117,6 +117,8 @@ Section 70.        Classification of funds.
                      development fund.
         95-h.      Mental illness anti-stigma fund.
         95-i.      New York state ALS research and education fund.
+        95-j.      The New York state two hundred fiftieth commemoration
+                     commission fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
