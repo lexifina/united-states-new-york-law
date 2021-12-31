@@ -33,3 +33,5 @@ Section 4.    Department of agriculture and markets.
                 agriculture and markets.
         27.   Obtaining title to real property by purchase or
                 acquisition.
+        28.   Task force on improving urban and rural consumer access to
+                locally produced, healthy foods.
