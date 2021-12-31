@@ -2,5 +2,5 @@
                           STATE TECHNOLOGY LAW
 Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
-   II   Internet Security and Privacy Act            (§§ 201-208)
+   II   Internet Security and Privacy Act            (§§ 201-209)
    III  Electronic Signatures and Records Act        (§§ 301-309)
