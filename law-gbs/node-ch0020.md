@@ -168,6 +168,7 @@ AN ACT relating to general business, constituting chapter twenty of the
                     information (§ 899-aa).
          39-G.    Document destruction contractors
                     (§§ 899-aaa--899-bbb).
+         40.      Peer-to-peer car sharing programs (§§ 900-920).
          41.      Combative sports (§§ 1000-1022).
          43.      New York state secure choice savings program
                     (§§ 1300-1316).
