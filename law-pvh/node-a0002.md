@@ -7,6 +7,7 @@ Section 10.   Short title.
         13.   Limited-profit housing companies; how created.
         13-a. The applicability of not-for-profit corporation law.
         13-b. Verification of papers filed with supervising agency.
+        13-c. Voting, election and referendum procedures.
         14.   Consent of commissioner to incorporation.
         15.   Participation by certain corporations and individuals.
         16.   Limited-profit housing companies; partnership relations.
@@ -47,6 +48,7 @@ Section 10.   Short title.
         33.   Tax exemptions.
         34.   Foreclosure and judgments.
         35.   Voluntary dissolution.
+        35-a. Requirements regarding dissolution.
         36.   Sale of project prior to termination of tax exemption.
         36-a. Additional powers of municipalities.
         37.   Separability clause.
