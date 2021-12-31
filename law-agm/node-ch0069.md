@@ -10,7 +10,7 @@ Assembly, do enact as follows:
 Article   1.      Short title; definitions; matters of public interest
                     (§§ 1-3).
           2.      Department of agriculture and markets; jurisdiction;
-                    general powers and duties (§§ 4-27).
+                    general powers and duties (§§ 4-28).
           2-A.    Division of the New York State Fair (§§ 31--31-c).
           2-C.    Community gardens (§§ 31-g--31-i).
           3.      Investigation; practice and procedure; violations;
@@ -44,6 +44,7 @@ Article   1.      Short title; definitions; matters of public interest
          11.      Integrated pest management program (§§ 148-149).
          11-A.    Agricultural environmental management
                     (§§ 150--151-i).
+         11-B.    Soil health and climate resiliency (§§ 151-l--151-o).
          12.      Adulteration and sale of turpentine and linseed oil
                     (§§ 152-156).
          12-A.    Grading of farm products (§§ 156-c--156-i).
