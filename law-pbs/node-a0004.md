@@ -53,6 +53,8 @@ Section 64.     Application of article.
         72.     Notice and hearing; order fixing price of gas or
                   electricity or requiring improvement.
         72-a.   Increased fuel costs.
+        73.     Compensation to customers experiencing widespread
+                  prolonged outages.
         74.     Energy storage deployment policy.
         74-a.   Westchester county renewable energy and energy
                   efficiency resources program.
