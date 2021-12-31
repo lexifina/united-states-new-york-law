@@ -33,7 +33,7 @@ Article
                                        TITLE C
                      PARKS, RECREATION AND HISTORIC PRESERVATION
    13.    General provisions (§§ 13.01-13.31)
-   14.    Historic Preservation (§§ 14.01-14.11)
+   14.    Historic Preservation (§§ 14.01-14.12)
    15.    Park and recreation land acquisition bond acts
             (§§ 15.01-15.13)
    17.    Outdoor recreation development bond act (§§ 17.01-17.11)
