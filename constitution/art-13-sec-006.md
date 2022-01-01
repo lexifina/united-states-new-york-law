@@ -1,0 +1,2 @@
+# Art. XIII, § 6. When office to be deemed vacant; legislature may declare
+§6. The legislature may declare the cases in which any office shall be deemed vacant when no provision is made for that purpose in this constitution. (Formerly §8 of Art. 10. Renumbered by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Formerly §11, renumbered §6 without change by amendment approved by vote of the people November 6, 1962; former §6 repealed by same amendment.)

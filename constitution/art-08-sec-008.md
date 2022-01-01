@@ -1,0 +1,2 @@
+# Art. VIII, § 8. Indebtedness not to be invalidated by operation of this article
+§8. No indebtedness of a county, city, town, village or school district valid at the time of its inception shall thereafter become invalid by reason of the operation of any of the provisions of this article. (Derived in part from former §10. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938.)

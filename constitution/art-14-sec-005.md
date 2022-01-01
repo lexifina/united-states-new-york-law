@@ -1,0 +1,2 @@
+# Art. XIV, § 5. Violations of article; how restrained
+§5. A violation of any of the provisions of this article may be restrained at the suit of the people or, with the consent of the supreme court in appellate division, on notice to the attorney-general at the suit of any citizen. (New. Derived from former §7 of Art. 7. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Renumbered §5 by vote of the people November 4, 1969.)

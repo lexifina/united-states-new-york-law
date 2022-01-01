@@ -1,0 +1,2 @@
+# Art. II, § 6. Permanent registration
+§6. The legislature may provide by law for a system or systems of registration whereby upon personal application a voter may be registered and his or her registration continued so long as he or she shall remain qualified to vote from an address within the jurisdiction of the board with which such voter is registered. (New. Adopted by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; amended by vote of the people November 7, 1995; November 6, 2001.)

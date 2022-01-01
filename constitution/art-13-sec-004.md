@@ -1,0 +1,2 @@
+# Art. XIII, § 4. Political year and legislative term
+§4. The political year and legislative term shall begin on the first day of January; and the legislature shall, every year, assemble on the first Wednesday after the first Monday in January. (Formerly §6 of Art. 10. Renumbered and amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Formerly §9, renumbered §4 without change by amendment approved by vote of the people November 6, 1962; former §4 repealed by same amendment.)

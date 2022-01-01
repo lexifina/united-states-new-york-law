@@ -1,0 +1,3 @@
+# Art. III, § 19. Private claims not to be audited by legislature; claims barred by lapse of time
+§19. The legislature shall neither audit nor allow any private claim or account against the state, but may appropriate money to pay such claims as shall have been audited and allowed according to law.
+No claim against the state shall be audited, allowed or paid which, as between citizens of the state, would be barred by lapse of time. But if the claimant shall be under legal disability, the claim may be presented within two years after such disability is removed. (Derived in part from former §6 of Art. 7. Amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; further amended by vote of the people November 3, 1964.)

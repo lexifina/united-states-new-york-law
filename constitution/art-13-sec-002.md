@@ -1,0 +1,2 @@
+# Art. XIII, § 2. Duration of term of office
+§2. When the duration of any office is not provided by this constitution it may be declared by law, and if not so declared, such office shall be held during the pleasure of the authority making the appointment. (Formerly §3 of Art. 10. Renumbered by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938. Formerly §6, renumbered §2 without change by amendment approved by vote of the people November 6, 1962; former §2 repealed by same amendment.)

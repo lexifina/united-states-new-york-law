@@ -1,0 +1,2 @@
+# Art. VI, § 9. Court of claims; jurisdiction
+§9. The court of claims is continued. It shall consist of the eight judges now authorized by law, but the legislature may increase such number and may reduce such number to six or seven. The judges shall be appointed by the governor by and with the advice and consent of the senate and their terms of office shall be nine years. The court shall have jurisdiction to hear and determine claims against the state or by the state against the claimant or between conflicting claimants as the legislature may provide.

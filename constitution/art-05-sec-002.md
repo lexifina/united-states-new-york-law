@@ -1,0 +1,2 @@
+# Art. V, § 2. Civil departments in the state government
+§2. There shall be not more than twenty civil departments in the state government, including those referred to in this constitution. The legislature may by law change the names of the departments referred to in this constitution. (Amended by Constitutional Convention of 1938 and approved by vote of the people November 8, 1938; further amended by vote of the people November 2, 1943; November 3, 1959; November 7, 1961.)

@@ -1,0 +1,2 @@
+# Art. XVIII, § 9. Acquisition of property for purposes of article
+§9. Subject to any limitation imposed by the legislature, the state, or any city, town, village or public corporation, may acquire by purchase, gift, eminent domain or otherwise, such property as it may deem ultimately necessary or proper to effectuate the purposes of this article, or any of them, although temporarily not required for such purposes.
