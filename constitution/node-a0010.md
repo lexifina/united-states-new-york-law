@@ -7,7 +7,7 @@ ARTICLE X
            charters not to be granted.
       4. Corporations; definition; right to sue and be sued.
       5. Public corporations; restrictions on creation and powers;
-           accounts; obligations.
+           accounts; obligations
       6. Liability of state for payment of bonds of public corporation
            to construct state thruways; use of state canal lands and
            properties.
