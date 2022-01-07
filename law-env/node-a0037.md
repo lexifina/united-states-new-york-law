@@ -63,3 +63,13 @@ Section 37-0901. Definitions.
         37-0913. Notice to retailers and the public.
         37-0915. Enforcement and implementation.
         37-0917. Regulations.
+                                 TITLE X
+      REGULATION OF CHEMICALS IN UPHOLSTERED FURNITURE, MATTRESSES
+                        AND ELECTRONIC ENCLOSURES
+Section 37-1001. Definitions.
+        37-1003. Furniture and mattresses.
+        37-1005. Exemptions.
+        37-1007. Electronic display.
+        37-1009. Reporting.
+        37-1011. Severability.
+        37-1013. Regulations.
