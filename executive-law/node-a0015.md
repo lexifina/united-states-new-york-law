@@ -8,8 +8,6 @@ Section 290.   Purposes of article.
         295.   General powers and duties of division.
         296.   Unlawful discriminatory practices.
         296-a. Unlawful discriminatory practices in relation to credit.
-        296-b. Unlawful discriminatory practices relating to domestic
-                 workers.
         296-c. Unlawful discriminatory practices relating to interns.
         296-d. Unlawful discriminatory practices relating to
                  non-employees.
