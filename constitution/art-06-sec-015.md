@@ -18,15 +18,15 @@ provided by law: actions and proceedings for the recovery of money,
 actions and proceedings for the recovery of chattels and actions and
 proceedings for the foreclosure of mechanics liens and liens on personal
 property where the amount sought to be recovered or the value of the
-property does not exceed twenty-five thousand dollars exclusive of
-interest and costs, or such smaller amount as may be fixed by law; over
-summary proceedings to recover possession of real property and to remove
-tenants therefrom and over such other actions and proceedings, not
-within the exclusive jurisdiction of the supreme court, as may be
-provided by law. The court of city-wide civil jurisdiction shall further
-exercise such equity jurisdiction as may be provided by law and its
-jurisdiction to enter judgment upon a counterclaim for the recovery of
-money only shall be unlimited.
+property does not exceed fifty thousand dollars exclusive of interest
+and costs, or such smaller amount as may be fixed by law; over summary
+proceedings to recover possession of real property and to remove tenants
+therefrom and over such other actions and proceedings, not within the
+exclusive jurisdiction of the supreme court, as may be provided by law.
+The court of city-wide civil jurisdiction shall further exercise such
+equity jurisdiction as may be provided by law and its jurisdiction to
+enter judgment upon a counterclaim for the recovery of money only shall
+be unlimited.
   c. The court of city-wide criminal jurisdiction of the city of New
 York shall have jurisdiction over crimes and other violations of law,
 other than those prosecuted by indictment, provided, however, that the
