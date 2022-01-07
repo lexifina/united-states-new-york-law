@@ -36,6 +36,7 @@ Section 64.     Application of article.
         66-p.   Establishment of a renewable energy program.
         66-q.   Gas and electric billing information for residential
                   rental premises.
+        66-q*2. Electric vehicle charging; commercial tariff.
         66-r.   Requirements for certain renewable energy systems.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.

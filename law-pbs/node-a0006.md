@@ -14,6 +14,8 @@ Section 105.   Purposes of article.
                  affiliated interests.
         111.   Additional information in annual reports; disclosure of
                  stockholdings.
+        111-a. Additional information in annual reports; disclosure of
+                 compensation.
         112.   Judicial enforcement of rate-fixing orders of the
                  commission.
         112-a. Appointment of temporary operator.
