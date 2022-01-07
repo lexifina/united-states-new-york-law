@@ -1,4 +1,4 @@
-                               * ARTICLE 8
+                                ARTICLE 8
                           COMMERCIAL FINANCING
 Section 801. Definitions.
         802. Exemptions.
@@ -12,4 +12,3 @@ Section 801. Definitions.
         810. Additional information.
         811. Rules and regulations.
         812. Penalties.
-  * NB Effective January 1, 2022
