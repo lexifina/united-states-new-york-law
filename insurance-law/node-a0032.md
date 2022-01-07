@@ -91,7 +91,6 @@ Section 3201.   Approval of life, accident and health, credit
                   medicare supplemental insurance policies and limited
                   benefits health insurance policies or certificates
                   designed primarily to supplement medicare benefits.
-        3235-a. Payment for early intervention services.
         3236.   Public health law assessments.
         3237.   Health insurance coverage for full-time students on
                   medical leaves of absence.
