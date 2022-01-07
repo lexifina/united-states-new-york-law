@@ -24,4 +24,3 @@ Section 7200.   Introduction.
         7210.   Certificates of authorization.
         7211.   Mandatory continuing education for professional
                   engineers.
-        7212.   Mandatory continuing education for land surveyors.

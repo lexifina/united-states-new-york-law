@@ -208,7 +208,7 @@ Article
   141      Podiatry (§§ 7000-7010.)
   143      Optometry (§§ 7100-7107.)
   144      Ophthalmic dispensing (§§ 7120-7128.)
-  145      Engineering and land surveying (§§ 7200-7212.)
+  145      Engineering and land surveying (§§ 7200-7211.)
   147      Architecture (§§ 7300-7308.)
   148      Landscape architecture (§§ 7320-7328.)
   149      Public accountancy (§§ 7400-7410.)
