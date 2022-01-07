@@ -91,6 +91,7 @@
          3122.    Objection to disclosure, inspection or examination;
                     compliance.
          3122-a.  Certification of business records.
+         3122-b.  Certification of insurance disclosure.
          3123.    Admissions as to matters of fact, papers, documents
                     and photographs.
                     (a) Notice to admit; admission unless denied or
