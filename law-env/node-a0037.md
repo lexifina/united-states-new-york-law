@@ -71,5 +71,6 @@ Section 37-1001. Definitions.
         37-1005. Exemptions.
         37-1007. Electronic display.
         37-1009. Reporting.
-        37-1011. Severability.
-        37-1013. Regulations.
+        37-1011. Certification of compliance.
+        37-1013. Severability.
+        37-1015. Regulations.
