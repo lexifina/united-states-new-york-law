@@ -2,7 +2,9 @@
                         OF THE STATE OF NEW YORK
                                 2019-2020
   Rules of the Assembly for the years 2019--2020, as adopted by Assembly
-Resolution number 644 of 2020.
+Resolution  number  644  of  2020  and as amended by Assembly Resolution
+number 9 of 2021 and as amended by Assembly  Resolution  number  493  of
+2022.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
 Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
 and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
@@ -10,7 +12,7 @@ as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
 (Assembly)  of  2009  and as amended by Concurrent Resolution number 404
 (Senate) and number 25 (Assembly) of 2017.
-                                 3/23/20
+                                 1/25/22
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -1189,27 +1191,24 @@ special order of second and third reading; and
   (d) the review of each message of necessity  issued  by  the  Governor
 pursuant  to  Article III of the Constitution and the ordering of a bill
 to a special order of second  and  third  reading  for  which  any  such
-message has been issued; provided, however that prior to the ordering of
-a bill for second and third reading, such message must be accepted by an
-affirmative  vote  of  a majority of all the members of the Committee on
-Rules;
+message has been issued;
   (2) to regulate the housekeeping practices of the Assembly;
-  (3) to establish minimum qualifications for  each  category  of  staff
+  (3)  to  establish  minimum  qualifications for each category of staff
 employees; and
   (4)  to  establish  and  maintain  minimum  duties  and  standards  of
 effectiveness for all staff employees.
-  § 11. Assembly Graduate Scholar and Internship Committee. There  shall
-be  an  Assembly Graduate Scholar and Internship Committee to consist of
-the Speaker  Pro  Tempore,  Majority  Leader,  Deputy  Majority  Leader,
-Assistant  Speaker, Minority Leader, Chairperson of the Higher Education
-Committee, Ranking Minority Member of the Ways and Means  Committee  and
-Ranking  Minority  Member of the Higher Education Committee. The Speaker
+  §  11. Assembly Graduate Scholar and Internship Committee. There shall
+be an Assembly Graduate Scholar and Internship Committee to  consist  of
+the  Speaker  Pro  Tempore,  Majority  Leader,  Deputy  Majority Leader,
+Assistant Speaker, Minority Leader, Chairperson of the Higher  Education
+Committee,  Ranking  Minority Member of the Ways and Means Committee and
+Ranking Minority Member of the Higher Education Committee.  The  Speaker
 shall  appoint  the  chairperson  from  among  the  membership  of  this
 Committee.
-  §  12.  Assembly Committee on Conference Committees. There shall be an
-Assembly Committee on Conference Committees to consist of five  members;
-provided,  however  that  there shall be at least one minority member on
-such committee.  The Speaker shall appoint the  chairperson  from  among
+  § 12. Assembly Committee on Conference Committees. There shall  be  an
+Assembly  Committee on Conference Committees to consist of five members;
+provided, however that there shall be at least one  minority  member  on
+such  committee.    The Speaker shall appoint the chairperson from among
 the membership of the committee. Such committee shall meet at least once
 a  month  during the regular Legislative Session, excluding January, and
 as necessary to review legislation passed by both houses for the purpose
@@ -1333,19 +1332,28 @@ and  has  been recognized by the Speaker. While a member is speaking, no
 member  shall entertain any private discourse or pass between the member
 speaking and the Chair.
   b. Unless otherwise provided by these Rules, no  member  shall  speak,
-except  in  his  or  her  place,  nor  more  than  twice  on any bill or
-amendment, without leave of the House and no member shall speak for more
-than fifteen minutes at a time except by consent of  two-thirds  of  the
-members present; provided, however that a member desiring to explain his
-or  her  vote  upon the final passage of a bill or upon the passage of a
-resolution  requiring  the  expenditure  of  money  may  make  a   brief
-statement,  not  to exceed two minutes, in explanation of such vote; and
-further provided that in addition to the foregoing,  the  sponsor  of  a
-bill  may make a statement not to exceed five minutes for the purpose of
-opening debate on such bill.   Except as  otherwise  provided  by  these
-Rules  for  concurrent resolutions, no member shall speak more than once
-and for no more than five minutes on any resolution without leave of the
-House.
+except in his or her place, nor more than once on any bill or amendment,
+without  leave  of  the  House  and  no member shall speak for more than
+fifteen minutes except by consent of two-thirds of the members  present.
+The  floor  leader  of  each  conference  or  his or her designee may be
+granted a second, additional fifteen minutes to speak during the  debate
+on  any bill or amendment. Consideration of any bill and amendment shall
+not exceed five hours; with four hours allocated for debate  and  up  to
+one  hour  allocated  for explanations of vote; provided, however that a
+member desiring to explain his or her vote upon the final passage  of  a
+bill  or  upon  the passage of a resolution requiring the expenditure of
+money may make  a  brief  statement,  not  to  exceed  two  minutes,  in
+explanation  of  such vote; and further provided that in addition to the
+foregoing, the sponsor of a bill may make a statement not to exceed five
+minutes for the purpose of opening debate  on  such  bill.    Except  as
+otherwise  provided by these Rules for concurrent resolutions, no member
+shall speak more than once and for no more  than  five  minutes  on  any
+resolution without leave of the House.  Debate on any resolution, except
+as  otherwise  provided, shall be limited to thirty minutes. Members may
+be granted permission to submit a written statement to extend upon their
+remarks on the floor for the record; such remarks  must  comply  in  all
+respects  with the rules and customs and practices of the House relating
+to debate to be included in the record.
   c. If any member, in speaking, transgresses the Rules  of  the  House,
 the  Speaker  may call such member to order, in which case the member so
 called to order shall immediately sit down, and shall not rise unless to
@@ -1374,39 +1382,39 @@ each House for at least three legislative calendar days.
 shall  be  referred  to  the  Judiciary  Committee for investigation and
 report.
   § 9. Staff, materials and other perquisites.  Each member of the House
-shall be entitled to an equal  allocation  of  printed  newsletters  and
-other  printed  materials and postage therefor, and stationery and other
-similar perquisites, and each member shall receive  an  equal  allowance
-for  staff personnel, except that the allocation of stationery and other
+shall  be  entitled  to  an  equal allocation of printed newsletters and
+other printed materials and postage therefor, and stationery  and  other
+similar  perquisites,  and  each member shall receive an equal allowance
+for staff personnel, except that the allocation of stationery and  other
 similar perquisites and the allowance for staff personnel may be greater
-for members in majority and minority  leadership  positions,  committee,
+for  members  in  majority and minority leadership positions, committee,
 subcommittee and task force chairpersons and ranking minority members of
-committees,  subcommittees  and  task  forces. Such greater allotment or
-staff shall be commensurate with the additional duties assigned to  such
+committees, subcommittees and task forces.  Such  greater  allotment  or
+staff  shall be commensurate with the additional duties assigned to such
 member.
-  §  10.  Use  of  legislative  printing,  mail  and  mass communication
-facilities. a. The use of legislative printing and mail  facilities  for
-newsletters  and  other  forms  of  mass mailings which bear the name or
+  § 10.  Use  of  legislative  printing,  mail  and  mass  communication
+facilities.  a.  The use of legislative printing and mail facilities for
+newsletters and other forms of mass mailings  which  bear  the  name  or
 likeness of a candidate in a local, special, primary or general election
-shall be prohibited within  thirty  days  of  such  local,  special,  or
-primary  election  and  be  prohibited within sixty days of such general
-election. Members may not utilize other forms  of  Assembly-funded  mass
-communication  media  during  such  thirty  day  and  sixty day periods,
+shall  be  prohibited  within  thirty  days  of  such local, special, or
+primary election and be prohibited within sixty  days  of  such  general
+election.  Members  may  not utilize other forms of Assembly-funded mass
+communication media during  such  thirty  day  and  sixty  day  periods,
 respectively.
-  b. The Assembly shall maintain  a  file  containing  a  copy  of  each
+  b.  The  Assembly  shall  maintain  a  file  containing a copy of each
 newsletter provided by Assembly facilities which file shall be available
 to the public.
   c.  The  provisions  of  this  section  shall  be  applicable  to  all
-communications addressed to the geographic area in which the  member  is
+communications  addressed  to the geographic area in which the member is
 running for election.
-  §  11.  Employee  candidates  for  Senator or member of Assembly.   No
+  § 11. Employee candidates for Senator  or  member  of  Assembly.    No
 Assembly employee shall remain on the Assembly payroll while a candidate
-for Senator or member of Assembly. For the purposes herein, an  employee
-shall  be  deemed a candidate for Senator or member of the Assembly upon
-the  filing  of  designating  petitions  for  such  office   or,   where
-nominations  for  such  office  are  made  other  than by petition, upon
-nomination. Such employee shall remain off the  Assembly  payroll  until
-such  time as his or her candidacy shall cease or upon the day following
+for  Senator or member of Assembly. For the purposes herein, an employee
+shall be deemed a candidate for Senator or member of the  Assembly  upon
+the   filing   of  designating  petitions  for  such  office  or,  where
+nominations for such office  are  made  other  than  by  petition,  upon
+nomination.  Such  employee  shall remain off the Assembly payroll until
+such time as his or her candidacy shall cease or upon the day  following
 election day for such office, whichever comes first.
                                  RULE VI
                         ORGANIZATION OF THE HOUSE
