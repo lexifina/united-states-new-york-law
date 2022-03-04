@@ -22,4 +22,4 @@ Section 900. Definitions.
         918. Electronic notice authorized.
         919. Airport transactions.
         920. Enforcement.
-  * NB Effective March 22, 2022
+  * NB Effective June 20, 2022
