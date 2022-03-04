@@ -1,4 +1,4 @@
-                              * ARTICLE 29
+                               ARTICLE 29
                         PHARMACY BENEFIT MANAGERS
 Section 2901. Definitions.
         2902. Acting without a registration.
@@ -11,7 +11,7 @@ Section 2901. Definitions.
         2908. Penalties for violations.
         2909. Stay or suspension of superintendent's determination.
         2910. Revoked registrations or licenses.
-        2911. Change of address.
-        2912. Applicability of other laws.
-        2913. Assessments.
-  * NB Effective March 31, 2022
+        2911. Additional obligations.
+        2912. Change of address.
+        2913. Applicability of other laws.
+        2914. Assessments.
