@@ -1,10 +1,15 @@
   § 1020-kk. Semi-annual expenditure and lobbying report. 1. On or
 before March thirty-first, two thousand twenty-two and every semi-annual
-period thereafter, the authority and its service providers shall report
-to the governor, the temporary president of the senate and the speaker
-of the assembly regarding advertising and lobbying activities of the
-authority, the trustees of the authority, any employee of the authority
-or any service provider of the authority.
+period thereafter: (a) the authority shall report to the governor, the
+temporary president of the senate and the speaker of the assembly
+regarding advertising and lobbying on behalf of the authority by the
+authority, the trustees of the authority, or any employee of the
+authority; and (b) any service provider of the authority shall report to
+the governor, the temporary president of the senate and the speaker of
+the assembly regarding advertising and lobbying on behalf of the
+authority, or in connection with the service provider's provision of
+management and operation services or the operation of the authority's
+electric transmission and distribution system.
   2. For the purposes of this title, the following terms shall have the
 following meanings:
   (a) Lobbying shall mean any attempt to influence:
@@ -12,7 +17,7 @@ following meanings:
 house of the state legislature including but not limited to the
 introduction or intended introduction of such legislation or resolution
 or approval or disapproval of any legislation;
-  (ii) the adoption, issuance, rescission, modification or terms of a
+  (ii) the adoption, issuance, rescission or modification of a
 gubernatorial executive order;
   (iii) the adoption or rejection of any rule or regulation having the
 force and effect of law by a state agency;
@@ -34,11 +39,15 @@ reports to include the following information:
   (a) For lobbying, such report shall include, but not be limited to:
 the name of the trustee, employee of the authority or service provider
 engaging in lobbying; the name of the public official or public employee
-that the trustee lobbied; the date and time of the meeting or
-communication; the subject matter discussed, and any expenses incurred
-by the authority or its service provider for travel, lodging, or meals
-in connection with such lobbying.
+that was lobbied; the date and time of the meeting or communication; the
+subject matter of the lobbying, and any expenses incurred by the
+authority or its service provider for travel, lodging, or meals in
+connection with such lobbying.
   (b) For advertising, such report shall include, but not be limited to,
 itemization of any public funds spent on advertising and information
 pertaining to the advertising marketing plan including measurable goals
 and objectives for the advertising campaign.
+  4. The requirements of this section shall not be construed to require
+the disclosure of information that is otherwise protected from
+disclosure by any law, regulation, order, or the civil practice law and
+rules.
