@@ -47,9 +47,9 @@ Section 90.    Department of state; secretary of state.
         135-a. Notary public or commissioner of deeds; acting without
                  appointment; fraud in office.
         135-b. Advertising by notaries public.
+        135-c. Electronic notarization.
         136.   Notarial fees.
         137.   Statement as to authority of notaries public.
-        137-a. Electronic notarization.
         138.   Powers of notaries public or other officers who are
                  stockholders, directors, officers or employees of a
                  corporation.

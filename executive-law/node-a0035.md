@@ -45,8 +45,6 @@ Section 835.     Definitions.
         837-v.   Report of discharge of weapon.
         837-v*2. Reporting duties of law enforcement departments with
                    respect to arrest-related deaths.
-        837-w.   Reporting on firearms, rifles and shotguns used in the
-                   commission of a crime.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.
