@@ -21,7 +21,7 @@ Article  I.     Short title (§ 1).
          5-E    Infrastructure investment (§§ 69-i--69-l).
          5-F    Sales   tax   revenue   bond   financing   program   (§§
                   69-m--69-o).
-         VI.    Funds of the state (§§ 70--99-nn).
+         VI.    Funds of the state (§§ 70--99-oo).
          VII.   Accounts and audits (§§ 100--122-a).
          VII-A. Citizen-taxpayer actions (§§ 123--123-j).
          VIII.  Fiscal supervision of certain institutions
