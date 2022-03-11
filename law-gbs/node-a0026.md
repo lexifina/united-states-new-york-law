@@ -188,7 +188,6 @@ Section 390.         Substitution of spurious oils for internal
         399-ee.      Zone pricing of gasoline prohibited.
         399-f.       Laundromat refund procedures.
         399-ff.      Petting zoos.
-        399-g.       Labeling of solder.
         399-gg.      Packaging of electronic liquid.
         399-h.       Disposal of records containing personal identifying
                        information.
