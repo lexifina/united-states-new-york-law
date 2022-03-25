@@ -17,7 +17,7 @@ Article
              Part V - Education department optional retirement program
                (§§ 180-187.)
     5      University of the state of New York (§§ 201-292.)
-             Part I - General organization (§§ 201--239-c.)
+             Part I - General organization (§§ 201--239-b.)
              Part 1-A - Cody center for autism and developmental
                disabilities (§§ 240-243)
              Part II - Libraries (§§ 245-285.)

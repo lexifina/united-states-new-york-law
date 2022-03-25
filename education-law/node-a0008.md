@@ -14,6 +14,7 @@ Section 350.   Definitions.
         355-b. Investments in designated obligations; indemnifications.
         355-c. College opportunity to prepare for employment.
         355-d. Educational opportunity centers.
+        355-e. New York state firearm violence research institute.
         356.   Councils of state-operated institutions; powers and
                  duties.
         357.   Statutory or contract colleges.
