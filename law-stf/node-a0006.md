@@ -27,7 +27,6 @@ Section 70.        Classification of funds.
         84.        The United States Olympic Committee/Lake Placid
                      Olympic Training Center Fund.
         84-a.      Olympic games guaranty fund.
-        86.        Gun violence research fund.
         88.        New York state infrastructure trust fund.
         88-a.      Mass transportation operating assistance fund.
         88-b.      Suburban transportation fund.
