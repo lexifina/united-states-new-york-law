@@ -4,4 +4,4 @@ Section 460. Legislative intent.
         461. Definitions.
         462. Office of the advocate for people with disabilities.
         463. Director; general responsibilities.
-  * NB Effective April 1, 2022
+  * NB Effective and Repealed April 1, 2022

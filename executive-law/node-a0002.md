@@ -4,6 +4,7 @@ Section 2.   Office and residence of governor.
         3.   Acting governor.
         4.   Secretary and counsel to the governor.
         4-a. Chief diversity officer.
+        4-b. Chief disability officer.
         5.   Executive records.
         6.   Examination and inspection by the governor.
         7.   Limited operation of holiday.
