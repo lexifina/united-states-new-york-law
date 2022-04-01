@@ -9,8 +9,6 @@ Section 370.   Short title.
         375.   Powers of the council.
         376.   Powers of the secretary.
         376-a. Code enforcement training and certification.
-        376-b. Securing of grease traps and interceptors by food service
-                 establishments.
         377.   New York state uniform fire prevention and building code.
         378.   Standards for New York state uniform fire prevention and
                  building code.
