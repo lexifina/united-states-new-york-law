@@ -3,7 +3,6 @@
 Section 75.   Kinds of licenses.
         76.   Winery license.
         76-a. Farm winery license.
-        76-b. Temporary winery or farm winery permit.
         76-c. Special winery license.
         76-d. Special farm winery license.
         76-e. Special provisions relating to wineries and farm wineries
