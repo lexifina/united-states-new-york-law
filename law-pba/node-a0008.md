@@ -16,7 +16,7 @@ Title  4.     Dormitory Authority (§§ 1675-1694).
                 (§§ 1725-1748).
        8.     New York Job Development Authority (§§ 1800-1838).
        9.     New York State Energy Research and Development Authority
-                (§§ 1850-1883).
+                (§§ 1850-1884).
        9-A    Green Jobs-Green New York Program (§§ 1890--1899-a).
        9-B    Clean energy resources development and incentives program
                 (§§ 1900-1905).
