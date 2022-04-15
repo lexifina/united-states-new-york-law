@@ -127,7 +127,7 @@ Article
    73      Apportionment of public moneys (§§ 3601--3650-c.)
              Part I - General provisions (§§ 3601-3614.)
              Part II - Aidable transportation expense (§§ 3620-3628.)
-             Part III - Transportation services (§§ 3635-3637.)
+             Part III - Transportation services (§§ 3635-3638.)
              Part IV - Special apportionments and grants-in-aid
                (§§ 3640-3642.)
              Part V - Comprehensive school bus driver safety training
