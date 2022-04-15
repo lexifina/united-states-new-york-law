@@ -71,6 +71,8 @@ Section 100.     Alcoholic beverages generally.
                    certain cases.
         128-b.   Police officers allowed to serve as an officer of a
                    volunteer firefighters' organization.
+        128-c.   Police officers allowed to serve as an officer of
+                   veterans' organization.
         129.     Surrender of license; notice to police officials.
         130.     Penalties for violations of chapter.
         131.     New York alcoholic beverage control problem premises
