@@ -28,5 +28,5 @@ previous year, the status of any research projects and demonstration
 projects funded by the quality enhancement fund, and the office's
 priorities for allocating funds from the quality enhancement fund for
 the current year.
-  * NB Repealed June 30, 2022
+  * NB Repealed June 30, 2027
   * NB There are 2 § 97-yyy's

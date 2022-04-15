@@ -11,8 +11,8 @@ other fund or source pursuant to law. Nothing in this section shall
 prevent the state from soliciting and receiving grants, gifts or
 bequests for the purposes of the fund as defined in this section and
 depositing them into the fund according to law.
-  2-a. On or before the first day of February each year, the director of
-the New York state division of veterans' services shall provide a
+  2-a. * On or before the first day of February each year, the director
+of the New York state division of veterans' services shall provide a
 written report to the temporary president of the senate, speaker of the
 assembly, chair of the senate finance committee, chair of the assembly
 ways and means committee, chair of the senate committee on veterans,
@@ -20,6 +20,17 @@ homeland security and military affairs, chair of the assembly veterans'
 affairs committee, the state comptroller and the public. Such report
 shall include how the monies of the fund were utilized during the
 preceding calendar year, and shall include:
+  * NB Effective until April 1, 2023
+  * On or before the first day of February each year, the commissioner
+of the New York state department of veterans' services shall provide a
+written report to the temporary president of the senate, speaker of the
+assembly, chair of the senate finance committee, chair of the assembly
+ways and means committee, chair of the senate committee on veterans,
+homeland security and military affairs, chair of the assembly veterans'
+affairs committee, the state comptroller and the public. Such report
+shall include how the monies of the fund were utilized during the
+preceding calendar year, and shall include:
+  * NB Effective April 1, 2023
   (i) the amount of money dispersed from the fund and the award process
 used for such disbursements;
   (ii) recipients of awards from the fund;
@@ -68,9 +79,14 @@ veterans cemeteries; and/or
 construction, establishment, expansion, improvement, support, operation,
 maintenance and the provision of perpetual care of a state veterans
 cemetery.
-  5. Moneys shall be payable from the fund on the audit and warrant of
+  * 5. Moneys shall be payable from the fund on the audit and warrant of
 the comptroller on vouchers approved and certified by the director of
 the division of veterans' services.
+  * NB Effective until April 1, 2023
+  * 5. Moneys shall be payable from the fund on the audit and warrant of
+the comptroller on vouchers approved and certified by the commissioner
+of the department of veterans' services.
+  * NB Effective April 1, 2023
   6. Moneys in the veterans remembrance and cemetery maintenance and
 operation fund shall be kept separate and shall not be commingled with
 any other moneys in the custody of the commissioner of taxation and/or
