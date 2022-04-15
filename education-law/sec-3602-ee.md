@@ -73,40 +73,33 @@ section shall possess:
 childhood grades; or
   (b) a teaching license or certificate for students with disabilities
 valid for service in early childhood grades; or
-  (c) (i) for eligible agencies as defined in paragraph b of subdivision
-one of section thirty-six hundred two-e of this part that are not
-schools, a bachelor's degree in early childhood education or a related
-field and a written plan to obtain a certification valid for service in
-the early childhood grades as follows:
-  (1) for teachers hired on or after the effective date of this section
-as the teacher for a universal full-day pre-kindergarten classroom,
-within three years after commencing employment, at which time such
-certification shall be required for employment; and
-  (2) for teachers hired by such provider prior to the effective date of
-this section for other early childhood care and education programs, no
-later than June thirtieth, two thousand seventeen, at which time such
-certification shall be required for employment.
-  (ii) Provided that, notwithstanding any provisions of this paragraph
-to the contrary, for the two thousand seventeen-two thousand eighteen
-through the two thousand twenty-one--two thousand twenty-two school
-years an exemption to the certification requirement of subparagraph (i)
-of this paragraph may be made for a teacher without certification valid
-for service in the early childhood grades who possesses a written plan
-to obtain certification and who has registered in the ASPIRE workforce
-registry as required under regulations of the commissioner of the office
-of children and family services. Notwithstanding any exemption provided
-by this subparagraph, certification shall be required for employment no
-later than June thirtieth, two thousand twenty-two; provided that for
-the two thousand twenty-one--two thousand twenty-two school year, school
-districts with teachers seeking an exemption to the certification
-requirement of subparagraph (i) of this paragraph shall submit a report
-to the commissioner regarding (A) the barriers to certification, if any,
-(B) the number of uncertified teachers registered in the ASPIRE
-workforce registry teaching pre-kindergarten in the district, including
-those employed by a community-based organization, (C) the number of
-previously uncertified teachers who have completed certification as
-required by this subdivision, and (D) the expected certification
-completion date of such teachers.
+  (c) for eligible agencies as defined in paragraph b of subdivision one
+of section thirty-six hundred two-e of this part that are not schools, a
+bachelor's degree in early childhood education. Provided however,
+beginning with the two thousand twenty-two--two thousand twenty-three
+school year, a school district may annually apply to the commissioner by
+August first of the current school year for a waiver that would allow
+personnel employed by an eligible agency that is collaborating with a
+school district to provide prekindergarten services and licensed by an
+agency other than the department, to meet the staff qualifications
+prescribed by the licensing or registering agency. Provided further that
+the commissioner shall annually submit a report by September first to
+the chairperson of the assembly ways and means committee, the
+chairperson of the senate finance committee and the director of the
+budget which shall include but not be limited to the following: (a) a
+listing of the school districts receiving a waiver pursuant to this
+paragraph from the commissioner for the current school year; (b) the
+number and proportion of students within each district receiving a
+waiver pursuant to this paragraph for the current school year that are
+receiving instruction from personnel employed by an eligible agency that
+is collaborating with a school district to provide prekindergarten
+services and licensed by an agency other than the department; and (c)
+the number and proportion of total prekindergarten personnel for each
+school district that are providing instructional services pursuant to
+this paragraph that are employed by an eligible agency that is
+collaborating with a school district to provide prekindergarten services
+and licensed by an agency other than the department, to meet the staff
+qualifications prescribed by the licensing or registering agency.
   9. The process by which applicants submit proposals to collaborate
 with the school district or individually to the department, and the
 renewal process for such providers, shall take into account any record
@@ -224,14 +217,14 @@ center, approved preschool special education program, Head Start or
 other such community-based organization.
   * 16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
-thousand twenty-one; provided that the program shall continue and remain
-in full effect.
-  * NB Effective until July 1, 2021
-  * 16. The authority of the department to administer the universal
-full-day pre-kindergarten program shall expire June thirtieth, two
 thousand twenty-two; provided that the program shall continue and remain
 in full effect.
-  * NB Effective July 1, 2021
+  * NB Effective until July 1, 2022
+  * 16. The authority of the department to administer the universal
+full-day pre-kindergarten program shall expire June thirtieth, two
+thousand twenty-three; provided that the program shall continue and
+remain in full effect.
+  * NB Effective July 1, 2022
   17. Notwithstanding any inconsistent provision of law to the contrary,
 for the purposes of determining the prekindergarten allocation on the
 electronic data file prepared by the commissioner pursuant to
