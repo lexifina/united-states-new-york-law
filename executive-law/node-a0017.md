@@ -1,4 +1,4 @@
-                               ARTICLE 17
+                              * ARTICLE 17
                            VETERANS' SERVICES
 Section 350.   Definitions.
         351.   Division of veterans' services.
@@ -38,3 +38,4 @@ Section 350.   Definitions.
         367.   Payment to parents of veterans.
         368.   Cremated remains of a veteran.
         368-a. Intake forms for admission and residency.
+  * NB Repealed April 1, 2023

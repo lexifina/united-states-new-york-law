@@ -7,4 +7,5 @@ Section 369-h. Definitions.
         369-j. Opportunities for certified service-disabled
                  veteran-owned business enterprises.
         369-k. Severability.
+  * NB Repealed April 1, 2023
   * NB Repealed March 31, 2024
