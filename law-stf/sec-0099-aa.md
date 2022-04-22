@@ -42,9 +42,10 @@ such termination, any remaining trust assets, after any proper expenses
 of the trust have been paid, shall revert to the state.
   (c) At the request of the director of the budget, the state
 comptroller shall transfer monies from the general fund to the trust
-fund up to and including an amount equivalent to fifty one-hundredths of
-one per centum of the total actuarial accrued liability included in the
-state of New York comprehensive annual financial report.
+fund up to and including an amount equivalent to one and fifty
+one-hundredths of one per centum of the total actuarial accrued
+liability included in the state of New York comprehensive annual
+financial report.
   (d) Any use of funds for retiree health benefits from such trust fund
 shall not be subject to an appropriation and shall be transferred by the
 state comptroller, at the request of the director of the budget, to the

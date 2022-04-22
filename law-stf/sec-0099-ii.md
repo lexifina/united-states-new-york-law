@@ -9,6 +9,11 @@ any other fund or source pursuant to law. Nothing contained in this
 section shall prevent the state from receiving grants, gifts or bequests
 for the purposes of the fund as defined in this section and depositing
 them into the fund according to law.
+  2-a. Revenues deposited into this fund pursuant to section fifteen of
+the cannabis law shall first be used to reimburse the state general fund
+for any funds transferred to this fund from the state general fund for
+the purposes of supporting expenditures authorized under paragraph (d)
+of subdivision three of this section.
   3. The moneys in such fund shall be expended for the following
 purposes:
   (a) Reasonable costs incurred by the department of taxation and
@@ -26,7 +31,31 @@ urban development corporation act. Such costs shall be paid out of
 revenues received, including, but not limited to, from special one-time
 fees paid by registered organizations pursuant to section sixty-three of
 the cannabis law.
-  (d) Beginning with the two thousand twenty-two--two thousand
+  (d) subject to available appropriations and providing that no more
+than fifty million dollars in funding, shall be made available, whether
+directly or indirectly for investment in a private debt or equity fund
+formed pursuant to subdivision thirty-two of section one thousand six
+hundred seventy-eight of the public authorities law or to cover capital
+costs associated with establishing conditional adult-use cannabis retail
+dispensaries for operation by social equity licensees duly licensed
+pursuant to article two of the cannabis law. Such capital costs shall
+include all costs, including closely related ancillary costs, related to
+the leasing, planning, design, construction, reconstruction,
+rehabilitation, improvement, furnishing, and equipping of such adult-use
+cannabis retail dispensaries, to the extent such work has been
+undertaken or costs for such work incurred by: (i) the office of
+cannabis management and the cannabis control board, (ii) the dormitory
+authority of the state of New York, or any subsidiary thereof, under
+agreement with the office of cannabis management and the cannabis
+control board, or with the private debt or equity fund formed pursuant
+to subdivision thirty-two of section one thousand six hundred
+seventy-eight of the public authorities law, or (iii) the private debt
+or equity fund formed pursuant to subdivision thirty-two of section one
+thousand six hundred seventy-eight of the public authorities law. Any
+repayment of the state's investment by the fund, as authorized in this
+paragraph shall be deposited in the New York state cannabis revenue
+fund.
+  (e) Beginning with the two thousand twenty-two--two thousand
 twenty-three fiscal year and continuing through the two thousand
 thirty-two--two thousand thirty-three fiscal year, the commissioner of
 taxation and finance shall annually disburse the following sums for the
@@ -89,12 +118,12 @@ its intent and purposes, and whether different agencies might be able to
 do so more effectively; and
   (I) any environmental impacts and hazards related to cannabis
 production.
-  (e) Reasonable costs incurred by the state police and the department
+  (f) Reasonable costs incurred by the state police and the department
 of motor vehicles to implement the provisions of section sixty of the
 marihuana regulation and taxation act, to expand and enhance the drug
 recognition expert training program and technologies utilized in the
 process of maintaining road safety.
-  (f) Reasonable costs, subject to available appropriations, incurred by
+  (g) Reasonable costs, subject to available appropriations, incurred by
 the office of cannabis management, the cannabis advisory board, or the
 urban development corporation to administer grants for qualified
 community-based nonprofit organizations and approved local government
@@ -103,7 +132,7 @@ disproportionately affected by past federal and state drug policies, in
 accordance with the allowable uses of moneys deposited in the New York
 state community grants reinvestment fund established by section
 ninety-nine-kk of this article.
-  (g) Reasonable costs, subject to available appropriations, incurred by
+  (h) Reasonable costs, subject to available appropriations, incurred by
 the division of criminal justice services and the office of court
 administration to implement the expungement provisions of sections
 seventeen and twenty-four of the marihuana regulation and taxation act,

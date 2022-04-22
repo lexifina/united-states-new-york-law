@@ -2,20 +2,20 @@
 state treasury a fund to be known as the "rainy day reserve fund". Such
 fund shall consist of moneys deposited therein and monies shall be
 withdrawn from such fund only for the purposes as provided therein.
-  2. Such fund shall have a maximum balance not to exceed five per
+  2. Such fund shall have a maximum balance not to exceed fifteen per
 centum of the aggregate amount projected to be disbursed from the
 general fund during the fiscal year immediately following the
 then-current fiscal year. At the request of the director of the budget,
 the state comptroller shall transfer monies to the rainy day reserve
-fund up to and including an amount equivalent to seventy-five
-one-hundredths of one per centum of the aggregate amount projected to be
-disbursed from the general fund during the then-current fiscal year,
-unless such transfer would increase the rainy day reserve fund to an
-amount in excess of five per centum of the aggregate amount projected to
-be disbursed from the general fund during the fiscal year immediately
-following the then-current fiscal year, in which event such transfer
-shall be limited to such amount as will increase the rainy day reserve
-fund to such five per centum limitation.
+fund up to and including an amount equivalent to three per centum of the
+aggregate amount projected to be disbursed from the general fund during
+the then-current fiscal year, unless such transfer would increase the
+rainy day reserve fund to an amount in excess of fifteen per centum of
+the aggregate amount projected to be disbursed from the general fund
+during the fiscal year immediately following the then-current fiscal
+year, in which event such transfer shall be limited to such amount as
+will increase the rainy day reserve fund to such fifteen per centum
+limitation.
   3. a. The amounts available in such reserve may be used if the
 following conditions are met:
   (i) Economic downturn. The commissioner of labor shall calculate and

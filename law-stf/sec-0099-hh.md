@@ -15,8 +15,8 @@ forty million dollars from funds secured by payments associated with
 state sanctioned deferred prosecution agreements currently held on
 deposit with the office of the Manhattan district attorney by January
 first.
-  * NB Repealed March 31, 2022
-  3. Monies of the criminal justice discovery compensation fund,
+  * NB Repealed March 31, 2024
+  3. (a) Monies of the criminal justice discovery compensation fund,
 following appropriation by the legislature and allocation by the
 director of the budget, shall be made available for local assistance
 services and expenses related to discovery reform implementation,
@@ -27,4 +27,9 @@ overtime costs, litigation readiness, and pretrial services. Eligible
 entities shall include, but not be limited to counties, cities with
 populations less than one million, and law enforcement and prosecutorial
 entities within towns and villages.
+  (b) The director of the budget shall provide the amount of the monies
+allocated pursuant to this section to the chief administrator of the
+courts and the division of criminal justice services for the purpose of
+completing the report required pursuant to subdivision six of section
+two hundred sixteen of the judiciary law.
   ** NB There are 4 § 99-hh's
