@@ -5,7 +5,7 @@ Section 601. Dispute resolution process established.
         603. Definitions.
         604. Criteria for determining a reasonable fee.
         605. Dispute resolution for emergency services.
-        606. Hold harmless and assignment of benefits for surprise bills
-               for insureds.
+        606. Hold harmless for insureds from bills for emergency
+               services and surprise bills.
         607. Dispute resolution for surprise bills.
         608. Payment for independent dispute resolution entity.
