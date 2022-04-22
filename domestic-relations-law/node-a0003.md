@@ -35,6 +35,8 @@ Section 10.    Marriage a civil contract.
                  health may furnish.
         20-b.  Certification of marriage; state commissioner of health
                  may furnish.
+        20-c.  Certification of marriage; new certificate in case of
+                 subsequent change of name or gender.
         21.    Forms and books to be furnished.
         22.    Penalty for violation.
         23.    Supervision of and inspection of town and city clerks'
