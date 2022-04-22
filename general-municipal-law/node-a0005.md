@@ -176,3 +176,4 @@ Section 70.     Payment of judgments against municipal corporation.
         99-v.   Veterans services; display of events.
         99-w.   Land for monument erection.
         99-x.   Prohibit symbols of hate.
+        99-y.   Internet access and communications.
