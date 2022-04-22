@@ -1,7 +1,10 @@
                                ARTICLE 13
                         DESTINATION RESORT GAMING
 Title 1.  General provisions
-      2.  Facility determination and licensing
+      2.  Facility determination and licensing: upstate gaming
+            facilities
+      2-A.Facility determination and licensing: additional gaming
+            facilities
       3.  Occupational licensing
       4.  Enterprise and vendor licensing and registration
       5.  Requirements for conduct and operation of gaming
