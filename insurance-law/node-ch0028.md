@@ -42,7 +42,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
          45. Fraternal benefit societies. (§§ 4501-4530)
          46. Retirement systems. (§§ 4601-4608)
          47. Municipal cooperative health benefit plans. (§§ 4701-4714)
-         48. Managed care health insurance contracts. (§§ 4801-4805)
+         48. Managed care health insurance contracts. (§§ 4801-4806)
          49. Utilization review and external appeal. (§§ 4900-4917)
          51. Comprehensive motor vehicle insurance reparations.
                (§§ 5101-5109)
