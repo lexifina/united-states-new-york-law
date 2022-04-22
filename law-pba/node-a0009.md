@@ -1,6 +1,6 @@
                                 ARTICLE 9
                            GENERAL PROVISIONS
-Title  1.   Reports by pubic authorities (§§ 2800-2806).
+Title  1.   Reports by pubic authorities (§§ 2800-2807).
        2.   Boards of public authorities (§§ 2824-2828).
        3.   Employees of Public Authorities (§§ 2850-2854).
        3-A. Business practices of public authorities (§ 2855-2858).
