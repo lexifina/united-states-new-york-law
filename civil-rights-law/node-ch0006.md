@@ -23,7 +23,7 @@ Article  1.   Short title (§§ 1--1-a).
                 (§§ 53-57).
          6.   Change of name (§§ 60-65).
          6-A. Change of sex designation (§§ 67--67-b).
-         7.   Miscellaneous rights and immunities (§§ 70--79-p).
+         7.   Miscellaneous rights and immunities (§§ 70--79-q).
          8.   Causes of action for alienation of affections, criminal
                 conversation, seduction and breach of contract to marry
                 abolished (§§ 80-a--84).

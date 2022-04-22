@@ -40,3 +40,5 @@ Section 70.     Vexatious suits.
                   resort or amusement.
         79-p.   Recording certain activities.
         79-p*2. Gender neutral single-occupancy bathroom facilities.
+        79-q.   Collection of gender or sex designation information by
+                  state agencies.
