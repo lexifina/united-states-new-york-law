@@ -5,9 +5,7 @@ Section 90.    Department of state; secretary of state.
         92.    Deputies.
         93.    Custody of records.
         93-a.  Examination of reports.
-        94.    Joint commission on public ethics; functions, powers and
-                 duties; review of financial disclosure statements;
-                 advisory opinions; investigation and enforcement.
+        94.    Commission on ethics and lobbying in government.
         94-a.  Consumer protection division.
         94-b.  Office for new Americans.
         94-c.  Major renewable energy development program.
