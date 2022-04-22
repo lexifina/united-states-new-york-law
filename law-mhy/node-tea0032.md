@@ -7,6 +7,7 @@ Section 32.01    Regulation and quality control of chemical dependence
                    services.
         32.03    Evaluation of chemical dependence services.
         32.05    Operating certificate required.
+        32.05-a  Certified recovery residences.
         32.06    Prohibited practices by providers of substance use
                    disorder services.
         32.07    Regulatory powers of the commissioner.
