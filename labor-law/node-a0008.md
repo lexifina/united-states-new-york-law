@@ -29,3 +29,4 @@ Section 220.   Hours, wages and supplements.
         224-b. Stop-work orders.
         224-c. Public subsidy board.
         224-d. Wage requirements for certain renewable energy systems.
+        224-e. Wage requirements for certain broadband projects.
