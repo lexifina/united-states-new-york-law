@@ -55,7 +55,7 @@ Article  29 General provisions relating to in-patient facilities
               (§§ 32.01-32.39).
          33 Rights of patients (§§ 33.01-33.27).
          36 Addiction and mental health services and supports
-              (§§ 36.01-36.02).
+              (§§ 36.01-36.03).
          41 Local and unified services (§§ 41.01-41.57).
          43 Fees for services (§§ 43.01-43.12).
          47 Mental Hygiene legal service (§§ 47.01-47.03).
