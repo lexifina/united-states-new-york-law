@@ -257,7 +257,7 @@ Section 70.        Classification of funds.
                      and treatment fund.
         97-ssss*2. Elevator and related conveyances safety program
                      account.
-        97-tttt.   Restore mother nature bond fund.
+        97-tttt.   Clean water, clean air, and green jobs bond fund.
         97-xxxx.   State health innovation plan account.
         97-yyyy.   Arts fund.
         97-aaaaa.  Opioid stewardship fund.
