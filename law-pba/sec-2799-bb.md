@@ -37,6 +37,7 @@ authority or a trustee for the account of the authority.
 the rules of the council.
   14. "State" means the state of New York.
   15. "Tax revenues" means the taxes paid or payable to the authority
-pursuant to section thirteen hundred thirteen of the tax law and such
-other revenues as the authority may derive directly from the state from
-taxes imposed by the city or the state and collected by the state.
+pursuant to subsection (d) of section eight hundred seventy-three, or
+section thirteen hundred thirteen, of the tax law and such other
+revenues as the authority may derive directly from the state from taxes
+imposed by the city or the state and collected by the state.
