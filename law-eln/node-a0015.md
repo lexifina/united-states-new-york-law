@@ -6,8 +6,8 @@ Section 15-100. Application of article.
         15-106. Special village elections for officers.
         15-108. Designation and nomination of candidates.
         15-110. Election districts.
-        15-112. Registers and poll books; how used.
-        15-114. Number and use of voting machines.
+        15-112. Registers and poll-books; how used.
+        15-114. Number of voting machines.
         15-116. Inspectors of election.
         15-118. Registration of voters.
         15-120. Absentee voting at village elections.
