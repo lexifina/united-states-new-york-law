@@ -58,5 +58,3 @@ Article
             (§§ 33.01-33.03)
    35.    New York State System of Heritage Areas (§§ 35.01-35.15)
    39.    Niagara River Greenway Commission (§§ 39.01-39.19)
-   41.    Michigan Street African American Heritage Corridor Commission
-            (§§ 41.01-41.19)
