@@ -26,3 +26,5 @@ Title 1.   Public property.
              properties in a city of one million or more persons.
       5.   Assessment ceilings for local public utility mass real
              property.
+      6.   Childcare center tax abatement for certain properties in a
+             city having a population of one million or more.
