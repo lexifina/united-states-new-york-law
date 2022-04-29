@@ -49,7 +49,6 @@ Section 500.     Application.
                    county.
         509.     Accidental death benefits.
         509-a.   COVID-19 benefit.
-        509-a*2. COVID-19 benefit.
         510.     Escalation of benefits.
         511.     Coordination with social security benefits.
         512.     Final average salary.
