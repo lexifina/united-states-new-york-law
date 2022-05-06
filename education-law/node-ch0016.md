@@ -47,6 +47,7 @@ Article
    13-A    Liberty scholarships (§§ 610-612.)
    13-B    Student lending accountability, transparency and enforcement
              act (§§ 620-632.)
+   13-C    Student debt; prohibited practices (§ 640.)
    14      New York state higher education services corporation
              (§§ 651-689.)
              Part I - Corporate structure (§§ 651-660.)
