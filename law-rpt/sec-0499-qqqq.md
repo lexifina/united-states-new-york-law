@@ -49,4 +49,4 @@ chapter, the assessor of the town or county who prepares a copy of this
 applicable part of the town or county assessment roll for village tax
 purposes shall also perform the acts prescribed for assessors by this
 title on behalf of the village.
-  * NB Repealed January 1, 2023
+  * NB Repealed January 1, 2027

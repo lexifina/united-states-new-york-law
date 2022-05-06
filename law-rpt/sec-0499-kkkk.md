@@ -59,4 +59,4 @@ percent or more than one hundred seventy-five percent of the assessment
 of such local public utility mass real property appearing on the
 municipal assessment roll with a taxable status date occurring in the
 year two thousand thirteen.
-  * NB Repealed January 1, 2023
+  * NB Repealed January 1, 2027
