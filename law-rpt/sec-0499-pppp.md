@@ -74,4 +74,4 @@ jurisdiction shall be deemed to consent thereto.
 by this subparagraph to provide to the local assessing jurisdiction such
 report, or the applicable portion thereof, but it fails to do so within
 thirty days of such a request, the proceeding shall be dismissed.
-  * NB Repealed January 1, 2023
+  * NB Repealed January 1, 2027

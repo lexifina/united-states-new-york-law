@@ -8,4 +8,4 @@ local law as provided in subdivision three of section fourteen hundred
 two of this chapter, the town or county assessor shall apportion that
 part of the assessment of local public utility mass real property in the
 town or county to the village for village tax purposes.
-  * NB Repealed January 1, 2023
+  * NB Repealed January 1, 2027
