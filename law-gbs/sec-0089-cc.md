@@ -1,11 +1,38 @@
-  § 89-cc. Process server records. 1. Each process server shall maintain
-a legible record of all service made by him as prescribed in this
-section.  Such records shall be kept in chronological order in a bound,
-paginated volume. Corrections in records shall be made only by drawing a
-straight line through the inaccurate entry and clearly printing the
-accurate information directly above the inaccurate entry. All other
-methods of correction, including but not limited to erasing, opaquing,
-obliterating or redacting, are prohibited.
+  § 89-cc. Process server records. * 1. Each process server shall
+maintain a legible record of all service made by him as prescribed in
+this section. Such records shall be kept in chronological order in a
+bound, paginated volume. Corrections in records shall be made only by
+drawing a straight line through the inaccurate entry and clearly
+printing the accurate information directly above the inaccurate entry.
+All other methods of correction, including but not limited to erasing,
+opaquing, obliterating or redacting, are prohibited.
+  * NB Effective until June 8, 2022
+  * 1. Each process server shall maintain a legible record of all
+service made by him or her as prescribed in this section. Such records
+shall be kept, either:
+  (a) in chronological order in a bound, paginated volume. Corrections
+in records shall be made only by drawing a straight line through the
+inaccurate entry and clearly printing the accurate information directly
+above the inaccurate entry. All other methods of correction, including
+but not limited to erasing, opaquing, obliterating or redacting, are
+prohibited; or
+  (b) by submitting recorded entries to a third party contractor within
+three days of service or attempted service, provided, however that
+permissions pertaining to such data will be secured so that the data
+cannot be deleted upon submission. Records shall be reported in
+chronological order. It shall be unlawful for any process server to
+tamper with data or properties of any electronic record kept pursuant to
+this section after an image file is made by modifying, amending,
+deleting, rearranging or in any other way altering any such data or
+properties including, but not limited to, using a meta data scrubber or
+similar device or program. If a typographical error has occurred or if
+data contained in the process server's record was accidentally omitted
+from the electronic data entry, the third party contractor may make an
+amendment in which the original record shall be identified by entering
+it in italics. All third party contractors must maintain a daily backup
+of all submitted data, and all data must be available for review upon
+request of any and all interested parties.
+  * NB Effective June 8, 2022
   2. The record to be maintained shall include the following
 information, where applicable:
   (a) the title of the action or a reasonable abbreviation thereof;
