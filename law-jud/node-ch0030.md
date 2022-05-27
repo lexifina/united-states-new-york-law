@@ -25,7 +25,7 @@ Article 1.    Short title (§§ 1--1-a).
         6-A.  County judges, surrogates and certain district attorneys
                 (§§ 182-188).
         7.    County court (§§ 190-208).
-        7-A.  Judicial administration (§§ 210--219-d).
+        7-A.  Judicial administration (§§ 210--219-e).
         7-B.  Compensation of judges and justices of the unified court
                 system (§§ 220-224).
         7-C.  Of the court for the trial of impeachments (§§ 240-248).
