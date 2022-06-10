@@ -1,15 +1,6 @@
-  § 89-cc. Process server records. * 1. Each process server shall
-maintain a legible record of all service made by him as prescribed in
-this section. Such records shall be kept in chronological order in a
-bound, paginated volume. Corrections in records shall be made only by
-drawing a straight line through the inaccurate entry and clearly
-printing the accurate information directly above the inaccurate entry.
-All other methods of correction, including but not limited to erasing,
-opaquing, obliterating or redacting, are prohibited.
-  * NB Effective until June 8, 2022
-  * 1. Each process server shall maintain a legible record of all
-service made by him or her as prescribed in this section. Such records
-shall be kept, either:
+  § 89-cc. Process server records. 1. Each process server shall maintain
+a legible record of all service made by him or her as prescribed in this
+section. Such records shall be kept, either:
   (a) in chronological order in a bound, paginated volume. Corrections
 in records shall be made only by drawing a straight line through the
 inaccurate entry and clearly printing the accurate information directly
@@ -32,7 +23,6 @@ amendment in which the original record shall be identified by entering
 it in italics. All third party contractors must maintain a daily backup
 of all submitted data, and all data must be available for review upon
 request of any and all interested parties.
-  * NB Effective June 8, 2022
   2. The record to be maintained shall include the following
 information, where applicable:
   (a) the title of the action or a reasonable abbreviation thereof;
