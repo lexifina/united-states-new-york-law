@@ -76,7 +76,7 @@ Article     1. General purposes (§§ 1.00-1.05).
           225. Gambling offenses (§§ 225.00-225.95).
           230. Prostitution offenses (§§ 230.00-230.40).
           235. Obscenity and related offenses (§§ 235.00-235.24).
-          240. Offenses against public order (§§ 240.00-240.77).
+          240. Offenses against public order (§§ 240.00-240.79).
           241. Harassment of rent regulated tenants (§§ 241.00-241.05).
           242. Offenses against service animals and handlers
                  (§§ 242.00-242.15).
@@ -89,7 +89,7 @@ Article     1. General purposes (§§ 1.00-1.05).
                  (§§ 260.00-260.34).
           263. Sexual performance by a child (§§ 263.00-263.30).
           265. Firearms and other dangerous weapons
-                 (§§ 265.00-265.64).
+                 (§§ 265.00-265.66).
           270. Other offenses relating to public safety
                  (§§ 270.00-270.40).
           275. Offenses relating to unauthorized recording of sound
