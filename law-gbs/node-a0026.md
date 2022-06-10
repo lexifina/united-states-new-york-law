@@ -73,6 +73,7 @@ Section 390.         Substitution of spurious oils for internal
         394-c.       Limitations on certain contracts involving social
                        referral services.
         394-cc.      Internet dating safety.
+        394-ccc.     Social media networks; hateful conduct prohibited.
         394-d.       Privity of contract between franchise seller and
                        customer or patron of dealer.
         394-e.       Report on request for abortional services.
@@ -96,6 +97,7 @@ Section 390.         Substitution of spurious oils for internal
         396-dd.      Renting of horses; helmets and safety information.
         396-e.       Marking articles made of linen.
         396-ee.      Sale of certain weapons; locking devices therefor.
+        396-eee.     Unlawful sale or delivery of body vests.
         396-f.       Sale of blind made products.
         396-g.       Sale of products processed by the blind.
         396-h.       Fraudulent sale of poppies, forget-me-nots,

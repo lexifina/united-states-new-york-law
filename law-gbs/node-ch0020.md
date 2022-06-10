@@ -156,6 +156,9 @@ AN ACT relating to general business, constituting chapter twenty of the
          39.      Drug-related paraphernalia (§§ 850-853).
          39-A.    Merchants of Torah scrolls (§§ 855-864).
          39-B.    Imitation weapons (§§ 870-873).
+         39-BB.   Preventing the unlawful sale of firearms, rifles, and
+                    shotguns to individuals with a criminal record
+                    (§§ 875-a--875-i).
          39-C.    Imitation hypodermic instruments (§§ 880-882).
          39-D.    Auto Equity Promoters (§§ 890-893).
          39-DD.   Sale of firearms, rifles or shotguns at gun shows
