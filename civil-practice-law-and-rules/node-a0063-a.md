@@ -10,3 +10,5 @@ Section 6340. Definitions.
         6346. Expiration of an extreme risk protection order.
         6347. Effect of findings and determinations in subsequent
                 proceedings.
+        6348. Protections for health care providers applying for an
+                extreme risk protection order.
