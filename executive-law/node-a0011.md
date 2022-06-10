@@ -13,6 +13,7 @@ Section 210.   Division of state police.
         214-f. Emergency situations involving people with autism
                  spectrum disorder and other developmental disabilities.
         214-g. Opioid antagonist awareness.
+        214-h. Extreme risk protection orders.
         215.   Organization; salaries; qualifications; appointment;
                  term; rules and regulations.
         216.   Bureau of criminal investigation.

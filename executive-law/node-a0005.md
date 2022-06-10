@@ -20,6 +20,7 @@ Section 60.   Department of law.
                 attorney.
         70-a. Statewide organized crime task force.
         70-b. Office of special investigation.
+        70-c. Task force on social media and violent extremism.
         71.   Attorney-general authorized to appear in cases involving
                 the constitutionality of an act of the legislature, or a
                 rule or regulation adopted pursuant thereto.

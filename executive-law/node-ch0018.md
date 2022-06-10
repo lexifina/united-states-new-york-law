@@ -18,7 +18,7 @@ The People of the State of New York, represented in Senate and Assembly,
           4-B. Office   of   the  inspector  general  of  New  York  for
                  transportation (§§ 56-58).
           5.   Department of law (§§ 60-75).
-          6.   Department of state (§§ 90-144).
+          6.   Department of state (§§ 90-144-a).
           6-A. State register (§§ 145-149).
           6-B. Services to localities (§§ 150-153).
           6-C. Office of fire prevention and control (§§ 155--159-d).

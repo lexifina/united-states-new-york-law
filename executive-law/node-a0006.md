@@ -60,3 +60,5 @@ Section 90.    Department of state; secretary of state.
                  deeds notwithstanding certain defects.
         143.   Fees of such commissioners.
         144.   Saving clause.
+        144-a. Eligible professions for the purchase, sale, and use of
+                 body vests.
