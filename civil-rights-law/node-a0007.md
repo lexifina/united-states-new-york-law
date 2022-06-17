@@ -3,6 +3,7 @@
 Section 70.     Vexatious suits.
         70-a.   Actions involving public petition and participation;
                   recovery of damages.
+        70-b.   Unlawful interference with protected rights.
         71.     Damages in action for suing in name of another.
         72.     Term of imprisonment of civil prisoner.
         73.     Code of fair procedure for investigating agencies.
