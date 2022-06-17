@@ -47,6 +47,7 @@ Section 835.     Definitions.
                    respect to arrest-related deaths.
         837-w.   Technological viability of microstamping-enabled
                    firearms.
+        837-w*2. Cooperation with certain out-of-state investigations.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.
