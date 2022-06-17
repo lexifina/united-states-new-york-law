@@ -1,8 +1,6 @@
-             ARTICLE 570--SECURING ATTENDANCE OF DEFENDANTS
-             WHO ARE OUTSIDE THE STATE BUT WITHIN THE UNITED
-               STATES--RENDITION TO OTHER JURISDICTIONS OF
-              DEFENDANTS WITHIN THE STATE--UNIFORM CRIMINAL
-                             EXTRADITION ACT
+ARTICLE 570--SECURING ATTENDANCE OF DEFENDANTS WHO ARE OUTSIDE THE STATE
+    BUT WITHIN THE UNITED STATES--RENDITION TO OTHER JURISDICTIONS OF
+      DEFENDANTS WITHIN THE STATE--UNIFORM CRIMINAL EXTRADITION ACT
 Section 570.02 Short title.
         570.04 Definitions.
         570.06 Fugitives from justice; duty of governor.
@@ -14,6 +12,7 @@ Section 570.02 Short title.
                  compulsion.
         570.16 Extradition of persons not present in demanding state at
                  time of commission of crime.
+        570.17 Extradition of abortion providers.
         570.18 Issuance of warrant of arrest by governor; recitals
                  therein.
         570.20 Execution of warrant; manner and place thereof.
