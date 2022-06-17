@@ -70,7 +70,7 @@ Section 50.   Liability of corporation to employees of contractor.
         86.   Certain railroads need not be operated beyond June, July,
                 August and September.
         87.   Mails.
-        88.   When railroads may designate policemen.
+        88.   When railroads may designate police officers.
         89.   New railroads across streets.
         90.   New streets across railroads.
         91.   Alteration or rehabilitation of existing crossing.
@@ -82,7 +82,7 @@ Section 50.   Liability of corporation to employees of contractor.
                 structures.
         94.   Performance of work; division of expenses; accounting;
                 claims for damages; valuation.
-        9     . Proceedings by commissioner of transportation for
+        95.   Proceedings by commissioner of transportation for
                 alteration of existing crossings.
         96.   Proceedings to enforce orders of commissioner of
                 transportation.
