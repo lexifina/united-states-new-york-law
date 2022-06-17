@@ -18,6 +18,8 @@ Section 6500.   Introduction.
         6505-b. Course work or training in infection control practices.
         6505-c. Articulation between military and civilian professional
                   careers.
+        6505-d. Evaluation of prior disciplinary history for
+                  authorization to practice.
                      Subarticle 2. State management.
 Section 6506.   Supervision by the board of regents.
         6507.   Administration by the education department.
