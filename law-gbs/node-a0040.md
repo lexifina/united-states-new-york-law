@@ -1,4 +1,4 @@
-                              * ARTICLE 40
+                               ARTICLE 40
                     PEER-TO-PEER CAR SHARING PROGRAMS
 Section 900. Liscensing.
         901. Requirements for doing business.
@@ -21,4 +21,3 @@ Section 900. Liscensing.
         917. Electronic notice authorized.
         918. Airport transactions.
         919. Enforcement.
-  * NB Effective June 20, 2022
