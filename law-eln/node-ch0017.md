@@ -625,6 +625,8 @@ Section 16-100. Jurisdiction; supreme court, county court.
                   officer.
         16-120. Enforcement proceedings.
                                ARTICLE 17
+                    PROTECTING THE ELECTIVE FRANCHISE
+                                 TITLE 1
                   VIOLATIONS OF THE ELECTIVE FRANCHISE
 Section 17-100. Definitions.
         17-102. Misdemeanors  at,  or  in   connection   with,   primary
@@ -672,3 +674,18 @@ Section 17-100. Definitions.
         17-168. Crimes against  the  elective  franchise  not  otherwise
                   provided for.
         17-170. Destroying or delaying election returns.
+                                 TITLE 2
+               JOHN R. LEWIS VOTING RIGHTS ACT OF NEW YORK
+Section 17-200. Legislative purpose and statement of public policy.
+        17-202. Interpretation of laws related to the elective franchise.
+        17-204. Definitions.
+        17-206. Prohibitions on voter disfranchisement.
+        17-208. Assistance for language-minority groups.
+        17-210. Preclearance.
+        17-212. Prohibition against voter intimidation, deception or
+                  obstruction.
+        17-214. Authority to issue subpoenas.
+        17-216. Expedited judicial proceedings and preliminary relief.
+        17-218. Attorneys' fees.
+        17-220. Applicability.
+        17-222. Severability.
