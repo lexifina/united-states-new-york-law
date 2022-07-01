@@ -118,6 +118,8 @@ Section 70.        Classification of funds.
         95-i.      New York state ALS research and education fund.
         95-j.      The New York state two hundred fiftieth commemoration
                      commission fund.
+        95-k.      Transgender and gender non-binary (TGNB) wellness and
+                     equity program fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
