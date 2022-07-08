@@ -38,6 +38,7 @@ Section 64.     Application of article.
                   rental premises.
         66-r.   Requirements for certain renewable energy systems.
         66-s.   Electric vehicle charging; commercial tariff.
+        66-t.   Thermal energy network development.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.
