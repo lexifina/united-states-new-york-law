@@ -95,7 +95,7 @@ Article     1. General purposes (§§ 1.00-1.05).
           275. Offenses relating to unauthorized recording of sound
                  (§§ 275.00-275.45).
           400. Licensing and other provisions relating to firearms
-                 (§§ 400.00-400.20).
+                 (§§ 400.00-400.30).
           405. Licensing and other provisions relating to fireworks
                  (§§ 405.00-405.18).
           410. Seizure and forfeiture of equipment used in promoting
