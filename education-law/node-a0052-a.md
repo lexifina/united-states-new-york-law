@@ -5,7 +5,7 @@ Section 2590.     Application of article.
         2590-b.   Continuation of city board and establishment of
                     community districts; establishment of the city-wide
                     councils on special education, English language
-                    learners, and high schools.
+                    learners, high schools, and district seventy-five.
         2590-c.   Composition of community district education councils.
         2590-d.   By-laws; regulations and decisions.
         2590-e.   Powers and duties of community district education
