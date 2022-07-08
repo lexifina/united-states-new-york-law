@@ -7,5 +7,3 @@ Section 1. Short title.
              corporations.
         5. Application.
         6. Merger of subsidiary corporations.
-        7. Agreement for fiber optic utility use and occupancy of state
-             right of way.
