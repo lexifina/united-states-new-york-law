@@ -13,8 +13,8 @@ Article 1. Short title; definitions (§§ 1-101 to 1-103).
        11. State energy conservation construction code act
              (§§ 11-101 to 11-110).
        12. Solar energy products warranty act (§§ 12-101 to 12-112).
-       16. Appliance and equipment energy efficiency standards
-             (§§ 16-102 to 16-108)
+       16. Appliance and equipment efficiency standards
+             (§§ 16-102 to 16-109)
        17. Energy information (Secs. 17-101 to 17-105).
        18. Temporary nuclear waste repositories (§§ 18-101 to 18-113).
        21. Energy supply and production (§ 21-106).
