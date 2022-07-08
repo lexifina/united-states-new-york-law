@@ -20,7 +20,7 @@ Article 1.    Short title; application; definitions (§§ 1-3).
                 (§§ 299-l--299-y).
         6.    Enhanced emergency telephone system surcharge
                 (§§ 300-308).
-        6-A.  Local enhanced wireless 911 program (§§ 325-337).
+        6-A.  Local enhanced wireless 911 program (§§ 325-338).
         7.    Finance  (§§ 350-381).
         7-A.  County tuberculosis hospitals (§§ 385-395).
         7-B.  County medical assistance clinics
