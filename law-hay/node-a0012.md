@@ -794,4 +794,22 @@ Section 340-a.     Designation of state interstate routes.
         344-m*21.  Portion of the state highway system to be designated
                      as the "Trooper Thomas J. Consorte Memorial
                      Bridge".
+        344-n.     Portion of the state highway system to be designated
+                     as the "Marylou Whitney Way".
+        344-n*2.   Portion of state highway system to be designated as
+                     the "Trooper Martin J. Kerins Memorial Bridge".
+        344-n*3.   Portion of the state highway system to be designated
+                     as the "Firefighter Jared Lloyd Memorial Highway".
+        344-n*4.   Portion of the state highway system to be designated
+                     and known as the "Police Officer Daniel J. Greer
+                     Memorial Bridge".
+        344-n*5.   Portion of the state highway system to be designated
+                     as the "Patrolman David 'DW' Smith Memorial
+                     Highway".
+        344-n*6.   Portion of the state highway system to be designated
+                     as the "Chief Samuel A. Johnson, Sr. Memorial
+                     Bridge".
+        344-n*7.   Portion of the state highway system to be designated
+                     as the "Detective Anastasios Tsakos Memorial
+                     Bridge".
         345-a.     Abandonment and transfer of state highways.

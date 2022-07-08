@@ -17,7 +17,7 @@ Article       I.   Short title and definitions (§§ 1-3).
            VIII-A. Town highway improvement program (§§ 219--229-d).
              IX.   Bridges (§§ 230-255).
               X.   Finances (§§ 260-292).
-             XI.   Miscellaneous provisions (§§ 300-331).
+             XI.   Miscellaneous provisions (§§ 300-332).
             XII.   State routes (§§ 340-a--345-a).
             XII-A. State thruways (§§ 346--349-a).
             XII-B. State arterial highways passing through cities
