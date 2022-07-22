@@ -6,14 +6,14 @@ Section 10.   Declaration of policy.
         12.   Offices of department.
         13.   Organization of department; officers and employees.
         14.   General functions, powers and duties of department.
-        14-a. Preservation   of  agricultural  lands,  public  park  and
-                recreational lands, wildlife and waterfowl  refuges  and
+        14-a. Preservation of agricultural lands, public park and
+                recreational lands, wildlife and waterfowl refuges and
                 historical sites.
         14-b. Highway safety powers and duties.
         14-c. Intercity rail passenger service program.
         14-d. Rail service preservation.
-        14-e. Development  of  transportation  corridors;  multiple  use
-                outside the counties of Kings and  Queens  of  right  of
+        14-e. Development of transportation corridors; multiple use
+                outside the counties of Kings and Queens of right of
                 way.
         14-f. Transportation of hazardous materials.
         14-g. Intercity bus passenger service preservation.
@@ -23,25 +23,28 @@ Section 10.   Declaration of policy.
         14-k. Multi-modal program.
         14-l. Airport improvement and revitalization.
         14-m. Airport security.
+        14-n. Information concerning services for human trafficking
+                victims in commercial service airports and general
+                aviation airports.
         15.   Comprehensive statewide master plan for transportation.
-        15-a. Metropolitan   planning   organization  and  participants;
+        15-a. Metropolitan planning organization and participants;
                 certain functions.
-        15-b. New York city accessible transportation system;  New  York
+        15-b. New York city accessible transportation system; New York
                 city transportation disabled committee.
         15-c. Accessible public transportation.
         16.   Delegation of powers and duties.
         17.   State advances to authorities for preparation of plans.
-        17-a. Reports  of  regional  transportation authorities; certain
+        17-a. Reports of regional transportation authorities; certain
                 cases.
         17-b. Public transportation safety plans; filing.
         18.   Acqusition of abandoned railroad transportation property.
-        18-a. Statewide   mass   transportation   operating   assistance
+        18-a. Statewide mass transportation operating assistance
                 program.
-        18-b. Statewide   mass   transportation   operating   assistance
+        18-b. Statewide mass transportation operating assistance
                 program.
-        19.   Interstate high speed  intercity  rail  passenger  network
+        19.   Interstate high speed intercity rail passenger network
                 compact.
-        20.   Nighttime  work  on major capital construction projects on
+        20.   Nighttime work on major capital construction projects on
                 highways, expressways and parkways.
         21.   Single audit program.
         22.   Work zone safety and enforcement.
