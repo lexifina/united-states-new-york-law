@@ -9,6 +9,8 @@ Section 390.         Substitution of spurious oils for internal
                        certain facilities.
         390-c*2.     Posting of warnings by commercial entities offering
                        internet access to the public.
+        390-d.       Information concerning services for human
+                       trafficking victims in facilities at truck stops.
         391.         Marking retreaded, recapped or recut tires.
         391-a.       Unlawful acts relating to liquid fuels, lubricating
                        oils and similar products.
