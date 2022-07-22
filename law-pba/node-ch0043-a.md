@@ -12,7 +12,7 @@ Assembly, do enact as follows:
 Article 1.   Short title (§ 1-7).
         1-A. New York state public authorities control board
                (§§ 50-51).
-        2.   Park, parkway and highway authorities (§§ 150-388).
+        2.   Park, parkway and highway authorities (§§ 150-389).
         3.   Bridge and tunnel authorities (§§ 525-735).
         4.   Market authorities (§§ 825-919).
         5.   Public utility authorities (§§ 1000-1348).
