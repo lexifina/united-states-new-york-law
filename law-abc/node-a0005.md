@@ -28,5 +28,6 @@ Section 60.   Kinds of licenses.
                 intent to consume by persons under the age of twenty-one
                 years.
         65-d. Posting of signs.
-        6     6.  License fees.
+        65-e. Posting of signs relating to human trafficking.
+        66.   License fees.
         67.   License fees, duration of licenses; fee for part of year.
