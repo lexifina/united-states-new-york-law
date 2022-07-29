@@ -34,4 +34,4 @@ fund shall have complied with all applicable statutory and regulatory
 requirements. The surcharge amount not related to payments of workers'
 compensation claims and the administration of those claims shall be up
 to one-half of one percent (0.5%).
-  * NB Repealed December 20, 2022
+  * NB Repealed December 20, 2025
