@@ -1,6 +1,6 @@
                                ARTICLE 75
-         COMMUNITY MENTAL HEALTH SERVICES AND MENTAL RETARDATION
-                           SERVICES COMPANIES
+COMMUNITY MENTAL HEALTH SERVICES AND DEVELOPMENTAL DISABILITIES SERVICES
+                                COMPANIES
 Section 75.01 Short title.
         75.03 Policy and purposes of article.
         75.05 Definitions.
