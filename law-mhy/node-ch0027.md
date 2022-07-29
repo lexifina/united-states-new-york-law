@@ -30,7 +30,8 @@ Article   7 Office of mental health (§§ 7.01-7.47).
                             DEVELOPMENTAL DISABILITIES ACT
 Article  13 Office for people with developmental disabilities (§§
               13.01-13.45).
-         15 Admission of the mentally retarded to schools
+         15 Admission of people with developmental disabilities to
+              schools
               (§§ 15.01-15.37).
          16 Regulation and quality of services (§§ 16.00-16.37).
                                         TITLE D
@@ -62,8 +63,8 @@ Article  29 General provisions relating to in-patient facilities
          61 Federal aid (§§ 61.01-61.05).
          67 Interstate relations (§§ 67.01-67.09).
          71 Acquisition of real property (§ 71.01).
-         75 Community mental health services and mental retardation
-              services companies (§§ 75.01-75.35).
+         75 Community mental health services and developmental
+              disabilities services companies (§§ 75.01-75.35).
          79 Proceedings relative to incompetent veterans and infant
               wards of the United States veterans' administration
               (§§ 79.01-79.43).
@@ -71,6 +72,7 @@ Article  29 General provisions relating to in-patient facilities
               (§§ 80.01-80.13).
          81 Proceedings for appointment of a guardian for personal needs
               or property management (§§ 81.01-81.44).
+         82 Supported decision-making (§§ 82.01-82.15).
          83 Uniform guardianship and protective proceedings jurisdiction
               act (§§ 83.01-83.45).
          84 New York achieving a better life experience savings account
