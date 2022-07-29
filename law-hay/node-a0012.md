@@ -795,6 +795,9 @@ Section 340-a.     Designation of state interstate routes.
         344-m*21.  Portion of the state highway system to be designated
                      as the "Trooper Thomas J. Consorte Memorial
                      Bridge".
+        344-m*22.  Portion of the state highway system to be designated
+                     as the "Medal of Honor Recipient Francis S. Currey
+                     Memorial Highway".
         344-n.     Portion of the state highway system to be designated
                      as the "Marylou Whitney Way".
         344-n*2.   Portion of state highway system to be designated as
@@ -815,4 +818,16 @@ Section 340-a.     Designation of state interstate routes.
                      Bridge".
         344-n*8.   Portion of state highway system to be designated as
                      "New York Medal of Honor Highway".
+        344-n*9.   Portion of the state highway system to be designated
+                     as the "Trooper Brian S. Falb Memorial Bridge".
+        344-n*10.  Portion of the state highway system to be designated
+                     as the "Putnam Valley First Responders Bridge".
+        344-n*11.  Portion of the state highway system to be designated
+                     as the "Firefighter Robert Fowler Memorial
+                     Highway".
+        344-n*12.  Portion of the state highway system to be designated
+                     as the "Chief John 'Jody' Rossitz Memorial Bridge".
+        344-n*13.  Portion of the state highway system in Oneida county
+                     to be designated as the "Oneida County Korean War
+                     Veterans Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
