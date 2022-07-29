@@ -120,6 +120,8 @@ Section 70.        Classification of funds.
                      commission fund.
         95-k.      Transgender and gender non-binary (TGNB) wellness and
                      equity program fund.
+        95-k*2.    Lyme and tick-borne diseases education, research and
+                     prevention fund.
         96.        The World Trade Center memorial scholarship fund.
         97.        Housing debt fund, and urban renewal debt fund.
         97-a.      Environmental quality protection fund.
