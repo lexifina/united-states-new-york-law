@@ -29,3 +29,4 @@ Section 50.     Examinations generally.
                   medical service.
         59-c.   State employment of persons and veterans with
                   disabilities study.
+        59-d.   Public posting of employment opportunities.
