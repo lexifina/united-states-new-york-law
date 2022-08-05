@@ -35,8 +35,6 @@ Section 200.   General duty to protect health and safety of employees;
         202-j. Leave of absence for blood donation granted to employees.
         202-k. Protection of persons employed in the broadcast industry.
         202-l. Leave of absence for volunteer emergency responders.
-        202-m. Healthcare professionals who volunteer to fight the Ebola
-                 virus disease overseas.
         203.   Washrooms, washing facilities and waterclosets for
                  elevator employees.
         203-a. Seats in certain passenger elevators or relief for the
