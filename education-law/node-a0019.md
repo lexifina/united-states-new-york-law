@@ -37,3 +37,4 @@ Section 901.   School health services to be provided.
         921-a. On-site epinephrine auto-injector.
         922.   Opioid overdose prevention.
         923.   Sudden cardiac arrest.
+        924.   Ingredient and nutritional information requirements.

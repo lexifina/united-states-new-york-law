@@ -245,3 +245,10 @@ such property.
 museum to bind themselves to different loan provisions by written
 agreement, nor shall this section abrogate rights and obligations of a
 lender or museum pursuant to a written agreement.
+  15. Every museum which has on display any identifiable works of art
+known to have been created before nineteen hundred forty-five and which
+changed hands due to theft, seizure, confiscation, forced sale or other
+involuntary means in Europe during the Nazi era (nineteen hundred
+thirty-three--nineteen hundred forty-five) shall, to the extent
+practicable, prominently place a placard or other signage acknowledging
+such information along with such display.
