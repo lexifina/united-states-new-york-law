@@ -32,3 +32,4 @@ Section 1501.   Declaration of policy.
         1515.   Actions affecting cemetery corporations.
         1516.   Sale of monuments.
         1517.   Crematory operations.
+        1518.   Crematory operations during emergency declaration.
