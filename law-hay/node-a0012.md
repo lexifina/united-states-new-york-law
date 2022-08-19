@@ -798,6 +798,8 @@ Section 340-a.     Designation of state interstate routes.
         344-m*22.  Portion of the state highway system to be designated
                      as the "Medal of Honor Recipient Francis S. Currey
                      Memorial Highway".
+        344-m*23.  Portion of the state highway system to be designated
+                     as the "Rensselaer County Purple Heart Highway".
         344-n.     Portion of the state highway system to be designated
                      as the "Marylou Whitney Way".
         344-n*2.   Portion of state highway system to be designated as
@@ -830,4 +832,10 @@ Section 340-a.     Designation of state interstate routes.
         344-n*13.  Portion of the state highway system in Oneida county
                      to be designated as the "Oneida County Korean War
                      Veterans Memorial Highway".
+        344-n*14.  Portion of the state highway system to be designated
+                     as the "Petty Officer Robert Segool Memorial
+                     Highway".
+        344-n*15.  Portion of the state highway system to be designated
+                     as the "Staff Sergeant Shawn M. Clemens Memorial
+                     Highway".
         345-a.     Abandonment and transfer of state highways.
