@@ -27,6 +27,7 @@ Section 10.   Declaration of policy.
                 require the provision of basic banking services.
         18.   Fees for copies and certifications.
         18-a. Application fees.
+        18-b. Holocaust reparations payment fees.
         19.   Assessments for deficiency in reserves against deposits.
         20.   Assessments, penalties and forfeitures entitled to
                 priority.
