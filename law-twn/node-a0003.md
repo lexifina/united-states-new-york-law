@@ -10,8 +10,8 @@ Section 20.   Town officers.
                 Cortlandt.
         24.   Terms of office.
         24-a. Terms of office of elective officers.
-        24-b. Election of councilmen and town justices in the town of
-                Pawling.
+        24-b. Election of council members and town justices in the town
+                of Pawling.
         25.   Oaths of office and undertaking.
         25-a. Fingerprints of persons before appointment as town police
                 officers, or as constables possessing powers in criminal
