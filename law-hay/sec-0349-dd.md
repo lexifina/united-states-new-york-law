@@ -270,6 +270,36 @@ highway system beginning at the intersection of state route twenty-eight
 and state route two hundred fourteen in the hamlet of Phonicia, Ulster
 county, northeasterly along state route two hundred fourteen and
 terminating at the Ulster/Greene county line.
+  (j-14) Durham Valley scenic byway, which shall consist of all that
+portion of the local highway system beginning at the intersection of
+Cornwallville Road and county road twenty in the town of Durham, Greene
+County, continuing southerly and southeasterly on Cornwallville Road to
+the intersection with state route twenty-three; and all that portion of
+the local highway system beginning at the intersection of county road
+twenty and county road twenty-b in the town of Durham, Greene County,
+continuing westerly and northwesterly on county road twenty to the
+Durham/Conesville town border; and all that portion of the local highway
+system known as Sutton Road in the town of Durham, Greene County,
+beginning at the intersection of Sutton Road and county road twenty
+continuing westerly to the intersection of Sutton Road and Cunningham
+Road; and all that portion of the local highway system known as
+Cunningham Road in the town of Durham, Greene County, beginning at the
+intersection of Cunningham Road and Sutton Road and continuing
+southwesterly to the intersection with county road ten; and all that
+portion of the local highway system known as county road ten in the town
+of Windham and Durham, Greene County, beginning at the intersection of
+Cunningham Road continuing northwesterly to county road twenty; and all
+that portion of the local highway system known as Stonebridge Road in
+the town of Durham, Greene County, beginning at the intersection of
+Stonebridge Road and Shady Glen Road continuing westerly to the
+intersection of Stonebridge Road with county road twenty; and all that
+portion of the local highway system known as Cochrane Road in the town
+of Durham, Greene County, beginning at the intersection of county road
+twenty continuing westerly to the intersection of county road twenty;
+and all that portion of the local highway system known as Prink Hill
+Lane in the town of Durham, Greene County, beginning at the intersection
+of Cochrane Road continuing northerly to the intersection of county road
+twenty.
   (k) highways designated as scenic roads pursuant to article forty-nine
 of the environmental conservation law;
   (l) parkways as listed in the regulations of the commissioner of the
