@@ -25,5 +25,5 @@ Article 1.    Short   title;   definitions;  application;  certificates;
         12.   Receivership. (§§ 1201-1218)
         13.   Foreign corporations. (§§ 1301-1321)
         14.   Special not-for-profit corporations. (§§ 1401-1412)
-        15.   Public cemetery corporations. (§§ 1501-1516)
+        15.   Public cemetery corporations. (§§ 1501-1518)
         16.   Land banks. (§§ 1600-1617)
