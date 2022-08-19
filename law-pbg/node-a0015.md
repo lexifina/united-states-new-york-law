@@ -1,4 +1,4 @@
-                              * ARTICLE XV
+                               ARTICLE XV
              NEW YORK CITY PUBLIC HOUSING PRESERVATION TRUST
 Section 625. Short title.
         626. Legislative findings.
@@ -27,4 +27,3 @@ Section 625. Short title.
         647. Jurisdiction over trust.
         648. Effect of inconsistent provisions.
         649. Severability.
-  * NB Effective August 15, 2022
