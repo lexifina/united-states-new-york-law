@@ -8,8 +8,9 @@ Assembly, do enact as follows:
                                 CANAL LAW
                    CHAPTER 5 OF THE CONSOLIDATED LAWS
 Article   1.   Short title and definitions (§§ 1-2).
-          1-A. Transfer to New York state thruway authority. (§§ 5-6).
-          2.   Commissioner of transportation (§§ 10-11).
+          1-A. Transfer to power authority of the state of New York
+                 (§§ 5-6).
+          2.   Powers of the canal corporation (§§ 10-11).
           3.   Canal engineering (§§ 21-25).
           4.   Canal contracts (§§ 30-35).
           5.   Acquisition of property for the canal system (§§ 40-44).
