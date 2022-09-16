@@ -24,7 +24,7 @@ Article 1.   Short title; definitions; application ............ (§§ 1-4)
         7.   Miscellaneous provisions ..................... (§§ 110-137)
         8.   Administration ............................... (§§ 140-157)
         8-A. World Trade Center rescue, recovery
-               and clean-up operations .................... (§§ 161-168)
+               and clean-up operations .................... (§§ 161-169)
         9.   Disability benefits .......................... (§§ 200-242)
        10.   Workmen's compensation act for civil defense
                volunteers ................................. (§§ 300-328)
