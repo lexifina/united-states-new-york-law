@@ -838,4 +838,7 @@ Section 340-a.     Designation of state interstate routes.
         344-n*15.  Portion of the state highway system to be designated
                      as the "Staff Sergeant Shawn M. Clemens Memorial
                      Highway".
+        344-n*16.  Portion of the state highway system to be designated
+                     as the "Port Authority Police Officer James W.
+                     Kennelly Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
