@@ -75,4 +75,5 @@ Article 1.    Short title; definitions. (§§ 1-4)
        32.    Licensing of mold inspection, assessment and remediation
                 specialists and minimum work standards. (§§ 930-948)
        33.    Elevators and other conveyances; licensing. (§§ 950-957)
+       34.    Certification of public service employment. (§§ 1000-1002)
        40.    When to take effect. (§ 1200)
