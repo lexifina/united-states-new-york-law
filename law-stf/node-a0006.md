@@ -136,6 +136,7 @@ Section 70.        Classification of funds.
         97-i.      New York state local government records management
                      improvement fund.
         97-j.      Firearm violence research fund.
+        97-k.      Minority and women-owned business enterprise fund.
         97-l.      Sewage treatment program management and
                      administration fund.
         97-p.      Community college tuition and instructional income
