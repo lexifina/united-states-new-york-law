@@ -12,6 +12,7 @@ Section 310.   Definitions.
                  enterprises.
         313-a. Diversity practices of state contractors.
         314.   Statewide certification program.
+        314-a. Post completion certification.
         315.   Responsibilities of contracting agencies.
         316.   Enforcement.
         316-a. Prohibitions in contracts; violations.
