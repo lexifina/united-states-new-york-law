@@ -69,6 +69,7 @@ Article   1.      Short title; definitions; matters of public interest
          17-A.    Enrichment of certain foods (§§ 215--215-c).
          17-B.    Licensing of food salvagers (§§ 216-222).
          18.      Wood products development (§ 225).
+         18-A.    Natural fiber textile development (§ 226).
          19.      Refrigerated warehouses and locker plants
                     (§§ 230-243).
          20.      Licensing of farm products dealers (§§ 244--250-k)
