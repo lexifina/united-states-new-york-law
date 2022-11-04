@@ -1,13 +1,13 @@
-  * § 28-bb. Credit needs of local communities; mortgage bankers. 1.
-When taking any action on an application made by a mortgage banker
-licensed pursuant to section five hundred ninety-one of this chapter for
-a change in control under section five hundred ninety-four-b of this
-chapter, or on any other application or notice to which the
-superintendent of financial services shall by rule or regulation make
-applicable the provisions of this section, the superintendent shall take
-into account, among other factors, an assessment, in writing, of the
-record of performance of the mortgage banker in helping to meet the
-credit needs of its entire community, including low and moderate income
+  § 28-bb. Credit needs of local communities; mortgage bankers. 1. When
+taking any action on an application made by a mortgage banker licensed
+pursuant to section five hundred ninety-one of this chapter for a change
+in control under section five hundred ninety-four-b of this chapter, or
+on any other application or notice to which the superintendent of
+financial services shall by rule or regulation make applicable the
+provisions of this section, the superintendent shall take into account,
+among other factors, an assessment, in writing, of the record of
+performance of the mortgage banker in helping to meet the credit needs
+of its entire community, including low and moderate income
 neighborhoods, and consistent with safe and sound operation of the
 mortgage banker. Such assessment and any written communications from the
 department of financial services to a mortgage banker relating to such
@@ -79,4 +79,3 @@ its operation to the clause, sentence, paragraph, subdivision, or part
 of this section or (ii) in its application to the person, firm or
 corporation, or circumstance, directly involved in the controversy in
 which such judgment shall have been rendered.
-  * NB Effective November 1, 2022
