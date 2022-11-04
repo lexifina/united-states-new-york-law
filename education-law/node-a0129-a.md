@@ -12,3 +12,4 @@ Section 6430. General provisions.
         6437. Prohibition on the marketing of credit cards.
         6438. Notification of fire safety standards and measures in all
                 college-owned or college-operated housing.
+        6438-aOpioid overdose prevention in college housing.
