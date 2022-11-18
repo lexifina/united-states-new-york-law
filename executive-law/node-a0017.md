@@ -38,4 +38,5 @@ Section 350.   Definitions.
         367.   Payment to parents of veterans.
         368.   Cremated remains of a veteran.
         368-a. Intake forms for admission and residency.
+        368-b. Veterans memorial registry.
   * NB Repealed April 1, 2023
