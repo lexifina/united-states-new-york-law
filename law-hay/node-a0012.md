@@ -841,4 +841,27 @@ Section 340-a.     Designation of state interstate routes.
         344-n*16.  Portion of the state highway system to be designated
                      as the "Port Authority Police Officer James W.
                      Kennelly Memorial Highway".
+        344-n*17.  Portion of the state highway system to be designated
+                     as the "Kalinowski Brothers Memorial Bridge".
+        344-n*18.  Portion of the state highway system to be designated
+                     and known as the "MSgt Thomas P. Madison Memorial
+                     Highway".
+        344-n*19.  Portion of the state highway system to be designated
+                     as the "Staff Sergeant David Textor Memorial
+                     Highway".
+        344-n*20.  Portion of the state highway system to be designated
+                     as the "1LT Stephen H. Doane Memorial Bridge".
+        344-n*21.  Portion of the state highway system to be designated
+                     as the "Ralph Calabrese Memorial Highway".
+        344-n*22.  Portion of the state highway system to be designated
+                     as the "WWII Rapone Brothers Memorial Highway".
+        344-n*23.  Portion of the state highway system to be designated
+                     as the "Specialist Jason Hasenauer Memorial
+                     Highway".
+        344-n*24.  Portion of the state highway system to be designated
+                     as the "Trooper John J. Lane Memorial Bridge".
+        344-n*25.  Portion of the state highway system to be designated
+                     as the "Colonel Michael Plummer Memorial Highway".
+        344-n*26.  Portion of the state highway system to be designated
+                     as the "Sergeant Gary Beikirch Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
