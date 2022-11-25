@@ -3,10 +3,11 @@ in the joint custody of the state comptroller and commissioner of
 taxation and finance a special fund to be known as the "Cuba lake
 management fund".
   2. The Cuba lake management fund shall consist of all revenues
-collected from the rental or lease of state lands within the Cuba Lake
-district, as established by chapter two hundred sixty-three of the laws
-of nineteen hundred eighty-one, and paid pursuant to a lease or other
-agreement entered into after the effective date of this section.
+collected from the rental, sale or lease of state lands within the Cuba
+Lake district, as established by chapter two hundred sixty-three of the
+laws of nineteen hundred eighty-one, and paid pursuant to a lease, sale,
+or other agreement or application entered into or made after the
+effective date of this section.
   3. The monies of the Cuba lake management fund, following
 appropriation by the legislature and the issuance of a certificate of
 approval by the director of the budget, shall be made available for the
@@ -15,15 +16,17 @@ following purposes:
 with all applicable statutes, to a contractor or contractors for capital
 improvements to the lands and appurtenant structures necessary for the
 continued protection and preservation of the impoundment area known as
-the Oil Creek reservoir;
+the Oil Creek reservoir, including without limitation the spillway and
+the dam;
   (b) payment of fees, pursuant to a contract approved in accordance
 with all applicable statutes, to the Cuba Lake district or other entity
 identified by the commissioner of general services, for the purpose of
 management of the Cuba Lake district, including, without limitation, for
 the services of collection of rentals or other fees related to the use
-or occupation of state owned lands within such district or for other
-such purpose as the commissioner of general services shall determine;
-and
+or occupation of state owned lands within such district or fees and
+costs related to the sale of state or Cuba Lake district owned lands or
+for other such purpose as the commissioner of general services shall
+determine; and
   (c) payment of fees, pursuant to a contract approved in accordance
 with all applicable statutes, to a contractor or contractors, which may
 include the Cuba Lake district, for the establishment and maintenance of
@@ -41,10 +44,12 @@ of state owned lands within the said Cuba Lake district for any period
 subsequent to the effective date of this section.
   5. Any income earned on moneys within the Cuba lake management fund
 shall be added to and made available for the purposes of such fund.
-  6. Any monies deposited into the Cuba lake management fund in excess
-of the amounts necessary to accomplish the purposes thereof shall, at
-the end of each state fiscal year, be transferred to and deposited into
-the general fund of the state.
+  6. Any monies deposited into the Cuba lake management fund, except for
+monies obtained from the sale of state or Cuba Lake district owned lands
+within the Cuba Lake district, in excess of the amounts necessary to
+accomplish the purposes thereof shall, at the end of each state fiscal
+year, be transferred to and deposited into the general fund of the
+state.
   7. Moneys shall be paid out of the Cuba lake management fund on the
 audit and warrant of the state comptroller on vouchers certified or
 approved by the commissioner of general services.
