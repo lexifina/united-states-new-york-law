@@ -13,3 +13,4 @@ Section 6430. General provisions.
         6438. Notification of fire safety standards and measures in all
                 college-owned or college-operated housing.
         6438-aOpioid overdose prevention in college housing.
+        6438-aStudent-athlete compensation.
