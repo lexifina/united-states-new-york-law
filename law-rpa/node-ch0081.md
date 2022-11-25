@@ -33,7 +33,7 @@ Article   1.   Short title; definitions; jurisdiction of certain
                  (§§ 1101-1143.)
          12.   Other actions and proceedings between co-owners or owners
                  of successive interests. (§§ 1201-1221.)
-         13.   Action to foreclose a mortgage. (§§ 1301-1392.)
+         13.   Action to foreclose a mortgage. (§§ 1301-1393.)
          15.   Action to compel the determination of a claim to real
                  property.  (§§ 1501-1551.)
          16.   Judicial authorization of sale, lease, mortgage,
