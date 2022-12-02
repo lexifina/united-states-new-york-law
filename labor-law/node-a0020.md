@@ -14,8 +14,12 @@ Section 700.   Findings and policy.
         706.   Prevention of unfair labor practices.
         707.   Judicial review.
         708.   Investigatory powers.
+        708-a. E-filing program for the purpose of filing papers
+                 electronically.
         709.   Punitive provision.
         710.   Public records and proceedings.
+        710-a. Publicly accessible decision index.
+        710-b. Electronically available information.
         711.   Cooperation.
         712.   Repeal of inconsistent provisions.
         713.   Limitations.
