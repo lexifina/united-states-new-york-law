@@ -1,4 +1,4 @@
-                             * ARTICLE 39-BB
+                              ARTICLE 39-BB
                 PREVENTING THE UNLAWFUL SALE OF FIREARMS,
        RIFLES, AND SHOTGUNS TO INDIVIDUALS WITH A CRIMINAL RECORD
 Section 875-a. Definitions.
@@ -10,4 +10,3 @@ Section 875-a. Definitions.
         875-g. Internal compliance, certification, and reporting.
         875-h. Rules and regulations.
         875-i. Violations.
-  * NB Effective December 3, 2022

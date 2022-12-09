@@ -1,4 +1,4 @@
-  * § 394-ccc. Social media networks; hateful conduct prohibited. 1. As
+  § 394-ccc. Social media networks; hateful conduct prohibited. 1. As
 used in this section, the following terms shall have the following
 meanings:
   (a) "Hateful conduct" means the use of a social media network to
@@ -38,4 +38,3 @@ additional violation. In determination of any such violation, the
 attorney general shall be authorized to take proof and make a
 determination of the relevant facts and to issue subpoenas in accordance
 with the civil practice law and rules.
-  * NB Effective December 3, 2022
