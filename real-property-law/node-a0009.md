@@ -110,5 +110,5 @@ Section 290.    Definitions; effect of article.
                   Suffolk county; penalty for nonfiling.
         335-a.  Easements of necessity.
         335-b.  Recording of solar energy easements.
-        336.    Effect of recording demands or requirements of alien
-                  property custodian.
+        336.    Effect of recording demands or requirements of
+                  noncitizen property custodian.
