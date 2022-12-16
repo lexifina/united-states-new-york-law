@@ -52,7 +52,7 @@ Section 200.   General duty to protect health and safety of employees;
         206.   Prevention of personal injuries to persons engaged in
                  tree trimming.
         206-a. Physical examinations of females.
-        206-c. Right of nursing mothers to express breast milk.
+        206-c. Right of nursing employees to express breast milk.
         207.   Protection of employees at switchboards.
         207-a. Employee safety in work on energized high voltage lines.
         208.   Labels, brands and marks used by labor organizations.
