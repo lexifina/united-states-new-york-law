@@ -19,7 +19,7 @@ Section 5.    Coverage.
        15.    Expense for rehabilitating injured volunteer ambulance
                 workers.
        16.    Treatment and care.
-       17.    Aliens.
+       17.    Noncitizens.
        18.    Disposition of accrued benefits upon death.
        19.    Exclusiveness of remedy.
        20.    Other remedies of volunteer ambulance workers;
