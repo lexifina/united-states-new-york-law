@@ -40,7 +40,7 @@ Section 112.   Powers and duties of commissioner relating to
         143.   Custody of persons convicted of crimes against the United
                  States.
         146.   Persons authorized to visit correctional facilities.
-        147.   Alien incarcerated individuals of correctional
+        147.   Noncitizen incarcerated individuals of correctional
                  facilities.
         148.   Psychiatric and diagnostic clinics.
         149.   Released incarcerated individuals; notification to
