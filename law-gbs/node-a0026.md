@@ -25,6 +25,7 @@ Section 390.         Substitution of spurious oils for internal
         391-h.       Lubricating oils; container; notice required.
         391-i.       Sale of urea-formaldehyde foam insulation; notice.
         391-j.       Sale of fire extinguishers.
+        391-jj.      Sale of electric space heaters.
         391-k.       Automatic garage door opening systems.
         391-l.       Personal emergency response service agreements;
                        required cancellation provisions.
