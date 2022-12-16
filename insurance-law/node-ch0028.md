@@ -16,7 +16,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
          17. Subsidiaries of domestic life insurance companies and
                certain other entities. (§§ 1701-1717)
          21. Agents, brokers, adjusters, consultants and intermediaries.
-               (§§ 2101-2139)
+               (§§ 2101-2140)
          22. Certification of employees of insurers and savings banks
                offering life insurance. (§§ 2201-2209)
          23. Property/casualty insurance rates. (§§ 2301-2353)
@@ -28,7 +28,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
          27. Holocaust victims insurance act of 1998. (§§ 2701-2711)
          28. Use of credit information. (§§ 2801-2809)
          29. Pharmacy benefit managers. (§§ 2901-2914)
-         31. Insurance contracts - general. (§§ 3101-3113)
+         31. Insurance contracts - general. (§§ 3101-3114)
          32. Insurance contracts - life, accident and health, annuities.
                (§§ 3201-3244)
          34. Insurance contracts - property/casualty. (§§ 3401-3461)
