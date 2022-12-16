@@ -30,6 +30,6 @@ contracts to such enterprises. For purposes hereof, "minority business
 enterprise" shall mean any business enterprise which is at least
 fifty-one per centum owned by, or in the case of publicly owned
 business, at least fifty-one per centum of the stock of which is owned
-by, citizens or permanent resident aliens who are Black, Hispanic,
+by, citizens or permanent resident noncitizens who are Black, Hispanic,
 Asian, American Indian or women, and such ownership interest is real,
 substantial and continuing.
