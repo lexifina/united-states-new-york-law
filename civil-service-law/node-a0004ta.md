@@ -6,7 +6,7 @@ Section 50.     Examinations generally.
                   prohibited.
         51.     Filling vacancies by open competitive examination.
         52.     Promotion examinations.
-        53.     Alienage.
+        53.     Noncitizen status.
         54.     Age requirements.
         55.     Examination of blind or physically handicapped
                   applicants.
