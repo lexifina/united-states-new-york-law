@@ -10,6 +10,8 @@ Section 190.   Definitions.
         194.   Differential in rate of pay because of protected class
                  status prohibited.
         194-a. Wage or salary history inquiries prohibited.
+        194-b. Mandatory disclosure of compensation or range of
+                 compensation.
         195.   Notice and record-keeping requirements.
         196.   Powers of commissioner.
         196-a. Complaints by employees to commissioner.
