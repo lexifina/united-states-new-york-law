@@ -41,6 +41,8 @@ Section 1.     Short title.
                  loans.
         6-o*2. Reverse cooperative apartment unit loans for persons
                  sixty-two years of age or older.
+        6-p.   Loan counseling for mortgages guaranteed by the
+                 Servicemen's Readjustment Act of 1944.
         7.     Payment of dividends or interest upon unclaimed deposits
                  or shares; limitation of charges in connection with
                  saving accounts.
