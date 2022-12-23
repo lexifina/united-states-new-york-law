@@ -25,3 +25,4 @@ Section 6700.   Introduction.
         6712.   Exempt persons.
         6713.   Special provisions.
         6714.   Treatment records.
+        6715.   Dispensing information to be provided by veterinarians.

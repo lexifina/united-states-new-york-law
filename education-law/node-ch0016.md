@@ -199,7 +199,7 @@ Article
   133      Dentistry and dental hygiene (§§ 6600-6613.)
   134      Licensed perfusionists (§§ 6630-6636.)
   135      Veterinary medicine and animal health technology
-             (§§ 6700-6714.)
+             (§§ 6700-6715.)
   136      Physical therapy and physical therapist assistants
              (§§ 6730-6743.)
   137      Pharmacy (§§ 6800-6832.)
