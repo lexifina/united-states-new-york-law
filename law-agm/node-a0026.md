@@ -58,3 +58,5 @@ Section 350.   Definitions.
         381.   Prohibition of the declawing of cats.
         382.   Prohibition of the slaughter of race horses and race
                  horse breeding stock.
+        384.   Special provisions related to the importation of dogs and
+                 cats into the state for sale, resale or adoption.
