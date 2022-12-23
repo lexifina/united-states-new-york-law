@@ -340,3 +340,4 @@ Section 70.        Classification of funds.
         99-oo.     Pharmacy benefit manager regulatory fund.
         99-pp.     Background check fund.
         99-pp 2.   Agricultural and farmland viability protection fund.
+        99-pp*3.   Animal shelter regulation fund.
