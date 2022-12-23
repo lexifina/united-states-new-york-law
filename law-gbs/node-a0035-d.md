@@ -8,5 +8,6 @@ Section 751.   Legislative intent.
         753-c. Animal pedigree registration.
         753-d. Construction with other laws.
         753-e. Prohibited contracts.
+        753-f. Sale of dogs, cats and rabbits prohibited.
         754.   Notice.
         755.   Penalties and enforcement.
