@@ -25,6 +25,10 @@ Article   1.   Short title; definitions; jurisdiction of certain
                  (§§ 769-783.)
           7-B. Special proceeding for the removal of abandoned
                  manufactured homes (§§ 790-795.)
+          7-C  Special proceedings by tenants of dwellings for judgment
+                 directing deposit of rents and the use thereof for the
+                 purpose of remedying conditions dangerous to life,
+                 health or safety. (§§ 796--796-m.)
           8.   Waste and other actions and rights of action for injury
                  to real property. (§§ 801-881.)
           9.   Action for partition. (§§ 901-993.)
