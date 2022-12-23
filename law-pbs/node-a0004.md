@@ -25,8 +25,10 @@ Section 64.     Application of article.
                   tax.
         66-j.   Net energy metering for residential solar, farm waste,
                   non-residential solar electric generating systems,
-                  micro-combined heat and power generating equipment, or
-                  fuel cell electric generating equipment.
+                  micro-combined heat and power generating equipment,
+                  fuel cell electric generating equipment, fuel-flexible
+                  linear generator electric generating equipment, and
+                  micro-hydroelectric generating equipment.
         66-k.   Allowance credit trading or sales.
         66-l.   Net energy metering for residential, farm service and
                   non-residential wind electric generating systems.
