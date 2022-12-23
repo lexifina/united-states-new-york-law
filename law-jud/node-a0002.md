@@ -18,6 +18,8 @@ Section 2.    Courts of record.
         7-c.  Continuance of special proceeding before another officer.
         8.    Emergency relocations of court terms.
         9.    Recusal; reason.
+        10.   Courtroom designated the "Judge James F. Reitz Memorial
+                Courtroom".
         13.   Court or judge may direct the filing of original
                 stenographic minutes with clerk.
         13-a. Power to remove certain officers and to appoint
