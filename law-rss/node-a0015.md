@@ -90,6 +90,8 @@ Section 600.     Application.
                    certain first responders in Nassau county.
         607-j*3. Performance of duty disability retirement.
         607-k.   Certain impairments of health; presumption.
+        607-l.   Performance of duty disability retirement; division of
+                   homeland security and emergency services.
         608.     Final average salary.
         609.     Credit for service.
         610.     Options.
