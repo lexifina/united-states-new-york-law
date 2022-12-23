@@ -169,6 +169,7 @@ Section 390.         Substitution of spurious oils for internal
         399-aaa.     Selling and manufacturing of fur-bearing articles
                        of clothing.
         399-aaaa.    Menstrual product labeling.
+        399-aaaaa.   Selling of animal tested cosmetics.
         399-b.       Contracts for the use of the streets for hack
                        stands.
         399-bb.      Certain dry cleaning institutions; option for six
