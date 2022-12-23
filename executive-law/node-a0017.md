@@ -19,6 +19,8 @@ Section 350.   Definitions.
                  veterans or family members of veterans receiving
                  services from the state and political subdivisions
                  thereof.
+        354-f. Loan counseling for mortgages guaranteed by the
+                 Servicemen's Readjustment Act of 1944.
         355.   Acceptance of gifts.
         356.   State veterans' service agency.
         357.   Local veterans' service agencies.
