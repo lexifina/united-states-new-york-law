@@ -112,29 +112,29 @@ public and transmit to the secretary of state a statement explaining why
 the panel did not approve a plan that year, including, for each vote on
 a plan, the vote taken by each panel member and an explanation by each
 panel member of their vote.
-  8. For each county, new shared services actions not included in a
-previously approved and submitted plan pursuant to this section or part
-BBB of chapter fifty-nine of the laws of two thousand seventeen, may be
-eligible for funding to match savings from such action, subject to
-available appropriation. Savings that are actually and demonstrably
-realized by the participating local governments are eligible for
-matching funding. For actions that are part of an approved plan
-transmitted to the secretary of state in accordance with paragraph b of
-subdivision seven of this section, savings achieved during either: (i)
-January first through December thirty-first from new actions implemented
-on or after January first through December thirty-first of the year
-immediately following an approved and transmitted plan, or (ii) July
-first of the year immediately following an approved and transmitted plan
-through June thirtieth of the subsequent year from new actions
-implemented July first of the year immediately following an approved
-plan through June thirtieth of the subsequent year may be eligible for
-matching funding. Only net savings between local governments for each
-action would be eligible for matching funding. Savings from internal
-efficiencies or any other action taken by a local government without the
-participation of another local government are not eligible for matching
-funding. Each county and all of the local governments within the county
-that are part of any action to be implemented as part of an approved
-plan must collectively apply for the matching funding and agree on the
+  8. For each county, new shared services actions in an approved and
+submitted plan pursuant to this section or part BBB of chapter
+fifty-nine of the laws of two thousand seventeen, may be eligible for
+funding to match savings from such action, subject to available
+appropriation. Savings that are actually and demonstrably realized by
+the participating local governments are eligible for matching funding.
+For actions that are part of an approved plan transmitted to the
+secretary of state in accordance with paragraph b of subdivision seven
+of this section, savings achieved during either: (i) January first
+through December thirty-first from new actions implemented on or after
+January first through December thirty-first of the year immediately
+following an approved and transmitted plan, or (ii) July first of the
+year immediately following an approved and transmitted plan through June
+thirtieth of the subsequent year from new actions implemented July first
+of the year immediately following an approved plan through June
+thirtieth of the subsequent year may be eligible for matching funding.
+Only net savings between local governments for each action would be
+eligible for matching funding. Savings from internal efficiencies or any
+other action taken by a local government without the participation of
+another local government are not eligible for matching funding. Each
+county and all of the local governments within the county that are part
+of any action to be implemented as part of an approved plan must
+collectively apply for the matching funding and agree on the
 distribution and use of any matching funding in order to qualify for
 matching funding.
   9. The department of state shall prepare a report to the governor, the
