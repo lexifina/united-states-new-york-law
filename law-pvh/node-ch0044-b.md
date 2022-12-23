@@ -31,7 +31,7 @@ Article                                                       Sections
    11.    Housing development fund companies.............. 570 - 582
    12.    New York city housing development
             corporation................................... 650 - 670
-   13.    Miscellaneous................................... 600 - 609
+   13.    Miscellaneous................................... 600 - 610
    15.    Participation loans to owners of
             multiple dwellings by private investors
             and municipalities utilizing federal
