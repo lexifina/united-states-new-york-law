@@ -18,6 +18,8 @@ Section 60.   Kinds of licenses.
                 premises commonly known as a restaurant-brewer.
         64-d. License to sell liquor on premises commonly known as a
                 cabaret.
+        64-e. License to sell liquor at retail as an off-premises
+                catering establishment.
         65.   Prohibited sales.
         65-a. Procuring alcoholic beverages for persons under the age of
                 twenty-one years.
