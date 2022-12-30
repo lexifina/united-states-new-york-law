@@ -40,7 +40,9 @@ Section 64.     Application of article.
                   rental premises.
         66-r.   Requirements for certain renewable energy systems.
         66-s.   Electric vehicle charging; commercial tariff.
+        66-s*2. Gas safety reports.
         66-t.   Thermal energy network development.
+        66-t*2. Registration of energy brokers and energy consultants.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.
@@ -59,6 +61,7 @@ Section 64.     Application of article.
         72-a.   Increased fuel costs.
         73.     Compensation to customers experiencing widespread
                   prolonged outages.
+        73-a.   Prioritization of emergency services.
         74.     Energy storage deployment policy.
         74-a.   Westchester county renewable energy and energy
                   efficiency resources program.
