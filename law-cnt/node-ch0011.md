@@ -8,7 +8,7 @@ Assembly, do enact as follows:
                  CHAPTER ELEVEN OF THE CONSOLIDATED LAWS
                                COUNTY LAW
 Article 1.    Short title; application; definitions (§§ 1-3).
-        2.    General provisions (§§ 50-54).
+        2.    General provisions (§§ 50-55).
         3.    Referendum (§§ 100-105).
         4.    Board of supervisors (§§ 150-154).
         5.    General powers of board of supervisors (§§ 200-237).
