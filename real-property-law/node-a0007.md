@@ -37,6 +37,7 @@ Section  220.     Action for use and occupation.
          231.     Lease, when void; liability of landlord where premises
                     are occupied for unlawful purpose.
          231-a.   Sprinkler system notice in residential leases.
+         231-b.   Flood history and risk notice in residential leases.
          232.     Duration of certain agreements in New York.
          232-a.   Notice to terminate monthly tenancy or tenancy from
                     month to month in the city of New York.
