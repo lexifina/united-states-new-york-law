@@ -8,3 +8,5 @@ Section 200.   Office of general services.
         203.   Additional duties of the commissioner.
         203-a. Additional duties of the commissioner regarding flood
                related losses.
+        203-b. Additional duties of the commissioner regarding
+               information on state boards.

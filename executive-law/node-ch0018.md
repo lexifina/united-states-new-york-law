@@ -37,7 +37,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  purposes (§§ 171-a--177).
           8.   Division of budget (§§ 180-183).
           9.   Division of military and naval affairs (§§ 190-191).
-         10.   Office of general services (§§ 200--203-a).
+         10.   Office of general services (§§ 200--203-b).
          10-B. New York State office of science, technology and academic
                  research (§§ 209--209-t).
          11.   Division of state police (§§ 210-235).
