@@ -5,13 +5,13 @@ corporate purpose, including the establishment of reserves to secure the
 bonds, the payment of principal of, premium, if any, and interest on the
 bonds and the payment of incidental expenses in connection therewith.
 The aggregate principal amount of such bonds, notes or other obligations
-shall not exceed two hundred million dollars ($200,000,000), excluding
+shall not exceed three hundred million dollars ($300,000,000), excluding
 bonds, notes or other obligations issued to refund or otherwise repay
 bonds, notes or other obligations theretofore issued for such purposes;
 provided, however, that upon any such refunding or repayment the total
 aggregate principal amount of outstanding bonds, notes or other
-obligations may be greater than two hundred million dollars
-($200,000,000) only if the present value of the aggregate debt service
+obligations may be greater than three hundred million dollars
+($300,000,000) only if the present value of the aggregate debt service
 of their funding or repayment bonds, notes or other obligations to be
 issued shall not exceed the present value of the aggregate debt service
 of the bonds, notes or other obligations so to be refunded or repaid.
