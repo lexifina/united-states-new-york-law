@@ -3,6 +3,8 @@
 Section 160.   Definitions.
         161.   State procurement council.
         162.   Preferred sources.
+        162-a. The New York state buy American salt act. 1. Use of
+                 American materials.
         163.   Purchasing services and commodities.
         163-a. Vendor preparation of specifications for technology
                  procurements; prohibitions.
