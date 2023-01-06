@@ -14,6 +14,8 @@ Section 110.   Record and report of injuries by employers.
         116.   Sessions.
         117.   Rules.
         118.   Technical rules of evidence or procedure not required.
+        118-a. Effect of findings and determinations in subsequent
+                 proceedings.
         119.   Subpoenas.
         120.   Discrimination against employees.
         121.   Depositions.
