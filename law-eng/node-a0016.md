@@ -1,8 +1,5 @@
                                ARTICLE 16
-          * APPLIANCE AND EQUIPMENT ENERGY EFFICIENCY STANDARDS
-  * NB Effective until January 1, 2023
-             * APPLIANCE AND EQUIPMENT EFFICIENCY STANDARDS
-  * NB Effective January 1, 2023
+              APPLIANCE AND EQUIPMENT EFFICIENCY STANDARDS
 Section 16-102. Definitions.
         16-104. Applicability, conduct prohibited.
         16-105. Adoption of certain federal efficiency standards.
