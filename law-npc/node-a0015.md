@@ -7,6 +7,8 @@ Section 1501.   Declaration of policy.
         1505.   Special requirements of incorporation.
         1505-a. Additional requirements for incorporation of
                   crematories.
+        1505-b. Additional requirements for incorporation of natural
+                  organic reduction facilities.
         1506.   Cemetery lands.
         1506-a. Cemetery corporations; restrictions.
         1506-b. Transfer of lands of Valley View Rural Cemetery.
@@ -33,3 +35,4 @@ Section 1501.   Declaration of policy.
         1516.   Sale of monuments.
         1517.   Crematory operations.
         1518.   Crematory operations during emergency declaration.
+        1518*2. Natural organic reduction facility operations.
