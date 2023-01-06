@@ -209,6 +209,8 @@ Section 390.         Substitution of spurious oils for internal
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.
+        399-nn.      Sale of digital electronic equipment; diagnostic
+                       and repair information.
         399-o.       Selling prices and container deposits.
         399-oo.      Deceptive solicitation of vehicle warranty
                        policies.
