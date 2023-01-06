@@ -9,7 +9,7 @@ Assembly, do enact as follows:
                              STATE FINANCE LAW
                    CHAPTER 56 OF THE CONSOLIDATED LAWS
 Article  I.     Short title (§ 1).
-         II.    General fiscal provisions (§§ 2-19).
+         II.    General fiscal provisions (§§ 2--19-a).
          III.   The budget (§§ 20-27).
          IV.    Appropriations (§§ 40--53-d).
          IV-A.  State assistance to local government (§§ 54--54-m).

@@ -27,3 +27,5 @@ Section  2.   Definitions.
         18.   Interest and collection fees assessed on debts owed to the
                 state.
         19.   Returned check charge.
+        19-a. Parking facilities; support for electric vehicle charging
+                stations.
