@@ -7,6 +7,7 @@ Section 2.    Exemption of members and officers from arrest.
         5-a.  Allowances for member serving as an officer of either
                 house of the legislature or in a special capacity
                 therein.
+        5-b.  Limit on outside earned income by members.
         6.    Officers and employees of the senate.
         7.    Officers and employees of the assembly.
         7-a.  Legislative library, librarian and assistants.
