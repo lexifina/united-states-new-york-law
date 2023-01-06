@@ -10,7 +10,7 @@ Assembly, do enact as follows:
                    CHAPTER 2 OF THE CONSOLIDATED LAWS.
                               BANKING LAW.
 Article I.      Short title; definitions; miscellaneous provisions
-                  (§§ 1--9-y).
+                  (§§ 1--9-z).
         II.     Department  of  financial  services;  superintendent  of
                   financial  services; supervisory and regulatory powers
                   (§§ 10-45).
