@@ -82,3 +82,4 @@ Section 1.     Short title.
         9-x*2. Fees based on inactivity; notification.
         9-y.   Banking institutions to pay checks drawn therein in order
                  of presentation.
+        9-z.   Cashing of certain checks.
