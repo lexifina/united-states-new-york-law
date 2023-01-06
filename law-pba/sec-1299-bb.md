@@ -141,3 +141,7 @@ appurtenances, and equipment thereof and power plants and other
 instrumentalities used or useful therefor or in connection therewith.
   24. "Commissioner of transportation" shall mean commissioner of
 transportation of the state of New York.
+  * 25. "Transit dependent" shall mean an individual who is limited to
+public transit as their primary mode of transportation because the
+individual has either a permanent or temporary disability.
+  * NB Effective March 28, 2023
