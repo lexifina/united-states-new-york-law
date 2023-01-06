@@ -21,3 +21,5 @@ Section 50.     Right of privacy.
                   individual.
         52-c*2. Employers engaged in electronic monitoring; prior notice
                   required.
+        52-d.   Private right of action for unlawful dissemination or
+                  publication of a personal image.
