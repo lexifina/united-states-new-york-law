@@ -23,6 +23,8 @@
                    (a) New action by plaintiff.
                    (b) Defense or counterclaim.
                    (c) Application.
+        205-a.   Termination of certain actions related to real
+                   property.
         206.     Computing periods of limitation in particular actions.
                    (a) Where demand necessary.
                    (b) Based on misconduct of agent.
