@@ -14,4 +14,3 @@ Section 6270. Short title.
         6280. Actions against fund.
         6281. Municipal regulations.
         6282. Exemption from taxation.
-        6283. Procurements of the fund.
