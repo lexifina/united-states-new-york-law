@@ -49,7 +49,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         24.   Freshwater wetlands (§ 24-0101 to 24-1305).
         25.   Tidal Wetlands (§ 25-0101 to 25-0601).
         27.   Collection, treatment and disposal of refuse and other
-                solid waste (§ 27-0101 to 27-3207).
+                solid waste (§ 27-0101 to 27-3319).
         28.   Pollution prevention (§ 28-0101 to 28-0113)
         29.   Low-level radioactive waste facilities
                 (§ 29-0101 to 29-0703).

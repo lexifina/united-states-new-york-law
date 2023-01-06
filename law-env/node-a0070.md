@@ -12,5 +12,6 @@ Section 70-0101. Purpose.
                    renewals, reissuances and recertifications.
         70-0116. Emergency authorization.
         70-0117. Special provisions.
+        70-0118. Disproportionate impacts on disadvantaged communities.
         70-0119. Public hearings.
         70-0121. Severability.

@@ -20,6 +20,8 @@ Section 37-0101.   Definitions.
         37-0119.   Prohibition against certain uses of
                      trichloroethylene.
         37-0119*2. Coal tar; prohibited.
+        37-0121.   Prohibition against the use of perfluoroalkyl and
+                     polyfluoroalkyl substances in apparel.
                                 TITLE II
                            HAZARDOUS PACKAGING
 Section 37-0201. Legislative findings and intent.
