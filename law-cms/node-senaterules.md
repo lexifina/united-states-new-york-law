@@ -1,8 +1,8 @@
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2021-2022
-Rules  of  the  Senate  for  the  year  2021-2022,  as adopted by Senate
-Resolution number 2 of 2021.
+                                2023-2024
+Rules  of  the  Senate  for  the  year  2023-2024,  as adopted by Senate
+Resolution number 2 of 2023.
   Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
 Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
 and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
@@ -11,54 +11,52 @@ amended  by  Concurrent  Resolution  number 2775 (Senate) and number 787
 (Assembly) of 2009 and as amended by Concurrent  Resolution  number  404
 (Senate) and number 25 (Assembly) of 2017.
                                  2/09/21
-RESOLVED,  That  the  rules  of  the  Senate for the years 2020-2021 are
-hereby adopted to read as follows:
                            RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2021-2022
+                                2023-2024
                                  RULE I
 THE PRESIDENT
-  Section 1. The Lieutenant Governor of the State shall be President  of
+  Section  1. The Lieutenant Governor of the State shall be President of
 the Senate, but shall have only a casting vote therein.
                                  RULE II
 THE TEMPORARY PRESIDENT
   Section 1. The Senate shall be the judge of the elections, returns and
-qualifications  of  its  own  members  and  the  Senate  shall  choose a
-Temporary President, by resolution adopted upon the vote of  a  majority
-of  the  members of the Senate elected, who shall be the majority leader
-and who shall preside, or designate some other  member  to  preside,  in
-case  of  the  absence from the Chamber or impeachment of the Lieutenant
-Governor, or when he or she shall refuse to act as President,  or  shall
-act  as Governor. The Temporary President shall exercise such powers and
-duties as given by law or these rules during the 2021-2022 session.
+qualifications of  its  own  members  and  the  Senate  shall  choose  a
+Temporary  President,  by resolution adopted upon the vote of a majority
+of the members of the Senate elected, who shall be the  majority  leader
+and  who  shall  preside,  or designate some other member to preside, in
+case of the absence from the Chamber or impeachment  of  the  Lieutenant
+Governor,  or  when he or she shall refuse to act as President, or shall
+act as Governor. The Temporary President shall exercise such powers  and
+duties as given by law or these rules during the 2023-2024 session.
   § 2. He or she shall appoint and designate the Officers of the Senate,
-the chair, vice-chair and members of all committees and  sub-committees,
+the  chair, vice-chair and members of all committees and sub-committees,
 except when the Senate shall otherwise order.
   § 3. He or she shall be Chair of the Committee on Rules.
-  §  4.  He or she shall appoint, in conjunction with the Speaker of the
-Assembly  and  the  Legislative  Librarian,  an  Assistant   Legislative
-Librarian,  to  have charge and custody of all legislative documents, as
-defined in this  section,  who  shall  be  responsible  for  collecting,
+  § 4. He or she shall appoint, in conjunction with the Speaker  of  the
+Assembly   and  the  Legislative  Librarian,  an  Assistant  Legislative
+Librarian, to have charge and custody of all legislative  documents,  as
+defined  in  this  section,  who  shall  be  responsible for collecting,
 numbering, indexing and retaining the same in the Legislative Library in
-an  area  designated for such use by the Legislative Librarian. At least
-two copies of all such documents shall be kept in such  library  at  all
-times  and  made available to Members of the Legislature and legislative
+an area designated for such use by the Legislative Librarian.  At  least
+two  copies  of  all such documents shall be kept in such library at all
+times and made available to Members of the Legislature  and  legislative
 employees for public inspection and duplication during library hours.
-  The function of the Legislative Library is to  serve  the  information
-and  research  needs of Members of the Legislature and legislative staff
-as defined by the Legislative Law. The services provided  shall  include
-professional  reference,  access to standard commercial online databases
-and the  availability  of  records  of  the  Library's  holding  on  the
-Legislative  Retrieval  System  (LRS).  The  Library is charged with the
+  The  function  of  the Legislative Library is to serve the information
+and research needs of Members of the Legislature and  legislative  staff
+as  defined  by the Legislative Law. The services provided shall include
+professional reference, access to standard commercial  online  databases
+and  the  availability  of  records  of  the  Library's  holding  on the
+Legislative Retrieval System (LRS). The  Library  is  charged  with  the
 collection and custody of all Legislative and State documents as defined
-by this section. Access to the  collection  shall  be  provided  by  the
-Legislative  Library  State  Documents (LLSD) database on LRS. Documents
-may be retained in paper, microform, laser  disk  or  any  other  medium
+by  this  section.  Access  to  the  collection shall be provided by the
+Legislative Library State Documents (LLSD) database  on  LRS.  Documents
+may  be  retained  in  paper,  microform, laser disk or any other medium
 approved for archiving documents.
-  To  effectuate the purposes of this section, the Assistant Legislative
-Librarian in charge  of  legislative  documents  may  request  from  any
-committee,  commission, task force or office of the Legislature, and the
-same are authorized to provide, such assistance, services  and  data  as
+  To effectuate the purposes of this section, the Assistant  Legislative
+Librarian  in  charge  of  legislative  documents  may  request from any
+committee, commission, task force or office of the Legislature, and  the
+same  are  authorized  to provide, such assistance, services and data as
 will  enable such librarian to carry out his or her duties as prescribed
 in this section.
   For purposes of this section,  the  term  legislative  document  shall
@@ -555,16 +553,16 @@ shall serve and shall continue throughout the year:
   Finance
   To consist of twenty-one Senators:
   Rules
+  To consist of nineteen Senators:
+  Judiciary
   To consist of fifteen Senators:
   Education
   Health
-  Judiciary
   To consist of thirteen Senators:
   Codes
   Labor
   Transportation
   To consist of eleven Senators:
-  Banks
   Environmental Conservation
   Higher Education
   Housing, Construction and Community Development
@@ -577,7 +575,8 @@ shall serve and shall continue throughout the year:
   To consist of seven Senators:
   Aging
   Alcoholism and Substance Abuse
-  Budget and Revenues
+  Banks
+  Budget and Revenue
   Children and Families
   Civil Service and Pensions
   Cities 1
@@ -610,8 +609,8 @@ consecutive years.
 committees,  except  the  Ethics  and Internal Governance Committee, and
 unless otherwise provided by the act or resolution creating them,  shall
 be  composed,  as  nearly as may be, of Majority Conference and Minority
-Conference members in the same proportion  as  the  number  of  Majority
-Conference  and  Minority  Conference members in the Senate bears to the
+Conference  members  in  the  same  proportion as the number of Majority
+Conference and Minority Conference members in the Senate  bears  to  the
 total  membership of the Senate.  For purposes of committee composition,
 in the event that the proportion of Majority  Conference  members  would
 result in a fractional amount, the number of Majority Conference members
@@ -663,50 +662,50 @@ committee, taken in an open meeting pursuant to a motion identifying the
 general area or areas of the subject or subjects  to  be  considered,  a
 committee may conduct an executive session of which only members of such
 committee  are  present  for the following enunciated purposes provided,
-however,  that  no  action  by formal vote shall be taken to appropriate
+however, that no action by formal vote shall  be  taken  to  appropriate
 public monies:
   (a) matters which will imperil the public safety if disclosed;
-  (b) any matter which may disclose the identity of  a  law  enforcement
+  (b)  any  matter  which may disclose the identity of a law enforcement
 agent or informer;
   (c)  information  relating  to  current  or  future  investigation  or
-prosecution of a criminal offense  which  would  imperil  effective  law
+prosecution  of  a  criminal  offense  which would imperil effective law
 enforcement if disclosed;
   (d) discussions regarding proposed, pending or current litigation;
-  (e)  collective negotiations pursuant to Article fourteen of the Civil
+  (e) collective negotiations pursuant to Article fourteen of the  Civil
 Service Law;
   (f) the medical, financial, credit, character or employment history of
-any person or  corporation,  or  matters  leading  to  the  appointment,
-employment,  promotion,  demotion,  discipline, suspension, dismissal or
+any  person  or  corporation,  or  matters  leading  to the appointment,
+employment, promotion, demotion, discipline,  suspension,  dismissal  or
 removal of any person or corporation;
   (g) the preparation, grading or administration of examinations; and
   (h) the proposed acquisition, sale or lease of real property, but only
 when publicity would substantially affect the value of the property.
-  (6) Attendance at an executive  session  shall  be  permitted  to  any
-member  of  the  committee  and  any  other  persons  authorized  by the
+  (6)  Attendance  at  an  executive  session  shall be permitted to any
+member of  the  committee  and  any  other  persons  authorized  by  the
 committee.
   b. (1) Minutes shall be taken at all open meetings of committees which
-shall consist  of  a  record  or  summary  of  all  motions,  proposals,
-resolutions  and  any  other  matter  formally  voted  upon and the vote
+shall  consist  of  a  record  or  summary  of  all  motions, proposals,
+resolutions and any other  matter  formally  voted  upon  and  the  vote
 thereon.
   (2) Minutes shall be taken at executive sessions of any action that is
-taken by formal vote which shall consist of a record or summary  of  the
-final  determination  of  such  action,  and  the date and vote thereon;
-provided, however, that such summary shall not include any matter  which
+taken  by  formal vote which shall consist of a record or summary of the
+final determination of such action,  and  the  date  and  vote  thereon;
+provided,  however, that such summary shall not include any matter which
 is not required to be made public by "the freedom of information law" as
 added by Article six of the Public Officers Law.
-  (3)  Minutes  of  meetings of all committees shall be available to the
-public in accordance with the provisions of Article six  of  the  Public
-Officers  Law,  "the  freedom  of information law", and at such time and
-place as prescribed by the Temporary President, provided, however,  that
-minutes  for executive session meetings shall be available to the public
+  (3) Minutes of meetings of all committees shall be  available  to  the
+public  in  accordance  with the provisions of Article six of the Public
+Officers Law, "the freedom of information law", and  at  such  time  and
+place  as prescribed by the Temporary President, provided, however, that
+minutes for executive session meetings shall be available to the  public
 within one week from the date of such executive session.
-  c. The provisions of this section except paragraphs three and four  of
-subdivision  a,  and  subdivision  b shall not apply to the Committee on
+  c.  The provisions of this section except paragraphs three and four of
+subdivision a, and subdivision b shall not apply  to  the  Committee  on
 Rules or the Ethics and Internal Governance Committee.
-  d. Committee presentations.  The  chair  of  a  committee  may  invite
+  d.  Committee  presentations.  The  chair  of  a  committee may invite
 interested persons to offer a presentation for a given amount of time on
-a  bill  on  the  meeting  agenda  with  notice  provided to the ranking
-Minority Conference member no less than seventy-two  hours  in  advance.
+a bill on the  meeting  agenda  with  notice  provided  to  the  ranking
+Minority  Conference  member  no less than seventy-two hours in advance.
 Where  a  committee  chair  makes such an invitation, the ranking member
 shall be afforded an equal number of speakers who may speak for an equal
 amount of time. In addition, the ranker, without consent of  the  chair,
@@ -1248,6 +1247,19 @@ shall  receive  twenty-nine percent of such funds; provided however that
 such percentages shall increase or decrease to reflect  any  changes  in
 the  membership  of  either  the  Majority  Conference  or  the Minority
 Conference.
+  § 12.  Use  of  legislative  printing,  mail  and  mass  communication
+facilities.   a. The use of legislative printing and mail facilities for
+newsletters and other forms of mass mailings which  bear  the  names  or
+likeness of a candidate in a local, special, primary or general election
+shall  be  prohibited within thirty days of such local, special, primary
+or  general  election.  Members  may  not   utilize   other   forms   of
+senate-funded mass communication media during such thirty-day period.
+  b.  The  Senate  shall  maintain  a  file  containing  a  copy of each
+newsletter provided by Senate facilities, such file shall  be  available
+to the public.
+  c.  The  provisions  of  this  section  shall  be  applicable  to  all
+communications addressed to the geographic area in which the  member  is
+running for election.
                                  RULE X
 SENATE CHAMBERS
   Section  1.  Open  doors.  The doors of the Senate shall be kept open,
