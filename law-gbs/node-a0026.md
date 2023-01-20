@@ -258,6 +258,4 @@ Section 390.         Substitution of spurious oils for internal
         399-zzzz.    Prohibition of certain fee charges for termination
                        or early cancellation.
         399-zzzzz.   Broadband service for low-income consumers.
-        399-zzzzz*2. Prohibition of certain broadband terminations or
-                       disconnections.
-        399-zzzzz.   Use of preferred name and pronouns.
+        399-zzzzz*2. Use of preferred name and pronouns.
