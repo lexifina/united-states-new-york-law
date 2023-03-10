@@ -9,6 +9,7 @@ Section 198.   Definitions.
         199-c. Disposing of tainted food.
         199-d. Prohibition as to sulfites.
         199-e. Prohibition as to sale of irradiated foods.
+        199-f. Food allergies notice in food service establishments.
         200.   Adulteration of food.
         201.   Misbranding of food.
         201-a. Kosher food and food products; packaging.
