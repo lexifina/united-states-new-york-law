@@ -1,15 +1,16 @@
-  § 399-cccc. Wireless telephone services; domestic violence victims. 1.
-Every provider of wireless telephone service, as defined in paragraph
-(b) of subdivision one of section twelve hundred twenty-five-c of the
-vehicle and traffic law, shall allow a person who is under a shared
-phone plan contract with such provider to opt-out of such contract
-without fee, penalty or charge when such person is a victim of domestic
-violence and provides an attestation in writing of their eligibility as
-a victim of domestic violence. Such provider of wireless telephone
-service may not require such person to disclose confidential information
-or details relating to such person's status as a victim of domestic
+  * § 399-cccc. Wireless telephone services; domestic violence victims.
+1.  Every provider of wireless telephone service, as defined in
+paragraph (b) of subdivision one of section twelve hundred twenty-five-c
+of the vehicle and traffic law, shall allow a person who is under a
+shared phone plan contract with such provider to opt-out of such
+contract without fee, penalty or charge when such person is a victim of
+domestic violence and provides an attestation in writing that they no
+longer wish to be a party to such contract due to their status as a
+victim of domestic violence. Such provider of wireless telephone service
+may not require such person to disclose confidential information or
+details relating to such person's status as a victim of domestic
 violence, as a condition of permitting such person to opt-out of such
-contract. Further, such provider of wireless telephone service may not
+contract.  Further, such provider of wireless telephone service may not
 make release from such contract contingent on: (a) maintaining
 contractual or billing responsibility of a separated account with the
 provider; (b) approval of separation by the primary account holder, if
@@ -31,3 +32,4 @@ public-facing consumer communication.
 agent thereof shall not be subject to liability for any claims arising
 from an action taken or omission made with respect to compliance with
 this section.
+  * NB Effective June 30, 2023

@@ -9,56 +9,49 @@ identifier for the purposes of offering the services of diagnosis,
 maintenance, or repair of digital electronic equipment under the name of
 the original equipment manufacturer, or other arrangement with the
 original equipment manufacturer to offer such services on behalf of the
-original equipment manufacturer. An original equipment manufacturer who
-offers the services of diagnosis, maintenance, or repair of its own
-digital electronic equipment, and who does not have an arrangement
-described in this subdivision with an unaffiliated individual or
-business, shall be considered an authorized repair provider with respect
-to such equipment.
-  (b) "Digital electronic equipment" or "equipment" means any product
-with a value over ten dollars, adjusted annually by the rate of change
-in the consumer price index as reported by the bureau of labor
-statistics of the United States department of labor, that depends for
+original equipment manufacturer.
+  (b) "Digital electronic equipment" or "equipment" means any hardware
+product manufactured for the first time, and first sold or used in New
+York on or after July first, two thousand twenty-three, that depends for
 its functioning, in whole or in part, on digital electronics embedded in
-or attached to the product.
+or attached to the product for which the original equipment manufacturer
+makes available tools, parts, and documentation either through
+authorized repair providers, its own employees, or any authorized
+third-party providers. "Digital electronic equipment" or "equipment"
+does not include any product sold under a specific
+business-to-government or business-to-business contract, which is not
+otherwise offered for sale directly by a retail seller.
   (c) "Documentation" means any manual, diagram, reporting output,
-service code description, schematic diagram, security codes, passwords,
-or similar kinds of information used in effecting the services of
-diagnosis, maintenance, or repair of digital electronic equipment.
+service code description, schematic diagram, or similar kinds of
+information required for effecting the services of diagnosis,
+maintenance, or repair of digital electronic equipment.
   (d) "Fair and reasonable terms" means making available parts, tools,
 or documentation as follows:
-  (i) With respect to documentation, that such documentation is made
-available by the original equipment manufacturer at no charge, except
-that, when the documentation is requested in physical printed form, a
-charge may be included for the reasonable actual costs of preparing and
-sending the copy.
+  (i) With respect to documentation required for repair, that such
+documentation is made available by the original equipment manufacturer
+at no charge, except that, when the documentation is requested in
+physical printed form, a charge may be included for the reasonable
+actual costs of preparing and sending the copy.
   (ii) With respect to tools, that such tools are made available by the
 original equipment manufacturer at no charge and without requiring
-authorization or internet access for use or operation of such tool, or
-imposing impediments to access or use of the tool to diagnose, maintain,
-or repair and enable full functionality of digital electronic equipment,
-or in a manner that impairs the efficient and cost-effective performance
-of any such diagnosis, maintenance, or repair, except that, when such
-tool is requested in physical form, a charge may be included for the
-reasonable, actual costs of preparing and sending such tool.
+authorization for use or operation of such tool, or imposing impediments
+to access or use of the tool to diagnose, maintain, or repair digital
+electronic equipment using parts provided by the original equipment
+manufacturer in accordance with this section, and in a reasonably timely
+manner, except that, when such tool is requested in physical form, a
+charge may be included for the reasonable, actual costs of procuring,
+preparing and sending such tool.
   (iii) With respect to parts, that such parts are made available by the
-original equipment manufacturer, either directly or through an
-authorized repair provider, to independent repair providers and owners
-at costs and terms that are equivalent to the most favorable costs and
-terms under which an original equipment manufacturer offers the part to
-an authorized repair provider and which:
-  A. accounts for any discount, rebate, convenient and timely means of
-delivery, means of enabling fully restored and updated functionality,
-rights of use, or other incentive or preference the original equipment
-manufacturer offers to an authorized repair provider, or any additional
-cost, burden, or impediment the original equipment manufacturer imposes
-on an owner or independent repair provider;
-  B. is not conditioned on or imposing a substantial obligation or
+original equipment manufacturer, either directly or indirectly through
+an authorized repair provider or authorized third-party provider, to
+independent repair providers and owners at reasonable costs and terms
+and which:
+  A. are not conditioned on or imposing a substantial obligation or
 restriction that is not reasonably necessary for enabling the owner or
 independent repair provider to engage in the diagnosis, maintenance, or
 repair of digital electronic equipment made by or on behalf of the
 original equipment manufacturer; and
-  C. is not conditioned on an arrangement described in paragraph (a) of
+  B. are not conditioned on an arrangement described in paragraph (a) of
 this subdivision.
   (iv) Such parts, tools, and documentation shall be made available to
 an authorized repair provider, and shall further be made available by an
@@ -111,16 +104,19 @@ selling or leasing digital electronic equipment manufactured by or on
 behalf of itself, to any individual or business.
   (l) "Owner" means an individual or business that owns or leases
 digital electronic equipment purchased or used in this state.
-  (m) "Part" means any replacement part, either new or used, made
-available by an original equipment manufacturer for purposes of
-effecting the services of maintenance or repair of digital electronic
-equipment manufactured or sold by the original equipment manufacturer.
+  (m) "Part" or "parts" means any replacement part or assembly of parts,
+either new or used, made available by an original equipment manufacturer
+for purposes of effecting the services of maintenance or repair of
+digital electronic equipment manufactured or sold by the original
+equipment manufacturer. Part does not include printed board assemblies
+that may allow device cloning in violation of 18 U.S.C. Section 1029 or
+other applicable law.
   (n) "Tool" means any software program, hardware implement, or other
 apparatus used for diagnosis, maintenance, or repair of digital
 electronic equipment, including software or other mechanisms that
-provide, program, or pair a part, calibrate functionality, or perform
-any other function required to bring the equipment or part back to fully
-functional condition, including any updates.
+provide, program, pair a part, calibrate functionality, or perform any
+other function required to repair or update the original equipment or
+part back to fully functional condition.
   (o) "Repair" means any act needed to restore digital electronic
 equipment or equipment to fully working order.
   (p) "Maintenance" means any act necessary to keep currently working
@@ -130,27 +126,26 @@ that cause digital electronic equipment or equipment to not be in fully
 working order.
   (r) "Modifications" or "modify" means any alteration to digital
 electronic equipment that is not maintenance and not a repair.
-  2. Requirements. (a) For digital electronic equipment and parts for
-such equipment that are sold or used in this state, an original
-equipment manufacturer shall make available to any independent repair
-provider and owner of digital electronic equipment manufactured by or on
-behalf of or sold by such original equipment manufacturer, on fair and
-reasonable terms, any documentation, parts, and tools required for the
-diagnosis, maintenance, or repair of such digital electronic equipment
-and parts for such equipment. Such documentation, parts, and tools shall
-be made available either directly by such original equipment
-manufacturer or via an authorized repair provider.
-  (b) For equipment that contains an electronic security lock or other
-security-related function, the original equipment manufacturer shall
-make available to any owner and independent repair provider, on fair and
-reasonable terms, any special documentation, tools, and parts needed to
-access and reset the lock or function when disabled in the course of
-diagnosis, maintenance, or repair of such equipment. Such documentation,
-tools, and parts may be made available through appropriate secure
-release systems.
+  2. Requirements. An original equipment manufacturer shall make
+available to any independent repair provider and owner of digital
+electronic equipment manufactured by or on behalf of or sold by such
+original equipment manufacturer, on fair and reasonable terms, any
+documentation, parts, and tools required for the diagnosis, maintenance,
+or repair of such digital electronic equipment and parts that are
+manufactured for the first time, and first sold or used in New York on
+or after July first, two thousand twenty-three. Such documentation,
+parts, and tools shall be made available either directly by an original
+equipment manufacturer or via an authorized repair provider. An original
+equipment manufacturer who, in the regular course of business, offers to
+an owner the services of diagnosis, maintenance or repair of its own
+digital electronic equipment, and who does not have an arrangement
+described in paragraph (a) of subdivision one of this section with an
+unaffiliated individual or business, shall be considered an authorized
+repair provider with respect to such equipment.
   3. Limitations. (a) Nothing in this section shall be construed to
 require an original equipment manufacturer to divulge any trade secret
-to any owner or independent service provider.
+or license any intellectual property to any owner or independent service
+provider.
   (b) Nothing in this section shall be construed to alter the terms of
 any arrangement described in paragraph (a) of subdivision one of this
 section in force between an authorized repair provider and an original
@@ -189,8 +184,24 @@ equipment manufacturer or authorized repair provider to make available
 any parts, tools, or documentation required for the diagnosis,
 maintenance, or repair of any home appliance that has a digital
 electronic product embedded within it, including, but not limited to,
-refrigerators, ovens, microwaves, air conditioning and heating units,
-including any related software and components.
+refrigerators, ovens, microwaves, air conditioning, heating units, and
+security devices or alarm systems including any related software and
+components.
+  (h) Nothing in this section shall prevent an original equipment
+manufacturer from establishing reasonable training and certification
+programs for independent repair providers, however, no independent
+repair provider shall be required to complete any such training or
+certification program as a condition to be covered by the rights granted
+under this chapter.
+  (i) Nothing in this section shall prevent an original equipment
+manufacturer from offering parts, such as integrated batteries, to
+independent repair providers or owners pre-assembled with other parts
+rather than as individual components, where the individual components
+may pose a heightened safety risk if installed improperly.
+  (j) Nothing in this section shall require an original equipment
+manufacturer to make available special documentation, tools, and parts
+that would disable or override anti-theft security measures set by the
+owner of the equipment without the owner's authorization.
   4. Exclusions. Nothing in this section shall apply to:
   (a) a motor vehicle manufacturer, manufacturer of motor vehicle
 equipment, or motor vehicle dealer acting in such capacity, or to any
@@ -213,15 +224,45 @@ combustion engines, other power sources, (including without limitation,
 generator sets, electric/battery and fuel cell power), power tools, and
 any tools, technology, attachments, accessories, components and repair
 parts for any of the foregoing.
+  (d) commercial and industrial electrical equipment (including power
+distribution equipment, such as medium/low voltage switchgear and
+transformers, power control equipment, such as medium/low voltage motor
+control and drives, power quality equipment, such as uninterruptable
+power supplies, remote power panels, power distribution units and
+static/transfer switches) and any tools, technology, attachments,
+accessories, components and repair parts for any of the foregoing.
+  (e) an electronic bicycle manufacturer, distributor, importer,
+retailer or dealer.
   5. No original equipment manufacturer or authorized repair provider
 shall be liable for any damage or injury caused to any digital
-electronic equipment by an independent repair provider or owner which
-occurs during the course of repair, diagnosis, maintenance, or
-modification, including but not limited to, any indirect, incidental,
-special or consequential damages; any loss of data, privacy or profits;
-or any inability to use, or reduced functionality of, the digital
-electronic equipment.
-  6. Enforcement by the attorney general. (a) Whenever the attorney
+electronic equipment, person, or property which occurs as a result of
+repair, diagnosis, maintenance, or modification performed by an
+independent repair provider or owner, including but not limited to, any
+indirect, incidental, special or consequential damages; any loss of
+data, privacy or profits; or any inability to use, or reduced
+functionality of, the digital electronic equipment.
+  6. Before repairing digital electronic equipment, independent repair
+providers shall provide to any customer, and publish on their website
+and the place of business, a written notice that contains the following
+information:
+  (a) The independent repair provider is not an authorized repair
+provider for the equipment;
+  (b) The consumer should review the terms and conditions of any
+warranty for the equipment, as repairs not performed by an authorized
+repair provider may affect the warranty;
+  (c) Warranties for consumer products are governed by the federal
+Magnuson-Moss Warranty Act (15 U.S.C. ch. 50 § 2301), which gives
+consumers rights and protections that apply over conflicting provisions
+in the warranty;
+  (d) Under the Magnuson-Moss Warranty Act, a warranty cannot require
+that maintenance and repairs be performed only by an authorized repair
+provider; and
+  (e) Under the Magnuson-Moss Warranty Act, if damage to equipment is
+shown to be caused by equipment not offered or sold by the original
+equipment manufacturer or by faulty repair performed by a non-authorized
+repair provider, that damage may not be covered by the warranty, but the
+warranty may otherwise remain in effect.
+  7. Enforcement by the attorney general. (a) Whenever the attorney
 general shall believe from evidence satisfactory to the attorney general
 that any person, firm, corporation or association or agent or employee
 thereof has engaged in or is about to engage in any acts or practices in
