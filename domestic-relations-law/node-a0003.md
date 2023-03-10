@@ -9,6 +9,7 @@ Section 10.    Marriage a civil contract.
         11-b.  Registration of persons performing marriage ceremonies in
                  the city of New York.
         11-c.  Marriage officers.
+        11-d.  One-day marriage officiant license.
         12.    Marriage, how solemnized.
         13.    Marriage licenses.
         13-aa. Test to determine the presence of sickle cell anemia.
