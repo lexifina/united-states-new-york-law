@@ -59,22 +59,22 @@ open meetings law.
   * NB Effective until March 28, 2023
   * 1. (a) There is hereby created the Rochester-Genesee regional
 transportation authority. The authority shall be a body corporate and
-politic constituting a public benefit corporation. It shall consist of
-at least one member from each county that elects to join the authority
-except that the county of Monroe shall have seven members of whom three
-shall be appointed from the city of Rochester and four at large from the
-county of Monroe, and a voting member who is a transit dependent
-individual appointed pursuant to paragraph (c) of this subdivision and
-shall have one non-voting member as described in paragraph (b) of this
-subdivision. The members shall be appointed by the governor by and with
-the advice and consent of the senate. The governor shall make initial
-appointments to the authority in such number and from lists submitted as
-follows: three members shall be appointed to the authority from a list
-of not less than six names, all of whom must be residents of the city of
-Rochester, submitted to the governor by the council of the city of
-Rochester; four persons from a list of not less than eight persons, all
-of whom must be residents of the county of Monroe submitted by the
-legislature of the county of Monroe. Other counties electing to
+politic constituting a public benefit corporation. It shall consist of:
+(i) at least one member from each county that elects to join the
+authority except that the county of Monroe shall have seven members of
+whom three shall be appointed from the city of Rochester and four at
+large from the county of Monroe, (ii) and a voting member who is a
+transit dependent individual appointed pursuant to paragraph (c) of this
+subdivision, and (iii) one non-voting member as described in paragraph
+(b) of this subdivision. The members shall be appointed by the governor
+by and with the advice and consent of the senate. The governor shall
+make initial appointments to the authority in such number and from lists
+submitted as follows: three members shall be appointed to the authority
+from a list of not less than six names, all of whom must be residents of
+the city of Rochester, submitted to the governor by the council of the
+city of Rochester; four persons from a list of not less than eight
+persons, all of whom must be residents of the county of Monroe submitted
+by the legislature of the county of Monroe. Other counties electing to
 participate shall each submit to the governor a list of not less than
 two persons for each one hundred thousand or major fraction of the total
 population, as determined by the last federal decennial or federal
@@ -108,10 +108,12 @@ organizations, pending litigation involving the labor organization, or
 the investigation, evaluation, or discipline of an employee.
   (c) The voting member who is a transit dependent individual as
 described in paragraph (a) of this subdivision shall be appointed by the
-governor at the recommendation of a local or statewide transit advocacy
-organization for a term of five years. If a vacancy occurs for such
-position, a replacement shall be appointed within six months pursuant to
-this process.
+governor for a term of five years. Such member shall be a resident of a
+county within the district. If a vacancy occurs for such position, a
+replacement shall be appointed within six months pursuant to this
+process. Any local or statewide transit advocacy organization may
+recommend one or more transit dependent individuals to be considered
+pursuant to this section.
   * NB Effective March 28, 2023
    2. The members of the authority shall continue in office until their
 successors are appointed and shall have qualified. One member appointed
