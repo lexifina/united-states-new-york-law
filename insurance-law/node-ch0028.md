@@ -28,7 +28,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
          27. Holocaust victims insurance act of 1998. (§§ 2701-2711)
          28. Use of credit information. (§§ 2801-2809)
          29. Pharmacy benefit managers. (§§ 2901-2914)
-         31. Insurance contracts - general. (§§ 3101-3114)
+         31. Insurance contracts - general. (§§ 3101-3113)
          32. Insurance contracts - life, accident and health, annuities.
                (§§ 3201-3244)
          34. Insurance contracts - property/casualty. (§§ 3401-3461)

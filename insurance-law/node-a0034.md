@@ -33,6 +33,7 @@ Section 3401.   Insurable interest in property.
         3420.   Liability insurance; standard provisions; right of
                   injured person.
         3421.   Homeowners' liability insurance; dogs.
+        3422.   Hate crimes; coverage refusal.
         3425.   Certain property/casualty insurance policies;
                   cancellation and renewal provisions; agents' contracts
                   and brokers' accounts.
