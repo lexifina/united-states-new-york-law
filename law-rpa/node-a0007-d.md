@@ -1,4 +1,4 @@
-                              * ARTICLE 7-C
+                              * ARTICLE 7-D
     SPECIAL PROCEEDINGS BY TENANTS FOR JUDGMENT DIRECTING REPAIRS OF
   CONDITIONS AND OTHER RELIEF IN RESIDENTIAL REAL PROPERTY CONSTITUTING
     VIOLATION OF APPLICABLE LOCAL OR STATE HOUSING STANDARDS OR REAL
@@ -15,5 +15,4 @@ Section 797.   Jurisdiction; courts; venue.
         797-h. Answer.
         797-i. Trial.
         797-j. Judgment.
-  * NB There are 2 Art. 7-C's
-  * NB Effective June 28, 2023
+  * NB Effective December 30, 2023

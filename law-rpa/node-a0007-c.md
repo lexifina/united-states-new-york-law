@@ -19,4 +19,5 @@ Section 796.   Definitions.
         796-k. Presentation or settlement of accounts.
         796-l. Waiver void.
         796-m. Defense of warranty of habitability inapplicable.
+  * NB Effective June 13, 2023
   * NB There are 2 Art. 7-C's
