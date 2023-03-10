@@ -81,7 +81,7 @@ Article     1. General purposes (§§ 1.00-1.05).
           242. Offenses against service animals and handlers
                  (§§ 242.00-242.15).
           245. Offenses against public sensibilities (§§ 245.00-245.15).
-          250. Offenses against the right to privacy (§§ 250.00-250.72).
+          250. Offenses against the right to privacy (§§ 250.00-250.71).
           255. Offenses affecting the marital relationship
                  (§§ 255.00-255.30).
           260. Offenses relating to children, disabled persons and
