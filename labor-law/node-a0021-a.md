@@ -1,4 +1,4 @@
-                              ARTICLE 21-A
+                             * ARTICLE 21-A
                      WAREHOUSE WORKER PROTECTION ACT
 Section 780. Definitions.
         781. Quotas.
@@ -9,3 +9,4 @@ Section 780. Definitions.
         786. Unlawful retaliation.
         787. Enforcement.
         788. Other powers.
+  * NB Effective June 19, 2023
