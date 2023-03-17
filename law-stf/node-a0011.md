@@ -10,6 +10,8 @@ Section 160.   Definitions.
                  procurements; prohibitions.
         163-b. Environmentally-sensitive cleaning and maintenance
                  products.
+        163-c. Purchase or lease of zero emission vehicles and charging
+                 or fueling infrastructure.
         164.   Exemptions.
         165.   Purchasing restrictions.
         165-a. Iran divestment.
