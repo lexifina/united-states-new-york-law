@@ -8,17 +8,7 @@ development from residential rental status to cooperative or condominium
 ownership or other form of cooperative interest in realty, other than an
 offering statement or prospectus for such conversion pursuant to article
 two, eight or eleven of the private housing finance law.
-  * (b) "Non-eviction plan". A plan which may not be declared effective
-until written purchase agreements have been executed and delivered for
-at least fifty-one percent of all dwelling units in the building or
-group of buildings or development by bona fide tenants who were in
-occupancy on the date a letter was issued by the attorney general
-accepting the plan for filing. The purchase agreement shall be executed
-and delivered pursuant to an offering made in good faith without fraud
-and discriminatory repurchase agreements or other discriminatory
-inducements.
-  * NB Effective until March 16, 2023
-  * (b) "Non-eviction plan". A plan which may not be declared effective
+  (b) "Non-eviction plan". A plan which may not be declared effective
 until written purchase agreements have been executed and delivered for
 at least fifty-one percent of all dwelling units in the building or
 group of buildings or development by bona fide tenants who were in
@@ -35,7 +25,6 @@ immediate family occupy the dwelling unit when it becomes vacant. The
 purchase agreement shall be executed and delivered pursuant to an
 offering made in good faith without fraud and discriminatory repurchase
 agreements or other discriminatory inducements.
-  * NB Effective March 16, 2023
   (c) "Eviction plan". A plan which, submitted prior to the effective
 date of the chapter of the laws of two thousand nineteen that amended
 this section, pursuant to the provisions of this section, can result in
@@ -109,25 +98,15 @@ attorney general for at least twelve months after such abandonment.
   (b) The plan provides either that it is an eviction plan or that it is
 a non-eviction plan.
   (c) The plan provides, if it is a non-eviction plan, as follows:
-  * (i) The plan may not be declared effective until written purchase
-agreements have been executed and delivered for at least fifty-one
-percent of all dwelling units in the building or group of buildings or
-development subscribed for by bona fide tenants in occupancy on the date
-a letter was issued by the attorney general accepting the plan for
-filing for which purchase agreement shall be executed and delivered
-pursuant to an offering made without discriminatory repurchase
-agreements or other discriminatory inducements.
-  * NB Effective until March 16, 2023
-  * (i) (1) Subject to the provisions of clause two of this
-subparagraph, the plan may not be declared effective until written
-purchase agreements have been executed and delivered for at least
-fifty-one percent of all dwelling units in the building or group of
-buildings or development subscribed for by bona fide tenants in
-occupancy on the date a letter was issued by the attorney general
-accepting the plan for filing for which purchase agreement shall be
-executed and delivered pursuant to an offering made without
-discriminatory repurchase agreements or other discriminatory
-inducements.
+  (i) (1) Subject to the provisions of clause two of this subparagraph,
+the plan may not be declared effective until written purchase agreements
+have been executed and delivered for at least fifty-one percent of all
+dwelling units in the building or group of buildings or development
+subscribed for by bona fide tenants in occupancy on the date a letter
+was issued by the attorney general accepting the plan for filing for
+which purchase agreement shall be executed and delivered pursuant to an
+offering made without discriminatory repurchase agreements or other
+discriminatory inducements.
   (2) For buildings containing five or fewer units, the plan may not be
 declared effective until written purchase agreements have been executed
 and delivered for at least fifteen percent of all dwelling units in the
@@ -141,7 +120,6 @@ letter was issued by the attorney general accepting the plan filing, the
 purchase agreement shall be executed and delivered pursuant to an
 offering made without discriminatory repurchase agreements or other
 discriminatory inducements.
-  * NB Effective March 16, 2023
   (ii) No eviction proceedings will be commenced at any time against
 non-purchasing tenants for failure to purchase or any other reason
 applicable to expiration of tenancy; provided that such proceedings may
