@@ -7,8 +7,6 @@ Section 161.     Certain searches, the filing of papers, and certified
         163.     Contracts for services of state agencies.
         163-a.   Contracts with Green Thumb Environmental
                    Beautification, Incorporated.
-        163-c.   Purchase or lease of zero emission vehicles and
-                   charging or fueling infrastructure.
         164.     Reports by and to the department.
         164-a.   Report and publication economy regulations.
         164-b.   State aid to rural areas; agency reports.
