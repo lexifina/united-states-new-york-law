@@ -1,63 +1,5 @@
-  § 1299-dd. Rochester-Genesee regional transportation authority. * 1.
+  § 1299-dd. Rochester-Genesee regional transportation authority.  1.
 (a) There is hereby created the Rochester-Genesee regional
-transportation authority. The authority shall be a body corporate and
-politic constituting a public benefit corporation. It shall consist of
-at least one member from each county that elects to join the authority
-except that the county of Monroe shall have seven members of whom three
-shall be appointed from the city of Rochester and four at large from the
-county of Monroe and shall have two non-voting members as described in
-paragraphs (b) and (c) of this subdivision. The members shall be
-appointed by the governor by and with the advice and consent of the
-senate. The governor shall make initial appointments to the authority in
-such number and from lists submitted as follows: three members shall be
-appointed to the authority from a list of not less than six names, all
-of whom must be residents of the city of Rochester, submitted to the
-governor by the council of the city of Rochester; four persons from a
-list of not less than eight persons, all of whom must be residents of
-the county of Monroe submitted by the legislature of the county of
-Monroe. Other counties electing to participate shall each submit to the
-governor a list of not less than two persons for each one hundred
-thousand or major fraction of the total population, as determined by the
-last federal decennial or federal county-wide special census. From the
-counties outside the county of Monroe which shall elect to participate,
-the governor shall appoint one member for each one hundred thousand or
-major fraction of the total population, as determined by the last
-federal decennial or federal county-wide special census, with a minimum
-of one member to represent each county outside the county of Monroe so
-electing to participate. All members of the authority shall be residents
-of the area from which they are nominated.
-  (b) The first non-voting member of the authority who shall not be
-considered in determining a quorum, shall be recommended to the governor
-by the labor organization representing the plurality of the employees
-within the authority and shall be a resident of the Rochester-Genesee
-regional transportation district as described in section twelve hundred
-ninety-nine-cc of this title. Such first non-voting member shall be
-appointed for a term of five years, provided, however, that if at any
-time during the term of appointment such non-voting member ceases to be
-affiliated with the labor organization representing the plurality of
-employees within the authority, then such labor organization may at any
-time during such term recommend a new member to the governor who shall
-serve the remainder of the term. If the local bargaining unit
-decertifies its existing union affiliation and certifies a new union,
-the union which represents the plurality of the employees may recommend
-a new member to the governor who shall serve the remainder of the term.
-The chairman of the authority, at his or her discretion, may exclude
-such non-voting member from attending any portion of a meeting of the
-authority or of any committee held for the purpose of discussing
-negotiations with labor organizations, pending litigation involving the
-labor organization, or the investigation, evaluation, or discipline of
-an employee.
-  (c) There shall also be a second non-voting member of the authority,
-who shall not be considered in determining a quorum. The second
-non-voting member shall be appointed by the governor as a representative
-of the transit dependent and/or disabled community. The second
-non-voting member shall be appointed for a term of five years. The chair
-of the authority, at his or her discretion, may exclude such non-voting
-member from attending any portion of a meeting of the authority or of
-any committee held pursuant to the executive session provisions of the
-open meetings law.
-  * NB Effective until March 28, 2023
-  * 1. (a) There is hereby created the Rochester-Genesee regional
 transportation authority. The authority shall be a body corporate and
 politic constituting a public benefit corporation. It shall consist of:
 (i) at least one member from each county that elects to join the
@@ -114,8 +56,7 @@ replacement shall be appointed within six months pursuant to this
 process. Any local or statewide transit advocacy organization may
 recommend one or more transit dependent individuals to be considered
 pursuant to this section.
-  * NB Effective March 28, 2023
-   2. The members of the authority shall continue in office until their
+  2. The members of the authority shall continue in office until their
 successors are appointed and shall have qualified. One member appointed
 from the city of Rochester and one member appointed from the county of
 Monroe shall be appointed for terms ending July thirty-first, nineteen
@@ -150,25 +91,7 @@ receive a salary or other compensation when rendering service as a
 member of the authority or as a member of one of its subsidiary
 corporations, but shall be entitled to reimbursement for actual and
 necessary expenses incurred in the performance of their official duties.
-  * 4. A majority of the whole number of votes of members of the
-authority shall constitute a quorum for the transaction of business or
-the exercise of any power of the authority. Except as otherwise
-specified in this act, for the transaction of any business or the
-exercise of any power of the authority, the authority shall have power
-to act by a majority vote of the members present at any meeting at which
-a quorum is in attendance. Each member of the authority shall have one
-vote for each thirty-five thousand or major fraction thereof of the
-population of the county or city from which he is appointed based upon
-the results of the last federal decennial or federal county-wide special
-census divided by the total number of members appointed from such county
-or city. The minimum number of votes each member shall have, regardless
-of population, is one. The votes of all members shall be calculated with
-fractions being rounded to the nearest whole number. The population of a
-county for the purposes of this provision is the total population of
-such county less the population of any city which is entitled to have
-members appointed on the authority.
-  * NB Effective until March 28, 2023
-  * 4. A majority of the whole number of votes of members of the
+  4. A majority of the whole number of votes of members of the
 authority, including the voting member who is a transit dependent
 individual as described in subdivision one of this section, shall
 constitute a quorum for the transaction of business or the exercise of
@@ -189,7 +112,6 @@ fractions being rounded to the nearest whole number. The population of a
 county for the purposes of this provision is the total population of
 such county less the population of any city which is entitled to have
 members appointed on the authority.
-  * NB Effective March 28, 2023
   5. The authority shall organize by the selection from its members of a
 chairman, vice chairman, secretary and such other officers as the
 members may deem necessary. It shall adopt such rules as it may deem
