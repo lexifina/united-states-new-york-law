@@ -34,7 +34,6 @@ Section 90.    Department of state; secretary of state.
         107.   Intergovernmental agreements.
         108.   Address confidentiality program.
         109.   Registration of certain service providers.
-        110.   Designation of one-day marriage officiant.
         130.   Appointment of notaries public.
         131.   Procedure of appointment; fees and commissions; fee
                  payment methods.
