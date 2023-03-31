@@ -12,6 +12,7 @@ Section 160.   Definitions.
                  products.
         163-c. Purchase or lease of zero emission vehicles and charging
                  or fueling infrastructure.
+        163-d. Decarbonization plans for state-owned fleet vehicles.
         164.   Exemptions.
         165.   Purchasing restrictions.
         165-a. Iran divestment.
