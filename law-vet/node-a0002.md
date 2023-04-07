@@ -1,4 +1,4 @@
-                               * ARTICLE 2
+                                ARTICLE 2
                          VETERANS EMPLOYMENT ACT
 Section 30. Short title.
         31. Legislative findings.
@@ -6,4 +6,3 @@ Section 30. Short title.
         33. Temporary hiring.
         34. Department of civil services responsibilities.
         35. Regulations.
-  * NB Effective April 1, 2023

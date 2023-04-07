@@ -1,4 +1,4 @@
-                               * ARTICLE 3
+                                ARTICLE 3
        PARTICIPATION BY SERVICE-DISABLED VETERANS WITH RESPECT TO
                              STATE CONTRACTS
 Section 40. Definitions.
@@ -6,4 +6,3 @@ Section 40. Definitions.
         42. Opportunities for certified service-disabled veteran-owned
               business enterprises.
         43. Severability.
-  * NB Effective April 1, 2023
