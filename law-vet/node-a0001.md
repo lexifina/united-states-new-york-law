@@ -1,4 +1,4 @@
-                               * ARTICLE 1
+                                ARTICLE 1
                     DEPARTMENT OF VETERANS' SERVICES
 Section 1.      Definitions.
         2.      Department of veterans' services.
@@ -41,4 +41,3 @@ Section 1.      Definitions.
         29-a.   Loan counseling for mortgages guaranteed by the
                   Servicemen's Readjustment Act of 1944.
         29-a*2. Veterans memorial registry.
-  * NB Effective April 1, 2023
