@@ -58,15 +58,11 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 328--328-a).
          16.   Martin Luther King, Jr. commission (§ 329).
          16-A. Highway safety (§§ 330-334).
-         17.   Veterans' affairs (§§ 350--368-a).
-         17-A. Veterans employment act (§§ 369--369-e).
-         17-B. Participation  by  service-disabled veterans with respect
-                 to state contracts (§§ 369-h--369-k).
-         18.   New York state uniform fire prevention and building  code
+         18.   New  York state uniform fire prevention and building code
                  act (§§ 370-383).
          18-A. Display of flag on uniforms (§ 390).
-         19.   Display  and  use  of  the  flag  of the United States of
-                 America  in  parks  and   on   public   buildings   (§§
+         19.   Display and use of the  flag  of  the  United  States  of
+                 America   in   parks   and   on  public  buildings  (§§
                  400--403-b).
          19-A. Delinquency and youth crime prevention (§§ 411-426).
          19-B. State bingo control commission (§§ 430--439-a).
@@ -78,7 +74,7 @@ The People of the State of New York, represented in Senate and Assembly,
          19-L. New York state neighborhood based initiatives act
                  (§§ 548-a--548-h).
          20.   Protection of people with special needs (§§ 550-562).
-         21.   New York state office  for  the  prevention  of  domestic
+         21.   New  York  state  office  for  the prevention of domestic
                  violence (§ 575).
          21-A. Emergency services council (§ 580).
          21-B. Manufactured homes (§§ 600-617)
@@ -96,13 +92,13 @@ The People of the State of New York, represented in Senate and Assembly,
          35.   Division of criminal justice services (§§ 835-846*2).
          36.   Neighborhood preservation crime prevention act
                  (§§ 846-a--846-h).
-         36-A. New   York   motor  vehicle  theft  and  insurance  fraud
+         36-A. New  York  motor  vehicle  theft  and   insurance   fraud
                  prevention demonstration program (§§ 846-i--846-m)
          37.   Tug Hill Commission (§§ 847-a--847-f).
          38.   National crime prevention and privacy compact (§ 850).
          39.   Office of business permits (§§ 875-893).
          41.   Office of urban revitalization (§§ 894-907).
-         42.   Waterfront revitalization of  coastal  areas  and  inland
+         42.   Waterfront  revitalization  of  coastal  areas and inland
                  waterways (§§ 910-922).
          44.   Council on professional career opportunity (§§ 940-943).
          45.   Internal control responsibilities of state agencies
@@ -113,6 +109,6 @@ The People of the State of New York, represented in Senate and Assembly,
          48.   Job training coordination (§§ 970*2-975).
          49.   Workforce preparation evaluation act (§§ 980-982).
          49-A. New York state family policy (§§ 990-992).
-         49-B. Commission  on  forensic science and establishment of DNA
+         49-B. Commission on forensic science and establishment  of  DNA
                  identification index (§§ 995--995-f).
          50.   Interpretation (§§ 1000-1003).
