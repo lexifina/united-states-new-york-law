@@ -1,4 +1,4 @@
-  * § 391-jj. Sale of electric space heaters. No person, firm,
+  § 391-jj. Sale of electric space heaters. No person, firm,
 partnership, association or corporation regularly engaged in the
 business of assembling, manufacturing, distributing or the retail sale
 of electric space heaters shall assemble, manufacture, distribute, sell
@@ -9,4 +9,3 @@ business in this state unless such electric space heater:
   3. has been certified by a testing and certification body recognized
 and approved by the United States department of labor, occupational
 safety and health administration.
-  * NB Effective April 7, 2023
