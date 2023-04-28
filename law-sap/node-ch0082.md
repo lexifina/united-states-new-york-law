@@ -11,8 +11,8 @@ Assembly, do enact as follows:
 read as follows:
                CHAPTER EIGHTY-TWO OF THE CONSOLIDATED LAWS
                    STATE ADMINISTRATIVE PROCEDURE ACT
-Article 1.  General Provisions. (Secs. 100-104)
-        2.  Rule making. (Secs. 201-207)
-        3.  Adjudicatory proceedings. (Secs. 301-308)
-        4.  Licenses. (Sec. 401)
-        5.  Representation. (Sec. 501)
+Article 1.  General Provisions. (§§ 100-104)
+        2.  Rule making. (§§ 201-207)
+        3.  Adjudicatory proceedings. (§§ 301-308)
+        4.  Licenses. (§§ 401-402)
+        5.  Representation. (§ 501)
