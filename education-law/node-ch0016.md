@@ -175,7 +175,7 @@ Article
              education (§§ 6401-6405.)
   129-A    Regulation by colleges of conduct on campuses and other
              college property used for educational purposes
-             (§§ 6430--6438-a.)
+             (§§ 6430--6438-b.)
   129-B    Implementation by colleges and universities of sexual
              assault, dating violence, domestic violence and stalking
              prevention and response policies and procedures
