@@ -22,6 +22,6 @@ Section 125.   General prohibitions and restrictions.
                  products.
         138.   Access to criminal history information through the
                  division of criminal justice services.
-        138-a. Injunction for unlawful manufacturing, sale, or
-                 distribution of cannabis.
+        138-a. Action for unlawful business practices relating to
+                 cannabis.
         139.   Severability.
