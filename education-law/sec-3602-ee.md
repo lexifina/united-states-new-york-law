@@ -73,33 +73,64 @@ section shall possess:
 childhood grades; or
   (b) a teaching license or certificate for students with disabilities
 valid for service in early childhood grades; or
-  (c) for eligible agencies as defined in paragraph b of subdivision one
-of section thirty-six hundred two-e of this part that are not schools, a
-bachelor's degree in early childhood education. Provided however,
-beginning with the two thousand twenty-two--two thousand twenty-three
-school year, a school district may annually apply to the commissioner by
-August first of the current school year for a waiver that would allow
-personnel employed by an eligible agency that is collaborating with a
-school district to provide prekindergarten services and licensed by an
-agency other than the department, to meet the staff qualifications
-prescribed by the licensing or registering agency. Provided further that
-the commissioner shall annually submit a report by September first to
-the chairperson of the assembly ways and means committee, the
-chairperson of the senate finance committee and the director of the
-budget which shall include but not be limited to the following: (a) a
-listing of the school districts receiving a waiver pursuant to this
-paragraph from the commissioner for the current school year; (b) the
-number and proportion of students within each district receiving a
-waiver pursuant to this paragraph for the current school year that are
-receiving instruction from personnel employed by an eligible agency that
-is collaborating with a school district to provide prekindergarten
-services and licensed by an agency other than the department; and (c)
-the number and proportion of total prekindergarten personnel for each
-school district that are providing instructional services pursuant to
-this paragraph that are employed by an eligible agency that is
+  * (c) for eligible agencies as defined in paragraph b of subdivision
+one of section thirty-six hundred two-e of this part that are not
+schools, a bachelor's degree in early childhood education. Provided
+however, beginning with the two thousand twenty-two--two thousand
+twenty-three school year, a school district may annually apply to the
+commissioner by August first of the current school year for a waiver
+that would allow personnel employed by an eligible agency that is
 collaborating with a school district to provide prekindergarten services
 and licensed by an agency other than the department, to meet the staff
 qualifications prescribed by the licensing or registering agency.
+Provided further that the commissioner shall annually submit a report by
+September first to the chairperson of the assembly ways and means
+committee, the chairperson of the senate finance committee and the
+director of the budget which shall include but not be limited to the
+following: (a) a listing of the school districts receiving a waiver
+pursuant to this paragraph from the commissioner for the current school
+year; (b) the number and proportion of students within each district
+receiving a waiver pursuant to this paragraph for the current school
+year that are receiving instruction from personnel employed by an
+eligible agency that is collaborating with a school district to provide
+prekindergarten services and licensed by an agency other than the
+department; and (c) the number and proportion of total prekindergarten
+personnel for each school district that are providing instructional
+services pursuant to this paragraph that are employed by an eligible
+agency that is collaborating with a school district to provide
+prekindergarten services and licensed by an agency other than the
+department, to meet the staff qualifications prescribed by the licensing
+or registering agency.
+  * NB Effective until July 1, 2023
+  * (c) for eligible agencies as defined in paragraph b of subdivision
+one of section thirty-six hundred two-e of this part that are not
+schools, a bachelor's degree in early childhood education. Provided
+however, beginning with the two thousand twenty-two--two thousand
+twenty-three school year, a school district may annually apply to the
+commissioner by September first of the current school year for a waiver
+that would allow personnel employed by an eligible agency that is
+collaborating with a school district to provide prekindergarten services
+and licensed by an agency other than the department, to meet the staff
+qualifications prescribed by the licensing or registering agency.
+Provided further that the commissioner shall annually submit a report by
+November first to the chairperson of the assembly ways and means
+committee, the chairperson of the senate finance committee and the
+director of the budget which shall include but not be limited to the
+following: (a) a listing of the school districts receiving a waiver
+pursuant to this paragraph from the commissioner for the current school
+year; (b) the number and proportion of students within each district
+receiving a waiver pursuant to this paragraph for the current school
+year that are receiving instruction from personnel employed by an
+eligible agency that is collaborating with a school district to provide
+prekindergarten services and licensed by an agency other than the
+department; and (c) the number and proportion of total prekindergarten
+personnel for each school district that are providing instructional
+services pursuant to this paragraph that are employed by an eligible
+agency that is collaborating with a school district to provide
+prekindergarten services and licensed by an agency other than the
+department, to meet the staff qualifications prescribed by the licensing
+or registering agency.
+  * NB Effective July 1, 2023
   9. The process by which applicants submit proposals to collaborate
 with the school district or individually to the department, and the
 renewal process for such providers, shall take into account any record
@@ -215,10 +246,16 @@ Chautauqua, Erie and Niagara counties.
 and early education, a day care provider, early childhood program or
 center, approved preschool special education program, Head Start or
 other such community-based organization.
-  16. The authority of the department to administer the universal
+  * 16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
 thousand twenty-three; provided that the program shall continue and
 remain in full effect.
+  * NB Effective until July 1, 2023
+  * 16. The authority of the department to administer the universal
+full-day pre-kindergarten program shall expire June thirtieth, two
+thousand twenty-four; provided that the program shall continue and
+remain in full effect.
+  * NB Effective July 1, 2023
   17. Notwithstanding any inconsistent provision of law to the contrary,
 for the purposes of determining the prekindergarten allocation on the
 electronic data file prepared by the commissioner pursuant to

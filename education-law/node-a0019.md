@@ -38,3 +38,4 @@ Section 901.   School health services to be provided.
         922.   Opioid overdose prevention.
         923.   Sudden cardiac arrest.
         924.   Ingredient and nutritional information requirements.
+        925.   Community eligibility provision state subsidy.
