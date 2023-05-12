@@ -21,7 +21,7 @@ Section 82.    Legislative commissions.
                  York state and Long Island.
         83-m.  Legislative task force on demographic research and reap-
                  portionment.
-  * NB Repealed June 30, 2023
+  * NB Repealed June 30, 2024
      *  83-n.  Legislative commission on the future of the Long Island
                  Power Authority.
   * NB § 83-n survives the repeal of this article
