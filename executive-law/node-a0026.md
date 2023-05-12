@@ -22,3 +22,4 @@ Section 709.   Division of homeland security and emergency services;
         717.   Office of interoperable and emergency communications.
         717-a. Direct dialing to public service answering points.
         718.   Voluntary surveillance access database.
+        719.   Loans for eligible hazard mitigation activities.

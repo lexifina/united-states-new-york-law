@@ -32,7 +32,7 @@ The People of the State of New York, represented in Senate and Assembly,
                  (§§ 160-aaa--160-iii).
           6-H. Real estate appraisal management companies (§§ 160-aaaa--
                  160-xxxx).
-          7.   Miscellaneous provisions (§§ 161--170-f).
+          7.   Miscellaneous provisions (§§ 161-171).
           7-A. Solicitation  and  collection  of  funds  for  charitable
                  purposes (§§ 171-a--177).
           8.   Division of budget (§§ 180-183).
@@ -84,7 +84,7 @@ The People of the State of New York, represented in Senate and Assembly,
          25.   Most integrated setting coordinating council
                  (§§ 700-703).
          26.   Division of homeland security and emergency services
-                 (§§ 709-718).
+                 (§§ 709-719).
          26-B. Board of social welfare (§§ 740-750).
          27.   Adirondack park agency (§§ 800-820).
          28.   Workforce diversity program (§§ 821-826).
