@@ -26,3 +26,4 @@ Section 33.01  Protection of patients' rights.
                  investigations of abuse and mistreatment.
         33.27  Independent substance use disorder and mental health
                  ombudsman.
+        33.28  Independent developmental disability ombudsman program.
