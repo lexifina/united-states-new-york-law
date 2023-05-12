@@ -1,5 +1,6 @@
                                ARTICLE 77
-             THE LIFE INSURANCE COMPANY GUARANTY CORPORATION
+                  THE LIFE AND HEALTH INSURANCE COMPANY
+                          GUARANTY CORPORATION
                              OF NEW YORK ACT
 Section 7701. Short title.
         7702. Purpose.
@@ -21,3 +22,4 @@ Section 7701. Short title.
         7718. Prohibited advertisement of the corporation in sale of
                 insurance.
         7719. Resolution facility.
+        7720. Penalties.

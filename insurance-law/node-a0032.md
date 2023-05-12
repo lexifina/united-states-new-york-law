@@ -105,3 +105,4 @@ Section 3201.   Approval of life, accident and health, credit
                   hospital, surgical or medical expense insurance.
         3244.   Explanation of benefits forms relating to claims under
                   certain accident and health insurance policies.
+        3245.   Liability to providers in the event of an insolvency.

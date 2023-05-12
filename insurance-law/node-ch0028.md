@@ -30,7 +30,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
          29. Pharmacy benefit managers. (§§ 2901-2914)
          31. Insurance contracts - general. (§§ 3101-3113)
          32. Insurance contracts - life, accident and health, annuities.
-               (§§ 3201-3244)
+               (§§ 3201-3245)
          34. Insurance contracts - property/casualty. (§§ 3401-3461)
          41. Property/casualty insurance companies. (§§ 4101-4121)
          42. Life insurance companies and accident and health insurance
@@ -78,7 +78,7 @@ ARTICLE   1. General provisions. (§§ 101-111)
          75. Life insurance guaranty fund. (§§ 7501-7507)
          76. Property/casualty security funds. (§§ 7601-7614)
          77. The life insurance company guaranty corporation of New York
-               act.  (§§ 7701-7719)
+               act.  (§§ 7701-7720)
          78. Viatical settlements. (§§ 7801-7820)
          79. Service contracts. (§§ 7901-7913)
          80. Mutual holding company. (§§ 8001-8021)
