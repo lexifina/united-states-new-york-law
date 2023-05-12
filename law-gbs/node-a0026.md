@@ -80,6 +80,10 @@ Section 390.         Substitution of spurious oils for internal
         394-d.       Privity of contract between franchise seller and
                        customer or patron of dealer.
         394-e.       Report on request for abortional services.
+        394-f.       Warrants for reproductive health related electronic
+                       data.
+        394-g.       Geofencing of health care facilities.
+        394-h.       Electronic health information protections.
         395.         Required disclosure of prior use.
         395-a.       Maintenance agreements.
         395-b.       Unlawfully installing or maintaining a two-way
