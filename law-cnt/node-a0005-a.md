@@ -13,6 +13,7 @@ Section 250.    Purpose.
         256-a.  Consolidation of Suffolk county sewer district number
                   two - Holbrook and Suffolk county sewer district
                   number four - Birchwood North Shore.
+        256-b.  Suffolk county wastewater management district.
         257.    Permissive referendum.
         258.    Application to the department of audit and control.
         259.    Recording and filing of determination.
