@@ -7,6 +7,8 @@ Section 701.   Jurisdiction; courts; venue.
         713-a. Special proceeding for termination of adult home and
                  residence for adults admission agreements.
         715.   Grounds and procedure where use or occupancy is illegal.
+        715-a. Grounds and procedure for removal of commercial tenants
+                 for unlicensed cannabis retail sale.
         721.   Person who may maintain proceeding.
         731.   Commencement; notice of petition.
         732.   Special provisions applicable in non-payment proceeding
