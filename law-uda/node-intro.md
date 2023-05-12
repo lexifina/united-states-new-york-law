@@ -72,6 +72,7 @@ Section   1.       Short title.
                      program.
           16-gg.   Small business seed funding grant program.
           16-gg*2. Division of Broadband Access.
+          16-hh.   Small business and entrepreneurs grant program.
           17.      Bonds and notes of the corporation.
           18.      Bond authorization.
           19.      Security for bonds or notes; construction and
@@ -120,6 +121,8 @@ Section   1.       Short title.
           52.      Small business innovation research (SBIR)/small
                      business technology transfer (STTR) technical
                      assistance program.
+          52-a.    Small business innovation research and small business
+                     technology transfer matching grant program.
           53.      (Enacted without section heading).
           54.      (Enacted without section heading).
           54-a.    Personal income tax notes; 2022.
