@@ -43,6 +43,8 @@ Section 64.     Application of article.
         66-t.   Thermal energy network development.
         66-t*2. Registration of energy brokers and energy consultants.
         66-u.   Gas safety reports.
+        66-v.   Requirements for certain climate risk-related and energy
+                  transition projects.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.
