@@ -2,19 +2,18 @@
 state treasury a fund to be known as the "rainy day reserve fund". Such
 fund shall consist of moneys deposited therein and monies shall be
 withdrawn from such fund only for the purposes as provided therein.
-  2. Such fund shall have a maximum balance not to exceed fifteen per
-centum of the aggregate amount projected to be disbursed from the
-general fund during the fiscal year immediately following the
-then-current fiscal year. At the request of the director of the budget,
-the state comptroller shall transfer monies to the rainy day reserve
-fund up to and including an amount equivalent to three per centum of the
-aggregate amount projected to be disbursed from the general fund during
-the then-current fiscal year, unless such transfer would increase the
-rainy day reserve fund to an amount in excess of fifteen per centum of
-the aggregate amount projected to be disbursed from the general fund
-during the fiscal year immediately following the then-current fiscal
-year, in which event such transfer shall be limited to such amount as
-will increase the rainy day reserve fund to such fifteen per centum
+  2. Such fund shall have a maximum balance not to exceed twenty-five
+per centum of the aggregate amount projected to be disbursed from the
+general fund during the then-current fiscal year. At the request of the
+director of the budget, the state comptroller shall transfer monies to
+the rainy day reserve fund up to and including an amount equivalent to
+fifteen per centum of the aggregate amount projected to be disbursed
+from the general fund during the then-current fiscal year, unless such
+transfer would increase the rainy day reserve fund to an amount in
+excess of twenty-five per centum of the aggregate amount projected to be
+disbursed from the general fund during the then-current fiscal year, in
+which event such transfer shall be limited to such amount as will
+increase the rainy day reserve fund to such twenty-five per centum
 limitation.
   3. a. The amounts available in such reserve may be used if the
 following conditions are met:

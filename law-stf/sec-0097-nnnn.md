@@ -2,14 +2,10 @@
 established in the joint custody of the comptroller and the commissioner
 of taxation and finance an account in the miscellaneous special revenue
 fund to be known as the "commercial gaming revenue fund".
-  2. Such account shall consist of all revenues from all taxes and fees
-imposed by article thirteen of the racing, pari-mutuel wagering and
-breeding law; any interest and penalties imposed by the New York state
-gaming commission relating to those taxes; the percentage of the value
-of expired gaming related obligations; and all penalties levied and
-collected by the commission. Additionally, the state gaming commission
-shall pay into the account any appropriate funds, cash or prizes
-forfeited from gambling activity.
+  2. Such account shall consist of all revenues received from the gaming
+commission pursuant to paragraphs (a), (b), (c), (d) and (e) of
+subdivision one of section thirteen hundred fifty-two of the racing,
+pari-mutuel wagering and breeding law.
   3. Moneys of the account shall be available as follows, unless
 otherwise specified by the upstate New York gaming economic development
 act of two thousand thirteen, following appropriation by the
@@ -65,3 +61,7 @@ commencing on and after April first, two thousand fifteen, for the
 purposes of providing aid pursuant to this subparagraph shall be
 apportioned and paid by the education department pursuant to section
 thirty-six hundred nine-h of the education law.
+  6. Notwithstanding any provision of this section to the contrary, any
+money deposited into this fund pursuant to section thirteen hundred
+fifty-two of the racing, pari-mutuel wagering and breeding law shall be
+distributed as specified in that section.

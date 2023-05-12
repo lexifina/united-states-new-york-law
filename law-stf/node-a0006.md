@@ -271,6 +271,7 @@ Section 70.        Classification of funds.
                      funds not immediately required.
         98-b.      Indigent legal services fund.
         98-c.      Legal services assistance fund.
+        98-d.      1332 state innovation program fund.
         99.        Withholding of state assistance upon default in
                      payment of bonds held by the state.
         99-a.      Justice court fund.
@@ -341,3 +342,5 @@ Section 70.        Classification of funds.
         99-pp.     Background check fund.
         99-pp 2.   Agricultural and farmland viability protection fund.
         99-pp*3.   Animal shelter regulation fund.
+        99-qq.     Hazard mitigation state revolving loan fund.
+        99-qq*2.   New York climate action fund.
