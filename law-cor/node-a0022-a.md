@@ -7,4 +7,4 @@ Section 630.  Applicability.
                 individuals.
         634.  Conduct of incarcerated individuals participating in
                 furlough program.
-  * NB Repealed September 1, 2023
+  * NB Repealed September 1, 2025
