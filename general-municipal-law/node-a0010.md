@@ -4,6 +4,7 @@ Section 200.      Defining qualifications of exempt volunteer
                     firefighters.
         200-a.    Volunteer firefighters serving in more than one fire
                     company or fire department.
+        200-aa.   Training stipend for volunteer firefighters.
         200-b.    Leaves of absence for volunteer firefighters entering
                     the armed forces of the United States prior to July
                     first, nineteen hundred sixty-six.
