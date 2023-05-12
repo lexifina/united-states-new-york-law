@@ -47,6 +47,8 @@ Section 500.     Application.
                    Suffolk county.
         508-b*4. Death benefits for deputy sheriffs employed by Suffolk
                    county.
+        508-c.   Death benefits for fire marshals employed by Nassau
+                   county.
         509.     Accidental death benefits.
         509-a.   COVID-19 benefit.
         510.     Escalation of benefits.
