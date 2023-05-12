@@ -31,3 +31,5 @@ Section 220.   Hours, wages and supplements.
         224-c. Public subsidy board.
         224-d. Wage requirements for certain renewable energy systems.
         224-e. Wage requirements for certain broadband projects.
+        224-f. Wage requirements for certain climate risk-related and
+                 energy transition projects.

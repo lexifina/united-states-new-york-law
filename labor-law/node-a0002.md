@@ -28,6 +28,8 @@ Section 10.   Department of labor; commissioner of labor.
                 hires.
         21-e. Powers of the commissioner to prepare and issue a notice
                 to be posted at worksite.
+        21-f. Job transition plan for certain climate risk-related and
+                energy transition projects.
         23.   Administrative regulations.
         24.   Delegation of powers by commissioner.
         25.   Power to enter and inspect premises.
