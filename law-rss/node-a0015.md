@@ -65,6 +65,10 @@ Section 600.     Application.
                    Suffolk county.
         606-b*4. Death benefits for deputy sheriffs employed by Suffolk
                    county.
+        606-c.   Death benefits for correction officers employed by
+                   Westchester county.
+        606-c*2. Death benefits for fire marshals employed by Nassau
+                   county.
         607.     Accidental death benefits.
         607-a.   Performance of duty disability retirement.
         607-b.   Performance of duty disability retirement.
