@@ -204,7 +204,7 @@ Article
              (§§ 6730-6743.)
   137      Pharmacy (§§ 6800-6832.)
   137-A    Registered pharmacy technicians (§§ 6840-6844.)
-  139      Nursing (§§ 6900-6911.)
+  139      Nursing (§§ 6900-6912.)
   140      Professional Midwifery Practice Act (§§ 6950-6958.)
   141      Podiatry (§§ 7000-7010.)
   143      Optometry (§§ 7100-7107.)
