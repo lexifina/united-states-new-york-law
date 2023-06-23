@@ -2,7 +2,7 @@
                              NAVIGATION LAW
 Article  1.   Short title and definitions (§§ 1-2).
          2.   Administration (§§ 10-20).
-         3.   Navigable waters of the state (§§ 30--39-b).
+         3.   Navigable waters of the state (§§ 30--39-a).
          4.   Vessels (§§ 40-79).
          4-A. Enforcement by counties (§§ 79-a--79-c).
          5.   Tidewater navigation (§§ 80-86).

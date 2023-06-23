@@ -34,5 +34,3 @@ Section 30.   Navigation, jurisdiction over.
         38.   Lake George water levels.
         39.   Motor boat regulation on Lake George.
         39-a. Motor boat regulation on Lake Colby.
-        39-b. Motor boat regulation on Flax Pond tidal wetlands
-                sanctuary.
