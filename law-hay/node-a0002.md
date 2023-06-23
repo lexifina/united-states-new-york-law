@@ -22,7 +22,6 @@ Section 10.   General powers and duties of the commissioner of
         16.   Removal of noxious weeds and brush within state highways.
         17.   Public hearings.
         19.   Planting trees and shrubs along state highways.
-        19-a. Pollinator friendly plant species; medians.
         20.   Roadside rest areas.
         21.   Restoration, preservation and enhancement of natural or
                 scenic beauty.
