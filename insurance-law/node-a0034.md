@@ -67,7 +67,8 @@ Section 3401.   Insurable interest in property.
         3436.   Medical malpractice insurance; type of coverage.
         3436*2. Group credit unemployment insurance and individual
                   credit unemployment insurance.
-        3436-a. Adverse action against legal reproductive health care.
+        3436-a. Adverse action against legal reproductive health care or
+                  gender-affirming care.
         3439.   Reinsurance contracts excepted.
         3440.   Insurance covering private passenger motor vehicles;
                   rental vehicle coverage.
