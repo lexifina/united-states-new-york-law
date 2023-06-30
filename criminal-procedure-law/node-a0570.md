@@ -12,9 +12,11 @@ Section 570.02 Short title.
                  compulsion.
         570.16 Extradition of persons not present in demanding state at
                  time of commission of crime.
-        570.17 Extradition of abortion providers.
+        570.17 Extradition for legally protected health activity.
         570.18 Issuance of warrant of arrest by governor; recitals
                  therein.
+        570.19 Extradition of gender-affirming care providers, seekers,
+                 parents, guardians, and helpers.
         570.20 Execution of warrant; manner and place thereof.
         570.22 Authority of arresting officer.
         570.24 Rights of accused person; application for writ of habeas
