@@ -25,5 +25,4 @@ recapture the funds or a portion thereof.
 the purposes of this section including, but not limited to, guidelines
 setting forth procedures for submission and processing of grant
 applications.
-  * NB Effective July 2, 2023
   * NB Repealed July 2, 2025
