@@ -8,7 +8,7 @@ Section 6430.   General provisions.
         6433.   Campus crime reporting and statistics.
         6434.   Investigation of crimes and crime reporting.
         6435.   Appointment of private college security officers.
-        6436.   Bias related crime prevention information.
+        6436.   Bias related and hate crime prevention information.
         6437.   Prohibition on the marketing of credit cards.
         6438.   Notification of fire safety standards and measures in
                   all college-owned or college-operated housing.
