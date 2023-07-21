@@ -24,4 +24,3 @@ background check fund and shall not be credited to any other fund.
 to reduce the amount of the fee described in subdivision two of section
 two hundred twenty-eight of the executive law.
   * NB There are 3 § 99-pp's
-  * NB Effective July 15, 2023
