@@ -1,7 +1,7 @@
-  * § 97-tttt. Clean water, clean air, and green jobs bond fund. 1.
-There is hereby established in the joint custody of the state
-comptroller and the commissioner of taxation and finance a special fund
-to be known as the " clean water, clean air, and green jobs bond fund".
+  § 97-tttt. Clean water, clean air, and green jobs bond fund. 1. There
+is hereby established in the joint custody of the state comptroller and
+the commissioner of taxation and finance a special fund to be known as
+the " clean water, clean air, and green jobs bond fund".
   2. The state comptroller shall deposit into the clean water, clean
 air, and green jobs bond fund all moneys received by the state from the
 sale of bonds and/or notes for uses eligible pursuant to section four of
@@ -21,8 +21,3 @@ funds therefor have been allocated pursuant to the provisions of this
 section and copies of the appropriate certificates of approval filed
 with the chair of the senate finance committee, the chair of the
 assembly ways and means committee and the state comptroller.
-  * NB Takes effect only if section 1 of part TT of chapter 59 of the
-laws of 2021 enacting the "clean water, clean air, and green jobs
-environmental bond act of 2022" is submitted to the people at the
-general election to be held in November 2022 and is approved by the
-majority of votes
