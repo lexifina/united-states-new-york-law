@@ -10,11 +10,11 @@ ARTICLE   1. General provisions. (§§ 101-111)
          12. Organization and corporate procedure. (§§ 1201-1221)
          13. Assets and deposits. (§§ 1301-1325)
          14. Investments. (§§ 1401-1415)
-         15. Holding companies. (§§ 1501-1510)
+         15. Holding companies. (§§ 1501-1511)
          16. Subsidiaries of domestic property/casualty insurance
-               companies and certain other entities. (§§ 1601-1612)
+               companies and certain other entities. (§§ 1601-1614)
          17. Subsidiaries of domestic life insurance companies and
-               certain other entities. (§§ 1701-1717)
+               certain other entities. (§§ 1701-1718)
          21. Agents, brokers, adjusters, consultants and intermediaries.
                (§§ 2101-2140)
          22. Certification of employees of insurers and savings banks
