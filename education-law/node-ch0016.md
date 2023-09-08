@@ -67,7 +67,7 @@ Article
    15-B    Higher education textbooks (§ 715.)
    15-C    Textbook access act (§§ 720-724.)
    16      Computer technology (§§ 751-755.)
-   17      Instruction in certain subjects (§§ 801-816.)
+   17      Instruction in certain subjects (§§ 801-817.)
    19      Medical and health service (§§ 901-925.)
    21      Vocational rehabilitation (§§ 1001-1009.)
    23      Career education in counties (§§ 1101-1116.)
