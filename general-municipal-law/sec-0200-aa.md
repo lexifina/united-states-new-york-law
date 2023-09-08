@@ -1,5 +1,5 @@
-  * § 200-aa. Training stipend for volunteer firefighters. 1. For
-purposes of this section:
+  § 200-aa. Training stipend for volunteer firefighters. 1. For purposes
+of this section:
   (a) "fire company" shall have the same meaning as defined in section
 three of the volunteer firefighters' benefit law.
   (b) "training stipend" means payment of a nominal fee to a volunteer
@@ -26,4 +26,3 @@ or impact the volunteer status of volunteer firefighters under the
 volunteer firefighters' benefit law or any other provision of law.
   6. The office of fire prevention and control shall promulgate rules
 and regulations necessary to implement the provisions of this section.
-  * NB Effective August 31, 2023
