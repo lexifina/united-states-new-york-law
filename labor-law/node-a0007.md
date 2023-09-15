@@ -15,6 +15,7 @@ Section 200.   General duty to protect health and safety of employees;
                  convicted of one or more crimes.
         201-g. Prevention of sexual harassment.
         201-h. Posting of veterans' benefits and services.
+        201-i. Request for access to personal accounts prohibited.
         202.   Protection of the public and of persons engaged at window
                  cleaning and cleaning of exterior surfaces of
                  buildings.
