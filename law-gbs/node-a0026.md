@@ -228,6 +228,8 @@ Section 390.         Substitution of spurious oils for internal
         399-qq.      Sale or promotional distribution of utility knives,
                        box cutters, or box cart cutters.
         399-r.       Sale of paint pellet guns.
+        399-rr.      September eleventh victim compensation fund and
+                       World Trade Center health program notification.
         399-s.       Posting of notice when air rifles or guns are sold.
         399-t.       Sale of certain chlorofluorocarbons and halons
                        prohibited.
