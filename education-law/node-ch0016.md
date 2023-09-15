@@ -144,7 +144,7 @@ Article
    85      Instruction of the deaf and of the blind (§§ 4201-4213.)
    87      New York State School for the Blind (§§ 4301-4318.)
    88      New York State School for the Deaf (§§ 4351-4358.)
-   89      Children with handicapping conditions (§§ 4401--4410-c.)
+   89      Children with disabilities (§§ 4401--4410-c.)
    90      Gifted education (§§ 4451-4453.)
    91      School camps (§§ 4501-4502.)
    93      Career, practical arts, continuing adult education and
