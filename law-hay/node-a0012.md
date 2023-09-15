@@ -864,4 +864,13 @@ Section 340-a.     Designation of state interstate routes.
                      as the "Colonel Michael Plummer Memorial Highway".
         344-n*26.  Portion of the state highway system to be designated
                      as the "Sergeant Gary Beikirch Memorial Highway".
+        344-o.     Portion of the state highway system to be designated
+                     as the "Zone Sergeant James G. Sweeney Memorial
+                     Bridge".
+        344-o*2.   Portion of the state highway system to be designated
+                     as the "Port Authority Police Officer Pavlos D.
+                     Pallas Memorial Bridge".
+        344-o*3.   Portion of the state highway system to be designated
+                     as the "Port Authority Police Officer Steven J.
+                     Tursellino Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
