@@ -10,10 +10,11 @@ Section 60.   Definitions.
         67.   Annual estimate; payments by participants.
         68.   Advances to county self-insurance fund.
         69.   Reserve.
-        70.   Excess or catastrophe insurance.
+        70.   Excess or catastrophe insurance; public group
+                self-insurance plans.
         71.   Accrual of liabilities.
         72.   Annual report.
         73.   Abandonment of plan.
         74.   Manner of adoption of local laws.
         75.   Transition provisions.
-        75-a.
+        75-a. (Enacted without section heading).
