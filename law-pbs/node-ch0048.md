@@ -24,7 +24,7 @@ Article  1.   The department of public service. (Secs. 1-27.)
                 (Secs. 90--104-a.)
          6.   Provisions affecting two  or  more  kinds  of  the  public
                 service and the persons and corporations furnishing such
-                service.  (Secs. 105--119-c.)
+                service.  (Secs. 105--119-d.)
          7.   Siting of major utility transmission facilities.
                 (Secs. 120--130.)
          7-A. Home insulation and conservation. (Secs. 135-a--135-o.)
