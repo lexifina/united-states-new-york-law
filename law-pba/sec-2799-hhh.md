@@ -109,3 +109,27 @@ consideration. Any decision of the authority on matters considered at
 such public hearing shall be in writing and be made available in the
 office of the authority for public inspection during regular office
 hours and posted on the authority website.
+  8. The authority may acquire, hold, own, lease, establish, construct,
+effectuate, operate, maintain, renovate, improve, extend or repair any
+of its facilities through, and cause any one or more of its powers,
+duties, functions or activities to be exercised or performed by, no more
+than two wholly owned subsidiary corporations of the authority for the
+purposes of operating parking and concessions including food, beverage,
+and retail services, and airline and aircraft services including
+ticketing, baggage and fueling services and other services for the
+operation of the airport. The authority may transfer to or from any such
+corporation, or between such corporations, any moneys, real property or
+other property or the services of any officers, employees or consultants
+for any of the purposes of this title. The directors or members of each
+such subsidiary corporation shall be the same persons holding the
+offices of members of the authority. Each such subsidiary corporation
+and any of its property, functions and activities shall have all of the
+privileges, immunities, tax exemptions and other exemptions of the
+authority and of the authority's property, functions and activities.
+Each such subsidiary corporation shall be subject to the restrictions
+and limitations to which the authority may be subject. Each such
+subsidiary corporation shall be subject to suit in accordance with
+section twenty-seven hundred ninety-nine-www of this title. The
+employees of any such subsidiary corporation, except those who are also
+employees of the authority, shall not be deemed employees of the
+authority.

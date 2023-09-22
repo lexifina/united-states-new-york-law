@@ -1,4 +1,4 @@
-  § 2350-ee. Disposal of agency property. 1. Definitions. For the
+  * § 2350-ee. Disposal of agency property. 1. Definitions. For the
 purposes of this section, unless a different meaning is required by the
 context:
   (a) "Contracting officer" shall mean the officer or employee of the
@@ -112,3 +112,4 @@ be transmitted to the persons entitled to receive copies of the annual
 statement of the agency under this title not less than thirty days in
 advance of such disposal, and a copy thereof shall be preserved in the
 files of the agency.
+  * NB Repealed December 31, 2023
