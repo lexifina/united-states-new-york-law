@@ -6,3 +6,4 @@ Title   I. Polling places.
        IV. Absentee voting.
         V. Challenging voters.
        VI. Early voting.
+      VII. Early mail voting.

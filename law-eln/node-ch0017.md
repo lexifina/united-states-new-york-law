@@ -318,6 +318,7 @@ Section 7-100. Ballots; provision for.
         7-114. Ballots; form for primary election.
         7-116. Ballots; order of names on.
         7-118. Ballots; facsimile and sample.
+        7-119. Ballots; early mail voters.
         7-120. Ballots; emergency use, to be furnished.
         7-121. Ballots which are counted by machine.
         7-122. Ballots; absentee voters.
@@ -384,8 +385,8 @@ Section 8-400. Absentee voting; application for ballot.
 Section 8-500. Watchers; provision for.
         8-502. Challenges; generally.
         8-504. Challenges; of voter at the polling place.
-        8-506. Challenges;   absentee,  military,  special  federal  and
-                 special presidential ballots.
+        8-506. Challenges;   early  mail,  absentee,  military,  special
+                 federal and special presidential ballots.
         8-508. Challenge report; preparation of.
         8-510. Challenge  report;   completion   of   and   closing   of
                  registration poll ledgers.
@@ -394,13 +395,25 @@ Section 8-500. Watchers; provision for.
 Section 8-600. Early voting.
         8-602. State  board  of  elections;  powers and duties for early
                  voting.
-                                ARTICLE 9
-                           CANVASS OF RESULTS
-                                 TITLE I
-                        CANVASS AT POLLING PLACES
+                                TITLE VII
+                            EARLY MAIL VOTING
+Section 8-700. Early voting by mail; application for ballot.
+        8-702. Early voting by mail; review of application by  board  of
+                 elections.
+        8-704. Early mail ballots; delivery of.
+        8-706. Electronic  early  mail  ballot  application  transmittal
+                 system.
+        8-708. Early voting by mail; method of.
+        8-710. Early mail ballots; deadline for receipt, and delivery to
+                 polling place.
+        8-712. Online early mail ballot tracking system.
+                                        ARTICLE 9
+                                    CANVASS OF RESULTS
+                                         TITLE I
+                                CANVASS AT POLLING PLACES
 Section 9-100. Canvass; required.
         9-102. Canvass; general provisions for.
-        9-104. Casting of ballot; absentee,  military,  special  federal
+        9-104. Casting  of  ballot;  absentee, military, special federal
                  and special presidential ballots.
         9-106. Paper ballots; accounting for number used.
         9-108. Canvass; ballots, verifying number cast.
@@ -411,26 +424,23 @@ Section 9-100. Canvass; required.
         9-120. Returns of canvass; generally.
         9-122. Proclamation of result.
         9-124. Returns of canvass, procedure after.
-        9-126. Return  of  canvass;  delivery  of  results to police and
+        9-126. Return of canvass; delivery  of  results  to  police  and
                  unofficial tally of election results.
         9-128. Canvass; return of.
                                 TITLE II
                       CANVASS BY BOARD OF ELECTIONS
 Section 9-200. Canvass of primary returns by board of elections; notices
                  to delegates; certificates.
-        9-202. Canvass of primary returns by state board  of  elections;
+        9-202. Canvass  of  primary returns by state board of elections;
                  convention rolls.
         9-204. County boards of canvassers.
-        9-206. Canvass  of  election  district  returns  of  general and
+        9-206. Canvass of  election  district  returns  of  general  and
                  special elections.
         9-208. Provisions  for  recanvass  of  vote  in  every  election
-                 district   in   the   state;   procedure   in  case  of
+                 district  in  the   state;   procedure   in   case   of
                  discrepancy.
-        9-209. Canvass of absentee, military  and  special  ballots  and
-                 ballots  cast  by voters with registration poll records
-                 missing on days of election or voters who have not  had
-                 their  identity  previously  verified or who have moved
-                 after registering.
+        9-209. Canvass  of  early  mail,  absentee, military and special
+                 ballots, and ballots cast in affidavit envelopes.
         9-210. Statements of canvass by canvassing boards.
         9-211. Audit of voter verifiable audit records.
         9-212. Determinations by county canvassing boards.
@@ -446,16 +456,16 @@ Section 9-200. Canvass of primary returns by board of elections; notices
                     VOTING BY MEMBERS OF ARMED FORCES
 Section 10-102. Military voters; definitions.
         10-104. Military voters; right to vote.
-        10-106. Military  voters;  registration  and   application   for
+        10-106. Military   voters;   registration  and  application  for
                   ballots.
         10-108. Military voters; distribution of ballots to.
         10-109. Military voters; cancellation of registration.
         10-112. Military voter; voting.
-        10-114. Military  ballots; deadline for receipt, and delivery to
+        10-114. Military ballots; deadline for receipt, and delivery  to
                   polling place.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
-        10-122. Military voter; absentee ballot, right to.
+        10-122. Military voter; early mail or absentee ballot, right to.
         10-124. Military   voting;  division  for  servicemen's  voting;
                   regulatory powers.
         10-126. Military voting; applicability of general provisions.
@@ -593,6 +603,7 @@ Section 15-100. Application of article.
         15-114. Number of voting machines.
         15-116. Inspectors of election.
         15-118. Registration of voters.
+        15-119. Early mail voting at village elections.
         15-120. Absentee voting at village elections.
         15-122. Absentee voting at village elections for persons  unable
                   to appear because of illness or physical disability.
@@ -670,10 +681,10 @@ Section 17-100. Definitions.
         17-158. Corrupt use of position or authority.
         17-160. Procuring fraudulent documents in order to vote.
         17-162. Judicial candidates not to contribute.
-        17-164. Political  contributions  by  owners  of  polling places
+        17-164. Political contributions  by  owners  of  polling  places
                   prohibited.
         17-166. Penalty.
-        17-168. Crimes against  the  elective  franchise  not  otherwise
+        17-168. Crimes  against  the  elective  franchise  not otherwise
                   provided for.
         17-170. Destroying or delaying election returns.
                                  TITLE 2
