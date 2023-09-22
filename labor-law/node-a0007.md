@@ -46,6 +46,7 @@ Section 200.   General duty to protect health and safety of employees;
         203-d. Employee personal identifying information.
         203-e. Prohibition of discrimination based on an employee's or a
                  dependent's reproductive health decision making.
+        203-f. Inventions made by employees.
         204.   Inspection of boilers; enforcement; fees; identification;
                  exceptions.
         204-b. Refunds.
@@ -96,3 +97,5 @@ Section 200.   General duty to protect health and safety of employees;
                  filing of order as judgment.
         219-a. Affirmation in lieu of oath.
         219-c. Public notice of employer violations.
+        219-d. Emergency alert notification system employer
+                 registration.

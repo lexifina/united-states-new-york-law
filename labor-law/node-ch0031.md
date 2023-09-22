@@ -14,7 +14,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
                 (§§ 150--154-a)
         5.    Hours of labor. (§§ 160--170)
         6.    Payment of wages. (§§ 190--199-a)
-        7.    General provisions. (§§ 200-219-a)
+        7.    General provisions. (§§ 200-219-d)
         8.    Public work. (§§ 220--224-f)
         8-A.  Grade crossing elimination work; hours, wages, employment
                 and general requirements. (§§ 225-227)
