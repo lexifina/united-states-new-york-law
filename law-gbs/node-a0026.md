@@ -93,6 +93,9 @@ Section 390.         Substitution of spurious oils for internal
                        insurance on accounts.
         396-aa.      Simulated check.
         396-aa*2.    Unsolicited telefacsimile advertising.
+        396-aaa.     Public display of tobacco and electronic cigarette
+                       advertisements and smoking paraphernalia
+                       prohibited.
         396-b.       Advertisements.
         396-bb.      Sale of motor fuels to disabled persons.
         396-c.       Advertisements by persons engaged in dental
