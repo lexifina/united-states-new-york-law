@@ -10,6 +10,7 @@ Section 15-100. Application of article.
         15-114. Number of voting machines.
         15-116. Inspectors of election.
         15-118. Registration of voters.
+        15-119. Early mail voting at village elections.
         15-120. Absentee voting at village elections.
         15-122. Absentee voting at village elections for persons unable
                   to appear because of illness or physical disability.
