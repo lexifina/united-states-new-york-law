@@ -388,17 +388,16 @@ Section 8-500. Watchers; provision for.
         8-506. Challenges;   early  mail,  absentee,  military,  special
                  federal and special presidential ballots.
         8-508. Challenge report; preparation of.
-        8-510. Challenge  report;   completion   of   and   closing   of
-                 registration poll ledgers.
+        8-510. Challenge report; completion of and procedure after.
                                 TITLE VI
                               EARLY VOTING
 Section 8-600. Early voting.
-        8-602. State  board  of  elections;  powers and duties for early
+        8-602. State board of elections; powers  and  duties  for  early
                  voting.
                                 TITLE VII
                             EARLY MAIL VOTING
 Section 8-700. Early voting by mail; application for ballot.
-        8-702. Early voting by mail; review of application by  board  of
+        8-702. Early  voting  by mail; review of application by board of
                  elections.
         8-704. Early mail ballots; delivery of.
         8-706. Electronic  early  mail  ballot  application  transmittal
