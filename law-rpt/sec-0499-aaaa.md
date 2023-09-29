@@ -6,9 +6,9 @@ managers of a condominium or the board of directors of a cooperative
 apartment corporation, or (b) with respect to any other eligible
 building, the owner of such building.
   2. "Application for tax abatement" shall mean an application for a
-solar electric generating system or electric energy storage equipment
-tax abatement pursuant to section four hundred ninety-nine-cccc of this
-title.
+solar electric generating system and/or electric energy storage
+equipment tax abatement pursuant to section four hundred
+ninety-nine-cccc of this title.
   3. "Architect" shall mean a person licensed and registered to practice
 the profession of architecture under the education law.
   4. "Compliance period" shall mean the tax year in which a tax
@@ -23,17 +23,20 @@ and duties of a designated agency pursuant to this title.
 real property, as defined in subdivision one of section eighteen hundred
 two of this chapter, located within a city having a population of one
 million or more persons. No building shall be eligible for more than one
-tax abatement pursuant to this title.
+tax abatement pursuant to this title prior to January first, two
+thousand twenty-four.
   8. "Eligible solar electric generating system expenditures" and
 "eligible electric energy storage equipment expenditures" shall mean
 reasonable expenditures for materials, labor costs properly allocable to
 on-site preparation, assembly and original installation, architectural
 and engineering services, and designs and plans directly related to the
-construction or installation of a solar electric generating system or
-electric energy storage equipment installed in connection with an
-eligible building. Such eligible expenditures shall not include interest
-or other finance charges, or any expenditures incurred using a federal,
-state or local grant.
+construction or installation of a solar electric generating system
+and/or electric energy storage equipment installed in connection with an
+eligible building. Solar parking canopy structures shall be considered a
+solar electric generating system for the purposes of this subdivision.
+Such eligible expenditures shall not include interest or other finance
+charges, or any expenditures incurred using a federal, state or local
+grant.
   9. "Engineer" shall mean a person licensed and registered to practice
 the profession of engineering under the education law.
   10. "Solar electric generating system" shall mean a system that uses
