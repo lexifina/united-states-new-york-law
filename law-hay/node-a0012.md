@@ -873,4 +873,24 @@ Section 340-a.     Designation of state interstate routes.
         344-o*3.   Portion of the state highway system to be designated
                      as the "Port Authority Police Officer Steven J.
                      Tursellino Memorial Highway".
+        344-o*4.   Portion of the state highway system to be designated
+                     as the "Trooper Lawrence P. Gleason Memorial
+                     Bridge".
+        344-o*5.   Portion of the state highway system to be designated
+                     as the "Deputy Chief Brian Buell Memorial Bridge".
+        344-o*6.   Portion of the state highway system to be designated
+                     as the "Captain Kenneth Sgroi Memorial Highway".
+        344-o*7.   Portion of the state highway system to be designated
+                     as the "Trooper James R. Gohery Memorial Bridge".
+        344-o*8.   Portion of the state highway system to be designated
+                     as the "Trooper William P. Keane Memorial Bridge".
+        344-o*9.   Portion of the state highway system to be designated
+                     as the "Trooper Theodore A. Dobbs Memorial Bridge".
+        344-o*10.  Portion of the state highway system to be designated
+                     as the "Firefighter Peyton L. S. Morse Memorial
+                     Highway".
+        344-o*11.  Portion of the state highway system to be designated
+                     as the "Trooper Fabio Buttitta Memorial Bridge".
         345-a.     Abandonment and transfer of state highways.
+        345-b.     Portion of the state highway system to be designated
+                     as the "Doc Schelin Memorial Highway".
