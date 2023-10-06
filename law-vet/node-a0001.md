@@ -3,6 +3,7 @@
 Section 1.      Definitions.
         2.      Department of veterans' services.
         3.      Veterans' services commission.
+        3-a.    Veterans employment task force.
         4.      General functions, powers and duties of department.
         5.      Veteran speaker education program.
         6.      Cooperation and facilities of other departments.
