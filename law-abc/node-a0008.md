@@ -13,7 +13,6 @@ Section 100.     Alcoholic beverages generally.
         104-a.   Provisions governing vendors.
         105.     Provisions governing licensees to sell at retail for
                    consumption off the premises.
-        105-a.   Sale of beer at retail on Sunday.
         105-b.   Posting of certain signs.
         106.     Provisions governing licensees to sell at retail for
                    consumption on the premises.
