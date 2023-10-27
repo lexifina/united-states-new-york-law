@@ -23,15 +23,14 @@ Article                                                       Sections
     8-A.  Small loans to owners of multiple
             dwellings to remove substandard or
             insanitary conditions......................... 450 - 457
-    8-B.  Loans to owner-occupants of one to
-            four unit private and multiple
-            dwellings..................................... 470 - 478
+    8-B.  Loans to owners of one to four unit
+            private and multiple dwellings................ 470 - 478
     9.    Acquisition of property......................... 500 - 508
    10.    Sale or lease of projects....................... 550 - 560
    11.    Housing development fund companies.............. 570 - 582
    12.    New York city housing development
             corporation................................... 650 - 670
-   13.    Miscellaneous................................... 600 - 610
+   13.    Miscellaneous................................... 600 - 614
    15.    Participation loans to owners of
             multiple dwellings by private investors
             and municipalities utilizing federal
