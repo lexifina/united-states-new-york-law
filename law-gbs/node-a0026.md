@@ -36,6 +36,8 @@ Section 390.         Substitution of spurious oils for internal
         391-n.       Sale of reptiles; notice.
         391-o.       Sale or promotional distribution of dietary
                        supplements containing ephedra.
+        391-oo.      Sale of over-the-counter diet pills and dietary
+                       supplements for weight loss or muscle building.
         391-p.       Prohibit the rental of clothing articles previously
                        worn.
         391-q.       Rebates.

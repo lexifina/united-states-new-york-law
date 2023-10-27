@@ -76,6 +76,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          24.      Trademarks (§§ 360--360-r).
          24-A.    Fair trade law (§§ 369-a--369-eee).
          24-C.    Tax Preparers (§§ 371-373).
+         24-D.    Research relating to electronic cigarettes (§ 375).
          25.      Fair credit reporting act (§§ 380--380-v).
          25-A.    Articles of bedding (§§ 383--389-c).
          25-B.    Use of safety glazing materials (§§ 389-m--389-r).
