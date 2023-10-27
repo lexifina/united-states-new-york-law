@@ -27,3 +27,4 @@ Section 554.   Definitions.
         577.   Interpretation of article.
         577-a. Premium finance agreements.
         578.   Severability.
+        578-a. Electronic notes and documents.
