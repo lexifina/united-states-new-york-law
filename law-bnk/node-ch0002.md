@@ -51,7 +51,7 @@ Article I.      Short title; definitions; miscellaneous provisions
         12.     (Enacted  without  article  heading   or   schedule   of
                   sections) (§§ 507-520).
         XII-A.  Mutual trust investment companies (§§ 550-553).
-        XII-B.  Insurance premium finance agencies (§§ 554-578).
+        XII-B.  Insurance premium finance agencies (§§ 554-578-a).
         12-C.   Budget planners (§§ 579-587).
         12-D.   Licensed mortgage bankers (§§ 589-599).
         12-E    Licensed mortgage loan originators (§§ 599-a--599-r).
