@@ -1,6 +1,6 @@
                               ARTICLE XIII
                  MUNICIPAL HOUSING AUTHORITIES, CREATED
-Title  1.     New York City Housing Authority (§§ 400--402-f).
+Title  1.     New York City Housing Authority (§§ 400--402-g).
        2.     Buffalo Municipal Housing Authority (§§ 403-404).
        3.     Schenectady Municipal Housing Authority (§§ 405-406).
        4.     New Rochelle Municipal Housing Authority (§ 407).
@@ -160,7 +160,6 @@ Title  1.     New York City Housing Authority (§§ 400--402-f).
        146.   Village of Sackets Harbor Housing Authority (§ 551).
        147.   Village of Watkins Glen Housing Authority (§ 552).
        148.   Village of Horseheads Housing Authority (§ 553).
-       149.   Village of West Carthage Housing Authority (§ 554).
        150.   Village of Great Neck Housing Authority (§ 555).
        150*.  Village of New Square Housing Authority (§ 555*).
        151.   Village of Frankfort Housing Authority (§ 556).
