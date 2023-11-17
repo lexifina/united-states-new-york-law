@@ -32,6 +32,8 @@ Section 701.   Jurisdiction; courts; venue.
                  make repairs.
         756.   Stay of summary proceedings or actions for rent under
                  certain conditions.
+        756-a. Stay of action or proceeding when a party's claim to
+                 title is in dispute.
         757.   Eviction as the result of foreclosure.
         761.   Redemption by lessee.
         763.   Redemption by creditor of lessee.
