@@ -9,6 +9,8 @@ Section 50.     Right of privacy.
         50-e.   Personnel records of bridge and tunnel officers,
                   sergeants and lieutenants.
         50-f.   Right of publicity.
+        50-g.   Disclosure of convictions sealed pursuant to section
+                  160.57 of the criminal procedure law.
         51.     Action for injunction and for damages.
         52.     Televising, broadcasting or taking motion pictures of
                   certain proceedings prohibited.
