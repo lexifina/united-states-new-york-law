@@ -891,6 +891,33 @@ Section 340-a.     Designation of state interstate routes.
                      Highway".
         344-o*11.  Portion of the state highway system to be designated
                      as the "Trooper Fabio Buttitta Memorial Bridge".
+        344-o*12.  Portion of the state highway system to be designated
+                     as the "Lance Cpl. Scott Lee Schultz Memorial
+                     Bridge".
+        344-o*13.  Portion of the state highway system to be designated
+                     as the "Major General Norbert J. Rappl Memorial
+                     Highway".
+        344-o*14.  Portion of the state highway system to be designated
+                     as the "Catholic War Veterans Memorial Highway".
+        344-o*15.  Portion of state highway system to be designated as
+                     the "John Jay High School Veterans Memorial
+                     Highway".
+        344-o*16.  Portion of the state highway system to be designated
+                     and known as the "Specialist Gerald B. Penn
+                     Memorial Bridge".
+        344-o*17.  Portion of the state highway system to be designated
+                     and known as the "Specialist Peter J. Loretto, Jr.
+                     Memorial Bridge".
+        344-o*18.  Portion of the state highway system to be designated
+                     as the "SP4 George Harold Fry Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
+        345-b*2.   Portion of the state highway system to be designated
+                     as the "Sergeant Elijah A. Briggs Memorial
+                     Highway".
+        345-b*3.   Portion of the state highway system to be designated
+                     as the "Corporal Derick Franklin Brinckerhoff
+                     Memorial Highway".
+        345-b*4.   Portion of the state highway system to be designated
+                     as the "Chief Daniel Nimham Memorial Highway".
