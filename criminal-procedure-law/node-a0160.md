@@ -13,6 +13,7 @@ Section 160.10 Fingerprinting; duties of police with respect thereto.
         160.55 Order upon termination of criminal action by conviction
                  for noncriminal offense; entry of waiver;
                  administrative findings.
+        160.57 Automatic sealing of convictions.
         160.58 Conditional sealing of certain controlled substance,
                  marihuana or specified offense convictions.
         160.59 Sealing of certain convictions.
