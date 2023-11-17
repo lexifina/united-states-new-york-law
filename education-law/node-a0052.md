@@ -81,6 +81,8 @@ Section 2550.   Application of article.
         2586.   Anniversary day as a holiday for pupils in the public
                   schools of the borough of Brooklyn and in the borough
                   of Queens, city of New York.
+        2586-a. Diwali as a holiday in the public schools of the city of
+                  New York.
         2587.   Tenure in fashion institute of technology.
         2588.   Seniority, retention and displacement rights in
                   connection with abolition of positions in city school
