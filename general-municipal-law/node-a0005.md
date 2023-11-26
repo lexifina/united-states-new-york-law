@@ -177,3 +177,6 @@ Section 70.     Payment of judgments against municipal corporation.
         99-w.   Land for monument erection.
         99-x.   Prohibit symbols of hate.
         99-y.   Internet access and communications.
+        99-z.   Municipal officers or employees prohibited from
+                  displaying political advertisements on public
+                  property.
