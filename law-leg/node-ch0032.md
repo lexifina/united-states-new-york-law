@@ -26,5 +26,5 @@ Article  1.    Short title (§ 1).
                  (§§ 86-88).
          6.    Internal control responsibilities of the state
                  legislature (§§ 89-92).
-         6-A.  Veterans internship program (§ 95).
+         6-A.  Veterans internship program (V.I.P. NY) (§ 95).
          7.    Laws repealed; when to take effect (§§ 100-101).
