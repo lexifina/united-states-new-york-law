@@ -11,7 +11,7 @@ follows:
               CHAPTER SIXTY-ONE-B OF THE CONSOLIDATED LAWS
                          MULTIPLE RESIDENCE LAW
 Article 1. Introductory provisions; definitions (Secs. 1--4).
-        2. Miscellaneous application provisions (Secs. 8--15).
+        2. Miscellaneous application provisions (Secs. 8--16).
         3. Old multiple dwellings (Secs. 25--43).
         4. Hotels and similar dwellings (Secs. 50--72).
         5. New multiple dwellings-general provisions (Secs.  100--174).
