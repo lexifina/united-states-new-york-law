@@ -54,7 +54,7 @@ Article                                                       Sections
    22.    Affordable housing development loans.......... 1150 - 1153
    24.    National affordable housing act
             program..................................... 1170 - 1174
-   25.    New York access to home program............... 1200 - 1202
+   25.    New York access to home program............... 1200 - 1203
    26.    New York main street program.................. 1220 - 1222
    27.    Rural and urban community investment fund
             program..................................... 1230 - 1232
