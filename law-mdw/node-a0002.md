@@ -7,3 +7,4 @@ Section 8.  General application of chapter to dwellings.
         12. Prohibited uses.
         13. Application of chapter to existing dwellings.
         14. Application of chapter to uncompleted dwellings.
+        15. Multiple dwelling emergency information.
