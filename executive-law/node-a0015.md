@@ -8,6 +8,7 @@ Section 290.   Purposes of article.
         294-a. Statewide campaign for the acceptance, inclusion,
                  tolerance and understanding of diversity.
         295.   General powers and duties of division.
+        295-a. New York Asian American and Pacific Islander commission.
         296.   Unlawful discriminatory practices.
         296-a. Unlawful discriminatory practices in relation to credit.
         296-c. Unlawful discriminatory practices relating to interns.
