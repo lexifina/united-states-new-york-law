@@ -11,6 +11,8 @@ Section 390.         Substitution of spurious oils for internal
                        internet access to the public.
         390-d.       Information concerning services for human
                        trafficking victims in facilities at truck stops.
+        390-e.       Unauthorized installation of certain security
+                       devices prohibited.
         391.         Marking retreaded, recapped or recut tires.
         391-a.       Unlawful acts relating to liquid fuels, lubricating
                        oils and similar products.
@@ -215,6 +217,7 @@ Section 390.         Substitution of spurious oils for internal
         399-ii*2.    Prohibit the sale of crib bumper pads and restrict
                        use of such pads in certain settings.
         399-j.       Safety standards; moveable soccer goals.
+        399-k.       Access to restroom facilities.
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.
