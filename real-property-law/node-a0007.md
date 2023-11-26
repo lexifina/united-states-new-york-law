@@ -68,6 +68,7 @@ Section  220.     Action for use and occupation.
                     action.
          235-i.   Unreasonable tenant fees for reproductions of keys.
          236.     Assignment of lease of a deceased tenant.
+         236-a.   Termination of lease of a deceased tenant.
          237.     Discrimination in leases with respect to bearing of
                     children.
          237-a.   Discrimination against children in dwelling houses and
