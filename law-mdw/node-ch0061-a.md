@@ -7,7 +7,7 @@ Passed, three-fifths being present.
 Assembly, do enact as follows:
               CHAPTER SIXTY-ONE-A OF THE CONSOLIDATED LAWS
 Article  1.   Introductory provisions; definitions (Sec. 1-4).
-         2.   Miscellaneous application provisions (Secs. 8-14).
+         2.   Miscellaneous application provisions (Secs. 8-15).
          3.   Multiple dwellings--general provisions (Sec. 25-84).
          4.   Fireproof multiple dwellings (Sec. 100-121).
          5.   Non-fireproof multiple dwellings (Sec. 140-160).
