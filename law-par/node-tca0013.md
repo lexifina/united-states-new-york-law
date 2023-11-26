@@ -8,8 +8,9 @@ Section 13.01   Transfer of parks, parkways and other property.
         13.06   Consents to public utilities; licenses and easements.
         13.07   Signs and advertising structures restricted.
         13.09   Solicitation restricted.
-        13.10   Deposit of rubbish.
+        13.10   Dumping on park lands prohibited.
         13.11   Real property abutting parks or parkways.
+        13.12   Littering on park lands prohibited.
         13.13   Regulation of boating and water sports.
         13.14   Closure of lands owned, held or administered by the
                   office.
