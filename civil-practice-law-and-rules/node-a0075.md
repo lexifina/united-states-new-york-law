@@ -27,6 +27,7 @@
                 (c) Person or agency making award.
         7509. Modification of award by arbitrator.
         7510. Confirmation of award.
+      7510-a. Confirmation of award for public sector arbitrations.
         7511. Vacating or modifying award.
                 (a) When application made.
                 (b) Grounds for vacating.
@@ -44,5 +45,5 @@
                     (ii) Exceptions.
                     (iii) Mandatory arbitration clause null and void.
                 (c)
-        7516.   Confirmation of an award based on a consumer credit
-                  transaction.
+        7516. Confirmation of an award based on a consumer credit
+                transaction.
