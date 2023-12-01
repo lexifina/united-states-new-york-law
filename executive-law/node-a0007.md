@@ -33,5 +33,7 @@ Section 161.     Certain searches, the filing of papers, and certified
                    prospective tenants.
         170-e*2. Collection of demographic information.
         170-f.   Website accessibility; contractors and vendors.
+        170-g.   Collection of demographic information; sexual
+                   orientation and gender expression.
         171.     Discovery and disposition of human remains and funerary
                    objects.
