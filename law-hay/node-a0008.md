@@ -33,6 +33,7 @@ Section 170.   Survey for the laying out of a highway.
         205.   Highways abandoned.
         205-a. Seasonal limited use highway.
         205-b. Qualified abandonment of certain town highways.
+        205-c. Minimum maintenance roads.
         206.   Highways  in  lands  acquired  by  the  United States for
                  fortification purposes deemed abandoned.
         207.   Discontinuance of highway.
