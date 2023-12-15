@@ -17,7 +17,7 @@ Section 350.   Definitions.
         356.   Failure to provide proper food and drink to impounded
                  animal.
         357.   Selling or offering to sell or exposing diseased animal.
-        358.   Selling disabled horses.
+        358.   Selling disabled Equidae.
         358-a. Live animals as prizes prohibited.
         359.   Carrying animal in a cruel manner.
         359-a. Transportation of horses.
@@ -60,3 +60,5 @@ Section 350.   Definitions.
                  horse breeding stock.
         384.   Special provisions related to the importation of dogs and
                  cats into the state for sale, resale or adoption.
+        385.   Prohibition of slaughtering horses for human or animal
+                 consumption.

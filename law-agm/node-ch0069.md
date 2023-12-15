@@ -43,7 +43,7 @@ Article   1.      Short title; definitions; matters of public interest
                     inoculants (§§ 147-a--147-i).
          11.      Integrated pest management program (§§ 148-149).
          11-A.    Agricultural environmental management
-                    (§§ 150--151-i).
+                    (§§ 150--151-j).
          11-B.    Soil health and climate resiliency (§§ 151-l--151-o).
          12.      Adulteration and sale of turpentine and linseed oil
                     (§§ 152-156).
@@ -91,7 +91,7 @@ Article   1.      Short title; definitions; matters of public interest
                     (§§ 321-326).
          25-AAAA. Farmland Viability Program (§§ 327-330).
          25-B.    Abandoned animals (§§ 331-332).
-         26.      Animals (§§ 350-384).
+         26.      Animals (§§ 350-385).
          26-A.    Care of animals by pet dealers (§§ 400-408).
          26-B.    Emergency response services for animals (§§ 410-411).
          26-C.    Regulation of animal shelters (§§ 420-434).
