@@ -11,7 +11,7 @@ Section 511.   Definitions.
         516.   Improper use of credit cards or debit cards; defense of
                  lawful detention.
         517.   Statements of account.
-        518.   Credit card surcharge prohibited.
+        518.   Credit card surcharge notice requirement.
         518-a. Presentment of social security number as condition for
                  accepting a check, traveler's check, gift certificate,
                  money order or other negotiable instrument in payment
