@@ -12,3 +12,4 @@ Section 150.   Definitions.
         151-g. Confidentiality.
         151-h. Report.
         151-i. Rules and regulations.
+        151-j. Agrivoltaics research program.
