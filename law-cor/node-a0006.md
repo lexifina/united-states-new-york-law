@@ -26,6 +26,7 @@ Section 112.   Powers and duties of commissioner relating to
         133.   Superintendent to report concerning incarcerated
                  individual believed mentally ill when crime was
                  committed.
+        134.   Religious dietary requirements.
         136.   Correctional education.
         137.   Program of treatment, control, discipline at correctional
                  facilities.
