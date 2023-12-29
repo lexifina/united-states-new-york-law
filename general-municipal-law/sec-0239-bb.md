@@ -188,3 +188,13 @@ panel for the purpose of revising or updating a previously approved
 plan, or developing a new plan, or to provide the secretary of state
 information pursuant to subdivision ten of this section, shall cease on
 December thirty-first, two thousand twenty-four.
+  12. Notwithstanding any other provision of law to the contrary, monies
+constituting the funds of the village incorporation commission
+established pursuant to section 2-259 of the village law shall be
+deposited with the state comptroller and held for the purposes of the
+village incorporation commission established in article two of the
+village law; provided, however, that such monies shall be derived from
+the appropriation dedicated to the matching funds program pursuant to
+subdivision eight of this section and provided further, that such
+funding for such entity shall not be subject to the requirements of
+subdivision eight of this section related to savings.
