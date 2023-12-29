@@ -1,6 +1,6 @@
                    CHAPTER 28 OF THE CONSOLIDATED LAWS
                               INSURANCE LAW
-ARTICLE   1. General provisions. (§§ 101-111)
+ARTICLE   1. General provisions. (§§ 101-111-a)
           2. Organization of the department of financial services. (§§
                201-214)
           3. Administrative and procedural provisions. (§§ 301-343)
