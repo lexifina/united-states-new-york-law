@@ -1,13 +1,13 @@
                    CHAPTER 34 OF THE CONSOLIDATED LAWS
                       LIMITED LIABILITY COMPANY LAW
 Article     I. Short title and definitions. (§§ 101-102)
-           II. Formation. (§§ 201-214)
+           II. Formation. (§§ 201-215)
           III. Service of process. (§§ 301-305)
            IV. Management by members or managers. (§§ 401-420)
             V. Contributions and distributions. (§§ 501-509)
            VI  Members and membership. (§§ 601-611)
           VII. Dissolution. (§§ 701-705)
-         VIII. Foreign limited liability companies. (§§ 801-809)
+         VIII. Foreign limited liability companies. (§§ 801-810)
             X. Mergers. (§§ 1001-1007)
            XI. Miscellaneous. (§§ 1101-1104)
           XII. Professional service limited liability companies.
