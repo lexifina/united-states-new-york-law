@@ -13,6 +13,7 @@ Section 390.         Substitution of spurious oils for internal
                        trafficking victims in facilities at truck stops.
         390-e.       Unauthorized installation of certain security
                        devices prohibited.
+        390-e*2.     Skimming awareness notice.
         391.         Marking retreaded, recapped or recut tires.
         391-a.       Unlawful acts relating to liquid fuels, lubricating
                        oils and similar products.
@@ -73,6 +74,7 @@ Section 390.         Substitution of spurious oils for internal
         393-c.       Sale of required labor postings.
         393-d.       Sale of certified copies of property deeds.
         393-e.       Sale of abandoned property location services.
+        393-f.       Voluntary third-party notification.
         394.         Lost or destroyed certificate of stock.
         394-a.       Proof of lost negotiable paper.
         394-b.       Limitations on certain contracts for instruction or
@@ -162,6 +164,7 @@ Section 390.         Substitution of spurious oils for internal
                        certain non-profit organizations.
         397-a.       Distributing unsolicited advertising on private
                        property prohibited; certain cities.
+        397-b.       Digital billboards.
         398.         Bills of lading to be issued by vessels
                        transporting merchandise within the state.
         398-a.       Shipment of motor vehicles outside the continental
@@ -211,6 +214,7 @@ Section 390.         Substitution of spurious oils for internal
         399-h.       Disposal of records containing personal identifying
                        information.
         399-hh.      Sale of whipped cream chargers.
+        399-hhh.     Sale of sodium nitrate and sodium nitrite.
         399-i.       Prohibit the sale of unsafe cribs and restrict use
                        of such cribs in certain settings.
         399-ii.      Furniture tip restraint device.
