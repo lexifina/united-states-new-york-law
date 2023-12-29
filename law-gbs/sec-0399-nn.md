@@ -1,6 +1,6 @@
-  * § 399-nn. Sale of digital electronic equipment; diagnostic and
-repair information. 1. Definitions. For the purposes of this section,
-the following terms shall have the following meanings:
+  § 399-nn. Sale of digital electronic equipment; diagnostic and repair
+information. 1. Definitions. For the purposes of this section, the
+following terms shall have the following meanings:
   (a) "Authorized repair provider" means an individual or business who
 has an arrangement with the original equipment manufacturer under which
 the original equipment manufacturer grants to the individual or business
@@ -303,4 +303,3 @@ equipment manufacturer and an authorized repair provider related to
 either party's compliance with an existing authorized repair agreement,
 an authorized repair provider shall have all the rights and remedies
 provided in this section.
-  * NB Effective December 28, 2023
