@@ -1,4 +1,4 @@
-  * § 1020-mm. Prioritization of emergency services. 1. If, during a
+  § 1020-mm. Prioritization of emergency services. 1. If, during a
 widespread prolonged outage that affects at least twenty thousand
 customers in the service territory of the authority, and the service
 provider is not able to restore electric power services within
@@ -20,4 +20,3 @@ that is capable of providing adequate electricity to operate all life
 safety systems and the basic operations of a police department, fire
 department, ambulance service or advanced life support first response
 service.
-  * NB Effective December 22, 2023
