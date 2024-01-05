@@ -54,8 +54,6 @@ Title  4.     Dormitory Authority (§§ 1675-1694).
                   * NB Authority dissolved September 1, 1977
        15.    Auburn Industrial Development Authority
                 (§§ 2300-2338).
-       16.    Suffolk County Judicial Facilities Agency
-                (§§ 2350-a--2350-ff).
        17.    State of New York Mortgage Agency Act
                 (§§ 2400--2429-f).
        18.    State of New York Municipal Bond Bank Agency Act
