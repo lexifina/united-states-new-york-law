@@ -1,4 +1,3 @@
-                             * ARTICLE 24-D
+                              ARTICLE 24-D
                RESEARCH RELATING TO ELECTRONIC CIGARETTES
 Section 375. Research relating to electronic cigarettes.
-  * NB Effective January 1, 2024
