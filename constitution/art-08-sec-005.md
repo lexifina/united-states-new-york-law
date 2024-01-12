@@ -83,7 +83,7 @@ thereafter shall be maintained on an actuarial reserve basis with
 current payments to the reserve adequate to provide for all current
 accruing liabilities.
   E. Indebtedness contracted on or after January first, nineteen hundred
-sixty-two and prior to January first, two thousand twenty-four, for the
+sixty-two and prior to January first, two thousand thirty-four, for the
 construction or reconstruction of facilities for the conveyance,
 treatment and disposal of sewage. The legislature shall prescribe the
 method by which and the terms and conditions under which the amount of
