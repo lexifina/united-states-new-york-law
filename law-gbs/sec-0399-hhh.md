@@ -1,4 +1,4 @@
-  * § 399-hhh. Sale of sodium nitrate and sodium nitrite. 1. No person,
+  § 399-hhh. Sale of sodium nitrate and sodium nitrite. 1. No person,
 corporation, partnership, limited liability company, firm or any other
 business entity doing business within this state shall sell or offer for
 sale sodium nitrate or sodium nitrite to any person under the age of
@@ -21,4 +21,3 @@ dollars for the second and each subsequent offense, provided this
 section shall not be construed to limit any other criminal or civil
 liability such person, corporation, partnership, limited liability
 company, firm or other business entity may be subject to under law.
-  * NB Effective January 21, 2024
