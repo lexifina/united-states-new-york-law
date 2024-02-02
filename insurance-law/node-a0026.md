@@ -27,3 +27,5 @@ Section 2601.   Unfair claim settlement practices; penalties.
                   tissue donor.
         2617.   Unfair discrimination for the use of prescriptions to
                   block the effects of opioids.
+        2618.   Standards for prompt investigation and settlement of
+                  claims.

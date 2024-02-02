@@ -24,7 +24,7 @@ ARTICLE   1. General provisions. (§§ 101-111-a)
                and practices. (§§ 2401-2409)
          25. Prohibitions against controlled business. (§§ 2502-2505)
          26. Unfair claim settlement practices; other misconduct;
-               discrimination.  (§§ 2601-2617)
+               discrimination.  (§§ 2601-2618)
          27. Holocaust victims insurance act of 1998. (§§ 2701-2711)
          28. Use of credit information. (§§ 2801-2809)
          29. Pharmacy benefit managers. (§§ 2901-2914)
