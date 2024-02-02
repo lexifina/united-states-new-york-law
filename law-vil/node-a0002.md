@@ -4,7 +4,7 @@ Section 2-200 Population and area requirements.
         2-202 Petition for incorporation.
         2-204 Notice of hearing.
         2-206 Proceeding on hearing.
-        2-208 Decision as to village establishment.
+        2-208 Decision to commence village incorporation election.
         2-210 Review of decision.
         2-212 Right to election.
         2-214 Notice of election.
@@ -33,5 +33,5 @@ Section 2-200 Population and area requirements.
         2-258 Apportionment of property and obligations of a special
                 district of a town upon the incorporation of a part in a
                 village.
-        2-259 Village incorporation commission.
-        2-260 Fiscal study reporting.
+        2-259 Fiscal study reporting.
+        2-260 Village incorporation commission.
