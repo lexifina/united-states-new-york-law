@@ -14,7 +14,6 @@ Section 30.   Residential gas, electric and steam service policy.
         39.   Meter reading and estimated bills.
         40.   Voluntary third-party notification.
         41.   Finality of certain utility charges.
-        41-a. Finality of charges; non-residential customers.
         42.   Other charges.
         42-a. Payment of wages to workers; certain cases.
         43.   Complaint handling procedures.
