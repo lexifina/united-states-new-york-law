@@ -34,4 +34,5 @@ Section 2-200 Population and area requirements.
                 district of a town upon the incorporation of a part in a
                 village.
         2-259 Fiscal study reporting.
-        2-260 Village incorporation commission.
+        2-260 Village incorporation commission and general
+                administration.
