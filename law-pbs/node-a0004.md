@@ -45,6 +45,7 @@ Section 64.     Application of article.
         66-u.   Gas safety reports.
         66-v.   Requirements for certain climate risk-related and energy
                   transition projects.
+        66-w.   Finality of charges; small non-residential customers.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
         68.     Certificate of public convenience and necessity.
