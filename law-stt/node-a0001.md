@@ -6,7 +6,8 @@ Section 101.     Definitions.
         103.     Functions, powers and duties of the office.
         103-a.   State information technology innovation center.
         103-b.   Gender-neutral terminology; state agencies.
-        103-b*2. Website accessibility; state agencies.
+        103-c.   State agency websites; mobile friendly websites.
+        103-d.   Website accessibility; state agencies.
         104.     Advisory council for technology.
         105.     Functions, powers and duties of the council.
         106.     Responsibility to respond to the freedom of information
