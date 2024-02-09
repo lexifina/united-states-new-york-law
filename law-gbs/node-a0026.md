@@ -37,17 +37,12 @@ Section 390.         Substitution of spurious oils for internal
         391-m.       Manufacture and sale of in-line skates; regulation
                        of.
         391-n.       Sale of reptiles; notice.
-        391-o.       Sale or promotional distribution of dietary
-                       supplements containing ephedra.
         391-oo.      Sale of over-the-counter diet pills and dietary
                        supplements for weight loss or muscle building.
         391-p.       Prohibit the rental of clothing articles previously
                        worn.
         391-q.       Rebates.
-        391-r.       Restricted access to retail sale of ipecac.
-        391-s.       Restricted access to retail sale of
-                       dextromethorphan, commonly known as "dxm".
-        391-s*2.     Sale and distribution of novelty lighters
+        391-s.       Sale and distribution of novelty lighters
                        prohibited.
         391-t.       Sale of small animals; instructions on care.
         391-u.       Pricing goods and services on the basis of gender
@@ -213,15 +208,13 @@ Section 390.         Substitution of spurious oils for internal
         399-gg.      Packaging of electronic liquid.
         399-h.       Disposal of records containing personal identifying
                        information.
-        399-hh.      Sale of whipped cream chargers.
-        399-hhh.     Sale of sodium nitrate and sodium nitrite.
         399-i.       Prohibit the sale of unsafe cribs and restrict use
                        of such cribs in certain settings.
         399-ii.      Furniture tip restraint device.
         399-ii*2.    Prohibit the sale of crib bumper pads and restrict
                        use of such pads in certain settings.
         399-j.       Safety standards; moveable soccer goals.
-        399-k.       Access to restroom facilities.
+        399-k.       Access to toilet facilities for utility workers.
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.
