@@ -185,7 +185,7 @@ Article
                                TITLE VIII
                              THE PROFESSIONS
   130*     General provisions (§§ 6500-6516.)
-             Subarticle 1. Introductory summary (§§ 6500--6505-d.)
+             Subarticle 1. Introductory summary (§§ 6500--6505-e.)
              Subarticle 2. State management (§§ 6506-6508.)
              Subarticle 3. Professional misconduct (§§ 6509-6511.)
              Subarticle 4. Unauthorized acts (§§ 6512-6516.)

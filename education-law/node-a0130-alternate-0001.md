@@ -20,6 +20,8 @@ Section 6500.   Introduction.
                   careers.
         6505-d. Evaluation of prior disciplinary history for
                   authorization to practice.
+        6505-e. Provision of information related to coursework and
+                  training in nutrition.
                      Subarticle 2. State management.
 Section 6506.   Supervision by the board of regents.
         6507.   Administration by the education department.
