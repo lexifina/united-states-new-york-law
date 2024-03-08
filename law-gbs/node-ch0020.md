@@ -180,4 +180,5 @@ AN ACT relating to general business, constituting chapter twenty of the
                     (§§ 1300-1316).
          44.      Regulation of surrogacy programs and assisted
                     reproduction service providers (§§ 1400-1404).
+         44-A.    Freelance isn't free act (§§ 1410-1415).
          46.      Laws repealed; when to take effect (§§ 1600-1601).
