@@ -9,7 +9,7 @@ Article     I. Short title and definitions. (§§ 101-102)
           VII. Dissolution. (§§ 701-705)
          VIII. Foreign limited liability companies. (§§ 801-810)
             X. Mergers. (§§ 1001-1007)
-           XI. Miscellaneous. (§§ 1101-1104)
+           XI. Miscellaneous. (§§ 1101-1108)
           XII. Professional service limited liability companies.
                  (§§ 1201-1216)
          XIII. Foreign professional service limited liability companies.
