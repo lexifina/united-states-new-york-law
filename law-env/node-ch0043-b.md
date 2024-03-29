@@ -61,7 +61,7 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
                 (§ 36-0101 to 36-0115).
         37.   Substances Hazardous or Acutely Hazardous to Public
                 Health, safety or the Environment
-                (§ 37-0101 to 37-1015).
+                (§ 37-0101 to 37-1101).
         38.   Chlorofluorocarbon compounds (§ 38-0101 to 38-0111).
         39.   Sewage system cleaners and additives used in restricted
                 geographical areas (§ 39-0101 to 39-0107).
