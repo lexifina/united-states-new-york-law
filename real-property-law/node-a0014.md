@@ -8,4 +8,3 @@ Section   460. Short title.
      464. Revision.
      465. Liability.
      466. Duty of an agent.
-     467. Liability.
