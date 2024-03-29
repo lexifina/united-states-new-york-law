@@ -31,7 +31,7 @@ Article 1.    Short title; definitions (§§ 1-2).
         12-C. Apartment information vendors (§§ 446-a--446-j).
         13.   Cemetery lands (§§ 450-451).
         14.   Property condition disclosure in the sale of residential
-                real property (§§ 460-467).
+                real property (§§ 460-466).
         15.   Prohibition and disclosure of private transfer fee
                 obligations (§§ 470-476).
         20.   Laws repealed; construction; when to take effect
