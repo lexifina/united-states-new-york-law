@@ -1,6 +1,6 @@
-  * § 391-oo. Sale of over-the-counter diet pills and dietary
-supplements for weight loss or muscle building. 1. For purposes of this
-section the following terms shall have the following meanings:
+  § 391-oo. Sale of over-the-counter diet pills and dietary supplements
+for weight loss or muscle building. 1. For purposes of this section the
+following terms shall have the following meanings:
   (a) "Dietary supplements for weight loss or muscle building" means a
 class of dietary supplement as defined in section three hundred
 ninety-one-o of this article that is labeled, marketed, or otherwise
@@ -157,4 +157,3 @@ building products in a display, advertisement, webpage, or area of the
 store; or
   (iii) otherwise representing that the product is for weight loss or
 muscle building.
-  * NB Effective April 22, 2024
