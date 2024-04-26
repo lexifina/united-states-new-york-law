@@ -69,6 +69,7 @@ Section 370.   Petition to register title to real property.
                  property.
         423-a. Form for transfer of property  upon  death  of  owner  of
                  registered property.
+        424.   Transfer on death deed.
         426.   Assurance fund.
         427.   Compensation from assurance fund.
         428.   Action against assurance fund.
