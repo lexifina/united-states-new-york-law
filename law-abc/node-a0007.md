@@ -16,6 +16,7 @@ Section 90.   Kinds of permits.
         97-a. Temporary retail permit.
         97-b. Sale of alcoholic beverages at the New York state fair.
         97-c. Temporary manufacturing permit.
+        97-d. Temporary wholesale permit.
         98.   Caterer's permit.
         99.   Special permit to remain open during certain hours of the
                 morning.
