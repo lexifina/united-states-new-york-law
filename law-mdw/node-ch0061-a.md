@@ -19,6 +19,8 @@ Article  1.   Introductory provisions; definitions (Sec. 1-4).
                 residential occupancy of loft, commercial or
                 manufacturing buildings (Sec. 275-278).
          7-C. Legalization of interim multiple dwellings (Sec. 280-287).
+         7-D. Legalization and conversion of basement and cellar
+                dwelling units (Sec. 288-290).
          8.   Requirements and remedies (Sec. 300-310).
          9.   Registry of names and service of papers (Sec. 325-329).
         10.   Prostitution (Sec. 351-360).
