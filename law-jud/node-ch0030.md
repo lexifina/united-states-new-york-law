@@ -57,4 +57,5 @@ Article 1.    Short title (§§ 1--1-a).
        22.    Judicial hearing officers (§§ 850-854).
        22-A.  Judicial wellness or assistance committees (§ 857).
        22-B.  Hope card act (§ 858).
+       22-C.  New York state judicial security act (§ 859).
        23.    Laws repealed; when to take effect (§§ 860-861).
