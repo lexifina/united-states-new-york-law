@@ -46,4 +46,4 @@ warrant of the comptroller on vouchers certified or approved by (i) the
 commissioner of the office of alcoholism and substance abuse services or
 his or her designee; or (ii) the commissioner of the department of
 health or his or her designee.
-  * NB Repealed June 30, 2024
+  * NB Repealed June 30, 2029
