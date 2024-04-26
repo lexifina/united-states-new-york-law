@@ -33,6 +33,8 @@ Section 600.     Application.
                    communications members.
         604-i.   Age fifty-five retirement program for New York city
                    teachers and certain other members.
+        604-j.   Twenty-five year retirement program for fire protection
+                   inspector members.
         605.     Disability retirement.
         605-a.   Accidental disability retirement for uniformed court
                    officers and peace officers employed in the unified
