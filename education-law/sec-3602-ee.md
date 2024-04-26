@@ -153,14 +153,24 @@ full-day pre-kindergarten program. The limitations on the employment of
 uncertified teachers under paragraph (a-1) of subdivision three of
 section twenty-eight hundred fifty-four of this chapter shall apply to
 all teachers from pre-kindergarten through grade twelve.
-  13. Apportionments under this section shall only be used to supplement
-and not supplant current local expenditures of federal, state or local
-funds on pre-kindergarten programs and the number of slots in such
+  * 13. Apportionments under this section shall only be used to
+supplement and not supplant current local expenditures of federal, state
+or local funds on pre-kindergarten programs and the number of slots in
+such programs from such sources. Current local expenditures shall
+include any local expenditures of federal, state or local funds used to
+supplement or extend services provided directly or via contract to
+eligible children enrolled in a universal pre-kindergarten program
+pursuant to section thirty-six hundred two-e of this part.
+  * NB Effective until July 1, 2024
+  * 13. Apportionments under this section shall only be used to
+supplement and not supplant current local expenditures of federal or
+local funds on pre-kindergarten programs and the number of slots in such
 programs from such sources. Current local expenditures shall include any
-local expenditures of federal, state or local funds used to supplement
-or extend services provided directly or via contract to eligible
-children enrolled in a universal pre-kindergarten program pursuant to
-section thirty-six hundred two-e of this part.
+local expenditures of federal or local funds used to supplement or
+extend services provided directly or via contract to eligible children
+enrolled in a universal pre-kindergarten program pursuant to section
+thirty-six hundred two-e of this part.
+  * NB Effective July 1, 2024
   14. (a) The award per pupil for an eligible entity pursuant to
 subdivision three of this section shall equal: (i) for each new full-day
 pre-kindergarten placement the lesser of the full-day pre-kindergarten
@@ -215,10 +225,16 @@ Chautauqua, Erie and Niagara counties.
 and early education, a day care provider, early childhood program or
 center, approved preschool special education program, Head Start or
 other such community-based organization.
-  16. The authority of the department to administer the universal
+  * 16. The authority of the department to administer the universal
 full-day pre-kindergarten program shall expire June thirtieth, two
 thousand twenty-four; provided that the program shall continue and
 remain in full effect.
+  * NB Effective until July 1, 2024
+  * 16. The authority of the department to administer the universal
+full-day pre-kindergarten program shall expire June thirtieth, two
+thousand twenty-five; provided that the program shall continue and
+remain in full effect.
+  * NB Effective July 1, 2024
   17. Notwithstanding any inconsistent provision of law to the contrary,
 for the purposes of determining the prekindergarten allocation on the
 electronic data file prepared by the commissioner pursuant to

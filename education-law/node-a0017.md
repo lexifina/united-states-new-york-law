@@ -42,3 +42,5 @@ Section 801.   Courses of instruction in patriotism and citizenship and
         817.   Expanding access to advanced courses to improve
                  educational equity.
         817*2. Student government.
+        818.   Evidence-based and scientifically based reading
+                 instruction.
