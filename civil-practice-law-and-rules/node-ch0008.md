@@ -51,7 +51,7 @@ Article   1.   Short title, applicability and definitions. (101-107.)
          42.   Trial by the court. (4201, 4211-4213.)
          43.   Trial by a referee. (4301, 4311-4321.)
          44.   Trial motions. (4401-4406.)
-         45.   Evidence. (4501-4534, 4536-4550.)
+         45.   Evidence. (4501-4534, 4536-4551.)
          50.   Judgments generally. (5001-5004, 5011-5021.)
          50-A. Periodic payment of judgments in medical and dental
                  malpractice actions. (5031-5034, 5036-5039.)
