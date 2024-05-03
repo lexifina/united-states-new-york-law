@@ -24,3 +24,5 @@ Section 15-100. Application of article.
         15-136. Refusal of officer to surrender his office.
         15-138. Judicial review of matters relating to village
                   elections.
+        15-140. Transmission of publicly available data to the New York
+                  voting and elections database.
