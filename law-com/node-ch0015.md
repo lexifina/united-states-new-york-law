@@ -45,3 +45,4 @@ Assembly, do enact as follows:
  22.     Employee Training Incentive Program                        441
  25.     Restaurant Return-To-Work Tax Credit Program               470
  26.     COVID-19 Capital Costs Tax Credit Program                  480
+ 27.     Newspaper and Broadcast Media Jobs Program                 490
