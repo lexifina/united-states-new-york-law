@@ -18,6 +18,7 @@ Section 511.   Definitions.
                  of sales transaction prohibited.
         519.   Disclosure by commercial establishments honoring credit
                  cards.
+        519-a. Credit cards and payment for health care services.
         520.   Application forms or solicitation for credit cards.
         520-a. Certain credit and debit card transaction forms required.
         520-b. Secured credit cards.
