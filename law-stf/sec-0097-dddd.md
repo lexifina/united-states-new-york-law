@@ -22,4 +22,4 @@ basis.
 shall be available to the office of mental health for disbursement to
 local governments and not-for-profit operated mental health agencies for
 services and expenses of community support and workforce reinvestment.
-  * NB Repealed March 31, 2024
+  * NB Repealed March 31, 2027
