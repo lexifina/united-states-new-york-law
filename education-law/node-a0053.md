@@ -16,3 +16,5 @@ Section 2601.   Application of article.
                   declaration of result.
         2611.   Use of voting machines.
         2613.   Absentee, early mail, and military ballots.
+        2614.   Transmission of publicly available data to the New York
+                  voting and elections database.
