@@ -71,6 +71,7 @@ The People of the State of New York, represented in Senate and Assembly,
          19-G. Office of children and family services (§§ 500-531).
          19-H. Runaway  and  homeless  youth  act  of  nineteen  hundred
                  seventy-eight (§§ 532--532-f).
+         19-I. Waterfront commission act (§§ 534--534-z).
          19-L. New York state neighborhood based initiatives act
                  (§§ 548-a--548-h).
          20.   Protection of people with special needs (§§ 550-562).
