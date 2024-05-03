@@ -9,7 +9,7 @@ three-fifths being present
 Assembly, do enact as follows:
                          PUBLIC AUTHORITIES LAW
                   CHAPTER 43-A OF THE CONSOLIDATED LAWS
-Article 1.   Short title (§ 1-7).
+Article 1.   Short title (§ 1-8).
         1-A. New York state public authorities control board
                (§§ 50-51).
         2.   Park, parkway and highway authorities (§§ 150-389).

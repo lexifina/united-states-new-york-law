@@ -3,13 +3,22 @@ facilities. 1. As used in this section, the following terms shall have
 the following meanings:
   (a) "municipality" means a county, city, town or village in the
 service area;
-  (b) "utility transmission facility" means any electric transmission
+  * (b) "utility transmission facility" means any electric transmission
+line operating at sixty-five kilovolts or higher in the service area,
+including associated equipment. It shall not include any transmission
+line which is an in-kind replacement or which is located wholly
+underground. This section also shall not apply to any major electric
+transmission facility subject to the jurisdiction of article seven of
+the public service law; and
+  * NB Effective until December 31, 2040
+  * (b) "utility transmission facility" means any electric transmission
 line operating at sixty-five kilovolts or higher in the service area,
 including associated equipment. It shall not include any transmission
 line which is an in-kind replacement or which is located wholly
 underground. This section also shall not apply to any major utility
 transmission facility subject to the jurisdiction of article seven of
 the public service law; and
+  * NB Effective December 31, 2040
   (c) " authority customer" means the customer of record located within
 five hundred feet of a proposed utility transmission facility.
   2. The authority shall not construct any utility transmission facility

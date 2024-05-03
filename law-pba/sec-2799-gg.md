@@ -6,20 +6,25 @@ section twenty-seven hundred ninety-nine-ff of this title to pay the
 cost of any project and to fund reserves to secure such bonds, including
 incidental expenses in connection therewith.
   The aggregate principal amount of such bonds, notes or other
-obligations outstanding shall not exceed thirteen billion, five hundred
-million dollars ($13,500,000,000), excluding bonds, notes or other
-obligations issued pursuant to sections twenty-seven hundred
-ninety-nine-ss and twenty-seven hundred ninety-nine-tt of this title;
-provided, however, that upon any refunding or repayment of bonds (which
-term shall not, for this purpose, include bond anticipation notes), the
-total aggregate principal amount of outstanding bonds, notes or other
-obligations may be greater than thirteen billion, five hundred million
-dollars ($13,500,000,000) only if the refunding or repayment bonds,
-notes or other obligations were issued in accordance with the provisions
-of subparagraph (a) of subdivision two of paragraph b of section 90.10
-of the local finance law, as amended from time to time. Notwithstanding
-the foregoing, bonds, notes or other obligations issued by the authority
-may be outstanding in an amount greater than the amount permitted by the
+obligations outstanding shall not exceed, beginning July first, two
+thousand twenty-four, twenty-one billion five hundred million dollars
+($21,500,000,000) and beginning July first, two thousand twenty-five,
+twenty-seven billion five hundred million dollars ($27,500,000,000),
+excluding bonds, notes or other obligations issued pursuant to sections
+twenty-seven hundred ninety-nine-ss and twenty-seven hundred
+ninety-nine-tt of this title; provided, however, that upon any refunding
+or repayment of bonds (which term shall not, for this purpose, include
+bond anticipation notes), the total aggregate principal amount of
+outstanding bonds, notes or other obligations may be greater than,
+beginning July first, two thousand twenty-four, twenty-one billion five
+hundred million dollars ($21,500,000,000), and beginning July first, two
+thousand twenty-five, twenty-seven billion five hundred million dollars
+($27,500,000,000), only if the refunding or repayment bonds, notes or
+other obligations were issued in accordance with the provisions of
+subparagraph (a) of subdivision two of paragraph b of section 90.10 of
+the local finance law, as amended from time to time. Notwithstanding the
+foregoing, bonds, notes or other obligations issued by the authority may
+be outstanding in an amount greater than the amount permitted by the
 preceding sentence, provided that such additional amount at issuance,
 together with the amount of indebtedness contracted by the city of New
 York, shall not exceed the limit prescribed by section 104.00 of the
