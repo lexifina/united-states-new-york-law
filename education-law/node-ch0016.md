@@ -67,7 +67,7 @@ Article
    15-B    Higher education textbooks (§ 715.)
    15-C    Textbook access act (§§ 720-724.)
    16      Computer technology (§§ 751-755.)
-   17      Instruction in certain subjects (§§ 801-817.)
+   17      Instruction in certain subjects (§§ 801-818.)
    19      Medical and health service (§§ 901-925.)
    21      Vocational rehabilitation (§§ 1001-1009.)
    23      Career education in counties (§§ 1101-1116.)
@@ -91,7 +91,7 @@ Article
    40      Boards of cooperative educational services (§§ 1950-1952.)
    40-a    Shared personnel (§§ 1980-1981.)
    41      District meetings (§§ 2001-2045.)
-             Part I - General provisions (§§ 2001-2038.)
+             Part I - General provisions (§§ 2001-2039.)
              Part II - Contract system (§§ 2040-2045.)
              Part III - Professional services providers (§§ 2050-2054.)
    43      School district officers-town and county officials
