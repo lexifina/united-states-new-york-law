@@ -62,3 +62,5 @@ Article                                                       Sections
             repairs to the elderly program.............. 1260 - 1262
    30.    New York access to home for heroes program.... 1270 - 1272
    31.    Housing our neighbors with dignity program.... 1280 - 1282
+   32.    New York housing for the future homeownership
+            and rental housing programs................. 1290 - 1291
