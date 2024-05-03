@@ -13,6 +13,7 @@ Article 1.    Short title; definitions (§§ 1-2).
         4.    Uses and trusts (§§ 119-123).
         4-A.  Trust indentures and interests therein (§§ 124--130-k).
         6.    Dower and curtesy (§§ 189-207).
+        6-A.  Good cause eviction law. (§§ 210-218).
         7.    Landlord and tenant (§§ 220-238).
         7-A.  Portable kerosene heaters (§§ 239--239-g).
         8.    Conveyances and mortgages (§§ 240-282).
