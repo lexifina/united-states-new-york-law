@@ -16,6 +16,7 @@
                    (f) Claim in amended pleading.
                    (g) Time computed from actual or imputed discovery of
                          facts.
+                   (h) Claim and action upon certain instruments.
         204.     Stay of commencement of action; demand for arbitration.
                    (a) Stay.
                    (b) Arbitration.
@@ -36,7 +37,7 @@
         208.     Infancy, insanity.
         209.     War.
                    (a) Cause of action accruing in foreign country.
-                   (b) Right of alien.
+                   (b) Right of noncitizen.
                    (c) Non-enemy in enemy country or enemy-occupied
                          territory.
         210.     Death of claimant or person liable; cause of action
@@ -51,12 +52,14 @@
                    (c) By state for real property.
                    (d) By grantee of state for real property.
                    (e) For support, alimony or maintenance.
-        212.     Actions to be commenced within ten years.
+        212.     Actions to be commenced within ten or fifteen years.
                    (a) Possession necessary to recover real property.
                    (b) Annulment of letters patent.
                    (c) To redeem from a mortgage.
-                   (d) To recover under an affidavit of support of an
-                         alien.
+                   (d) To recover under an affidavit of support of a
+                         noncitizen.
+                   (e) By a victim of sex trafficking, compelling
+                         prostitution, or labor trafficking.
         213.     Actions to be commenced within six years: where not
                    otherwise provided for; on contract; on sealed
                    instrument; on bond or note, and mortgage upon real
