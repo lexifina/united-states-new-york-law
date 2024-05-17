@@ -16,6 +16,7 @@
                (f)   Consumer credit transaction.
                (g)   Court and judge.
                (h)   Domestic and foreign corporation.
+               (h-1) Finance charge.
                (i)   Garnishee.
                (j)   Infant, infancy.
                (k)   Judgment.
@@ -25,6 +26,7 @@
                (o)   Law.
                (p)   Matrimonial action.
                (q)   Money judgment.
+               (q-1) Original creditor.
                (r)   Place where action triable.
                (s)   Real property.
                (s-1) The sheriff.
