@@ -5,7 +5,6 @@ Section 190.   Definitions.
         191-a. Definitions.
         191-b. Contracts with sales representatives.
         191-c. Payment of sales commission.
-        191-d. Payment of wages for freelance workers.
         192.   Cash payment of wages.
         193.   Deductions from wages.
         194.   Differential in rate of pay because of protected class
