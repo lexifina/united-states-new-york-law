@@ -33,7 +33,7 @@ Section 100.     Alcoholic beverages generally.
         110-c.   Public license query.
         111.     License to be confined to premises licensed.
         111-a.   Use of contiguous and non-contiguous municipal public
-                   space for on-premises alcoholic beverage sales for
+                   space for on-premises alcoholic beverage sales by
                    certain licensees.
         112.     Bonds of licensees and permittees.
         113.     Premises for which no license shall be granted.
