@@ -8,7 +8,6 @@ Section 90.    Department of state; secretary of state.
         94.    Commission on ethics and lobbying in government.
         94-a.  Consumer protection division.
         94-b.  Office for new Americans.
-        94-c.  Major renewable energy development program.
         94-d.  New York Asian American and Pacific Islander commission.
         95.    Legislative manual.
         96.    Fees and refunds.

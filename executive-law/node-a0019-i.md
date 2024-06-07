@@ -1,4 +1,4 @@
-                              ARTICLE 19-I
+                             * ARTICLE 19-I
                         WATERFRONT COMMISSION ACT
 Section 534.   Short title.
         534-a. Legislative findings and declarations.
@@ -10,12 +10,12 @@ Section 534.   Short title.
         534-g. Stevedores.
         534-h. Prohibition of public loading.
         534-i. Longshore workers' register.
-        534-j. List of qualified longshore workers' for employment as
+        534-j. List of qualified longshore workers for employment as
                  checkers.
         534-k. Regularization of longshore workers' employment.
         534-l. Suspension or acceptance of applications for inclusion in
                  the longshore workers' register; exceptions.
-        534-m. Security officers.
+        534-m. Security officer.
         534-n. Hearings, determinations and review.
         534-o. Employment information centers.
         534-p. Implementation of telecommunications hiring system for
