@@ -1,7 +1,6 @@
-  * § 399-rr. September eleventh victim compensation fund and World
-Trade Center health program notification. 1. Definitions. For the
-purposes of this section, the following terms shall have the following
-meanings:
+  § 399-rr. September eleventh victim compensation fund and World Trade
+Center health program notification. 1. Definitions. For the purposes of
+this section, the following terms shall have the following meanings:
   (a) the "eligible time period" and "notice area" shall be the same as
 provided for in the September eleventh victim compensation fund pursuant
 to 49 USC 40101 and World Trade Center health program pursuant to 42 USC
@@ -32,4 +31,3 @@ program and if the messages should be tailored for the specific
 geographic areas covered by the World Trade Center health program in a
 different manner than those covered by both the World Trade Center
 health program and the September eleventh victim compensation fund.
-  * NB Effective June 7, 2024
