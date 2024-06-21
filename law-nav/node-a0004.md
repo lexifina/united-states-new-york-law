@@ -51,6 +51,7 @@ Section 40.          Equipment.
         49-b.        Operating a vessel after having consumed alcohol;
                        under the age of twenty-one; per se.
         49-c.        Termination of unsafe operation.
+        49-d.        Application.
                                      PART 2--PUBLIC VESSELS
 Section 50.   Owners to notify inspector and apply for inspection.
         53.   Rules and regulations.
@@ -65,6 +66,9 @@ Section 50.   Owners to notify inspector and apply for inspection.
         61.   Repairs and modifications.
         62.   Loss of life by misconduct of officers.
         63.   Certificate of inspection.
+        63-a. Suspension of certificate of inspection; penalty for
+                operating a vessel without a certificate of inspection
+                or during suspension.
         64.   Licenses.
         64-a. Suspension and revocation of licenses.
         65.   Fees for vessel inspections and for the issuance of
