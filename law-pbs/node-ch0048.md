@@ -28,11 +28,11 @@ Article  1.   The department of public service. (Secs. 1-27.)
          7.   Siting of major utility transmission facilities.
                 (Secs. 120--130.)
          7-A. Home insulation and conservation. (Secs. 135-a--135-o.)
-         8.   Siting  of  major  steam  electric  generating facilities.
-                (Secs. 140--149-a.)
+         8.   Siting  of  renewable  energy  and  electric transmission.
+                (Secs. 140-148.)
          9.   Commissions and offices abolished; saving clause;  repeal.
                 (Secs. 150 - 154.)
          10.  Siting of Major Electric Generating Facilities.
-                (Secs. 160-173.)
+                (Secs. 160-174.)
          11.    Provisions relating to cable television companies.
                 (Secs. 211-230.)
