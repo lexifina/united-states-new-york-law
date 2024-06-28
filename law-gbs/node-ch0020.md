@@ -172,6 +172,8 @@ AN ACT relating to general business, constituting chapter twenty of the
          39-E.    Uniform Athlete Agents Act (§§ 899--899-p).
          39-F.    Notification of unauthorized acquisition of private
                     information (§ 899-aa).
+         39-FF.   New York child data protection act (§§
+                    899-ee--899-mm).
          39-G.    Document destruction contractors
                     (§§ 899-aaa--899-bbb).
          40.      Peer-to-peer car sharing programs (§§ 900-920).
@@ -181,4 +183,5 @@ AN ACT relating to general business, constituting chapter twenty of the
          44.      Regulation of surrogacy programs and assisted
                     reproduction service providers (§§ 1400-1404).
          44-A.    Freelance isn't free act (§§ 1410-1415).
+         45.      Safe for kids act (§§ 1500-1508).
          46.      Laws repealed; when to take effect (§§ 1600-1601).
