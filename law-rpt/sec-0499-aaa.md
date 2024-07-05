@@ -30,19 +30,16 @@ designated agency designates by rule.
   9. "Engineer" shall mean a person licensed and registered to practice
 the profession of engineering under the education law.
   10. "Green roof" shall mean an addition to a roof of an eligible
-building that covers at least fifty percent of such building's eligible
-rooftop space and includes (a) a weatherproof and waterproof roofing
+building that includes (a) a weatherproof and waterproof roofing
 membrane layer that complies with local construction and fire codes, (b)
 a root barrier layer, (c) a drainage layer that complies with local
 construction and fire codes and is designed so the drains can be
 inspected and cleaned, (d) a filter or separation fabric, (e) a growth
 medium, including natural or simulated soil, with a depth of at least
-two inches, (f) if the depth of the growth medium is less than three
-inches, an independent water holding layer that is designed to prevent
-the rapid drying of the growth medium, such as a non-woven fabric, pad
-or foam mat or controlled flow roof drain, unless the green roof is
-certified not to need regular irrigation to maintain live plants, and
-(g) a vegetation layer, at least eighty percent of which must be covered
-by live plants such as (i) sedum or equally drought resistant and hardy
-plant species, (ii) native plant species, and/or (iii) agricultural
-plant species.
+one and one-half inches, (f) if the depth of the growth medium is less
+than three inches, an independent water holding layer that is designed
+to prevent the rapid drying of the growth medium, such as a non-woven
+fabric, pad or foam mat, and (g) a vegetation layer, at least eighty
+percent of which must be covered by live plants such as (i) sedum or
+equally drought resistant and hardy plant species, (ii) native plant
+species, and/or (iii) agricultural plant species.
