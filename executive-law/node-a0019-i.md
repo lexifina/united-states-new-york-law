@@ -1,4 +1,4 @@
-                             * ARTICLE 19-I
+                              ARTICLE 19-I
                         WATERFRONT COMMISSION ACT
 Section 534.   Short title.
         534-a. Legislative findings and declarations.
@@ -34,4 +34,3 @@ Section 534.   Short title.
         534-x. Payment of assessment.
         534-y. Transfer of officers, employees.
         534-z. Annual report.
-  * NB Effective June 30, 2024
