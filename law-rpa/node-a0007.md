@@ -25,6 +25,7 @@ Section 701.   Jurisdiction; courts; venue.
         746.   Stipulations.
         747.   Judgment.
         749.   Warrant.
+        749-a. New York city marshals.
         751.   Stay upon paying rent or giving undertaking;
                  discretionary stay outside city of New York.
         753.   Stay in premises occupied for dwelling purposes.
