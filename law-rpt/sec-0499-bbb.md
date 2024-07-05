@@ -11,48 +11,48 @@ the tax liability for the eligible building in the tax year in which the
 tax abatement is taken.
   (b) The total amount of such tax abatement commencing on or after July
 first, two thousand fourteen and ending on or before June thirtieth, two
-thousand twenty-four, shall be five dollars and twenty-three cents per
-square foot of a green roof pursuant to an approved application for tax
-abatement; provided, however, that the amount of such tax abatement
-shall not exceed two hundred thousand dollars. To the extent the amount
-of such tax abatement exceeds the total tax liability in any tax year,
-any remaining amount may be applied to the tax liability in succeeding
-tax years, provided that such abatement must be applied within five
-years of the tax year in which the tax abatement was initially taken.
+thousand twenty-seven, shall be ten dollars per square foot of a green
+roof pursuant to an approved application for tax abatement; provided,
+however, that the amount of such tax abatement shall not exceed two
+hundred thousand dollars. To the extent the amount of such tax abatement
+exceeds the total tax liability in any tax year, any remaining amount
+may be applied to the tax liability in succeeding tax years, provided
+that such abatement must be applied within five years of the tax year in
+which the tax abatement was initially taken.
   (c) Notwithstanding paragraph (b) of this subdivision, property
 located within specifically designated New York city community
 districts, selected by an agency designated by the mayor of the city of
 New York pursuant to subdivision five of this section, shall receive an
-enhanced tax abatement for any green roof with a growth medium with a
-depth of at least four inches. The total amount of such enhanced tax
-abatement commencing on or after July first, two thousand nineteen and
-ending on or before June thirtieth, two thousand twenty-four, shall be
-fifteen dollars per square foot of a green roof pursuant to an approved
-application for enhanced tax abatement: provided, however, that the
-amount of such enhanced tax abatement shall not exceed two hundred
-thousand dollars. To the extent the amount of such enhanced tax
-abatement exceeds the total tax liability in any tax year, any remaining
-amount may be applied to the tax liability in succeeding tax years,
-provided that such abatement must be applied within five years of the
-tax year in which the tax abatement was initially taken.
+enhanced tax abatement for any green roof. The total amount of such
+enhanced tax abatement commencing on or after July first, two thousand
+nineteen and ending on or before June thirtieth, two thousand
+twenty-seven, shall be fifteen dollars per square foot of a green roof
+pursuant to an approved application for enhanced tax abatement:
+provided, however, that the amount of such enhanced tax abatement shall
+not exceed two hundred thousand dollars. To the extent the amount of
+such enhanced tax abatement exceeds the total tax liability in any tax
+year, any remaining amount may be applied to the tax liability in
+succeeding tax years, provided that such abatement must be applied
+within five years of the tax year in which the tax abatement was
+initially taken.
   (d) Notwithstanding paragraph (b) or (c) of this subdivision, the
 aggregate amount of tax abatements allowed under this subdivision for
 the tax year commencing July first, two thousand fourteen and ending
-June thirtieth two thousand fifteen shall be a maximum of seven hundred
+June thirtieth, two thousand fifteen shall be a maximum of seven hundred
 fifty thousand dollars, and the aggregate amount of tax abatements
 allowed under this subdivision for any tax year commencing on or after
 July first, two thousand fifteen and ending on or before June thirtieth,
-two thousand twenty-four shall be a maximum of one million dollars. No
+two thousand twenty-seven shall be a maximum of four million dollars. No
 tax abatements shall be allowed under this subdivision for any tax year
-commencing on or after July first, two thousand twenty-four.
+commencing on or after July first, two thousand twenty-seven.
   (e) Such aggregate amount of tax abatements including enhanced tax
-abatements, shall be allocated by the department of finance on a pro
-rata basis among applicants whose applications have been approved by a
-designated agency. If such allocation is not made prior to the date that
-the real property tax bill, statement of account or other similar bill
-or statement is prepared, then the department of finance shall, as
-necessary, after such allocation is made, submit an amended real
-property tax bill, statement of account or other similar bill or
+abatements, shall be allocated by the department of finance on a first
+come first serve basis among applicants whose applications have been
+approved by a designated agency. If such allocation is not made prior to
+the date that the real property tax bill, statement of account or other
+similar bill or statement is prepared, then the department of finance
+shall, as necessary, after such allocation is made, submit an amended
+real property tax bill, statement of account or other similar bill or
 statement to any applicant whose abatement must be adjusted to reflect
 such allocation. Nothing in this paragraph shall be deemed to affect the
 obligation of any taxpayer under applicable law with respect to the
