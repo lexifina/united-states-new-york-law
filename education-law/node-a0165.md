@@ -20,6 +20,6 @@ Section 8600.   Introduction.
         8606-a. Requirements for certification as a histotechnician.
         8606-b. Requirements for licensure as a histotechnologist.
         8607.   Special provisions.
-        8608.   Limited permits.
+        8608.   Limited and provisional permits.
         8609.   Exempt persons.
-        8610.   Restricted clinical laboratory and limited licenses.
+        8610.   Restricted clinical laboratory licenses.
