@@ -11,7 +11,7 @@ Section 7200.   Introduction.
         7204-b. Practice of geology and the use of title "professional
                   geologist".
         7205.   State board for engineering, land surveying and geology.
-        7206.   Requirements for a license as professional engineer.
+        7206.   Requirements for a license as a professional engineer.
         7206-a. Requirements for a license as a professional land
                   surveyor.
         7206-b. Requirements for a license as a professional geologist.
@@ -23,4 +23,4 @@ Section 7200.   Introduction.
         7209.   Special provisions.
         7210.   Certificates of authorization.
         7211.   Mandatory continuing education for professional
-                  engineers.
+                  engineers, land surveyors and professional geologists.

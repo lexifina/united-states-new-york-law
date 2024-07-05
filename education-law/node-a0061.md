@@ -39,6 +39,7 @@ Section 3001.   Qualifications of teachers.
         3012-c. Annual professional performance review of classroom
                   teachers and building principals.
         3012-d. Annual teacher and principal evaluations.
+        3012-e. Teacher and principal performance review plans.
         3013.   Abolition of office or position.
         3014.   Tenure: boards of cooperative educational services.
         3014-a. Teachers' rights as a result of a board or boards of
@@ -63,8 +64,6 @@ Section 3001.   Qualifications of teachers.
         3019-a. Notice of termination of service by teachers.
         3020.   Discipline of teachers.
         3020-a. Disciplinary procedures and penalties.
-        3020-b. Streamlined removal procedures for teachers rated
-                  ineffective.
         3021.   Removal of superintendents, teachers and employees for
                   treasonable or seditious acts or utterances.
         3021-a. Notification of accusatory instrument alleging a sex
