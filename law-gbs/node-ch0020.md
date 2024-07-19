@@ -96,6 +96,8 @@ AN ACT relating to general business, constituting chapter twenty of the
          28-E.    Children's product safety and recall effectiveness act
                     of 2008 (§§ 490--490-h).
          28-F.    Crohn's and colitis fairness act (§§ 491-494).
+         28-G.    Batteries for micromobility devices, bicycles with
+                    electric assist, and limited use motorcycles
          29.      Manufacture, sale and introduction or movement in
                     commerce of flammable wearing apparel, fabrics,
                     related material and interior furnishings prohibited

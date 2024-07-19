@@ -19,6 +19,13 @@ Section 390.         Substitution of spurious oils for internal
                        oils and similar products.
         391-b.       Prohibit any sale of dangerous clothing articles.
         391-c.       Sale of bicycles.
+        391-cc.      Sale of micromobility devices, bicycles with
+                       electric assist and limited use motorcycles
+                       powered by lithium-ion batteries, and lithium-ion
+                       batteries intended for use in such devices or
+                       bicycles.
+        391-cc*2.    Sale of bicycles with electric assist and
+                       micromobility devices.
         391-d.       Sale of matchbooks.
         391-e.       Promotion of camps by certain organizations.
         391-f.       Promotion of private schools by certain
@@ -220,6 +227,9 @@ Section 390.         Substitution of spurious oils for internal
         399-n.       Approval of electrical devices.
         399-nn.      Sale of digital electronic equipment; diagnostic
                        and repair information.
+        399-nnn.     Tags on charging cords of micromobility devices,
+                       mopeds, and bicycles with electric assist.
+        399-nnn*2.   Lithium-ion battery safety resources.
         399-o.       Selling prices and container deposits.
         399-oo.      Deceptive solicitation of vehicle warranty
                        policies.
