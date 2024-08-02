@@ -32,3 +32,5 @@ Section 825.   District attorneys in certain counties.
                  certain counties.
         852.   Loans of money or credit to hospitals or health related
                  facilities in Suffolk county.
+        853.   Oneida County-tribal detention agreement.
+        854.   Madison county-tribal detention agreement.
