@@ -47,7 +47,7 @@ Article 1.    Short title; application; definitions (§§ 1-3).
         20.   County commissioner of public welfare (§ 750).
         21.   County sealer (§ 775).
         22.   County service officer (§ 800).
-        23.   Provisions applicable to certain counties (§§ 825-852).
+        23.   Provisions applicable to certain counties (§§ 825-854).
         24.   Provisions applicable to New York city (§§ 900-943).
         25.   Interpretation of chapter; saving clause; laws repealed;
                 time of taking effect (§§ 1000-1003).
