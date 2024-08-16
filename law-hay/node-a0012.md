@@ -910,6 +910,8 @@ Section 340-a.     Designation of state interstate routes.
                      Memorial Bridge".
         344-o*18.  Portion of the state highway system to be designated
                      as the "SP4 George Harold Fry Memorial Highway".
+        344-p.     Portion of the state highway system to be designated
+                     as the "Sgt Terry James Garigen Memorial Highway".
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
