@@ -7,3 +7,5 @@ Section 58.   Cider producers' or wholesalers' license.
         58-d. Custom cidermakers' center.
         59.   Authorization for sale of cider by retail licensees.
         59-a. Cider tasting.
+        59-b. Direct interstate cider shipments.
+        59-c. Direct intrastate cider shipments.
