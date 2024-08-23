@@ -7,3 +7,5 @@ Section 30. Mead producers' license.
         33. Authorization for sale of mead and braggot by wholesale
               licensees.
         34. Mead and braggot tasting.
+        35. Direct interstate mead and braggot shipments.
+        36. Direct intrastate mead and braggot shipments.

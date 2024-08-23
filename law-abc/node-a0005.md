@@ -33,3 +33,5 @@ Section 60.   Kinds of licenses.
         65-e. Posting of signs relating to human trafficking.
         66.   License fees.
         67.   License fees, duration of licenses; fee for part of year.
+        68.   Direct interstate liquor shipments.
+        69.   Direct intrastate liquor shipments.
