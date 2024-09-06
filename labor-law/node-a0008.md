@@ -18,6 +18,7 @@ Section 220.     Hours, wages and supplements.
         220-h.   Occupational Safety and Health Administration (OSHA)
                    construction safety and health course.
         220-i.   Registration system for contractors and subcontractors.
+        220-j.   Payroll reporting requirements.
         221.     Company stores.
         221-a.   Permits required.
         221-b.   Issue of permits.
