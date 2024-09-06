@@ -912,6 +912,22 @@ Section 340-a.     Designation of state interstate routes.
                      as the "SP4 George Harold Fry Memorial Highway".
         344-p.     Portion of the state highway system to be designated
                      as the "Sgt Terry James Garigen Memorial Highway".
+        344-p*2.   Portion of the state highway system to be designated
+                     as the "Peter Wheeler Memorial Bridge".
+        344-p*3.   Portion of the state highway system to be designated
+                     as the "NYPD Detective Brian P. Simonsen Memorial
+                     Bridge".
+        344-p*4.   Portion of the state highway system to be designated
+                     as the "Medford FD Commissioner Niel Marturiello
+                     Memorial Bridge".
+        344-p*5.   Portion of the state highway system to be designated
+                     as the "Michael J. Finerson Memorial Bridge".
+        344-p*6.   Portion of the state highway system to be designated
+                     as the "Senior Investigator Thomas M. O'Neill
+                     Memorial Bridge".
+        344-q.     Portion of the state highway system to be designated
+                     as the "Detective Sergeant Frank Gualdino Memorial
+                     Bridge".
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
