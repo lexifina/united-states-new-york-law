@@ -925,6 +925,9 @@ Section 340-a.     Designation of state interstate routes.
         344-p*6.   Portion of the state highway system to be designated
                      as the "Senior Investigator Thomas M. O'Neill
                      Memorial Bridge".
+        344-p.     Portion of the state highway system to be designated
+                     as the "Captain Christopher J. Garrow Memorial
+                     Bridge".
         344-q.     Portion of the state highway system to be designated
                      as the "Detective Sergeant Frank Gualdino Memorial
                      Bridge".
