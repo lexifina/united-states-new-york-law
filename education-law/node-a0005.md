@@ -12,6 +12,7 @@ Section 201.    Corporate name and objects.
         207-a.  Disclosure of gifts made to institutions of higher
                   education by foreign governments, persons and
                   entities.
+        207-b.  Crisis resources.
         208.    General examinations, credentials and degrees.
         208-a.  Scheduling of examinations.
         209.    Academic examinations; admission and fees.
