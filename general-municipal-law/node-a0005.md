@@ -74,6 +74,10 @@ Section 70.     Payment of judgments against municipal corporation.
                   Westchester county.
         77-i.   Sports field fence leases in the town of Yorktown,
                   Westchester county.
+        77-j.   Sports field fence leases in the town of Putnam Valley,
+                  Putnam county.
+        77-j*2. Sports field fence leases in the town of Kent, Putnam
+                  county.
         78.     Insurance of property.
         78-b.   Demolition and removal of unsafe structures.
         80.     Discrimination against non-residents.
