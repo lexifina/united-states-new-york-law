@@ -49,6 +49,8 @@ Section  220.     Action for use and occupation.
          233-a.   Sale of manufactured home parks.
          233-b.   Manufactured home parks; rent increases.
          233-b*2. Campgrounds.
+         233-c.   Residential ground lease cooperative apartment
+                    buildings.
          234.     Right to recover attorneys' fees in actions or summary
                     proceedings arising out of leases of residential
                     property.
