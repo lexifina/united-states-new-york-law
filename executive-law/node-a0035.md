@@ -76,3 +76,4 @@ Section 835.     Definitions.
         845-e.   Commercial security tax credit program.
         846.     Programs for the aging.
         846*2.   Programs for the aging.
+        847.     Public awareness of safe storage of firearms.
