@@ -104,10 +104,11 @@ AN ACT relating to general business, constituting chapter twenty of the
                     (§§ 500-509).
          29-A.    Unauthorized or improper use of credit cards and debit
                     cards (§§ 511--520-e)
-         29-AAA. Credit card registration services (§§ 521--521-f).
+         29-AAA.  Credit card registration services (§§ 521--521-f).
          29-B.    Prohibited credit card practices involving providers
                     of travel services (§§ 523-526).
-         29-BB.   Prohibited service offer practices (§§ 527-527-a).
+         29-BB.   Prohibited service offer practices (§§ 527--527-a).
+         29-BBB.  Credit and debit cards (§§ 529--529-a).
          29-C.    Radio and television tubes (§§ 532-537).
          29-CC    Modem hijacking deterrence act (§§ 538--538-b).
          29-D.    Notes given for patent rights and for a speculative
