@@ -42,3 +42,4 @@ Section 1.      Definitions.
         29-a.   Loan counseling for mortgages guaranteed by the
                   Servicemen's Readjustment Act of 1944.
         29-a*2. Veterans memorial registry.
+        29-b.   Veterans' liaisons.
