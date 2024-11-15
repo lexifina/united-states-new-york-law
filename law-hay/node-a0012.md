@@ -925,9 +925,26 @@ Section 340-a.     Designation of state interstate routes.
         344-p*6.   Portion of the state highway system to be designated
                      as the "Senior Investigator Thomas M. O'Neill
                      Memorial Bridge".
-        344-p.     Portion of the state highway system to be designated
+        344-p*7.   Portion of the state highway system to be designated
                      as the "Captain Christopher J. Garrow Memorial
                      Bridge".
+        344-p*8.   Portion of the state highway system to be designated
+                     as the "Steve Nicoli Memorial Highway".
+        344-p*9.   Portion of the state highway system to be designated
+                     as the "SP4 Herman Emil Anders, Jr. Memorial
+                     Bridge".
+        344-p*10.  Portion of the state highway system to be designated
+                     as the "Lieutenant Commander Phillip Wayne Johnson
+                     Memorial Bridge".
+        344-p*11.  Portion of the state highway system to be designated
+                     as the "Private First Class Richard Cleveland Dunn
+                     Memorial Highway".
+        344-p*12.  Portion of the state highway system to be designated
+                     as the "T Sgt Walter Shearing Memorial Highway".
+        344-p*13.  Portion of the state highway system to be designated
+                     as the "CW2 Casey N. Frankoski Memorial Bridge".
+        344-p*14.  Portion of the state highway system to be designated
+                     as the "Fort Hamilton Veterans Memorial Highway".
         344-q.     Portion of the state highway system to be designated
                      as the "Detective Sergeant Frank Gualdino Memorial
                      Bridge".
@@ -942,3 +959,6 @@ Section 340-a.     Designation of state interstate routes.
                      Memorial Highway".
         345-b*4.   Portion of the state highway system to be designated
                      as the "Chief Daniel Nimham Memorial Highway".
+        345-c.     Portion of the state highway system to be designated
+                     as the "Assemblyman Pat M. Casale Memorial
+                     Highway".
