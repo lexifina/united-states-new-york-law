@@ -77,7 +77,8 @@ Section 3401.   Insurable interest in property.
         3443.   Workers' compensation and employers' liability
                   insurance; optional policyholder deductibles.
         3444.   Flood insurance notice.
-        3445.   Windstorm insurance notice.
+        3445.   Windstorm insurance notice; deductible trigger
+                  standards.
         3446.   Product or system group insurance policies.
         3447.   Qualification of environmental remediation insurance for
                   tax credit.
