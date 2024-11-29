@@ -376,13 +376,15 @@ Section 8-400. Absentee voting; application for ballot.
         8-404. Absentee   voting;   hospitalized    veterans,    special
                  provisions.
         8-406. Absentee ballots, delivery of.
-        8-407.  Voting by residents of nursing homes, residential health
+        8-407. Voting  by residents of nursing homes, residential health
                  care facilities, facilities operated  or  licensed,  or
                  under  the  jurisdiction  of,  the department of mental
                  hygiene or hospitals  or  facilities  operated  by  the
                  Veteran's Administration of the United States.
         8-410. Absentee voting; method of.
         8-412. Absentee ballots; deadline for receipt.
+        8-414. Online absentee ballot tracking system.
+        8-416. Absentee ballot drop boxes.
                                  TITLE V
                            CHALLENGING VOTERS
 Section 8-500. Watchers; provision for.
@@ -415,7 +417,7 @@ Section 8-700. Early voting by mail; application for ballot.
                                 CANVASS AT POLLING PLACES
 Section 9-100. Canvass; required.
         9-102. Canvass; general provisions for.
-        9-104. Casting of ballot; absentee,  military,  special  federal
+        9-104. Casting  of  ballot;  absentee, military, special federal
                  and special presidential ballots.
         9-106. Paper ballots; accounting for number used.
         9-108. Canvass; ballots, verifying number cast.
@@ -426,31 +428,31 @@ Section 9-100. Canvass; required.
         9-120. Returns of canvass; generally.
         9-122. Proclamation of result.
         9-124. Returns of canvass, procedure after.
-        9-126. Return  of  canvass;  delivery  of  results to police and
+        9-126. Return of canvass; delivery  of  results  to  police  and
                  unofficial tally of election results.
         9-128. Canvass; return of.
                                 TITLE II
                       CANVASS BY BOARD OF ELECTIONS
 Section 9-200. Canvass of primary returns by board of elections; notices
                  to delegates; certificates.
-        9-202. Canvass of primary returns by state board  of  elections;
+        9-202. Canvass  of  primary returns by state board of elections;
                  convention rolls.
         9-204. County boards of canvassers.
-        9-206. Canvass  of  election  district  returns  of  general and
+        9-206. Canvass of  election  district  returns  of  general  and
                  special elections.
         9-208. Provisions  for  recanvass  of  vote  in  every  election
-                 district   in   the   state;   procedure   in  case  of
+                 district  in  the   state;   procedure   in   case   of
                  discrepancy.
-        9-209. Canvass of early mail,  absentee,  military  and  special
+        9-209. Canvass  of  early  mail,  absentee, military and special
                  ballots, and ballots cast in affidavit envelopes.
         9-210. Statements of canvass by canvassing boards.
         9-211. Audit of voter verifiable audit records.
         9-212. Determinations by county canvassing boards.
-        9-214. Transmission  of statements of canvassing boards to state
+        9-214. Transmission of statements of canvassing boards to  state
                  board of elections and secretary of state.
         9-216. Canvass of statements of general and special elections by
                  state board of canvassers.
-        9-218. Proceedings by boards of canvassers to carry into  effect
+        9-218. Proceedings  by boards of canvassers to carry into effect
                  a court order.
         9-220. Record in office of secretary of state of county officers
                  elected.
