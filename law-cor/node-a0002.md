@@ -13,6 +13,7 @@ Section 5.     Department of corrections and community supervision;
         15-b.  Education.
         15-c.  Acceptance of grants or gifts.
         16.    Expense of autopsy; state charge.
+        17.    Notice to emergency contacts.
         18.    Superintendents of correctional facilities.
         19.    Salary and emoluments of superintendents.
         20.    Library.
