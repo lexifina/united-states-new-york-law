@@ -1,8 +1,9 @@
   § 89-ss. Retirement of members employed as an emergency medical
 technician, critical care technician, advanced emergency medical
 technician, paramedic or supervisor of such titles in a participating
-Suffolk county fire district. a. Any member employed as an emergency
-medical technician, critical care technician, advanced emergency medical
+Suffolk county fire district.  a. Any member employed on or after
+December eighth, two thousand twenty-three as an emergency medical
+technician, critical care technician, advanced emergency medical
 technician, paramedic or supervisor of such titles upon an election by a
 participating Suffolk county fire district shall be eligible to retire
 pursuant to the provisions of this section. Such eligibility shall be an
@@ -58,11 +59,15 @@ of this section for service credit pursuant to the provisions of any
 other plan of this article to which such member is subject.
   i. The provisions of this section shall be controlling notwithstanding
 any other provision of this article to the contrary.
-  j. Any member who, on or before the effective date of this section, is
-employed as an emergency medical technician, critical care technician,
-advanced emergency medical technician, paramedic or supervisor of such
-titles in a participating Suffolk county fire district may, by filing an
-election within one year after the effective date of this section, elect
-to be subject to the provisions of this section. Such election shall be
-in writing, shall be duly executed and filed with the comptroller and
-shall be irrevocable.
+  j. (1) Each Suffolk county fire district that elects pursuant to the
+provisions of this subdivision shall pay the cost attributable therefor.
+  (2) The benefits of this section shall be available only to those
+members defined in subdivisions a and d of this section whose employer
+elects to provide such benefits by adopting a resolution to such effect
+and filing a certified copy thereof with the comptroller. Such
+resolution shall be accompanied by the affidavit of the chief executive
+officer of the fire district that the fire district has received an
+estimate from the retirement system of the cost of the benefit provided
+by this section.
+  (3) Such resolution shall apply to all members defined in subdivisions
+a and d of this section.
