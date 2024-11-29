@@ -30,7 +30,7 @@ Article  1.      Short title; definitions (§§ 1-2).
          5-K.    Historic preservation (§§ 119-aa--119-dd).
          5-L.    Municipal sustainable energy loan program (§§
                    119-ee--119-gg).
-         6.      Public health and safety (§§ 120--139-d).
+         6.      Public health and safety (§§ 120--139-e).
          7.      Trusts for parks and libraries in villages and towns
                    (§§ 140-146).
          7-A.    Burial of veterans and their families (§§ 148-149).

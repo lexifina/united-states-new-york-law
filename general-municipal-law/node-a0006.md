@@ -82,3 +82,4 @@ Section 120.     Contracts for purification of water and sewerage.
         139-c.   Sheltered workshops.
         139-d.   Storage and display of firearms, ammunition and
                    explosives.
+        139-e.   Posting of sanitary inspection grade.
