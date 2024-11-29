@@ -279,11 +279,12 @@ prize.
   b. Telemarketers shall provide all of the following information, in a
 clear and coherent manner using words with common and everyday meanings,
 when making a telemarketing call:
-  (1) at the beginning of the call and prior to any request by the
-caller of the customer to release or disclose any of the customer's
-personal or financial information, including but not limited, to the
-customer's name, address, credit card, checking account or other
-financial account number or information:
+  (1) at the beginning but no later than thirty seconds from the
+commencement of the call and prior to any request by the caller of the
+customer to release or disclose any of the customer's personal or
+financial information, including but not limited, to the customer's
+name, address, credit card, checking account or other financial account
+number or information:
   (a) that the purpose of the telephone call is to offer goods or
 services for which a fee will be charged or to provide an investment
 opportunity, whichever is the case;
@@ -444,6 +445,10 @@ evidence to the secretary of state, in a form and manner to be
 prescribed by the secretary, of any license, registration, charter,
 certification or incorporation issued by an agency or governmental
 entity in this or any other state.
+  10-b. A telemarketer shall disclose the address of any company on
+whose behalf such telemarketer is providing telemarketing services, on
+any website owned or operated by the telemarketer and on any subsequent
+written communication to any customer.
   11. Enforcement. a. Every violation of this section shall be deemed a
 deceptive act and practice subject to enforcement under article
 twenty-two-A of this chapter. In addition, the district attorney, county

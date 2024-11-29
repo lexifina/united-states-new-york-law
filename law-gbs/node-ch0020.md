@@ -156,7 +156,8 @@ AN ACT relating to general business, constituting chapter twenty of the
          37.      Deposits on construction of new homes (§§ 779-785).
          37-A.    Registration of hearing aid dealers (§§ 788-805).
          38.      Vessel dealer agreements (§§ 810-816).
-         38-A.    Sale of outdated over-the-counter drugs (§§ 820-821).
+         38-A.    Sale of outdated and label obstructed over-the-counter
+                    drugs and cosmetic products (§§ 820-821).
          38-B.    Products sold for human consumption (§§ 830-834).
          39.      Drug-related paraphernalia (§§ 850-853).
          39-A.    Merchants of Torah scrolls (§§ 855-864).
