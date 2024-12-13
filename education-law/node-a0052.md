@@ -64,6 +64,9 @@ Section 2550.   Application of article.
                   compensation awards.
         2575-e. Eligibility of retirees for membership in the board of
                   education retirement system of the city of New York.
+        2575-f. Transfer of employees represented by the united
+                  federation of teachers to the New York city teachers'
+                  retirement system.
         2576.   Annual estimate.
         2577.   Annual financial report.
         2579.   Payment of obligations.
