@@ -4,7 +4,8 @@ Section 380.10   Applicability.
         380.30   Time for pronouncing sentence.
         380.40   Defendant's presence at sentencing.
         380.50   Statements at time of sentence.
-        380.55   Application for poor person relief on appeal.
+        380.55   Application for waiver of costs, fees, and expenses on
+                   appeal.
         380.60   Authority for the execution of sentence.
         380.65   Sentence and commitment and order of protection to
                    accompany defendant sentenced to imprisonment.
