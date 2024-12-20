@@ -78,3 +78,5 @@ Section 240.   Definitions and use of terms.
         282.   Mortgagor's right to recover attorneys' fees in actions
                  or proceedings arising out of foreclosures of
                  residential property.
+        283.   Limits on amount of flood insurance required by
+                 mortgagee.
