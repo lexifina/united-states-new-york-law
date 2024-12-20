@@ -62,6 +62,7 @@ Section 10.   Declaration of policy.
         32.   Insurance of deposits and share accounts.
         33.   Reserve depositaries.
         34.   Superintendent as attorney to accept service of process.
+        35.   Information pamphlet for residential mortgage applicants.
         36.   Examinations; right of inspection; penalties for refusing
                 to permit examination.
         36-a. Reports of lending by banking organizations.
