@@ -43,4 +43,5 @@ a wireless phone has been stolen. Such program shall require the person
 or business entity providing wireless telephone services take reasonable
 steps to report the IMEI numbers of the stolen phone to the GSMA block
 list.
+  * NB There are 2 § 399-eee's
   * NB Effective February 24, 2025

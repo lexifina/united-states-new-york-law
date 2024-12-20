@@ -57,6 +57,7 @@ Section 390.         Substitution of spurious oils for internal
         391-u*2.     Restrictions on the sale and use of firefighting
                        equipment containing PFAS chemicals.
         391-v.       Third-party food delivery agreements.
+        391-w.       Unauthorized restaurant reservations.
         392.         Second-hand watches.
         392-a.       Sale of new computers.
         392-b.       False labels and misrepresentations.
@@ -212,6 +213,7 @@ Section 390.         Substitution of spurious oils for internal
         399-e*2.     Actions.
         399-ee.      Zone pricing of gasoline prohibited.
         399-eee.     Disabling of services to stolen wireless phones.
+        399-eee*2.   Car wash promotion disclosure.
         399-f.       Laundromat refund procedures.
         399-ff.      Petting zoos.
         399-gg.      Packaging of electronic liquid.
