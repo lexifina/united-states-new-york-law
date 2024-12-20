@@ -39,3 +39,4 @@ Section 600.   Certain correctional officers to administer oaths.
         624.   Next of kin; death of incarcerated individual.
         625.   Menstrual products.
         626.   Medication assisted treatment in correctional facilities.
+        627.   Routine mammogram screenings.
