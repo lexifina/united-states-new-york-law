@@ -43,3 +43,6 @@ Section 1.      Definitions.
                   Servicemen's Readjustment Act of 1944.
         29-a*2. Veterans memorial registry.
         29-b.   Veterans' liaisons.
+        29-b*2. Veteran maternity care.
+        29-b*3. Staff sergeant Alex R. Jimenez New York state military
+                  immigrant family legacy program.
