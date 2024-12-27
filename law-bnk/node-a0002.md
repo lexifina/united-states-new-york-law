@@ -74,7 +74,7 @@ Section 10.   Declaration of policy.
         39.   Orders of superintendent.
         40.   Revocation of authorization certificate or license or
                 suspension of activities in certain cases.
-        41.   Removal of director, trustee or officer.
+        41.   Removal and prohibition.
         42.   Official acts of superintendent and details of department
                 business to be made public.
         44.   Violations; penalties.
