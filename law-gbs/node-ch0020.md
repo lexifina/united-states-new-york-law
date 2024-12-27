@@ -141,7 +141,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          35.      Warranties on mobile homes (§§ 720-724).
          35-A.    Aftermarket rustproofing warranties of new motor
                     vehicles (§§ 730-735).
-         35-B.    Automobile broker business (§§ 736-744).
+         35-B.    Automobile broker business (§§ 736-745).
          35-C.    Operation of pet cemeteries and pet crematoriums
                     (§§ 750--750-w).
          35-D.    Sale of dogs and cats (§§ 751-755).
@@ -182,6 +182,7 @@ AN ACT relating to general business, constituting chapter twenty of the
                     (§§ 899-aaa--899-bbb).
          40.      Peer-to-peer car sharing programs (§§ 900-920).
          41.      Combative sports (§§ 1000-1022).
+         42.      Social media terms of service (§§ 1100-1104).
          43.      New York state secure choice savings program
                     (§§ 1300-1316).
          44.      Regulation of surrogacy programs and assisted

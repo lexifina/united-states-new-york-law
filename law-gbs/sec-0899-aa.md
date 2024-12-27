@@ -25,12 +25,28 @@ a fingerprint, voice print, retina or iris image, or other unique
 physical representation or digital representation of biometric data
 which are used to authenticate or ascertain the individual's identity;
 or
+  * (6) medical information; or
+  * NB Effective March 21, 2025
+  * (7) health insurance information; or
+  * NB Effective March 21, 2025
   (ii) a user name or e-mail address in combination with a password or
 security question and answer that would permit access to an online
 account.
   "Private information" does not include publicly available information
 which is lawfully made available to the general public from federal,
 state, or local government records.
+  * For the purposes of this paragraph, "medical information" means any
+information regarding an individual's medical history, mental or
+physical condition, or medical treatment or diagnosis by a health care
+professional.
+  * NB Effective March 21, 2025
+  * For the purposes of this paragraph, "health insurance information"
+means an individual's health insurance policy number or subscriber
+identification number, any unique identifier used by a health insurer to
+identify the individual or any information in an individual's
+application and claims history, including, but not limited to, appeals
+history.
+  * NB Effective March 21, 2025
   (c) "Breach of the security of the system" shall mean unauthorized
 access to or acquisition of, or access to or acquisition without valid
 authorization, of computerized data that compromises the security,
@@ -73,10 +89,10 @@ in the security of the system to any resident of New York state whose
 private information was, or is reasonably believed to have been,
 accessed or acquired by a person without valid authorization. The
 disclosure shall be made in the most expedient time possible and without
-unreasonable delay, consistent with the legitimate needs of law
-enforcement, as provided in subdivision four of this section, or any
-measures necessary to determine the scope of the breach and restore the
-integrity of the system.
+unreasonable delay, provided that such notification shall be made within
+thirty days after the breach has been discovered, except for the
+legitimate needs of law enforcement, as provided in subdivision four of
+this section.
   (a) Notice to affected persons under this section is not required if
 the exposure of private information was an inadvertent disclosure by
 persons authorized to access private information, and the person or
@@ -115,9 +131,10 @@ commission or agency or by the federal or New York state courts.
   3. Any person or business which maintains computerized data which
 includes private information which such person or business does not own
 shall notify the owner or licensee of the information of any breach of
-the security of the system immediately following discovery, if the
-private information was, or is reasonably believed to have been,
-accessed or acquired by a person without valid authorization.
+the security of the system immediately, provided that such notification
+shall be made within thirty days following discovery, if the private
+information was, or is reasonably believed to have been, accessed or
+acquired by a person without valid authorization.
   4. The notification required by this section may be delayed if a law
 enforcement agency determines that such notification impedes a criminal
 investigation. The notification required by this section shall be made
@@ -192,11 +209,11 @@ elements of personal information and private information were, or are
 reasonably believed to have been, so accessed or acquired.
   8. (a) In the event that any New York residents are to be notified,
 the person or business shall notify the state attorney general, the
-department of state and the division of state police as to the timing,
-content and distribution of the notices and approximate number of
-affected persons and shall provide a copy of the template of the notice
-sent to affected persons. Such notice shall be made without delaying
-notice to affected New York residents.
+department of state, the division of state police, and the department of
+financial services as to the timing, content and distribution of the
+notices and approximate number of affected persons and shall provide a
+copy of the template of the notice sent to affected persons. Such notice
+shall be made without delaying notice to affected New York residents.
   (b) In the event that more than five thousand New York residents are
 to be notified at one time, the person or business shall also notify
 consumer reporting agencies as to the timing, content and distribution
