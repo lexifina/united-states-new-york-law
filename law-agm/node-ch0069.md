@@ -34,7 +34,7 @@ Article   1.      Short title; definitions; matters of public interest
           7-A.    Mink and ranch fox farming (§§ 127-a--127-b).
           8.      Manufacture and distribution of commercial feed
                     (§§ 128--135-g).
-          9.      Inspection and sale of seeds (§§ 136--142-a).
+          9.      Inspection and sale of seeds (§§ 136--142-b).
           9-A.    Sale of agricultural liming materials
                     (§§ 142-aa--142-hh).
          10.      Sale and analysis of commercial fertilizer
@@ -91,7 +91,7 @@ Article   1.      Short title; definitions; matters of public interest
                     (§§ 321-326).
          25-AAAA. Farmland Viability Program (§§ 327-330).
          25-B.    Abandoned animals (§§ 331-332).
-         26.      Animals (§§ 350-385).
+         26.      Animals (§§ 350-386).
          26-A.    Care of animals by pet dealers (§§ 400-408).
          26-B.    Emergency response services for animals (§§ 410-411).
          26-C.    Regulation of animal shelters (§§ 420-434).
