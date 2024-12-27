@@ -9,7 +9,7 @@ Article     I. The militia of the state (§§ 1-24.)
          VIII. The New York guard (§§ 165-170.)
            IX. Armories (§§ 175-189.)
             X. Pay and allowances (§§ 210-223.)
-           XI. Privileges, prohibitions and penalties (§§ 235-255.)
+           XI. Privileges, prohibitions and penalties (§§ 235-256.)
           XII. Miscellaneous provisions (§§ 260-266.)
          XIII. New York state soldiers' and sailors' civil relief act
                  (§§ 300-328.)
