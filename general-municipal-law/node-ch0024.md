@@ -70,6 +70,7 @@ Article  1.      Short title; definitions (§§ 1-2).
                    280-284).
         13-D.    Community facilities and programs for the elderly
                    (§§ 290-292).
+        13-E.    Municial websites (§ 300).
         14.      Airports and landing fields (§§ 350-357).
         14-A.    Gas and electric service (§§ 360-366).
         14-AA.   School district exploration for natural gas fields
