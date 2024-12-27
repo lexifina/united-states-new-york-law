@@ -14,7 +14,7 @@ Article   1.   Short title, applicability and definitions. (101-107.)
           3.   Jurisdiction and service, appearance and choice of court.
                  (301-318, 320-322, 325-328.)
           4.   Special proceedings. (401-411.)
-          5.   Venue. (501-513.)
+          5.   Venue. (501-515.)
           6.   Joinder of claims, consolidation and severance.
                  (601-604.)
           9.   Class actions. (901-909.)
