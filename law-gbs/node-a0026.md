@@ -200,6 +200,8 @@ Section 390.         Substitution of spurious oils for internal
         399-ccc.     Smoke detecting devices.
         399-cccc.    Wireless telephone services; domestic violence
                        victims.
+        399-ccccc.   Remote vehicle technology; domestic violence
+                       victims.
         399-d.       Children attending public bowling alleys under
                        certain conditions.
         399-dd.      Sale of alcohol vaporizing devices prohibited.
@@ -270,6 +272,7 @@ Section 390.         Substitution of spurious oils for internal
                        services.
         399-yyy.     Satellite television company providing television
                        and/or telephone services.
+        399-yyyy.    Macrocell renewable energy reporting.
         399-z.       Telemarketing; establishment of no telemarketing
                        sales calls statewide registry; authorization of
                        the transfer of telephone numbers on the no
