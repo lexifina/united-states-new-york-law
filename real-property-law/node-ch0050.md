@@ -30,6 +30,7 @@ Article 1.    Short title; definitions (§§ 1-2).
         12-B. Home inspection professional licensing.
                 (§§ 444-a--444-q).
         12-C. Apartment information vendors (§§ 446-a--446-j).
+        12-D. Short-term residential rental units (§§ 447-a--447-g).
         13.   Cemetery lands (§§ 450-451).
         14.   Property condition disclosure in the sale of residential
                 real property (§§ 460-466).
