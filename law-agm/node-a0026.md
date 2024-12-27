@@ -62,3 +62,4 @@ Section 350.   Definitions.
                  cats into the state for sale, resale or adoption.
         385.   Prohibition of slaughtering horses for human or animal
                  consumption.
+        386.   Requirements for live auctions.
