@@ -99,6 +99,7 @@ Section 3-200. Boards   of   elections;   creation,   qualifications  of
 Section 3-300. Board employees; appointment.
         3-302. Voting  machine  technicians and custodians; appointment,
                  duties.
+        3-304. Board employees; conflicts of interest.
                                 TITLE IV
                    ELECTION INSPECTORS AND POLL CLERKS
 Section 3-400. Election inspectors and poll clerks; provision for.
@@ -150,18 +151,18 @@ Section 4-100. Election district; creation and alteration.
         4-120. Notices of general and special elections; publication of.
         4-122. Lists   of   nomination;   publication  of  by  board  of
                  elections.
-        4-124. City  of  New York; publications within made necessary by
+        4-124. City of New York; publications within made  necessary  by
                  this law.
-        4-126. Delivery of election laws to clerks, boards and  election
+        4-126. Delivery  of election laws to clerks, boards and election
                  officers.
-        4-128. Supplies;  furnished  by board of elections or city, town
+        4-128. Supplies; furnished by board of elections or  city,  town
                  or village clerk.
         4-130. Supplies for registration; manner and time of delivery.
         4-132. Polling places; equipment for.
-        4-134. Preparation  and  delivery  of  ballots,   supplies   and
+        4-134. Preparation   and   delivery  of  ballots,  supplies  and
                  equipment for use at elections.
         4-136. Election expenses; payment of.
-        4-138. Expenses  of  boards  of elections outside New York City;
+        4-138. Expenses of boards of elections outside  New  York  City;
                  apportionment of.
                                 ARTICLE 5
                   REGISTRATION AND ENROLLMENT OF VOTERS
@@ -174,7 +175,7 @@ Section 5-100. Registration; required.
                                 TITLE II
                        REGISTRATION AND ENROLLMENT
 Section 5-202. Local registration; provision for.
-        5-204. Local registration; general provisions  for  the  conduct
+        5-204. Local  registration;  general  provisions for the conduct
                  of.
         5-206. Watchers.
         5-208. Transfer of registration and enrollment.
@@ -189,7 +190,7 @@ Section 5-202. Local registration; provision for.
         5-218. Registration; challenges.
         5-220. Registration; challenge after registered.
         5-222. Statement of temporary absence.
-        5-224. Registration  of  voters  unlawfully  denied the right to
+        5-224. Registration of voters unlawfully  denied  the  right  to
                  register.
         5-226. Registration; voter registered in wrong district.
         5-228. Registration; certificates of local registration.
@@ -198,7 +199,7 @@ Section 5-202. Local registration; provision for.
                                ENROLLMENT
 Section 5-300. Enrollment; generally.
         5-302. Enrollment; completion.
-        5-304. Enrollment; change of enrollment  or  new  enrollment  by
+        5-304. Enrollment;  change  of  enrollment  or new enrollment by
                  previously registered voters.
         5-306. Enrollment; correction of.
         5-308. Enrollment; automatic voter registration.
