@@ -9,6 +9,7 @@ Section 125.   General prohibitions and restrictions.
         128.   Permits, registrations and licenses.
         129.   Laboratory testing permits.
         130.   Special use permits.
+        130-a. Cannabis showcase event permit.
         131.   Local opt-out; municipal control and preemption.
         131-a. Office to be necessary party to certain proceedings.
         132.   Penalties for violation of this chapter.
