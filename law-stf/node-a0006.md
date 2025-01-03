@@ -140,6 +140,7 @@ Section 70.        Classification of funds.
         97-k.      Minority and women-owned business enterprise fund.
         97-l.      Sewage treatment program management and
                      administration fund.
+        97-m.      Climate change adaptation fund.
         97-p.      Community college tuition and instructional income
                      fund.
         97-q.      New York state emergency medical services training
