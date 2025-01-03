@@ -103,3 +103,5 @@ Article  1.   General provisions (§ 1-0101 to 1-0303).
         73.   New York state canal flood mitigation task force
                 (§ 73-0101 to 73-0107).
         75.   Climate change (§ 75-0101 to 75-0119).
+        76.   Climate change adaption cost recovery program
+                (§ 76-0101 to 76-0105).
