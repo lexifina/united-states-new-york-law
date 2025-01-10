@@ -13,9 +13,7 @@ Section 61.   License application.
                 distributor retail dispensary license.
         68-b. Registered organization adult-use cultivator, processor
                 and distributor license.
-        68-c. Conditional adult-use cultivator license.
         69.   Adult-use processor license.
-        69-a. Conditional adult-use processor license.
         70.   Adult-use cooperative license.
         71.   Adult-use distributor license.
         72.   Adult-use retail dispensary license.
