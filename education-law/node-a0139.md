@@ -11,7 +11,6 @@ Section 6900.   Introduction.
         6906.   Requirements for a license as a licensed practical
                   nurse.
         6907.   Limited permits.
-        6907-a. Temporary authorization.
         6908.   Exempt persons.
         6909.   Special provision.
         6910.   Certificates for nurse practitioner practice.
