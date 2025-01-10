@@ -90,7 +90,6 @@ Section 600.     Application.
                    attorney investigators.
         607-h.   Disability benefits; Westchester county district
                    attorney investigators.
-        607-i.   COVID-19 benefit.
         607-j.   Performance of duty, disability retirement for chief
                    fire marshals, assistant chief fire marshals,
                    division supervising fire marshals, supervising fire
