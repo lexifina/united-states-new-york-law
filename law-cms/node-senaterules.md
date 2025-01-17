@@ -1,20 +1,19 @@
                             RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2023-2024
-Rules  of  the  Senate  for  the  year  2023-2024,  as adopted by Senate
-Resolution number 2 of 2023 and as amended by Senate  Resolution  number
-444 of 2023.
-  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
-Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
-and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
+                                2025-2026
+Rules  of  the  Senate  for  the  year  2025-2026,  as adopted by Senate
+Resolution number 2 of 2025.
+  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
+Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
+and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
-amended by Concurrent Resolution number 2775  (Senate)  and  number  787
-(Assembly)  of  2009  and as amended by Concurrent Resolution number 404
+amended  by  Concurrent  Resolution  number 2775 (Senate) and number 787
+(Assembly) of 2009 and as amended by Concurrent  Resolution  number  404
 (Senate) and number 25 (Assembly) of 2017.
-                                 2/15/23
+                                 1/13/25
                            RULES OF THE SENATE
                         OF THE STATE OF NEW YORK
-                                2023-2024
+                                2025-2026
                                  RULE I
 THE PRESIDENT
   Section  1. The Lieutenant Governor of the State shall be President of
@@ -29,7 +28,7 @@ and  who  shall  preside,  or designate some other member to preside, in
 case of the absence from the Chamber or impeachment  of  the  Lieutenant
 Governor,  or  when he or she shall refuse to act as President, or shall
 act as Governor. The Temporary President shall exercise such powers  and
-duties as given by law or these rules during the 2023-2024 session.
+duties as given by law or these rules during the 2025-2026 session.
   § 2. He or she shall appoint and designate the Officers of the Senate,
 the  chair, vice-chair and members of all committees and sub-committees,
 except when the Senate shall otherwise order.
@@ -444,16 +443,16 @@ word "repealed"  as  it  appears  in  such  bill  shall  be  printed  in
 bold-faced  type.  When a bill is amended by eliminating new matter from
 such bill, the same  shall  be  omitted  in  the  republication  of  the
 original.  When  amendments  are offered to a printed bill, the proposed
-changes, indicating page and line  numbers,  shall  be  listed  on  four
-detail  sheets  and the same changes shall be incorporated and marked on
-two copies of the bill; provided, however, that no  amendment  shall  be
-allowed  to  any  bill  which  is  not germane to the original object or
-purpose thereof.   Furthermore, when  a  printed  bill  is  amended  the
-accompanying  introducer's  memorandum, required pursuant to section one
-of this Rule, shall also be amended to reflect any changes. It shall  be
-the  duty of the Secretary of the Senate to direct the Revision Clerk to
-cause any bill appearing on the calendar and  not  complying  with  this
-section to be immediately amended so as to comply with the same.
+changes, indicating page and line numbers, shall be listed on  a  detail
+sheet and the same changes shall be incorporated and marked on a copy of
+the  bill;  provided, however, that no amendment shall be allowed to any
+bill which is not germane to the original  object  or  purpose  thereof.
+Furthermore,   when   a   printed   bill  is  amended  the  accompanying
+introducer's memorandum, required pursuant to section one of this  Rule,
+shall  also  be  amended to reflect any changes. It shall be the duty of
+the Secretary of the Senate to direct the Revision Clerk  to  cause  any
+bill appearing on the calendar and not complying with this section to be
+immediately amended so as to comply with the same.
   §  5.  Final  date. a. The Temporary President may designate a date in
 writing after which no bill or original resolution shall  be  introduced
 except  by  message  from  the  Assembly, but no date prior to the first
@@ -512,39 +511,42 @@ order and shall not be reported. Any resolution which recommends, urges,
 supports the alteration of the laws of  this  state,  resolutions  which
 honor  current  elected  office  holders or resolutions which recognize,
 honor or support the positions of a political  party  shall  be  out  of
-order and shall not be reported.
-  c.   All   resolutions  which  propose  any  amendment  to  the  State
-Constitution shall be referred to the Attorney General  as  provided  in
-Article  XIX  of the Constitution, and shall be treated in the same form
-of proceedings as that provided for bills; and resolutions which  ratify
+order  and  shall not be reported, provided, however, that a resoulution
+honoring a current member of the Senate or Assembly who is  retiring  or
+resigining  at  the end of his or her term shall not be out of order and
+may be reported if deemed proper by the Temporary President.
+  c.  All  resolutions  which  propose  any  amendment  to   the   State
+Constitution  shall  be  referred to the Attorney General as provided in
+Article XIX of the Constitution, and shall be treated in the  same  form
+of  proceedings as that provided for bills; and resolutions which ratify
 any proposed amendment to the Constitution of the United States shall be
 treated  in  the same form of proceedings as provided for bills. After a
-resolution  to  amend  the State Constitution shall be advanced to third
+resolution to amend the State Constitution shall be  advanced  to  third
 reading, no motion to amend the same shall be in order without unanimous
 consent; and if such resolution to amend the State Constitution shall be
-amended after the opinion of  the  Attorney  General  thereon  has  been
-received  as provided in Article XIX of the Constitution, it shall again
-be referred  to  the  Attorney  General.  Any  such  resolution  may  be
+amended  after  the  opinion  of  the  Attorney General thereon has been
+received as provided in Article XIX of the Constitution, it shall  again
+be  referred  to  the  Attorney  General.  Any  such  resolution  may be
 committed prior to the final reading thereof.
-  d.  All  resolutions  calling  for  the  expenditure of moneys must be
-decided by a majority vote of all of the members elected to the  Senate,
+  d. All resolutions calling for  the  expenditure  of  moneys  must  be
+decided  by a majority vote of all of the members elected to the Senate,
 upon a call of the roll.
   e. All resolutions deemed proper by the Temporary President other than
-those  mentioned  and  treated  in the preceding subdivisions c and d of
-this section and reported by the committee of  reference  designated  by
-the  Temporary  President  shall  be  placed  upon the calendar upon the
-approval of the Temporary President. When in the order of  business  the
-resolutions  are  reached,  the  Senate  may adopt such resolutions as a
-group, by  one  vote  upon  the  question  of  the  entire  calendar  of
-resolution,  excepting  that any member may request that any one or more
-of the resolutions on such calendar  shall  be  voted  upon  or  debated
+those mentioned and treated in the preceding subdivisions  c  and  d  of
+this  section  and  reported by the committee of reference designated by
+the Temporary President shall be  placed  upon  the  calendar  upon  the
+approval  of  the Temporary President. When in the order of business the
+resolutions are reached, the Senate may  adopt  such  resolutions  as  a
+group,  by  one  vote  upon  the  question  of  the  entire  calendar of
+resolution, excepting that any member may request that any one  or  more
+of  the  resolutions  on  such  calendar  shall be voted upon or debated
 separately. This subdivision shall not apply to any resolution recalling
-bills   from  or  returning  bills  to  the  Assembly,  or  relating  to
-adjournment or to resolutions pertaining to the rules of the  Senate  or
-to  those  resolutions  regarded  as "privileged". A resolution shall be
-deemed privileged  only  if  it  encompasses  a  subject  of  particular
-importance  to  the  house  or  is a question of specific urgency and in
-either case a resolution shall  only  be  deemed  privileged  if  it  is
+bills  from  or  returning  bills  to  the  Assembly,  or  relating   to
+adjournment  or  to resolutions pertaining to the rules of the Senate or
+to those resolutions regarded as "privileged".  A  resolution  shall  be
+deemed  privileged  only  if  it  encompasses  a  subject  of particular
+importance to the house or is a question  of  specific  urgency  and  in
+either  case  a  resolution  shall  only  be  deemed privileged if it is
 designated by the Temporary President as such.
                                 RULE VII
 STANDING COMMITTEES
@@ -575,7 +577,7 @@ shall serve and shall continue throughout the year:
   Veterans, Homeland Security and Military Affairs
   To consist of seven Senators:
   Aging
-  Alcoholism and Substance Use Disorders
+  Alcoholism and Substance Abuse
   Banks
   Budget and Revenue
   Children and Families
@@ -1403,3 +1405,54 @@ issue or the candidacy of any person for any elective office; or
   § 2. The televised proceedings of sessions of the Senate  as  provided
 for  in  section  one  of  this  Rule,  in any form, shall be deemed the
 property of the New York State Senate.
+                                RULE XVI
+MEMBER VIDEOCONFERENCING
+  Section  1.  In  compliance  with  paragraph  (a)  of subdivision 2 of
+section 103-a of the Public Officers Law, the Senate authorized by Joint
+Resolution adopted the use of videoconferencing as described in  section
+103-a  of  the  Public Officers Law. The following procedures are hereby
+established to satisfy the requirement of paragraph (b) of subdivision 2
+of section 103-a of the Public Officers Law that any public  body  which
+in  its  discretion  wishes  to  permit  its  members  to participate in
+meetings by videoconferencing  under  extraordinary  circumstances  must
+establish  written procedures governing the attendance of members and of
+the public.
+  a. For the purposes  of  these  procedures,  the  term  "extraordinary
+circumstances"  includes,  but  is  not limited to, disability, illness,
+caregiving responsibilities, or any significant, exceptional, irregular,
+or unexpected factor or event  which  precludes  the  member's  physical
+attendance at a meeting.
+  b.   If   a   member   of   the   Senate   wishes  to  participate  by
+videoconferencing  from  a  private  location   due   to   extraordinary
+circumstances,  the  member  must  notify  the  Temporary  President, in
+writing, no later than one (1) business day prior to a scheduled hearing
+or no later than three (3) hours prior to a regular committee meeting or
+convening of the Senate session. For members of the Minority Conference,
+the Minority Leader shall notify the Temporary President, in writing, in
+regards to requesting a member of the  Minority  Conference  be  excused
+from  a  physical  in-person meeting due to extraordinary circumstances,
+where such request has been approved by the  Minority  Leader  no  later
+than the deadline provided for in this subsection.
+  c.  A member participating virtually shall not be permitted to utilize
+videoconferencing until a quorum of members physically present  at  such
+meeting has been established.
+  d.  Except  in  the  case  of executive sessions conducted pursuant to
+section 105 of the Public Officers Law or as otherwise provided  for  in
+these procedures, the Senate shall ensure that its members can be heard,
+seen,  and  identified  while  the  meeting  is being conducted. Members
+participating  by  videoconferencing  from  private  locations  due   to
+extraordinary  circumstances  must  ensure  that  they  may  be  seen on
+videoconferencing during the entirety of any proceeding.
+  e.  Solely  for  Senate  session,  no  Senator  approved  to   utilize
+videoconferencing shall speak on any matter before the House, including,
+but  not  limited  to,  speaking on any resolutions, bills, or any other
+matters under consideration.
+  f. The provisions of these procedures shall not apply during  a  State
+Disaster  Emergency  declared  by the governor pursuant to section 28 of
+the Executive Law or a local State of Emergency proclaimed by the  Chief
+Executive  of  a county, city, village or town pursuant to section 24 of
+the Executive Law  if  the  Senate  determines  that  the  circumstances
+necessitating  the  emergency  declaration  would  affect  or impair the
+ability of the Senate to hold an in-person meeting.
+  g. These procedures  shall  be  conspicuously  posted  on  the  Senate
+website in compliance with section 103-a of the Public Officers Law.
