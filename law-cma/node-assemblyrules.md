@@ -1,8 +1,8 @@
                           RULES OF THE ASSEMBLY
                         OF THE STATE OF NEW YORK
-                                2023-2024
-  Rules of the Assembly for the years 2023--2024, as adopted by Assembly
-Resolution   number   6  of  2023,  including  the  temporary  emergency
+                                2025-2026
+  Rules of the Assembly for the years 2025--2026, as adopted by Assembly
+Resolution   number   6  of  2025,  including  the  temporary  emergency
 procedures set forth in Assembly Resolution 854  adopted  on  March  30,
 2020, as last amended, and as amended by Assembly Resolution 87 of 2023.
   Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
@@ -12,7 +12,7 @@ as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
 amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
 (Assembly)  of  2009  and as amended by Concurrent Resolution number 404
 (Senate) and number 25 (Assembly) of 2017.
-                                 2/08/23
+                                 1/14/25
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
