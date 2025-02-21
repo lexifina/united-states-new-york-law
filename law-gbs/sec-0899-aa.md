@@ -25,9 +25,15 @@ a fingerprint, voice print, retina or iris image, or other unique
 physical representation or digital representation of biometric data
 which are used to authenticate or ascertain the individual's identity;
 or
-  * (6) medical information; or
+  * (6) medical information, meaning any information regarding an
+individual's medical history, mental or physical condition, or medical
+treatment or diagnosis by a health care professional; or
   * NB Effective March 21, 2025
-  * (7) health insurance information; or
+  * (7) health insurance information, meaning an individual's health
+insurance policy number or subscriber identification number, any unique
+identifier used by a health insurer to identify the individual or any
+information in an individual's application and claims history, including
+but not limited to, appeals history; or
   * NB Effective March 21, 2025
   (ii) a user name or e-mail address in combination with a password or
 security question and answer that would permit access to an online
@@ -39,14 +45,14 @@ state, or local government records.
 information regarding an individual's medical history, mental or
 physical condition, or medical treatment or diagnosis by a health care
 professional.
-  * NB Effective March 21, 2025
+  * NB Effective and Repealed March 21, 2025
   * For the purposes of this paragraph, "health insurance information"
 means an individual's health insurance policy number or subscriber
 identification number, any unique identifier used by a health insurer to
 identify the individual or any information in an individual's
 application and claims history, including, but not limited to, appeals
 history.
-  * NB Effective March 21, 2025
+  * NB Effective and Repealed March 21, 2025
   (c) "Breach of the security of the system" shall mean unauthorized
 access to or acquisition of, or access to or acquisition without valid
 authorization, of computerized data that compromises the security,
@@ -212,8 +218,13 @@ the person or business shall notify the state attorney general, the
 department of state, the division of state police, and the department of
 financial services as to the timing, content and distribution of the
 notices and approximate number of affected persons and shall provide a
-copy of the template of the notice sent to affected persons. Such notice
-shall be made without delaying notice to affected New York residents.
+copy of the template of the notice sent to affected persons; provided,
+however, that notice to the department of financial services shall only
+be required if the person or business is a covered entity, as defined in
+23 NYCRR 500.1, and provided further that such notice shall be provided
+to the department of financial services in compliance with 23 NYCRR
+500.17. Such notice shall be made without delaying notice to affected
+New York residents.
   (b) In the event that more than five thousand New York residents are
 to be notified at one time, the person or business shall also notify
 consumer reporting agencies as to the timing, content and distribution

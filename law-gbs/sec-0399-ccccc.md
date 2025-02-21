@@ -1,53 +1,83 @@
-  § 399-ccccc. Remote vehicle technology; domestic violence victims. 1.
-For the purposes of this section, the term "remote vehicle technology"
-shall mean any technology that allows a person who is outside of a
-vehicle to track the location of, or control any operation of, the
-vehicle, and includes, but is not limited to, a global positioning
-system (GPS) that tracks the location of the vehicle or an app-based
-technology that controls any operation of the vehicle.
-  2. (a) A vehicle manufacturer and/or dealer located in this state
-shall, within five business days after receiving a request by a driver
-who meets the requirements of subdivision three of this section,
-terminate an individual's access to remote vehicle technology.
+  * § 399-ccccc. Connected vehicle service; domestic violence victims.
+1.  For the purposes of this section, the terms: (a) "connected vehicle
+service" shall mean any technology that enables a person, other than the
+driver or a covered provider, to track the location of, control any
+operation of, or obtain or share data from the vehicle including, but
+not limited to, a global positioning system (GPS) that tracks the
+location of the vehicle or an app-based technology that controls any
+operation of the vehicle; and
+  (b) "covered provider" shall mean a vehicle manufacturer or an entity
+acting on behalf of the vehicle manufacturer that provides any connected
+vehicle service.
+  2. (a) A covered provider operating in this state shall, within two
+business days after receiving a request by a driver who meets the
+requirements of subdivision three of this section, terminate an
+individual's access to any connected vehicle service.
   (b) Upon a showing that termination of an individual's access to
-remote technology is technologically infeasible, such manufacturer or
-dealer shall notify a driver seeking relief of such technical
-infeasibility and provide potential alternatives.
-  3. (a) A request by a driver that a vehicle manufacturer and/or dealer
-terminate an individual's access to remote vehicle technology shall
-include the following information:
-  (i) proof of such driver's legal possession of a vehicle manufactured
-by such vehicle manufacturer or sold by such dealer. Such proof may be
-established by providing a vehicle title, a court order awarding sole
+connected vehicle service is technologically infeasible, such covered
+provider shall promptly notify a driver seeking relief of such technical
+infeasibility and provide potential alternatives including, but not
+limited to, informing the driver on how to disable or modify the
+settings for a connected vehicle service manually.
+  3. (a) A request by a driver that a covered provider terminate an
+individual's access to connected vehicle service shall include the
+following information:
+  (i) vehicle identification number (VIN);
+  (ii) proof of such driver's legal possession of a vehicle which may be
+established by providing the vehicle title, the vehicle title paired
+with a lease agreement in the driver's name, a court order awarding sole
 possession or ownership of a vehicle to such driver, proof of marriage
 of the driver and the owner of the car at the time the car was bought or
 leased, or such other proof as determined by the commissioner of motor
-vehicles; and
-  (ii) a written attestation that the person making such request is a
+vehicles in conjunction with the office for the prevention of domestic
+violence; and
+  (iii) a written attestation that the person making such request is a
 victim of domestic violence, as defined in section four hundred
 fifty-nine-a of the social services law.
-  (b) A vehicle manufacturer and/or dealer shall not require a driver to
-provide any information other than what is required by paragraph (a) of
-this subdivision.
-  4. A vehicle manufacturer and/or dealer shall notify a driver seeking
-relief under subdivision two of this section, in clear and accessible
-language, that such vehicle manufacturer and/or dealer may contact the
-driver, or the designated representative of the driver, to confirm an
-individual's access to the remote vehicle technology has been
-terminated.
-  5. A vehicle manufacturer and/or dealer shall, absent a showing of
-technological infeasibility, provide a notification inside of a vehicle
-that is installed with remote vehicle technology that shows if the
-remote vehicle technology is being used.
-  6. A vehicle manufacturer and/or dealer shall provide information on
-its internet website and vehicle internet applications, in clear and
-accessible language, on the process of terminating a person's access to
-remote vehicle technology, including, but not limited to, the
-information required pursuant to paragraph (a) of subdivision three of
-this section.
-  7. A vehicle manufacturer and/or dealer shall not charge a driver a
-fee for completing a request to terminate remote vehicle technology
-pursuant to this section.
-  8. Any vehicle manufacturer and/or dealer who fails to comply with the
-requirements of this section shall be assessed a civil penalty not to
-exceed five hundred dollars.
+  (b) A covered provider shall not require a driver to provide any
+information other than what is required by paragraph (a) of this
+subdivision.
+  (c) Any information provided by a driver under paragraph (a) of this
+subdivision shall be treated as confidential and securely disposed of no
+later than ninety days after processing the request. Nothing in this
+paragraph shall prohibit a covered provider from maintaining a record
+that verifies an application to terminate a connected vehicle service
+was completed.
+  (d) Nothing in this section shall prohibit a driver from seeking
+relief under the family court act, and the domestic relations law.
+  4. A covered provider shall notify a driver seeking relief under
+subdivision two of this section, in clear and accessible language, that
+such covered provider may contact the driver, or the designated
+representative of the driver, to confirm an individual's access to the
+connected vehicle services has been terminated.
+  ** 5. A covered provider shall, absent a showing of technological
+infeasibility, provide a notification inside of a vehicle that is
+installed with any connected vehicle service that shows when such
+service is enabled and inform the driver on how to disable or modify the
+settings for a connected vehicle service.
+  ** NB Effective January 1, 2026 for vehicles manufactured prior to
+January 1, 2028 and Effective January 1, 2028 for vehicles manufactured
+on or after January 1, 2028 that have connected vehicle service
+  6. A covered provider shall provide information on its internet
+website and vehicle internet applications, in clear and accessible
+language, on the process of terminating a person's access to connected
+vehicle service, including, but not limited to, the information required
+pursuant to paragraph (a) of subdivision three of this section.
+  7. The office for the prevention of domestic violence shall develop
+educational materials and resources on accessing this service and make
+such information available on their website.
+  8. A covered provider shall not charge a driver a fee for completing a
+request to terminate connected vehicle services pursuant to this
+section.
+  9. A covered provider who fails to comply with the requirements of
+this section shall be assessed a civil penalty not to exceed five
+hundred dollars per violation.
+  10. A covered provider and any officer, director, employee, vendor or
+agent thereof shall not be subject to liability for any claims arising
+from an action taken necessary for compliance with this section, except
+as provided in this section.
+  § 2. Section 2 of a chapter of the laws of 2024 amending the general
+business law relating to remote vehicle technology and domestic violence
+victims, as proposed in legislative bills numbers S. 9174-B and A.
+9616-C, is amended to read as follows:
+  * NB Effective March 21, 2025
