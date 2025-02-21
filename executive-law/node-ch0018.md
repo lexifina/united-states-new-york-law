@@ -90,7 +90,7 @@ The People of the State of New York, represented in Senate and Assembly,
          27.   Adirondack park agency (§§ 800-820).
          28.   Workforce diversity program (§§ 821-826).
          30.   Indigent legal services (§§ 832-833).
-         35.   Division of criminal justice services (§§ 835-847).
+         35.   Division of criminal justice services (§§ 835-846).
          36.   Neighborhood preservation crime prevention act
                  (§§ 846-a--846-h).
          36-A. New  York  motor  vehicle  theft  and   insurance   fraud
