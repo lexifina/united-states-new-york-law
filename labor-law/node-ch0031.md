@@ -49,7 +49,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        21.    New York call center jobs act. (§§ 770-776)
        21-A.  Warehouse worker protection act. (§§ 780-788)
        21-B.  Protection of call center workers from displacement.
-                (§§ 790-794).
+                (§§ 790-793).
        22.    Boards of inquiry in labor disputes. (§§ 800-805)
        22-A.  Injunctions in labor disputes. (§§ 807-808)
        23.    Apprenticeship training. (§§ 810-819)
