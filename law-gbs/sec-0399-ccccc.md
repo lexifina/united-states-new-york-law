@@ -55,7 +55,7 @@ infeasibility, provide a notification inside of a vehicle that is
 installed with any connected vehicle service that shows when such
 service is enabled and inform the driver on how to disable or modify the
 settings for a connected vehicle service.
-  ** NB Effective January 1, 2026 for vehicles manufactured prior to
+  ** NB Effective July 1, 2026 for vehicles manufactured prior to
 January 1, 2028 and Effective January 1, 2028 for vehicles manufactured
 on or after January 1, 2028 that have connected vehicle service
   6. A covered provider shall provide information on its internet
@@ -76,8 +76,4 @@ hundred dollars per violation.
 agent thereof shall not be subject to liability for any claims arising
 from an action taken necessary for compliance with this section, except
 as provided in this section.
-  § 2. Section 2 of a chapter of the laws of 2024 amending the general
-business law relating to remote vehicle technology and domestic violence
-victims, as proposed in legislative bills numbers S. 9174-B and A.
-9616-C, is amended to read as follows:
   * NB Effective March 21, 2025
