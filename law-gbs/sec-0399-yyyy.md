@@ -22,5 +22,4 @@ phone network that provides radio coverage served by a high-power cell
 site (tower, antenna or mast). The "wireless service industry" shall
 include wireless carriers, tower companies, and their trade associations
 that offer service to New York state customers.
-  * NB Effective March 21, 2025
   * NB Repealed December 21, 2026
