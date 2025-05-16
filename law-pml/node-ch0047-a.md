@@ -1,6 +1,6 @@
                   CHAPTER 47-A OF THE CONSOLIDATED LAWS
               RACING, PARI-MUTUEL WAGERING AND BREEDING LAW
-Article I.    Supervision and regulation. (§§ 101-135)
+Article I.    Supervision and regulation. (§§ 101-136)
         II.   Thoroughbred racing and breeding. (§§ 201-257)
         III.  Harness racing and breeding. (§§ 301-336)
         IV.   Quarter horse racing and breeding. (§§ 401-436)
