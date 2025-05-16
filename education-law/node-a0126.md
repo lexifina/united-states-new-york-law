@@ -15,3 +15,4 @@ Section 6301.   Definitions.
         6309.   Reimbursement of defense costs incurred by or on behalf
                   of community college trustees, officers and employees.
         6310.   Community college regions - administration and finance.
+        6311.   New York opportunity promise scholarship.

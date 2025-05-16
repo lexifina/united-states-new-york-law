@@ -24,3 +24,4 @@ Section 301.   Commissioner of education continued.
         316.   Teacher resource and computer training centers.
         317.   General education development exam.
         318.   Distribution of surplus computers.
+        319.   Establishment of dual enrollment program policy.
