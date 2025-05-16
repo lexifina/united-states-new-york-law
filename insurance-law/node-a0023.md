@@ -33,7 +33,8 @@ Section 2301.   Purpose.
         2325.   Accounts and statistics.
         2326.   Evaluation of competitive rating provisions.
         2327.   Verification of driving history.
-        2328.   Certain motor vehicle insurance rates; prior approval.
+        2328.   For hire motor vehicle insurance rates; flexible rating;
+                  prior approval.
         2329.   Motor vehicle insurance rates; excess profits.
         2330.   No fault motor vehicle insurance rates; reflection of
                   reduced exposure to loss.
