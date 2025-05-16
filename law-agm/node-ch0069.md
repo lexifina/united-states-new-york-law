@@ -91,6 +91,7 @@ Article   1.      Short title; definitions; matters of public interest
                     (§§ 321-326).
          25-AAAA. Farmland Viability Program (§§ 327-330).
          25-B.    Abandoned animals (§§ 331-332).
+         25-C.    Farm employer overtime credit program (§§ 333-335).
          26.      Animals (§§ 350-386).
          26-A.    Care of animals by pet dealers (§§ 400-408).
          26-B.    Emergency response services for animals (§§ 410-411).
