@@ -34,6 +34,8 @@ Section 135.     Separate specifications for contract work for the
                    process.
         139-k.   Disclosure of contacts and responsibility of offerers.
         139-l.   Statement on sexual harassment, in bids.
+        139-m.   Statement on gender-based violence and the workplace,
+                   in bids.
         140.     Disposition of deposit accompanying bid.
         141.     Claims against contractors.
         142.     Workmen's compensation insurance on public works.

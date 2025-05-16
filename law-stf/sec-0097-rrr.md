@@ -10,32 +10,17 @@ pursuant to section thirty-six hundred nine-e of the education law.
   4. All payments from the fund shall be made on the audit and warrant
 of the comptroller on vouchers approved by the commissioner of the state
 education department.
-  ** 5. Notwithstanding the provisions of section one hundred
-seventy-one-a of the tax law, as separately amended by chapters four
-hundred eighty-one and four hundred eighty-four of the laws of nineteen
-hundred eighty-one, and notwithstanding the provisions of chapter
-ninety-four of the laws of two thousand eleven, or any other provisions
-of law to the contrary, during the fiscal year beginning April first,
-two thousand twenty-four, the state comptroller is hereby authorized and
-directed to deposit to the fund created pursuant to this section from
-amounts collected pursuant to article twenty-two of the tax law and
-pursuant to a schedule submitted by the director of the budget, up to
-$1,575,393,000 as may be certified in such schedule as necessary to meet
-the purposes of such fund for the fiscal year beginning April first, two
-thousand twenty-four.
-  ** NB Effective until March 31, 2025
-  ** 5. Notwithstanding the provisions of section one hundred
-seventy-one-a of the tax law, as separately amended by chapters four
-hundred eighty-one and four hundred eighty-four of the laws of nineteen
-hundred eighty-one, and notwithstanding the provisions of chapter
-ninety-four of the laws of two thousand eleven, or any other provisions
-of law to the contrary, during the fiscal year beginning April first,
-two thousand twenty-three, the state comptroller is hereby authorized
-and directed to deposit to the fund created pursuant to this section
-from amounts collected pursuant to article twenty-two of the tax law and
-pursuant to a schedule submitted by the director of the budget, up to
-$1,716,913,000 as may be certified in such schedule as necessary to meet
-the purposes of such fund for the fiscal year beginning April first, two
-thousand twenty-three.
-  ** NB Effective March 31, 2025
+  5. Notwithstanding the provisions of section one hundred seventy-one-a
+of the tax law, as separately amended by chapters four hundred
+eighty-one and four hundred eighty-four of the laws of nineteen hundred
+eighty-one, and notwithstanding the provisions of chapter ninety-four of
+the laws of two thousand eleven, or any other provisions of law to the
+contrary, during the fiscal year beginning April first, two thousand
+twenty-five, the state comptroller is hereby authorized and directed to
+deposit to the fund created pursuant to this section from amounts
+collected pursuant to article twenty-two of the tax law and pursuant to
+a schedule submitted by the director of the budget, up to $1,396,911,000
+as may be certified in such schedule as necessary to meet the purposes
+of such fund for the fiscal year beginning April first, two thousand
+twenty-five.
   * NB There are 2 § 97-rrr's

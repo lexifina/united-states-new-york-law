@@ -35,7 +35,7 @@ Article  I.     Short title (§ 1).
                   not-for-profit organizations (§§ 179-q--179-ee).
          XII.   Court funds (§§ 180-185).
          XIII.  New York false claims act (§§ 187-194).
-         XIV.   Salaries and employee benefits (§§ 200--209-b).
+         XIV.   Salaries and employee benefits (§§ 200-210).
          XV.    Excelsior linked deposit act (§§ 212-224).
          16.    Water Pollution Control Linked Deposit Program Act
                   (§§ 235-243).

@@ -28,7 +28,7 @@ assistance to qualified social and economic equity applicants including
 the administration, capitalization, and provision of low and zero
 interest loans to such applicants pursuant to section sixteen-ee of the
 urban development corporation act. Such costs shall be paid out of
-revenues received, including, but not limited to, from special one-time
+revenues received, including, but not limited to, from special license
 fees paid by registered organizations pursuant to section sixty-three of
 the cannabis law.
   (d) subject to available appropriations and providing that no more
