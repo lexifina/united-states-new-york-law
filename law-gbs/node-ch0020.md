@@ -45,6 +45,8 @@ AN ACT relating to general business, constituting chapter twenty of the
          11-A.    Motor vehicle manufacturers (§§ 198-a--199).
          11-B.    Franchises for the sale of motor fuels
                     (§§ 199-a--199-n).
+         11-C.    Sale of zero-emission school buses
+                    (§§ 199-o--199-p).
          12.      Hotels and boarding houses (§§ 200--209-g).
          12-B.    Mercantile establishments (§§ 217--218-aa).
          12-C.    Trampoline park safety (§§ 220-228).
@@ -191,3 +193,5 @@ AN ACT relating to general business, constituting chapter twenty of the
          44-A.    Freelance isn't free act (§§ 1410-1415).
          45.      Safe for kids act (§§ 1500-1508).
          46.      Laws repealed; when to take effect (§§ 1600-1601).
+         47.      Artificial intelligence companion models (§§
+                    1700-1704).
