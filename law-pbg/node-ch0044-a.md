@@ -29,5 +29,7 @@ Article   1.    Short title; policy of state and purpose of chapter;
          13.    Municipal housing authorities, created. (§§ 400-575.)
          14.    Obligation to affirmatively further fair housing.
                   (§ 600.)
+         14-A.  Housing access voucher pilot program.
+                  (§§ 605-623).
          15.    New York City public housing preservation trust.
                   (§§ 625-649).
