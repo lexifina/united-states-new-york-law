@@ -8,6 +8,5 @@ Section 901. Reduction in retained commission.
         905. Combination of New York wagers with wagers made in other
                states or foreign countries.
         906. Handicapping tournaments.
-        908. Non-refundable tax credit.
         910. Reciprocity of licenses.
         911. Advance deposit wagering.
