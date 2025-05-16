@@ -5,7 +5,7 @@ Section 40. Definitions.
         42. Citizen's policy and complaint review council; organization;
               functions, powers and duties.
         43. Correction medical review board; organization.
-        44. Chairman of commission.
+        44. Chair of commission.
         45. Functions, powers and duties of the commission.
         46. Additional functions, powers and duties of the commission.
         47. Functions, powers and duties of the board.
