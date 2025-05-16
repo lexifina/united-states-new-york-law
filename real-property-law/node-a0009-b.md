@@ -42,3 +42,7 @@ Section 339-d.  Short title.
         339-jj. Borrowing by board of managers.
         339-kk. Rents.
         339-ll. Electric vehicle charging station installation.
+        339-mm. Establishment of reserve fund and dedicated capital fund
+                  for buildings converting to condominium ownership
+                  under section three hundred fifty-two-eeeee of the
+                  general business law.
