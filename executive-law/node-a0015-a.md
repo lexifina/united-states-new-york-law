@@ -17,4 +17,4 @@ Section 310.   Definitions.
         316-a. Prohibitions in contracts; violations.
         317.   Superseding effect of article with respect to state law.
         318.   Severability.
-  * NB Repealed July 1, 2025
+  * NB Repealed July 1, 2028

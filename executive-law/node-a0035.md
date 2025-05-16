@@ -50,6 +50,7 @@ Section 835.     Definitions.
         837-w*2. Blue alert system.
         837-x.   Cooperation with certain out-of-state investigations.
         837-x*2. Cooperation with certain out-of-state investigations.
+        837-y.   New York state office of gun violence prevention.
         838.     Identification of unknown dead and missing persons.
         838-a.   Maintenance of sexual offense evidence kits.
         838-b.   Victim's right to notice.

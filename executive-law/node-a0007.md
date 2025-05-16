@@ -36,5 +36,6 @@ Section 161.     Certain searches, the filing of papers, and certified
         170-g.   Collection of demographic information; sexual
                    orientation and gender expression.
         170-h.   Additional collection of demographic information.
+        170-i.   Gender-based violence and the workplace.
         171.     Discovery and disposition of human remains and funerary
                    objects.
