@@ -1,4 +1,4 @@
-                               ARTICLE 22
+                              * ARTICLE 22
                    EMPLOYEE TRAINING INCENTIVE PROGRAM
 Section 441. Definitions.
         442. Eligibility criteria.
@@ -6,3 +6,4 @@ Section 441. Definitions.
         444. Powers and duties of the commissioner.
         445. Recordkeeping requirements.
         446. Cap on tax credit.
+          * NB Repealed December 31, 2028
