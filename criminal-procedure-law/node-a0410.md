@@ -1,8 +1,8 @@
       ARTICLE 410--* SENTENCES OF PROBATION, CONDITIONAL DISCHARGE
                          AND PAROLE SUPERVISION
-  * NB Effective until September 1, 2025
+  * NB Effective until September 1, 2027
           * SENTENCES OF PROBATION AND OF CONDITIONAL DISCHARGE
-  * NB Effective September 1, 2025
+  * NB Effective September 1, 2027
 Section 410.10   Specification of conditions of the sentence.
         410.20   Modification or enlargement of conditions.
         410.30   Declaration of delinquency.
