@@ -39,7 +39,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        19-B.  Domestic workers and household employees. (§§ 690-694)
        19-C.  Representation of child care providers. (§§ 695-a-695-g)
        19-D.  Minimum wage rates for covered airport workers. (§§
-                696-a--696-i)
+                696-a--696-h)
        20.    New York state labor relations act. (§§ 700-718)
        20-A.  Labor and management improper practices act.
                 (§§ 720-732)
