@@ -39,9 +39,9 @@ manner.
   2. Fees. The department may provide by rule for reasonable
 administrative charges or fees necessary to defray expenses in
 administering this benefit program.
-  3. (a) No benefits pursuant to this title shall be granted for
-construction work performed pursuant to a building permit issued after
-April first, two thousand twenty-nine.
-  (b) If no building permit was required, then no benefits pursuant to
-this title shall be granted for construction work that is commenced
+  3. (a) No benefits authorized pursuant to this title shall be granted
+for construction work performed pursuant to a building permit issued
 after April first, two thousand twenty-nine.
+  (b) If no building permit was required, then no benefits authorized
+pursuant to this title shall be granted for construction work that is
+commenced after April first, two thousand twenty-nine.

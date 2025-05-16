@@ -54,6 +54,34 @@ removing personal property, pursuant to subdivision one of section one
 hundred eighty-two of the lien law. No benefits shall be granted
 pursuant to this title for construction work on real property where any
 portion of such property is to be used as a self-storage facility.
+  (e) Parking facility. No benefits shall be granted pursuant to this
+title for construction work on real property where any portion of such
+property is to be used as a parking facility, except where a parking
+facility is associated with residential construction work on a separate
+tax lot, as described in rules of the commissioner, and such residential
+construction work is subject to financial assistance from the local
+housing agency of a city that has enacted a local law pursuant to this
+title. For the purposes of this paragraph, the term "financial
+assistance" means loans, grants, tax credits, tax exemptions, tax
+abatements, subsidies, mortgages, debt forgiveness, and land conveyances
+for less than appraised value provided in accordance with a regulatory
+agreement entered into with such local housing agency, except that
+"financial assistance" shall not include as-of-right assistance or
+benefits. For the purposes of this title, "parking facility" means any
+real property or portion thereof in a city on which exists a facility
+operated in a manner that requires a license for the operation of a
+garage or parking lot issued by the consumer and worker protection
+agency of such city.
+  (f) Storage warehouse. No benefits shall be granted pursuant to this
+title for construction work on real property where any portion of such
+property is to be used as a storage warehouse. For the purposes of this
+title, "storage warehouse" means any real property or portion thereof in
+a city on which exists a building or structure which a consumer's
+household goods are received for storage for compensation, except ware-
+houses in which such goods are stored by or on behalf of a merchant for
+resale or other use in the course of the merchant's business, operated
+in a manner that requires a license for the operation of a storage ware-
+house issued by the consumer and worker protection agency of such city.
   4. Hotel uses. Benefits shall be available for commercial construction
 work or renovation construction work on a building or structure for the
 property's square footage used to provide lodging and support services
