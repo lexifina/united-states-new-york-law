@@ -8,3 +8,4 @@ Section 36.01 Crisis stabilization centers.
         36.05 Certified community behavioral health clinics indigent
                 care program.
         36.06 Review of criminal history information.
+        36.07 Behavioral health crisis technical assistance center.

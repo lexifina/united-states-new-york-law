@@ -23,7 +23,7 @@ Article   1 Short title and definitions (§§ 1.01-1.03).
                                    MENTAL HEALTH ACT
 Article   7 Office of mental health (§§ 7.01-7.47).
           9 Hospitalization of persons with a mental illness
-              (§§ 9.01-9.63).
+              (§§ 9.01-9.64).
          10 Sex offenders requiring civil commitment or supervision
               (§§ 10.01-10.17).
                                         TITLE C
@@ -56,7 +56,7 @@ Article  29 General provisions relating to in-patient facilities
               (§§ 32.01-32.39).
          33 Rights of patients (§§ 33.01-33.28).
          36 Addiction and mental health services and supports
-              (§§ 36.01-36.06).
+              (§§ 36.01-36.07).
          41 Local and unified services (§§ 41.01-41.57).
          43 Fees for services (§§ 43.01-43.12).
          47 Mental Hygiene legal service (§§ 47.01-47.03).
