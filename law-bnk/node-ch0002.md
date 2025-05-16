@@ -68,6 +68,7 @@ Article I.      Short title; definitions; miscellaneous provisions
         XIV.    Laws repealed; construction; when to take effect
                   (§§ 700-702).
         14-A.   Student loan services (§§ 710-725).
+        14-B.   Buy-now-pay-later lenders (§§ 735-749).
         XV.     General   provisions   applicable   to   banking   stock
                   corporations,  limited liability investment companies,
                   and limited liability trust companies (§§ 1001-8007).
