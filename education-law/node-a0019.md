@@ -23,6 +23,7 @@ Section 901.   School health services to be provided.
         913.   Medical examinations of teachers and other employees.
         914.   Immunization of children.
         915.   Prohibiting the sale of certain sweetened foods.
+        915-a. Universal free school meals.
         916.   Pupils with asthma or another respiratory disease
                  requiring rescue inhaler treatment.
         916-a. Pupils with allergies.
