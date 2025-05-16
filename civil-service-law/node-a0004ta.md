@@ -17,8 +17,7 @@ Section 50.     Examinations generally.
         55-c*2. Acceptability of certain high school diplomas.
         56.     Establishment and duration of eligible lists.
         57.     Continuous recruitment for certain positions.
-        58.     Requirements for provisional or permanent appointment of
-                  certain police officers.
+        58.     Requirements for appointment of certain police officers.
         58-a.   Requirements for provisional or permanent appointment of
                   certain fire fighters.
         59.     Placement of county sheriffs' personnel in classified
