@@ -36,5 +36,8 @@ Article 1.    Short title; definitions (§§ 1-2).
                 real property (§§ 460-466).
         15.   Prohibition and disclosure of private transfer fee
                 obligations (§§ 470-476).
+        16.   Ninety-day waiting period for sale of single-family and
+                two-family residences to certain purchasers
+                (§§ 520-522).
         20.   Laws repealed; construction; when to take effect
                 (§§ 600-602).
