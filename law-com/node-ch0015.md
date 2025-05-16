@@ -37,6 +37,7 @@ Assembly, do enact as follows:
  14.     Office of Waste Prevention Services                        260
  16.     Olympic games facilitation act                             340
  17.     Excelsior Jobs Program Act                                 350
+ 17-A.   Semiconductor Research and Development Project Program     359-a
  18*.    Division of Science, Technology and Innovation             360
  18.     Economic Transformation and Facility Redevelopment Program 400
  19.     Centers of Excellence Program                              410
@@ -46,3 +47,5 @@ Assembly, do enact as follows:
  25.     Restaurant Return-To-Work Tax Credit Program               470
  26.     COVID-19 Capital Costs Tax Credit Program                  480
  27.     Newspaper and Broadcast Media Jobs Program                 490
+ 28.     Semiconductor Manufacturing Workforce Training
+         Incentive Program                                          501
