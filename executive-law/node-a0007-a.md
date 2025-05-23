@@ -35,4 +35,4 @@ Section 171-a. Definitions.
         175-a. Application of article.
         175-b. Municipal option.
         176.   Advisory council.
-        177.   Administration and enforcement by secretary of state.
+        177.   Administration and enforcement by attorney general.
