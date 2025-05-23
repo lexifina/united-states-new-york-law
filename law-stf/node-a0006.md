@@ -37,8 +37,6 @@ Section 70.        Classification of funds.
                      fund.
         89-e.      Alzheimer's disease assistance fund.
         89-f.      Workers' compensation security fund payment account.
-        89-g.      Accident prevention course internet, and other
-                     technology pilot program fund.
         89-h.      Medical cannabis trust fund.
         89-i.      Military family relief fund.
         89-j.      The school bus motorist education fund.
@@ -91,7 +89,6 @@ Section 70.        Classification of funds.
         92-jj.     Metropolitan transportation authority paratransit
                      assistance fund.
         93.        Capital projects fund.
-        93-a.      New York state storm recovery capital fund.
         93-b.      Dedicated infrastructure investment fund.
         94.        Court facilities incentive aid fund.
         94-a.      New York city county clerks' operations offset fund.
