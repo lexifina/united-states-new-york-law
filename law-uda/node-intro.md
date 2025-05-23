@@ -112,7 +112,6 @@ Section   1.       Short title.
           43.      2008 Economic development initiatives.
           44.      Issuance of certain bonds or notes.
           45.      NY-SUNY 2020.
-          46.      (Enacted without section heading).
           47.      (Enacted without section heading).
           48.      Authorization for transportation infrastructure
                      finance and innovation act loans.
