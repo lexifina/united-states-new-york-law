@@ -20,3 +20,4 @@ Section 696-a. Definitions.
         696-f. Civil action.
         696-g. Regulations.
         696-h. Savings clause.
+  * NB Effective January 1, 2026
