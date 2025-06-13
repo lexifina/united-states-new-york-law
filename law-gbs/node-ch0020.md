@@ -48,7 +48,8 @@ AN ACT relating to general business, constituting chapter twenty of the
          11-C.    Sale of zero-emission school buses
                     (§§ 199-o--199-p).
          12.      Hotels and boarding houses (§§ 200--209-g).
-         12-B.    Mercantile establishments (§§ 217--218-aa).
+         12-B.    Online retailers and mercantile establishments (§§
+                    217--218-aa).
          12-C.    Trampoline park safety (§§ 220-228).
          13.      Silver, gold and diamonds (§§ 229-a--229-j).
          13-A.    Platinum stamping (§§ 230-238).
