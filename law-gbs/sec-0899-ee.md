@@ -1,4 +1,4 @@
-  * § 899-ee. Definitions. For purposes of this article, the following
+  § 899-ee. Definitions. For purposes of this article, the following
 terms shall have the following meanings:
   1. "Covered user" shall mean a user of a website, online service,
 online application, mobile application, or connected device, or portion
@@ -58,4 +58,3 @@ operator:
   (a) with whom the user intentionally and directly interacts; or
   (b) that collects personal data from the direct and current
 interactions with the user.
-  * NB Effective June 20, 2025

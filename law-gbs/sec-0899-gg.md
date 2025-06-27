@@ -1,4 +1,4 @@
-  * § 899-gg. Processors. 1. Except as provided for in section eight
+  § 899-gg. Processors. 1. Except as provided for in section eight
 hundred ninety-nine-jj of this article, no operator or processor shall
 disclose the personal data of a covered user to a third party, or allow
 the processing of the personal data of a covered user by a third party,
@@ -52,4 +52,3 @@ report of such assessment to the operator upon request; and
 or transferring the personal data of covered users to any further
 processors, which may be in the form of a regularly updated list of
 further processors that may access personal data of covered users.
-  * NB Effective June 20, 2025
