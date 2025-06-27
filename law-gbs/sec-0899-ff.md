@@ -1,12 +1,12 @@
-  * § 899-ff. Privacy protection by default. 1. Except as provided for
-in subdivision six of this section and section eight hundred
-ninety-nine-jj of this article, an operator shall not process, or allow
-a processor to process, the personal data of a covered user collected
-through the use of a website, online service, online application, mobile
-application, or connected device, or allow a third-party operator to
-collect the personal data of a covered user collected through the
-operator's website, online service, online application, mobile
-application, or connected device unless and to the extent:
+  § 899-ff. Privacy protection by default. 1. Except as provided for in
+subdivision six of this section and section eight hundred ninety-nine-jj
+of this article, an operator shall not process, or allow a processor to
+process, the personal data of a covered user collected through the use
+of a website, online service, online application, mobile application, or
+connected device, or allow a third-party operator to collect the
+personal data of a covered user collected through the operator's
+website, online service, online application, mobile application, or
+connected device unless and to the extent:
   (a) the covered user is twelve years of age or younger and processing
 is permitted under 15 U.S.C. § 6502 and its implementing regulations; or
   (b) the covered user is thirteen years of age or older and processing
@@ -105,4 +105,3 @@ disclose to the third-party operator:
 application, connected device, or portion thereof, is primarily directed
 to minors; or
   (b) when the personal data concerns a covered user.
-  * NB Effective June 20, 2025

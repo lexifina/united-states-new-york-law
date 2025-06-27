@@ -1,4 +1,4 @@
-                             * ARTICLE 39-FF
+                              ARTICLE 39-FF
                    NEW YORK CHILD DATA PROTECTION ACT
 Section 899-ee. Definitions.
         899-ff. Privacy protection by default.
@@ -9,4 +9,3 @@ Section 899-ee. Definitions.
         899-kk. Rulemaking authority.
         899-ll. Scope.
         899-mm. Remedies.
-  * NB Effective June 20, 2025
