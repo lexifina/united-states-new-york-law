@@ -78,6 +78,9 @@ Section  2.   Definitions.
                 taxes on electricity used in manufacturing, processing
                 or assembling.
          4-h. Relocation and employment assistance credit.
+         4-i. Lower Manhattan relocation and employment assistance
+                credit.
+         4-j. Relocation assistance credit per employee.
          5.   Reports.
          6.   Payment and lien of tax.
          7.   Declaration of estimated tax.
