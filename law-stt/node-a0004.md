@@ -1,5 +1,4 @@
-                              * ARTICLE IV
+                               ARTICLE IV
         AUTOMATED EMPLOYMENT DECISION-MAKING IN STATE GOVERNMENT
 Section 401. Definitions.
         402. Disclosure of automated employment decision-making tools.
-  * NB Effective July 1, 2025
