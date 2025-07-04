@@ -63,8 +63,8 @@ Section 200.      Defining qualifications of exempt volunteer
         207-c.    Payment of salary, wages, medical and hospital
                     expenses of police officers with injuries or illness
                     incurred in the performance of duties.
-        207-d.    Additional retirement benefits for certain policemen
-                    in cities and certain villages.
+        207-d.    Additional retirement benefits for certain police
+                    officers in cities and certain villages.
         207-e.    Minimum retirement benefits for police officers in
                     cities and who are members of police pension or
                     retirement systems maintained by such cities.
@@ -149,10 +149,11 @@ Section 200.      Defining qualifications of exempt volunteer
         209-ff.   Provisions relating to certain accidental disability
                     benefits.
         209-fff.  Provisions relating to a membership date in the New
-                    York city police pension fund attributable to
-                    service in the titles of police cadet program and
-                    police cadet program II in the New York city police
-                    department cadet program.
+                    York city police pension fund or the fire department
+                    pension fund attributable to service in the titles
+                    of police cadet program and police cadet program II
+                    in the New York city police department cadet
+                    program.
         209-g.    Liability for outside aid.
         209-gg.   Symbols of hate.
         209-i.    Emergency service by volunteer firefighters.
@@ -171,7 +172,7 @@ Section 200.      Defining qualifications of exempt volunteer
         209-u.    Notification of presence of hazardous materials.
         209-v.    Employment of retired persons as special patrolmen for
                     publicly owned property.
-        209-w.    Permanent appointment of firefighters; completion of
+        209-w.    Permanent appointment of fire fighters; completion of
                     training program.
         209-x.    Training of certain paid city firefighters promoted to
                     a first-line supervisory position.

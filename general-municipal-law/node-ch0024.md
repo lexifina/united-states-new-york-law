@@ -104,6 +104,9 @@ Article  1.      Short title; definitions (§§ 1-2).
         18-B.    New York state empire zones (§§ 955-969)
         18-C.    Municipal redevelopment law (§§ 970-a--970-r).
         19.      Foreign trade zone authority (§ 975).
-        19-A.    Business improvement districts (§ 980--980-q)
-        19-B     Municipal theme districts (§§ 990--990-g)
+        19-A.    Business improvement districts (§ 980--980-q).
+        19-B     Municipal theme districts (§§ 990--990-g).
+        19-C     Cybersecurity incident reporting requirements for
+                   municipal corporations and public authorities (§§
+                   995-a--995-c).
         20.      Laws repealed; when to take effect (§§ 1000-1001).
