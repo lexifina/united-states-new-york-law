@@ -6,4 +6,4 @@ Section 1980.   Applicability.
         1982.   Notice.
         1983.   Commencement of proceeding.
         1984.   Decision and judgment of the court.
-  * NB Repealed June 30, 2025
+  * NB Repealed June 30, 2028
