@@ -23,6 +23,8 @@ Article  1.    Short title (Sec. 1).
                  (Secs. 25-aa--25-cc).
          2-J.  Lower Manhattan relocation and employment assistance
                  program (Secs. 25-dd--25-ee).
+         2-K.  Relocation assistance credit per employee (Secs.
+                 25-ff--25-gg).
          3.    (Enacted without article heading) (Secs. 26-39).
          4.    Plumbing and drainage (Secs. 40-57).
          4-a.  Supervision and regulation of plastering (Secs. 60-68).

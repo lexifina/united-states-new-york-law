@@ -32,7 +32,7 @@ the mayor of such city or any agency designated by such mayor, and an
 annual certification from such mayor or an agency designated by such
 mayor as to the number of eligible aggregate employment shares
 maintained by such eligible business or such special eligible business
-that may qualify for obtaining a tax credit for the eligible business'
+that may qualify for obtaining a tax credit for the eligible business's
 taxable year. No special eligible business shall be authorized to
 receive a credit against tax under the provisions of this article unless
 the number of relocated employee base shares calculated pursuant to
@@ -46,7 +46,7 @@ of section 175.00 of the penal law. Such local law may provide for
 application fees to be determined by such mayor or such agency or
 agencies. No certification of eligibility shall be issued under any
 local law enacted pursuant to this article to an eligible business on or
-after July first, two thousand twenty-five unless:
+after July first, two thousand twenty-eight unless:
   (1) prior to such date such business has purchased, leased or entered
 into a contract to purchase or lease premises in the eligible Lower
 Manhattan area or a parcel on which will be constructed such premises;
