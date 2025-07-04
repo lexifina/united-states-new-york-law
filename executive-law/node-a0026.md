@@ -11,6 +11,7 @@ Section 709.   Division of homeland security and emergency services;
                  tornado warning systems.
         711-b. Review of water supplier vulnerability analysis
                  assessments.
+        711-c. Cybersecurity incident reviews.
         712.   Miscellaneous.
         713.   Protection of critical infrastructure including energy
                  generating and transmission facilities.
