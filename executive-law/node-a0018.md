@@ -19,7 +19,8 @@ Section 370.   Short title.
                  regulations.
         380.   Granting authority.
         381.   Administration and enforcement of the New York state
-                 uniform fire prevention and building code.
+                 uniform fire prevention and building code and the New
+                 York state energy conservation construction code.
         382.   Remedies.
         382-a. Buildings with truss type construction; notice
                  requirements and enforcement.
