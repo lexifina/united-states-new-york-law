@@ -20,6 +20,8 @@ Section 60.   Kinds of licenses.
                 cabaret.
         64-e. License to sell liquor at retail as an off-premises
                 catering establishment.
+        64-f. License to sell liquor on premises commonly known as a
+                for-profit club.
         65.   Prohibited sales.
         65-a. Procuring alcoholic beverages for persons under the age of
                 twenty-one years.
