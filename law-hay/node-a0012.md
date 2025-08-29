@@ -948,6 +948,8 @@ Section 340-a.     Designation of state interstate routes.
         344-q.     Portion of the state highway system to be designated
                      as the "Detective Sergeant Frank Gualdino Memorial
                      Bridge".
+        344-r.     Portion of the state highway system to be dedicated
+                     to Sergeant James S. Hayes.
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
