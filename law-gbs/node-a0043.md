@@ -9,8 +9,8 @@ Section 1300. Definitions.
         1306. Financial organizations.
         1307. Investment options.
         1308. Benefits.
-        1309. Employer and employee and participating individual
-                informational materials and disclosure forms.
+        1309. Employer and employee informational materials and
+                disclosure forms.
         1310. Program implementation and enrollment.
         1311. Payments.
         1312. Duty and liability of the state.
