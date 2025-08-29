@@ -3,7 +3,7 @@
 Part    I. General provisions......................130.1    to  130.6
        II. Apprehension and restraint..............130.7    to  130.14
       III. Non-judicial punishment.................130.15
-       IV. Courts-martial jurisdiction.............130.16   to  130.21
+       IV. Court-martial jurisdiction..............130.16   to  130.21
         V. Appointment and composition of
              courts-martial........................130.22   to  130.29
        VI. Pre-trial procedure.....................130.30   to  130.35
