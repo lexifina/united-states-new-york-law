@@ -9,6 +9,7 @@ Section 6430.   General provisions.
         6434.   Investigation of crimes and crime reporting.
         6435.   Appointment of private college security officers.
         6436.   Bias related and hate crime prevention information.
+        6436-a. Designation of a Title VI coordinator and duties.
         6437.   Prohibition on the marketing of credit cards.
         6438.   Notification of fire safety standards and measures in
                   all college-owned or college-operated housing.
