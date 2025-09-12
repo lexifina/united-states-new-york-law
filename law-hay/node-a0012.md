@@ -19,6 +19,10 @@ Section 340-a.     Designation of state interstate routes.
                      as the "POW-MIA Memorial Highway".
         342-aa*2.  Portion of state highway system to be designated as
                      the "Westchester County Veterans Memorial Highway".
+        342-aaa.   Portion of the state highway system to be dedicated
+                     to Westchester Purple Heart Recipients.
+        342-aaa*2. Portion of the state highway system to be dedicated
+                     to Boston NY Fallen Firefighters.
         342-b.     Portion of state highway system to be designated and
                      known as the "Adirondack Trail".
         342-bb.    Portion of the state highway system to be designated
@@ -950,6 +954,28 @@ Section 340-a.     Designation of state interstate routes.
                      Bridge".
         344-r.     Portion of the state highway system to be dedicated
                      to Sergeant James S. Hayes.
+        344-r*2.   Portion of state highway system to be dedicated to
+                     Charlie Bunger Sr.
+        344-r*3.   Portion of the state highway system to be dedicated
+                     to Jake Arcara.
+        344-r*4.   Portion of the state highway system to be dedicated
+                     to Trooper Jill E. Mattice.
+        344-r*5.   Portion of the state highway system to be dedicated
+                     to 9-11 Fallen Firefighters.
+        344-r*6.   Portion of the state highway system to be dedicated
+                     to Specialist Jason Johnston.
+        344-r*7.   Portion of the state highway system to be dedicated
+                     to Maintenance Supervisor Stephen C. Ebling.
+        344-r*8.   Portion of the state highway system to be dedicated
+                     to Lieutenant Donald R. Hill.
+        344-r*9.   Portion of the state highway system to be dedicated
+                     to John F. McArdle.
+        344-r*10.  Portion of the state highway system to be dedicated
+                     to Detective Thomas Inman.
+        344-r*11.  Portion of the state highway system in Oneida county
+                     to be dedicated to Officer Michael E. Jensen.
+        344-r*12.  Portion of the state highway system to be dedicated
+                     to Trooper James M. MacLarnon.
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
@@ -964,3 +990,11 @@ Section 340-a.     Designation of state interstate routes.
         345-c.     Portion of the state highway system to be designated
                      as the "Assemblyman Pat M. Casale Memorial
                      Highway".
+        345-d.     Portion of the state highway system to be dedicated
+                     to Hector L. Soto.
+        345-d*2.   Portion of the state highway system to be dedicated
+                     to TSgt Kory Wade.
+        345-d*3.   Portion of the state highway system to be dedicated
+                     to Major Andrew D. Byers.
+        345-d*4.   Portion of the state highway system to be dedicated
+                     to Jack Barletta.
