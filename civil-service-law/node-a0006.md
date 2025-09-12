@@ -12,6 +12,9 @@ Section 85.   Additional credit allowed veterans in competitive
         85-c. Additional credits allowed the children and siblings of
                 emergency medical technicians and paramedics killed in
                 the line of duty.
+        85-d. Additional credits allowed the children and siblings of
+                New York city sanitation members killed in the line of
+                duty.
         86.   Transfer of veterans or exempt volunteer firefighters upon
                 abolition of positions.
         87.   Prohibition against disqualification on account of age or
