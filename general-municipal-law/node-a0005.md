@@ -78,6 +78,10 @@ Section 70.     Payment of judgments against municipal corporation.
                   Putnam county.
         77-j*2. Sports field fence leases in the town of Kent, Putnam
                   county.
+        77-k.   Sports field fence leases in the village of
+                  Croton-on-Hudson, Westchester county.
+        77-k*2. Sports field fence leases in the city of White Plains,
+                  Westchester county.
         78.     Insurance of property.
         78-b.   Demolition and removal of unsafe structures.
         80.     Discrimination against non-residents.
