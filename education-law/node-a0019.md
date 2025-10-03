@@ -29,6 +29,8 @@ Section 901.   School health services to be provided.
         916-a. Pupils with allergies.
         916-b. Pupils with diabetes.
         917.   On-site cardiac automated external defibrillator.
+        917-a. On-site cardiac automated external defibrillator in
+                 nonpublic schools.
         918.   School district nutrition advisory committees.
         919.   On-site nebulizers.
         920.   Public schools; infestation of bedbugs (Cimex
@@ -39,3 +41,4 @@ Section 901.   School health services to be provided.
         922.   Opioid overdose prevention.
         923.   Sudden cardiac arrest.
         924.   Ingredient and nutritional information requirements.
+        926.   Water safety information.
