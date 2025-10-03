@@ -334,8 +334,6 @@ Section 70.        Classification of funds.
         99-kk.     New York state community grants reinvestment fund.
         99-ll.     New York state council on the arts cultural programs
                      fund.
-        99-mm.     Emergency rental assistance municipal corporation
-                     allocation fund.
         99-nn.     Opioid settlement fund.
         99-oo.     Pharmacy benefit manager regulatory fund.
         99-pp.     Background check fund.
