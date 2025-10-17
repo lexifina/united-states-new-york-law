@@ -1,6 +1,6 @@
                               ARTICLE XIII
                  MUNICIPAL HOUSING AUTHORITIES, CREATED
-Title  1.     New York City Housing Authority (§§ 400--402-g).
+Title  1.     New York City Housing Authority (§§ 400--402-h).
        2.     Buffalo Municipal Housing Authority (§§ 403-404).
        3.     Schenectady Municipal Housing Authority (§§ 405-406).
        4.     New Rochelle Municipal Housing Authority (§ 407).
