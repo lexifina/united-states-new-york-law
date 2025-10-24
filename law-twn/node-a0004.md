@@ -24,6 +24,7 @@ Section 60.     Town board constituted.
         64-i*2. Town of Fishkill preservation funds.
         64-j.   Town of Northeast preservation funds.
         64-k.   Peconic Bay region community housing fund.
+        64-l.   Town of Chester preservation funds.
         65.     Actions and proceedings by and against towns.
         65-a.   Liability of towns and town superintendents of highways
                   in certain actions.
