@@ -11,6 +11,7 @@ Assembly, do enact as follows:
 Article
     1      Short title and definitions (§§ 1--2-d.)
     2      Dignity for all students (§§ 10-18.)
+    2-A    Jack Reid law; protect all students act (§§ 19-23).
     3      Education department (§§ 101-187.)
              Part I - General provisions (§§ 101-140.)
              Part IV - Scientific and historic places (§ 174.)
