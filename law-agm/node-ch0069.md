@@ -99,7 +99,8 @@ Article   1.      Short title; definitions; matters of public interest
          27.      Nourish New York (§§ 450-452).
          28.      Special powers and duties of the department with
                     respect to retail food stores, food service
-                    establishments and food warehouses (§ 500).
+                    establishments and food warehouses (§§
+                    500-a--500-i).
          29.      Growth of hemp (§§ 505-521).
          30.      Saving clauses; laws repealed; when to take effect
                     (§§ 550-555).
