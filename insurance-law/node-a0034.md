@@ -3,7 +3,6 @@
 Section 3401.   Insurable interest in property.
         3402.   Executory contract not a change in interest, title or
                   possession.
-        3403.   Anti-arson application.
         3404.   Fire insurance contracts; standard policy provisions;
                   permissible variations.
         3405.   Fire insurance contract; losses from nuclear reaction or
@@ -70,6 +69,8 @@ Section 3401.   Insurable interest in property.
                   credit unemployment insurance.
         3436-a. Adverse action against legal reproductive health care or
                   gender-affirming care.
+        3437.   Credit insurance for in-vitro fertilization or
+                  intrauterine insemination.
         3439.   Reinsurance contracts excepted.
         3440.   Insurance covering private passenger motor vehicles;
                   rental vehicle coverage.
