@@ -35,6 +35,7 @@ Section 112.   Powers and duties of commissioner relating to
         138.   Institutional rules and regulations for incarcerated
                  individuals at all correctional facilities.
         138-a. Notification of visitation policies.
+        138-b. Permitted entry by peer support advocates.
         139.   Grievance procedures.
         140.   Provision for routine medical, dental and mental health
                  services and treatment.
