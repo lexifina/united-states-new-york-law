@@ -46,3 +46,5 @@ Section 1.      Definitions.
         29-c.   Veteran maternity care.
         29-d.   Staff sergeant Alex R. Jimenez New York state military
                   immigrant family legacy program.
+        29-e.   Protecting veterans from fraud and unaccredited
+                  representatives.
