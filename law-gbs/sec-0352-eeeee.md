@@ -825,5 +825,4 @@ prospectus (including, without limitation, a preservation plan and any
 amended filings thereto), submitted pursuant to this section available
 to the public in a searchable repository on its official internet
 website.
-  * NB Effective November 5, 2025
   * NB Repealed November 5, 2031

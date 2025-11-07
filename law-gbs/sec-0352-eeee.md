@@ -1,15 +1,7 @@
   § 352-eeee. Conversions to cooperative or condominium ownership in the
 city of New York. 1. As used in this section, the following words and
 terms shall have the following meanings:
-  * (a) "Plan". Every offering statement or prospectus submitted to the
-department of law pursuant to section three hundred fifty-two-e of this
-article for the conversion of a building or group of buildings or
-development from residential rental status to cooperative or condominium
-ownership or other form of cooperative interest in realty, other than an
-offering statement or prospectus for such conversion pursuant to article
-two, eight or eleven of the private housing finance law.
-  * NB Effective until November 5, 2025
-  * (a) "Plan". Every offering statement or prospectus submitted to the
+  (a) "Plan". Every offering statement or prospectus submitted to the
 department of law pursuant to section three hundred fifty-two-e of this
 article for the conversion of a building or group of buildings or
 development from residential rental status to cooperative or condominium
@@ -17,7 +9,6 @@ ownership or other form of cooperative interest in realty, other than an
 offering statement or prospectus for such conversion pursuant to section
 three hundred fifty-two-eeeee of this article or article two, eight or
 eleven of the private housing finance law.
-  * NB Effective November 5, 2025
   (b) "Non-eviction plan". A plan which may not be declared effective
 until written purchase agreements have been executed and delivered for
 at least fifty-one percent of all dwelling units in the building or
