@@ -61,7 +61,7 @@ Article     1. General purposes (§§ 1.00-1.05).
                  offenses (§§ 180.00-180.57).
           185. Frauds on creditors (§§ 185.00-185.15).
           187. Residential mortgage fraud (§§ 187.00-187.25).
-          190. Other frauds (§§ 190.00-190.89).
+          190. Other frauds (§§ 190.00-190.90).
           195. Official misconduct and obstruction of public servants
                  generally (§§ 195.00-195.20).
           200. Bribery involving public servants and related offenses
