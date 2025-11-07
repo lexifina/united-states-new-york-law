@@ -342,4 +342,5 @@ Section 70.        Classification of funds.
         99-qq*2.   New York climate action fund.
         99-rr.     Air quality improvement fund.
         99-ss.     Healthcare stability fund.
-        99-ss 1.   Suicide prevention fund.
+        99-ss*2.   Suicide prevention fund.
+        99-tt.     Veterans' services fund.
