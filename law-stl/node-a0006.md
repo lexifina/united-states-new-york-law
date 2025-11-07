@@ -26,3 +26,4 @@ Section 70.   Description of the arms of the state and the state flag.
         91.   State hymn of remembrance in honor of all American
                 veterans.
         92.   State sport.
+        93.   Purple Heart state.
