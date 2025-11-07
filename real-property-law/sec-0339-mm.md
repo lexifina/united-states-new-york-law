@@ -144,5 +144,4 @@ of such order, or by reason thereof.
 remedies or causes of action accrued or accruing to purchasers of
 condominium units with regard to the funding of the reserve fund and
 capital fund under this section.
-  * NB Effective November 5, 2025
   * NB Repealed November 5, 2031
