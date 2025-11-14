@@ -5,6 +5,6 @@ Section 60.   Petition for change of name.
         62.   Notice.
         63.   Order.
         64.   Effect.
-        64-a. Exemption from publication requirements.
+        64-a. Sealing name change papers.
         65.   Optional change of name upon marriage, divorce or
                 annulment.
