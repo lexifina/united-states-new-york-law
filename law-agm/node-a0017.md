@@ -11,6 +11,7 @@ Section 198.   Definitions.
         199-e. Prohibition as to sale of irradiated foods.
         199-f. Food allergies and intolerances notice in food service
                  establishments.
+        199-g. Allergen labeling for prepackaged foods.
         200.   Adulteration of food.
         201.   Misbranding of food.
         201-a. Kosher food and food products; packaging.
