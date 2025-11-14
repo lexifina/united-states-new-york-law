@@ -37,7 +37,9 @@ their qualifications, duties, and compensation subject to the provisions
 of the civil service law and any applicable collective bargaining
 agreement, and to retain or employ counsel, auditors, engineers and
 private consultants on a contract basis or otherwise for rendering
-professional, management or technical services and advice;
+professional, management or technical services and advice; which
+positions, with the exception of all police positions, shall be in the
+exempt class of civil service;
   13. with the consent of the mayor to use employees, agents,
 consultants and facilities of the city, paying the city its agreed
 proportion of the compensation or costs;
