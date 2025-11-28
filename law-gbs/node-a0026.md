@@ -53,6 +53,7 @@ Section 390.         Substitution of spurious oils for internal
                        equipment containing PFAS chemicals.
         391-v.       Third-party food delivery agreements.
         391-w.       Unauthorized restaurant reservations.
+        391-x.       Hair relaxer labeling.
         392.         Second-hand watches.
         392-a.       Sale of new computers.
         392-b.       False labels and misrepresentations.
@@ -120,6 +121,7 @@ Section 390.         Substitution of spurious oils for internal
         396-hh.      Sale of poppies, forget-me-nots, daisies, flags and
                        other articles for patriotic purposes.
         396-i.       Acceptance of unexpired gift certificates.
+        396-ii.      Cashless policies prohibited.
         396-j.       Sale or possession of master or manipulative keys
                        for motor vehicles.
         396-k.       Hazardous toys and other articles intended
