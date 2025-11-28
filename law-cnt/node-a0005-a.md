@@ -43,6 +43,12 @@ Section 250.    Purpose.
         276.    Jurisdiction of other state agencies.
         277.    Establishment of certain county sewer districts in
                   Suffolk county.
+        277-a.  Conveyance or lease to the county of Westchester by a
+                  city, town or village in the county's New Rochelle
+                  sanitary sewer district of sewer system property and
+                  the establishment of certain county sewer districts,
+                  extensions or special transitional zones of assessment
+                  in the county of Westchester.
         278.    Definitions.
         279.    Operation of certain collection and disposal facilities
                   in Suffolk county.
