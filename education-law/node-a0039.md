@@ -4,8 +4,6 @@ Section 1901.   Central high school districts; number and election of
                   members of board of education.
         1902.   Other districts may join central high school district.
         1903.   Powers of board of education; laws applicable.
-        1904.   Annual organizational meeting of board of education in
-                  the county of Nassau.
         1905.   District treasurer and clerk; custody and disbursement
                   of funds.
         1906.   District meetings; vote upon school taxes.
