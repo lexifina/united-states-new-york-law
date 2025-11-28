@@ -21,7 +21,7 @@ Article  1.    Short title (§ 1).
                  proceedings (§§ 60-67).
          4-A.  Law revision commission (§§ 70-72).
          5.    Legislative ethics (§ 80).
-         5-A.  Legislative commissions (§§ 82-83-m).
+         5-A.  Legislative commissions (§§ 82-83-n).
          5-B.  Legislative review of administrative regulations
                  (§§ 86-88).
          6.    Internal control responsibilities of the state
