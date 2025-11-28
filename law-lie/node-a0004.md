@@ -20,7 +20,7 @@ Section 80.  Liens on vessels.
         96.  Contested claims.
         97.  Trial of issues and appeal.
         98.  Distribution of proceeds.
-        99.  Payment of uncontested claim.
+        99.  Payment of uncontested claims.
         100. Distribution of surplus.
         101. Application for a discharge of warrant.
         102. Undertaking to accompany application for discharge.
