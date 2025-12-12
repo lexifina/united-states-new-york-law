@@ -25,3 +25,4 @@ Section 801. Who liable to action for waste.
         871. Action for the removal of encroaching structures.
         881. Access to adjoining property to make improvements or
                repairs.
+        882. Severability.
