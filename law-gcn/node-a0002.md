@@ -38,7 +38,8 @@ Section 10.   Acknowledge and acknowledgment.
         26-a. Judgment creditor.
         26-b. Just compensation as including loss of mortgage financing.
         27.   Last, preceding, next and following.
-        28.   Lunatic, mentally ill person, lunacy and mental illness.
+        28.   Mental disability, mental illness, developmental
+                disability, addictive disorder and addiction disorder.
         28-a. Mandate.
         28-b. Magistrate.
         28-c. Down's syndrome.
