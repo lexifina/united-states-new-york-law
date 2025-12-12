@@ -9,7 +9,7 @@ Article I.    Supervision and regulation. (§§ 101-136)
         VI.   New York city off-track betting corporation. (§§ 601-624)
         VII.  Equine research. (§§ 701-705)
         VIII. Local tax on admissions. (§§ 801-811)
-        IX.   Miscellaneous. (§§ 901-911)
+        IX.   Miscellaneous. (§§ 901-912)
         X.    Simulcast of horse races. (§§ 1000-1018)
         XI.   Interstate compact on licensure of participants in live
                 horse racing with pari-mutuel wagering. (§§ 1101-1112)
