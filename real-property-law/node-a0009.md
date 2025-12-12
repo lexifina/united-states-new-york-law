@@ -88,6 +88,7 @@ Section 290.    Definitions; effect of article.
                   Connecticut.
         326.    Revocation to be recorded.
         327.    Penalty for using long forms of covenants.
+        327-a.  Modification of restrictive covenants.
         328.    Certain acts not affected.
         329.    Actions to have certain instruments canceled of record.
         329-a.  Lapse of oil and gas interest within Allegany state
