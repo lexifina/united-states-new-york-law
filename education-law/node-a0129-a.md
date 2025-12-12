@@ -16,3 +16,5 @@ Section 6430.   General provisions.
         6438-a. Opioid overdose prevention in college housing.
         6438-b. Access to medication abortion prescription drugs.
         6438-c. Student-athlete compensation.
+        6438-d. Notification of alcohol or controlled substance
+                  violations.
