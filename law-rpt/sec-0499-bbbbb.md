@@ -9,36 +9,53 @@ is in operation, as such number is specified in the permit issued by the
 department of health and mental hygiene to operate such center. The
 department of finance may only grant one such abatement to any eligible
 building.
-  2. (a) Beginning in the tax year commencing on or after July first,
-two thousand twenty-three, the amount of such tax abatement provided to
-an eligible building described in subdivision one of this section shall
-be equal to the costs incurred in the construction, conversion,
-alteration or improvement that has resulted in the creation of a
-premises of a childcare center or in an increase in the maximum number
-of children allowed on the premises of an existing childcare center,
-provided that such costs are certified in accordance with paragraph (d)
-of subdivision two of section four hundred ninety-nine-ccccc of this
-title, and provided further that, during the abatement period, the
-amount of such abatement shall not exceed thirty-five dollars for each
-square foot of the premises, nor exceed one hundred thousand dollars.
-  (i) For any tax year, such abatement shall not exceed seven dollars
+  2. (a) (i) Beginning in the tax year commencing on or after July
+first, two thousand twenty-three, the amount of such tax abatement
+provided to an eligible building described in subdivision one of this
+section shall be equal to the costs incurred in the construction,
+conversion, alteration or improvement that has resulted in the creation
+of a premises of a childcare center or in an increase in the maximum
+number of children allowed on the premises of an existing childcare
+center, provided that such costs are certified in accordance with
+paragraph (d) of subdivision two of section four hundred
+ninety-nine-ccccc of this title, and provided further that, during the
+abatement period: (A) the amount of such abatement shall not exceed
+thirty-five dollars for each square foot of the premises, nor exceed one
+hundred thousand dollars, for a tax abatement initially taken in a tax
+year commencing prior to July first, two thousand twenty-five; and (B)
+the amount of such abatement shall not exceed thirty-five dollars for
+each square foot of the premises, nor exceed three hundred fifty
+thousand dollars, for a tax abatement initially taken in a tax year
+commencing on or after July first, two thousand twenty-five.
+  (ii) For any tax year, such abatement shall not exceed seven dollars
 for each square foot of the premises, provided that such amount may be
 reduced as a result of an allocation of available funds for such
 abatement pursuant to paragraph (d) of this subdivision; and provided,
-further, that the amount of such tax abatement in any tax year shall not
-exceed the lesser of (A) twenty thousand dollars or (B) the real
-property tax liability for the eligible building in the tax year in
-which such tax abatement is taken.
-  (ii) To the extent the amount of such tax abatement exceeds the lesser
-of (A) twenty thousand dollars or (B) the real property tax liability of
-the eligible building in any tax year, any amount of such tax abatement
-that remains may be applied to the real property tax liability of such
-building in succeeding tax years, provided that such abatement must be
-applied to the real property tax liability of such building in one or
-more of the four tax years succeeding the tax year in which such tax
-abatement was initially taken.
-  (b) Notwithstanding paragraph (a) of this subdivision, an enhanced tax
-abatement shall be provided to an eligible building described in
+further, that: (A) the amount of such tax abatement in any tax year
+shall not exceed the lesser of (I) twenty thousand dollars, or (II) the
+real property tax liability for the eligible building in the tax year in
+which such tax abatement is taken, for a tax abatement initially taken
+in a tax year commencing prior to July first, two thousand twenty-five;
+and (B) the amount of a tax abatement in any tax year shall not exceed
+the lesser of (I) seventy thousand dollars, or (II) the real property
+tax liability for the eligible building in the tax year in which such
+tax abatement is taken, for a tax abatement initially taken in a tax
+year commencing on or after July first, two thousand twenty-five.
+  (iii) To the extent the amount of such tax abatement exceeds: (A) the
+lesser of (I) twenty thousand dollars, or (II) the real property tax
+liability of the eligible building in any tax year, for a tax abatement
+initially taken in a tax year commencing prior to July first, two
+thousand twenty-five; or (B) the lesser of (I) seventy thousand dollars,
+or (II) the real property tax liability of the eligible building in any
+tax year, for a tax abatement initially taken in a tax year commencing
+on or after July first, two thousand twenty-five, any amount of such tax
+abatement that remains may be applied to the real property tax liability
+of such building in succeeding tax years, provided that such abatement
+must be applied to the real property tax liability of such building in
+one or more of the four tax years succeeding the tax year in which such
+tax abatement was initially taken.
+  (b) (i) Notwithstanding paragraph (a) of this subdivision, an enhanced
+tax abatement shall be provided to an eligible building described in
 subdivision one of this section that is located within a childcare
 desert as described in this title and in any rules promulgated
 hereunder. Beginning in the tax year commencing on or after July first,
@@ -49,31 +66,49 @@ premises of a childcare center or in an increase in the maximum number
 of children allowed on the premises of an existing childcare center,
 provided that such costs are certified in accordance with paragraph (d)
 of subdivision two of section four hundred ninety-nine-ccccc of this
-title, and provided further that, during the abatement period, the
+title, and provided further that, during the abatement period: (A) the
 amount of such abatement shall not exceed seventy-five dollars for each
 square foot of the premises nor exceed two hundred twenty-five thousand
-dollars.
-  (i) For any tax year, such abatement shall not exceed fifteen dollars
+dollars, for a tax abatement initially taken in a tax year commencing
+prior to July first, two thousand twenty-five; and (B) the amount of
+such abatement shall not exceed seventy-five dollars for each square
+foot of the premises nor exceed seven hundred fifty thousand dollars,
+for a tax abatement initially taken in a tax year commencing on or after
+July first, two thousand twenty-five.
+  (ii) For any tax year, such abatement shall not exceed fifteen dollars
 for each square foot of the premises, provided that such amount may be
 reduced as a result of an allocation of available funds for such
 abatement pursuant to paragraph (d) of this subdivision; and provided
-further that the amount of such enhanced tax abatement in any tax year
-shall not exceed the lesser of (A) forty-five thousand dollars or (B)
-the real property tax liability for the eligible building in the tax
-year in which such tax abatement is taken.
-  (ii) To the extent the amount of such enhanced tax abatement exceeds
-the lesser of (A) forty-five thousand dollars or (B) the real property
-tax liability of the eligible building in any tax year, any amount of
-such tax abatement that remains may be applied to the real property tax
-liability of such building in succeeding tax years, provided that such
-abatement must be applied to the real property tax liability of such
-building in one or more of the four tax years succeeding the tax year in
-which the tax abatement was initially taken.
+further that: (A) the amount of such enhanced tax abatement in any tax
+year shall not exceed the lesser of (I) forty-five thousand dollars, or
+(II) the real property tax liability for the eligible building in the
+tax year in which such tax abatement is taken, for a tax abatement
+initially taken in a tax year commencing prior to July first, two
+thousand twenty-five; and (B) the amount of such enhanced tax abatement
+in any tax year shall not exceed the lesser of (I) one hundred fifty
+thousand dollars, or (II) the real property tax liability for the
+eligible building in the tax year in which such tax abatement is taken,
+for a tax abatement initially taken in a tax year commencing on or after
+July first, two thousand twenty-five.
+  (iii) To the extent the amount of such enhanced tax abatement exceeds:
+(A) the lesser of (I) forty-five thousand dollars, or (II) the real
+property tax liability of the eligible building in any tax year, for a
+tax abatement initially taken in a tax year commencing prior to July
+first, two thousand twenty-five; or (B) the lesser of (I) seventy
+thousand dollars, or (II) the real property tax liability of the
+eligible building in any tax year, for a tax abatement initially taken
+in a tax year commencing on or after July first, two thousand
+twenty-five, any amount of such tax abatement that remains may be
+applied to the real property tax liability of such building in
+succeeding tax years, provided that such abatement must be applied to
+the real property tax liability of such building in one or more of the
+four tax years succeeding the tax year in which the tax abatement was
+initially taken.
   (c) Notwithstanding paragraph (a) or (b) of this subdivision, the
 aggregate amount of tax abatements authorized pursuant to this section
 for any tax year shall be a maximum of twenty-five million dollars. No
 tax abatements shall be authorized pursuant to this section for any tax
-year commencing on or after July first, two thousand thirty.
+year commencing on or after July first, two thousand thirty-two.
   (d) Such aggregate amount of tax abatements, including the tax
 abatement described in paragraph (a) of this subdivision and the
 enhanced tax abatement described in paragraph (b) of this subdivision,
