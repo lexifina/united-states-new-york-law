@@ -53,7 +53,8 @@ Section 2--101. Short Title
                   "Lot"; "Commercial Unit"
         2--106. Definitions. "Contract"; "Agreement"; "Contract for
                   Sale"; "Sale"; "Present Sale"; "Conforming" to
-                  Contract; "Termination"; "Cancellation"
+                  Contract; "Termination"; "Cancellation"; "Hybrid
+                  Transaction"
         2--107. Goods to Be Severed From Realty: Recording
                                   PART 2
               FORM, FORMATION AND READJUSTMENT OF CONTRACT
@@ -727,15 +728,20 @@ Section 8--601. Savings Clause; Effect on Prior Perfected Security
                                   PART 1
                            GENERAL PROVISIONS
         SUBPART 1. SHORT TITLE, DEFINITIONS, AND GENERAL CONCEPTS
-Section 9--101. Short Title
-        9--102. Definitions and Index of Definitions
-        9--103. Purchase-money Security Interest; Application of
-                  Payments; Burden of Establishing
-        9--104. Control of Deposit Account
-        9--105. Control of Electronic Chattel Paper
-        9--106. Control of Investment Property
-        9--107. Control of Letter-of-credit Right
-        9--108. Sufficiency of Description
+Section 9--101.  Short Title
+        9--102.  Definitions and Index of Definitions
+        9--103.  Purchase-money Security Interest; Application of
+                   Payments; Burden of Establishing
+        9--104.  Control of Deposit Account
+        9--105.  Control of Electronic Copy of Record Evidencing Chattel
+                   Paper
+        9--105A. Control of Electronic Money.
+        9--106.  Control of Investment Property
+        9--107.  Control of Letter-of-credit Right
+        9--107A. Control of Controllable Electronic Record, Controllable
+                   Account, or Controllable Payment Intangible.
+        9--107B. No Requirement to Acknowledge or Confirm; No Duties.
+        9--108.  Sufficiency of Description
                    SUBPART 2.  APPLICABILITY OF ARTICLE
 Section 9--109. Scope
         9--110. Security Interests Arising Under Article 2 or 2-A
@@ -775,6 +781,12 @@ Section 9--301. Law Governing Perfection and Priority of Security
                   Interests in Investment Property
         9--306. Law Governing Perfection and Priority of Security
                   Interests in Letter-of-credit Rights
+        9-306A. Law Governing Perfection and Priority of Security
+                  Interests in Chattel Paper.
+        9-306B. Law Governing Perfection and Priority of Security
+                  Interests in Controllable Accounts, Controllable
+                  Electronic Records, and Controllable Payment
+                  Intangibles.
         9--307. Location of Debtor
                            SUBPART 2. PERFECTION
 Section 9--308. When Security Interest or Agricultural Lien Is
@@ -786,14 +798,17 @@ Section 9--308. When Security Interest or Agricultural Lien Is
         9--311. Perfection of Security Interests in Property Subject to
                   Certain Statutes, Regulations, and Treaties
         9--312. Perfection of Security Interests in Chattel Paper,
-                  Deposit Accounts, Documents, Goods Covered by
-                  Documents, Instruments, Investment Property,
-                  Letter-of-credit Rights, and Money; Perfection by
-                  Permissive Filing; Temporary Perfection Without Filing
-                  or Transfer of Possession
+                  Controllable Accounts, Controllable Electronic
+                  Records, Controllable Payment Intangibles, Deposit
+                  Accounts, Documents, Goods Covered by Documents,
+                  Instruments, Investment Property, Letter-of-credit
+                  Rights, and Money; Perfection by Permissive Filing;
+                  Temporary Perfection Without Filing or Transfer of
+                  Possession
         9--313. When Possession by or Delivery to Secured Party Perfects
                   Security Interest Without Filing
         9--314. Perfection by Control
+        9-314A. Perfection by Possession and Control of Chattel Paper.
         9--315. Secured Party's Rights on Disposition of Collateral and
                   in Proceeds
         9--316. Effect of Change in Governing Law
@@ -814,14 +829,20 @@ Section 9--317. Interests That Take Priority over or Take Free of
         9--324. Priority of Purchase-money Security Interests
         9--325. Priority of Security Interests in Transferred Collateral
         9--326. Priority of Security Interests Created by New Debtor
+        9-326A. Priority of Security Interest in Controllable Account,
+                  Controllable Electronic Record, and Controllable
+                  Payment Intangible.
         9--327. Priority of Security Interests in Deposit Account
         9--328. Priority of Security Interests in Investment Property
         9--329. Priority of Security Interests in Letter-of-credit Right
         9--330. Priority of Purchaser of Chattel Paper or Instrument
-        9--331. Priority of Rights of Purchasers of Instruments,
-                  Documents, and Securities under Other Articles;
+        9--331. Priority of Rights of Purchasers of Controllable
+                  Accounts, Controllable Electronic Records,
+                  Controllable Payment Intangibles, Documents,
+                  Instruments, and Securities under Other Articles;
                   Priority of Interests in Financial Assets and Security
-                  Entitlements under Article 8
+                  Entitlements and Protection Against Assertion of Claim
+                  under Articles 8 and 12
         9--332. Transfer of Money; Transfer of Funds from Deposit
                   Account
         9--333. Priority of Certain Liens Arising by Operation of Law
@@ -974,6 +995,35 @@ Section 11--101. Definitions.
         11--106. Required Refilings.
         11--107. Transition Provisions as to Priorities.
         11--108. Presumption that Rule of Law Continues Unchanged.
+                                ARTICLE 12
+                     CONTROLLABLE ELECTRONIC RECORDS
+        12--101. Short title
+        12--102. Definitions
+        12--103. Relation to Article 9 and Consumer Laws
+        12--104. Rights in Controllable Account, Controllable Electronic
+                   Record, and Controllable Payment Intangible
+        12--105. Control of Controllable Electronic Record
+        12--106. Discharge of Account Debtor on Controllable Account or
+                   Controllable Payment Intangible
+        12--107. Governing Law
+                              ARTICLE 12-A
+     TRANSITIONAL PROVISIONS FOR UNIFORM COMMERCIAL CODE AMENDMENTS
+                                 PART 1
+                   GENERAL PROVISIONS AND DEFINITIONS
+        12-A-101. Title
+        12-A-102. Definitions
+                                  PART 2
+                     GENERAL TRANSITIONAL PROVISION
+        12-A-201. Saving Clause
+                                 PART 3
+              TRANSITIONAL PROVISIONS FOR ARTICLES 9 AND 12
+        12-A-301. Saving Clause
+        12-A-302. Security Interest Perfected Before Effective Date
+        12-A-303. Security Interest Unperfected Before Effective Date
+        12-A-304. Effectiveness of Actions Taken Before Effective Date
+        12-A-305. Priority
+        12-A-306. Priority of Claims When Priority Rules of Article 9 Do
+                    Not Apply
                                 ARTICLE 13
                        EFFECTIVE DATE AND REPEALER
 Section 13--101. Application of Act
