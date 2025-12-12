@@ -65,6 +65,7 @@ Article I.      Short title; definitions; miscellaneous provisions
                   (§§ 660--674-a).
         XIII-E. Joint  deposits  and  shares;  unauthorized withdrawals;
                   withdrawals from decedents' accounts (§§ 675-678).
+        XIII-F. Uniform special deposits act (§§ 680--680-p).
         XIV.    Laws repealed; construction; when to take effect
                   (§§ 700-702).
         14-A.   Student loan services (§§ 710-725).
