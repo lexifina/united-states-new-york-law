@@ -1,4 +1,4 @@
-                               ARTICLE   6
+                                ARTICLE 6
                               JUNK DEALERS
 Section 60.   Definitions.
         60-a. Licenses.
