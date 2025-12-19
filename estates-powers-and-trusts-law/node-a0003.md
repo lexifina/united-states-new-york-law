@@ -50,3 +50,14 @@ Section 3-5.1 Formal    validity,    intrinsic     validity,     effect,
                 dispositions  of, and exercise of testamentary powers of
                 appointment over property by wills  having  relation  to
                 another jurisdiction.
+                        PART 6. ELECTRONIC WILLS
+Section 3-6.1 Short title
+        3-6.2 Definitions
+        3-6.3 Law applicable to electronic will; principles of equity
+        3-6.4 Choice of law regarding execution
+        3-6.5 Caution to testator
+        3-6.6 Execution of electronic will
+        3-6.7 Revocation
+        3-6.8 Electronic  will attested and made self-proving at time of
+                execution
+        3-6.9 Filing of an electronic will
