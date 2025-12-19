@@ -1,0 +1,6 @@
+  § 50-ll. Additional qualifications of voters at annual and special
+corporate meetings. Duly qualified voters at any annual or special
+corporate meeting of any such incorporated church shall be baptised
+persons, who have been admitted to the full communion relations of such
+church according to its usages, and who are qualified in the other
+respects prescribed by this article.
