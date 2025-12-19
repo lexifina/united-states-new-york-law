@@ -23,6 +23,8 @@ Article 1.    Short title; definitions (§§ 1-2).
         9-B.  Condominium act (§§ 339-d--339-ll).
         9-C.  Solar rights act (§ 342).
         9-D.  Electric vehicle rights act (§ 343).
+        9-E.  Conveyance and encumbrance of manufactured homes as real
+                property (§§ 344-a--344-k).
         10.   Discharge of ancient mortgages (§ 345).
         12.   Registering title to real property (§§ 370-436).
         12-A. Real estate brokers and real estate salesmen
