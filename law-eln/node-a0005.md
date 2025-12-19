@@ -9,3 +9,5 @@ TITLE    I. General provisions.
        VII. Checks against fraudulent practices.
       VIII. Electronic personal voter registration process.
         IX. Automatic voter registration.
+         X. Multistate voter list maintenance organization membership
+              authorization.
