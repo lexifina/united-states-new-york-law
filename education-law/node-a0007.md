@@ -25,3 +25,4 @@ Section 301.   Commissioner of education continued.
         317.   General education development exam.
         318.   Distribution of surplus computers.
         319.   Establishment of dual enrollment program policy.
+        319*2. Center for dyslexia and dysgraphia.

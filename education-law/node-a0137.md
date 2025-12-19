@@ -19,6 +19,7 @@ Section 6800.   Introduction.
         6811-a. Certain drugs to be clearly marked or labeled.
         6811-b. Door-to-door distribution of drugs prohibited.
         6811-c. Patient notification of recalled drugs.
+        6811-d. Notification of permanent pharmacy discontinuance.
         6812.   Special provisions.
         6813.   Seizure:
         6814.   Records of shipment.
