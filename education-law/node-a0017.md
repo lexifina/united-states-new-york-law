@@ -18,6 +18,9 @@ Section 801.   Courses of instruction in patriotism and citizenship and
         804-b. Education regarding child development.
         804-c. Cardiopulmonary resuscitation instruction.
         804-d. Automated external defibrillator instruction.
+        805.   Asian American, Native Hawaiians and Pacific Islander
+                 history advisory committee; appointment; powers and
+                 duties.
         806.   Courses of instruction in highway safety and traffic
                  regulation; school safety patrols.
         806-a. Driver education.
