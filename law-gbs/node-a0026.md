@@ -225,6 +225,8 @@ Section 390.         Substitution of spurious oils for internal
                        use of such pads in certain settings.
         399-j.       Safety standards; moveable soccer goals.
         399-k.       Access to toilet facilities for utility workers.
+        399-kk.      Prohibit the sale of infant walkers and restrict
+                       use of such walkers in certain settings.
         399-m.       Disclosures in advertisement and sale of
                        unassembled goods.
         399-n.       Approval of electrical devices.

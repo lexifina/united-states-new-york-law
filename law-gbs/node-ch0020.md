@@ -157,6 +157,8 @@ AN ACT relating to general business, constituting chapter twenty of the
          36-C.    Down payments in the purchase and sale of residential
                     real estate (§§ 778--778-a).
          36-D.    Home heating system conversion (§ 778-aa).
+         36-E.    Prohibition of unfair real estate service agreements
+                    (§§ 778-aaa--778-eee).
          37.      Deposits on construction of new homes (§§ 779-785).
          37-A.    Registration of hearing aid dealers (§§ 788-805).
          38.      Vessel dealer agreements (§§ 810-816).
