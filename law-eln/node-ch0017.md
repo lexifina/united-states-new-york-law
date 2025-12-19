@@ -255,6 +255,17 @@ Section 5-900. Integrated   personal   voter   registration  application
                  registration.
         5-904. Presumption of innocent authorized error.
         5-906. Forms.
+                                 TITLE X
+ MULTISTATE VOTER LIST MAINTENANCE ORGANIZATION MEMBERSHIP AUTHORIZATION
+Section 5-1000. Joining    a    multistate    voter   list   maintenance
+                  organization.
+        5-1001. Designating a member representative.
+        5-1002. Authorization  to  share   registration   records   with
+                  multistate voter list maintenance organization.
+        5-1003. Use   of   information  from  a  multistate  voter  list
+                  maintenance organization.
+        5-1004. Withdrawal from  a  multistate  voter  list  maintenance
+                  organization.
                                 ARTICLE 6
                 DESIGNATION AND NOMINATION OF CANDIDATES
 Section 6-100. Nominations and designations; generally.
@@ -461,26 +472,26 @@ Section 9-200. Canvass of primary returns by board of elections; notices
                     VOTING BY MEMBERS OF ARMED FORCES
 Section 10-102. Military voters; definitions.
         10-104. Military voters; right to vote.
-        10-106. Military   voters;   registration  and  application  for
+        10-106. Military  voters;  registration  and   application   for
                   ballots.
         10-108. Military voters; distribution of ballots to.
         10-109. Military voters; cancellation of registration.
         10-112. Military voter; voting.
-        10-114. Military ballots; deadline for receipt, and delivery  to
+        10-114. Military  ballots; deadline for receipt, and delivery to
                   polling place.
         10-116. Military ballots; determination of candidates thereon.
         10-118. Military voting; costs of.
         10-122. Military voter; early mail or absentee ballot, right to.
-        10-124. Military   voting;  division  for  servicemen's  voting;
+        10-124. Military  voting;  division  for  servicemen's   voting;
                   regulatory powers.
         10-126. Military voting; applicability of general provisions.
                                ARTICLE 11
    SPECIAL PRESIDENTIAL AND SPECIAL FEDERAL VOTERS AND SPECIAL BALLOTS
                                  TITLE I
                        SPECIAL PRESIDENTIAL VOTERS
-Section 11-102. Special  presidential  voters;  change   of   residence;
+Section 11-102. Special   presidential   voters;  change  of  residence;
                   special qualifications.
-        11-104. Registration  and  application  for special presidential
+        11-104. Registration and application  for  special  presidential
                   ballot.
         11-106. Processing of applications by board of elections.
         11-108. Special presidential voters lists.
@@ -489,7 +500,7 @@ Section 11-102. Special  presidential  voters;  change   of   residence;
                                 TITLE II
                          SPECIAL FEDERAL VOTERS
 Section 11-200. Special federal voters; qualifications.
-        11-202. Registration and enrollment of  special  federal  voters
+        11-202. Registration  and  enrollment  of special federal voters
                   and application for special federal ballot.
         11-204. Processing of applications by board of elections.
         11-206. Special federal voters; preparation of registration poll
@@ -532,14 +543,14 @@ Section 12-400. Short title.
         12-402. Adoption and text of compact.
                                ARTICLE 13
                         ANNUAL POLITICAL CALENDAR
-Section 13-104. Special  provisions as to the time for holding a primary
-                  election in the city of New York in the year  nineteen
+Section 13-104. Special provisions as to the time for holding a  primary
+                  election  in the city of New York in the year nineteen
                   hundred eighty-one.
-        13-106. Special  provisions as to the time for holding a primary
-                  election in the city of New York in the year  nineteen
+        13-106. Special provisions as to the time for holding a  primary
+                  election  in the city of New York in the year nineteen
                   hundred eighty-one.
-        13-108. Special  provisions as to the time for holding a primary
-                  election in the city of New York in the year  nineteen
+        13-108. Special provisions as to the time for holding a  primary
+                  election  in the city of New York in the year nineteen
                   hundred eighty-one.
         13-110. Special  provisions as to the time for holding a primary
                   election in the city of New York in the year  nineteen
@@ -649,18 +660,18 @@ Section 16-100. Jurisdiction; supreme court, county court.
                                  TITLE 1
                   VIOLATIONS OF THE ELECTIVE FRANCHISE
 Section 17-100. Definitions.
-        17-102. Misdemeanors  at,  or  in   connection   with,   primary
-                  elections,  caucuses, enrollment in political parties,
+        17-102. Misdemeanors   at,   or   in  connection  with,  primary
+                  elections, caucuses, enrollment in political  parties,
                   committees, and conventions.
         17-104. False registration.
         17-106. Misconduct of election officers.
-        17-108. False affidavits; mutilation,  destruction  or  loss  of
+        17-108. False  affidavits;  mutilation,  destruction  or loss of
                   registry list or affidavits.
         17-110. Misdemeanors concerning police commissioners or officers
                   or members of any police force.
         17-112. Soliciting media support.
         17-114. Failure to furnish information; false information.
-        17-116. Removal,  mutilation  or destruction of election booths,
+        17-116. Removal, mutilation or destruction of  election  booths,
                   supplies, poll-lists or cards of instruction.
         17-118. Refusal to permit employees to attend election.
         17-120. Misconduct  in relation to certificate of nomination and
