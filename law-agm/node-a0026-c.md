@@ -1,4 +1,4 @@
-                             * ARTICLE 26-C
+                              ARTICLE 26-C
                       REGULATION OF ANIMAL SHELTERS
 Section 420. Definitions.
         421. License required and inspection of facilities.
@@ -15,4 +15,3 @@ Section 420. Definitions.
         432. Foster care provider requirements.
         433. Violations.
         434. Waiving of requirements authorized.
-  * NB Effective December 15, 2025
