@@ -10,6 +10,7 @@ Section 3.01 Declaration of policy.
         3.11 Designation of deputies or agents.
         3.13 Subpoenas.
         3.15 Statewide park and recreation plan.
+        3.16 Operational safety plans.
         3.17 Acquisition and disposition of property.
         3.19 Acquisition of property by eminent domain.
         3.21 Limitation on use of Connetquot river state park water
