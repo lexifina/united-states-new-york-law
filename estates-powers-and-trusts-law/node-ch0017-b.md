@@ -9,7 +9,7 @@ Assembly, do enact as follows:
 Article  1.   General provisions. (§§ 1-1.1--1-2.20)
          2.   Rules governing dispositions subject to this law.
                 (§§ 2-1.1--2-1.15)
-         3.   Substantive law of wills. (§§ 3-1.1--3-5.1)
+         3.   Substantive law of wills. (§§ 3-1.1--3-6.9)
          4.   Descent and distribution of an intestate estate.
                 (§§ 4-1.1--4-1.6)
          5.   Family rights. (§§ 5-1.1--5-4.6)
