@@ -58,4 +58,4 @@ information needed, in a form or format prescribed by the pool
 administrator, to meet reporting requirements as set forth in section
 twenty-eight hundred seven-y of the public health law or as otherwise
 provided by law.
-  * NB There are two § 99-ss's
+  * NB There are 3 § 99-ss's
