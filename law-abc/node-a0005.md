@@ -4,6 +4,7 @@ Section 60.   Kinds of licenses.
         61.   Distiller's licenses.
         61-a. Combined craft manufacturing license.
         61-b. Importer's license.
+        61-c. Brand owner's license.
         62.   Wholesaler's liquor license.
         63.   Seven day license to sell liquor at retail for consumption
                 off the premises.
