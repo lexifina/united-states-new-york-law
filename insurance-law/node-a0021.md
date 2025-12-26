@@ -42,7 +42,8 @@ Section 2101. Definitions.
         2128. Commission and fee sharing prohibited.
         2129. Duty to have an agent or broker at each place of business.
         2130. Excess line association.
-        2131. Limited license for rental vehicle companies, wireless
+        2131. Limited license for rental vehicle companies, peer-to-peer
+                car sharing program administrators, wireless
                 communications equipment vendors and self-service
                 storage companies.
         2132. Continuing education.
