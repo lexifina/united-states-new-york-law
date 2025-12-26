@@ -40,3 +40,4 @@ Section 600.   Certain correctional officers to administer oaths.
         625.   Menstrual products.
         626.   Medication assisted treatment in correctional facilities.
         627.   Breast cancer screening and diagnostic testing.
+        628.   Surveillance, recording, and investigations.
