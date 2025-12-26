@@ -19,6 +19,9 @@ Section 500.   Application of article.
                  other states.
         500-p. Prohibition on the custody of youth in Rikers Island
                  facilities.
+        500-q. Disclosure of video footage related to the death of
+                 incarcerated individuals involving correctional
+                 officers.
         501.   Jail physician.
         502.   Use of liquors in jails.
         503.   Permit to bring liquor into jails.
