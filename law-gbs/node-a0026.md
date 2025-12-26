@@ -66,7 +66,10 @@ Section 390.         Substitution of spurious oils for internal
         392-h.       Trash receptacles; dumpsters.
         392-i.       Prices reduced to reflect change in sales tax
                        computation.
-        392-j.        Sales of sparkling devices.
+        392-j.       Sales of sparkling devices.
+        392-k.       Motor vehicle glass repair and replacement;
+                       calibration and recalibration of advanced driver
+                       assistance systems; consumer disclosure.
         393.         Lime; standard barrels.
         393-a.       Non fire rated wood paneling.
         393-b.       Written solicitation.
@@ -89,6 +92,7 @@ Section 390.         Substitution of spurious oils for internal
                        data.
         394-g.       Geofencing of health care facilities.
         394-h.       Electronic health information protections.
+        394-i.       Legally protected health activities.
         395.         Required disclosure of prior use.
         395-a.       Maintenance agreements.
         395-b.       Unlawfully installing or maintaining a two-way
@@ -176,6 +180,7 @@ Section 390.         Substitution of spurious oils for internal
         398-e.       Indemnity provision in motor carrier transportation
                        contracts.
         398-f.       Children's non-regulated camp.
+        398-g.       Kratom package labeling.
         399.         Cigarette package labeling.
         399-a.       Pay toilets; prohibition.
         399-aa.      Prohibition of the selling of fur, hair, skin or
