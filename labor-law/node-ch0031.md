@@ -50,6 +50,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        21-A.  Warehouse worker protection act. (§§ 780-788)
        21-B.  Protection of call center workers from displacement.
                 (§§ 790-793).
+       21-C.  Tower technician protections (§§ 795--795-b).
        22.    Boards of inquiry in labor disputes. (§§ 800-805)
        22-A.  Injunctions in labor disputes. (§§ 807-808)
        23.    Apprenticeship training. (§§ 810-819)
@@ -81,4 +82,5 @@ Article 1.    Short title; definitions. (§§ 1-4)
        34.    Certification of public service employment. (§§ 1000-1002)
        35.    New York youth jobs connector program. (§§ 1005-1008)
        36.    New York state fashion workers act. (§§ 1030-1039)
+       37.    Trapped at work act. (§§ 1050-1055)
        40.    When to take effect. (§ 1200)
