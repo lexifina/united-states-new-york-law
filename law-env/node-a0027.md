@@ -1,5 +1,6 @@
                                ARTICLE 27
-   COLLECTION, TREATMENT AND DISPOSAL OF REFUSE AND OTHER SOLID WASTE
+REDUCTION, COLLECTION, REUSE, RECYCLING, TREATMENT AND DISPOSAL OF SOLID
+                                  WASTE
 Title   1.   Solid and hazardous waste management policy and planning
         3.   Waste transporter permits
         4.   Marketing of recyclable materials
