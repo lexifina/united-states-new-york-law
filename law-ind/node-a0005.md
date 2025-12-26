@@ -9,3 +9,4 @@ Section 70. Confirmation of nationality.
         75. Vacancies in elective offices.
         77. Police officers at annual fair.
         78. Leases and rights of way.
+        79. Law enforcement agreements.
