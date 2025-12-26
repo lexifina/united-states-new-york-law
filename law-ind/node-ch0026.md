@@ -13,7 +13,7 @@ Article  1. Short title (§ 1.)
          3. The Onondaga tribe (§§ 20-28).
          4. The Seneca Indians (§§ 40-60).
          5. The Seneca Indians on the Allegany and Cattaraugus
-              reservations (§§ 70-78).
+              reservations (§§ 70-79).
          6. The Seneca Indians on the Tonawanda Reservation (§§ 80-90).
          7. The Tuscarora nation (§§ 95-98).
          8. The Saint Regis tribe (§§ 100-114).
