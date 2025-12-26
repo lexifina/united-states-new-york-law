@@ -39,6 +39,8 @@ Section 6509.   Definitions of professional misconduct.
         6509-d. Limited exemption from professional misconduct.
         6509-e. Additional definition of professional misconduct; mental
                   health professionals.
+        6509-f. Limited exemption from professional misconduct; legally
+                  protected health activity.
         6510.   Proceedings in cases of professional misconduct.
         6510-b. Temporary surrender of licenses during treatment for
                   drug or alcohol abuse.
