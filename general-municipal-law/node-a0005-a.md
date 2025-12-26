@@ -18,6 +18,8 @@ Section 100.   Definitions.
                  competitive offering on public contracts.
         103-f. Security bonds; municipal projects.
         103-g. Iranian energy sector divestment.
+        103-h. Restriction on purchasing certain technology which poses
+                 a security threat.
         104.   Purchase through office of general services; purchases
                  from other public contracts; certain federal contracts.
         104-a. Purchasing of products for public use.
@@ -39,3 +41,4 @@ Section 100.   Definitions.
         109-c. Purchases through county contracts by certain
                  not-for-profit corporations.
         109-d. Emergency vehicle warranties.
+        109-e. Additional requirements for right-of-way permits.

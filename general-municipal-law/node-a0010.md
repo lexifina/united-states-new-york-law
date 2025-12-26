@@ -58,6 +58,8 @@ Section 200.      Defining qualifications of exempt volunteer
         207-a.    Payment of salary, medical and hospital expenses of
                     firefighters with injuries or illness incurred in
                     performance of duties.
+        207-aa.   Disabilities of members of the uniformed force of
+                    sanitation departments in certain cities.
         207-b.    Additional retirement benefits for certain
                     firefighters in cities.
         207-c.    Payment of salary, wages, medical and hospital
