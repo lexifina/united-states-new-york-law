@@ -35,6 +35,7 @@
         207.     Defendant's absence from state or residence under false
                    name.
         208.     Infancy, insanity.
+        208-a.   In custody at time of cause of action.
         209.     War.
                    (a) Cause of action accruing in foreign country.
                    (b) Right of noncitizen.
