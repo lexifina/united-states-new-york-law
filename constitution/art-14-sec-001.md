@@ -198,3 +198,15 @@ maintained. As a condition of the creation of such health and safety
 land account the state shall acquire two hundred fifty acres of land for
 incorporation into the forest preserve, on condition that the
 legislature shall approve such lands to be added to the forest preserve.
+  Notwithstanding the foregoing provisions, the construction, operation,
+and maintenance to international standards for Nordic skiing and
+biathlon trails that will accommodate global competitions, training, and
+events, totaling not more than three hundred twenty-three acres of
+trails and appurtenances thereto, is authorized on one thousand
+thirty-nine acres of forest preserve lands at the Mount Van Hoevenberg
+Olympic Sports Complex in the town of North Elba in Essex county, and as
+an offset thereto the state must acquire for incorporation into the
+forest preserve at least two thousand five hundred acres of forest land
+for inclusion in the forest preserve in the Adirondack Park on condition
+that the legislature shall determine that such lands are equal to or
+greater in value.
