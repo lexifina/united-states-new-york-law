@@ -1,4 +1,4 @@
-                            * ARTICLE XIII-F
+                             ARTICLE XIII-F
                       UNIFORM SPECIAL DEPOSITS ACT
 Section 680.   Short title.
         680-a. Definitions.
@@ -17,4 +17,3 @@ Section 680.   Short title.
         680-n. Uniformity of application and construction.
         680-o. Transitional provision.
         680-p. Severability.
-  * NB Effective January 1, 2026
