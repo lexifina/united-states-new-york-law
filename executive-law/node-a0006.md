@@ -21,7 +21,6 @@ Section 90.    Department of state; secretary of state.
         100-a. Information on state agencies pertaining to persons
                  subjected to section seventy-three-a of the public
                  officers law and who hold policy-making positions.
-        100-b. Business entity database.
         101.   Accessibility, rules and regulations.
         101-a. Legislative notification of the proposed adoption,
                  amendment, suspension or repeal of agency rules.
