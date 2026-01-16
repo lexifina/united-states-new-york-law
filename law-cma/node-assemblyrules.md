@@ -4,15 +4,16 @@
   Rules of the Assembly for the years 2025--2026, as adopted by Assembly
 Resolution   number   6  of  2025,  including  the  temporary  emergency
 procedures set forth in Assembly Resolution 854  adopted  on  March  30,
-2020, as last amended, and as amended by Assembly Resolution 87 of 2023.
-  Permanent  Joint  Rules  of  the  Senate  and  Assembly, as adopted by
-Concurrent Resolution numbers 459 (Senate) and 544  (Assembly)  of  1984
-and  as amended by Concurrent Resolution number 260 (Senate) of 1995 and
+2020,  as  last  amended,  and  as amended by Assembly Resolution 826 of
+2026.
+  Permanent Joint Rules of  the  Senate  and  Assembly,  as  adopted  by
+Concurrent  Resolution  numbers  459 (Senate) and 544 (Assembly) of 1984
+and as amended by Concurrent Resolution number 260 (Senate) of 1995  and
 as amended by Concurrent Resolution number 147 (Assembly) of 2007 and as
-amended  by  Concurrent  Resolution  numbers  2775  (Senate)   and   787
-(Assembly)  of  2009  and as amended by Concurrent Resolution number 404
+amended   by   Concurrent  Resolution  numbers  2775  (Senate)  and  787
+(Assembly) of 2009 and as amended by Concurrent  Resolution  number  404
 (Senate) and number 25 (Assembly) of 2017.
-                                 1/14/25
+                                 1/12/26
                             TABLE OF CONTENTS
 Rule I                          SPEAKER                     Pg.
 §  1            Powers and duties                                      5
@@ -122,13 +123,12 @@ prescribed in these Rules; and
   c.  possess  the  powers and perform the duties herein prescribed. The
 Speaker:
   (1) shall preserve order and decorum, name the member entitled to  the
-floor  when  more than one member seeks to be recognized and, in debate,
-prevent personal reflections and confine members to the  question  under
-discussion;
+floor when more than one member seeks to be recognized, prevent personal
+reflections and confine members to the question under discussion;
   (2) shall decide all questions of order subject to appeal to the House
 and  on every appeal shall have the right, from the Chair, to assign the
-reason for such decision; in case of such appeal no member  shall  speak
-more than once, nor for more than 15 minutes;
+reason for such decision; in case of such appeal, the  member  appealing
+shall not speak more than once, nor for more than 15 minutes;
   (3)  shall  appoint  the  chairpersons  and  members of all committees
 thereof, except where the House shall otherwise order;
   (4) shall create  such  sub-committees  of  each  standing  committee,
@@ -644,20 +644,24 @@ either written or electronic format prior to their consideration.
 shall, if objection is made to immediate consideration, be  referred  to
 the appropriate committee with power to report at any time.
   d.  Concurrent resolutions proposing amendments to the Constitution of
-the State and concurrent resolutions ratifying  proposed  amendments  to
-the  Constitution  of  the  United  States  shall,  for  all legislative
-purposes, be deemed to be and treated as bills.
-  e. All resolutions calling for  or  leading  to  expenditures,  except
-resolutions  for  printing  extra copies of bills, documents and chapter
-slips, shall be referred to the Committee on  Ways  and  Means  and  all
-other   resolutions  shall  be  referred  to  the  appropriate  standing
-committee or to an assembly calendar, as the Speaker may designate.
-  f.  All resolutions shall be adopted by a majority vote of the members
-present and voting, provided, however, concurrent resolutions  proposing
-amendments  to  the Constitution of the State or ratifying amendments to
-the Constitution of the United States and  resolutions  calling  for  or
-leading  to  the  expenditure  of  money shall be adopted by a vote of a
-majority of all the members elected to the Assembly.
+the State, concurrent resolutions ratifying proposed amendments  to  the
+Constitution  of the United States, concurrent resolutions requesting or
+rescinding a call for a convention under Article V of  the  Constitution
+of  the  United  States,  and  resolutions  calling  for  or  leading to
+expenditures shall be deemed to be and  treated  as  bills  under  these
+Rules.
+  e.  All  resolutions  calling  for  or leading to expenditures, except
+resolutions for printing extra copies of bills,  documents  and  chapter
+slips,  shall  be referred to the Committee on Ways and Means. All other
+resolutions shall be referred to the appropriate standing  committee  or
+to  an  assembly  calendar,  as  the  Speaker  may  designate, provided,
+however,  resolutions  recommending,  urging,  supporting,  altering  or
+condemning  a  position or change in foreign policy of the United States
+Government or the domestic or foreign affairs of any other government of
+the world shall not  be  referred  to  any  committee  nor  an  assembly
+calendar.
+  f.   Except as otherwise provided by these rules, resolutions shall be
+adopted by a majority vote of the members present and voting.
   § 6. Amendments.
   a. Amendments to a bill shall be made  by  the  member  proposing  the
 amendment  in  the  form  prescribed  by  the  Clerk of the Assembly and
@@ -697,8 +701,8 @@ main question, however, if ordered, shall be on the advancement  of  the
 bill;  but when amendments are pending the question shall first be taken
 upon such amendments in their inverse order.
   c.  All bills on the order of second reading shall be ordered to third
-reading unless otherwise ordered  pursuant  to  subdivision  b  of  this
-section  or pursuant to paragraph one of subdivision b of section ten of
+reading  unless  otherwise  ordered  pursuant  to  subdivision b of this
+section or pursuant to paragraph one of subdivision b of section ten  of
 Rule IV.
   d.  A bill shall be considered automatically advanced to third reading
 once  it has been on the printed Calendar on the order of second reading
@@ -744,15 +748,15 @@ Rules,   any  requirement  for  the  copying,  printing,  reprinting  or
 placement of bills on the desks of members may be satisfied with  either
 bills  printed  on  paper  or bills in electronic format as described in
 section fourteen of Article III of the Constitution.
-  § 10. Transmittal of bills to the Governor. All Assembly bills  passed
-by  the  Assembly  and sent to the Senate for action shall, upon passage
-and return by the Senate to the Assembly, be transmitted  by  the  Index
+  §  10. Transmittal of bills to the Governor. All Assembly bills passed
+by the Assembly and sent to the Senate for action  shall,  upon  passage
+and  return  by  the Senate to the Assembly, be transmitted by the Index
 Clerk to the Governor within ten legislative days after receipt from the
-Senate,  except  that  any bill returned for transmittal to the Assembly
+Senate, except that any bill returned for transmittal  to  the  Assembly
 after the first of May and before the first of June shall be transmitted
-to the Governor within  thirty  days  of  such  receipt,  and  any  bill
-returned  for  transmittal to the Assembly on or after the first of June
-shall be transmitted to the Governor  within  forty-five  days  of  such
+to  the  Governor  within  thirty  days  of  such  receipt, and any bill
+returned for transmittal to the Assembly on or after the first  of  June
+shall  be  transmitted  to  the  Governor within forty-five days of such
 receipt.
                                  RULE IV
                                COMMITTEES
@@ -1211,16 +1215,13 @@ House during sessions  of  the  House  shall  be  continuously  recorded
 electronically unless otherwise ordered by the Speaker.
   b. The bar of the House shall be deemed to include the entire Assembly
 Chamber  and  lobbies  contiguous  thereto as designated by the Speaker.
-During a state of emergency, if authorized by law, the bar of the  House
-may  be extended, at the discretion of the Speaker, to allow for members
-to be in attendance in any proceeding  of  the  House  by  remote  means
-including  teleconference  and videoconference and such members shall be
-continuously recorded in attendance by the Clerk of  the  Assembly.  Any
-member  deemed  to  be  present remotely during a state of emergency, if
-authorized by law, may submit requests for recognition to the  presiding
-officer  by  electronic  means  for  participation in proceedings and no
-technical failure on the part of an individual  member  or  a  group  of
-members  that  breaks  their  remote connection to the proceedings shall
+Provided, however, where otherwise authorized by law or executive order,
+the bar of the House may be extended, at the discretion of the  Speaker,
+to  allow for members to be in attendance in any proceeding of the House
+by remote means. Remote attendance by any member for any  proceeding  of
+the  House  shall  be  in  accordance  with  any  policies or procedures
+promulgated by the Speaker. A technical failure resulting  in  a  broken
+connection  to  remote  proceedings  for  one  or more members shall not
 invalidate any action taken by the majority of the Assembly.
   c. In all cases of the absence of members during the  session  of  the
 House,  the  members  present  may take such measures as they shall deem
@@ -1242,9 +1243,10 @@ absentees  shall not be called more than once. Unless otherwise directed
 by the Speaker, all votes shall be recorded electronically. A member may
 abstain from a vote only on the grounds that such vote will constitute a
 conflict of interest.
-  b. The yeas and nays shall be taken individually of each member on the
-final passage of a bill and on any other question whenever  required  by
-any fifteen members (unless a division by yeas and nays be pending), and
+  b.  Except as otherwise provided in subdivision c of this section, the
+yeas and nays shall be taken individually of each member  on  the  final
+passage  of  a  bill  and on any other question whenever required by any
+fifteen members (unless a division by yeas and  nays  be  pending),  and
 when  so  taken  each  member's  affirmative  or  negative vote shall be
 entered through the electronic voting system or in such other manner  as
 may  be prescribed by the Speaker and entered on the Journal.  Such roll
@@ -1254,11 +1256,12 @@ shall be recorded unless the member voting is at his  or  her  regularly
 assigned  seat  or is serving or acting as Speaker, Majority or Minority
 Leader.
   c. In the event  a  slow  roll  call  is  not  requested  pursuant  to
-subdivision  b,  the yeas and nays on the final passage of a bill or any
-other question before the House shall be taken by a fast roll call and a
-member desiring to vote in the negative on such a roll call shall do  so
-by  entering  a negative vote through the electronic voting system or in
-such other manner as may be prescribed by the Speaker. All other members
+subdivision  b, or when the question before the House is procedural, the
+yeas and nays on the final passage of  a  bill  or  any  other  question
+before  the  House  shall  be  taken  by  a  fast roll call and a member
+desiring to vote in the negative on such a roll  call  shall  do  so  by
+entering a negative vote through the electronic voting system or in such
+other  manner  as  may  be  prescribed by the Speaker. All other members
 shall be recorded in the affirmative.
   d. The Speaker may allow a member to record his  or  her  vote  within
 fifteen  minutes  after the results of the roll call have been announced
@@ -1313,39 +1316,47 @@ orders of the day, and with the unanimous consent of the House, a member
 may  make  a  statement,  not  exceeding  fifteen  minutes  in   length,
 concerning  a  subject  or  matter  not  pending  before  the  House for
 consideration.
-  § 6. Debate. a. No member rising to debate, to  give  notice,  make  a
-motion or report, or to present a petition or other paper, shall proceed
-until such member shall have addressed the Speaker from his or her place
-and  has  been recognized by the Speaker. While a member is speaking, no
-member shall entertain any private discourse or pass between the  member
-speaking and the Chair.
+  § 6.  Consideration of bills and resolutions. a. No member  rising  to
+debate,  to  give  notice,  make  a  motion  or  report, or to present a
+petition or other paper, shall proceed  until  such  member  shall  have
+addressed  the  Speaker from his or her place and has been recognized by
+the Speaker. While a member is speaking, no member shall  entertain  any
+private discourse or pass between the member speaking and the Chair.
   b.  Unless  otherwise  provided by these Rules, no member shall speak,
-except in his or her place, nor more than once on any bill or amendment,
-without leave of the House and no  member  shall  speak  for  more  than
-fifteen  minutes except by consent of two-thirds of the members present.
-The floor leader of each conference  or  his  or  her  designee  may  be
-granted  a second, additional fifteen minutes to speak during the debate
-on any bill or amendment. Consideration of any bill and amendment  shall
-not  exceed  five  hours; with four hours allocated for debate and up to
-one hour allocated for explanations of vote; provided,  however  that  a
-member  desiring  to explain his or her vote upon the final passage of a
-bill or upon the passage of a resolution requiring  the  expenditure  of
-money  may  make  a  brief  statement,  not  to  exceed  two minutes, in
-explanation of such vote; and further provided that in addition  to  the
-foregoing, the sponsor of a bill may make a statement not to exceed five
-minutes  for  the  purpose  of  opening debate on such bill.   Except as
-otherwise provided by these Rules for concurrent resolutions, no  member
-shall  speak  more  than  once  and for no more than five minutes on any
-resolution without leave of the House.  Debate on any resolution, except
-as otherwise provided, shall be limited to thirty minutes.  Members  may
-be granted permission to submit a written statement to extend upon their
-remarks  on  the  floor  for the record; such remarks must comply in all
-respects with the rules and customs and practices of the House  relating
-to debate to be included in the record.
-  c.  If  any  member, in speaking, transgresses the Rules of the House,
-the Speaker may call such member to order, in which case the  member  so
-called to order shall immediately sit down, and shall not rise unless to
-explain or proceed in order.
+except in his or her place, nor more than  once  without  leave  of  the
+House and no member shall speak for more than the time prescribed herein
+except by consent of two-thirds of the members present.
+  1.  No  member  shall  speak  on  any  bill or amendment for more than
+fifteen minutes, provided, however, the floor leader of each  conference
+or  a  designee  thereof  may  be  granted  a second, additional fifteen
+minutes to speak on any bill or amendment.
+  2. No member shall speak for more than two minutes in any  explanation
+of vote upon the final passage of a bill.
+  3.  In addition to the foregoing, the sponsor of, or member designated
+to debate, any bill may make a statement not to exceed five minutes  for
+the purpose of opening debate on such bill.
+  4.  Consideration  of  any  bill,  and any proposed amendment thereto,
+shall not exceed five hours; with up to four hours allocated for  debate
+and  up  to  one  hour  allocated  for  explanations of votes. The times
+allocated herein  shall  be  divided  evenly  between  each  conference,
+provided,  however,  such  division  shall not apply to consideration of
+bills submitted by the Governor under Article VII of  the  Constitution,
+including   the  Assembly's  response  thereto,  concurrent  resolutions
+proposing amendments to the Constitution of the State, or  as  otherwise
+agreed to by the Speaker and Minority Leader.
+  5.  No member shall speak for more than five minutes on any resolution
+without leave of the House. Consideration of  any  resolution  shall  be
+limited to thirty minutes.
+  6.  Members may be granted permission to submit a written statement as
+a substitution for or to extend upon their remarks on the floor for  the
+record;  such  remarks  must  comply  in all respects with the rules and
+customs and practices of the House relating to debate to be included  in
+the record.
+  c.  If  any  member,  in speaking, fails to maintain decorum, deviates
+from the subject matter of the question before the House,  or  otherwise
+transgresses the Rules of the House, the Speaker may call such member to
+order, in which case the member so called to order shall immediately sit
+down, and shall not rise unless to explain or proceed in order.
   d.  While  the  Speaker  is  putting  a question, or a roll call is in
 progress or a count is being had, no member shall speak or leave his  or
 her  place.  When  the  House  shall be equally divided on any question,
@@ -1359,49 +1370,49 @@ they  shall  occur,  with the decisions thereon, shall be entered in the
 Journal, and, at the close of the  session,  a  statement  of  all  such
 questions  and  decisions  shall  be  printed  at the close of and as an
 appendix to the Journal.
-  §  7. Adjournment. a. When a motion to adjourn is carried, the members
-and officers shall  keep  their  seats  and  places  until  the  Speaker
+  § 7. Adjournment. a. When a motion to adjourn is carried, the  members
+and  officers  shall  keep  their  seats  and  places  until the Speaker
 declares the House adjourned.
-  b.  No  motion  to  adjourn sine die shall be in order until all bills
-transmitted to the Governor shall have been acted upon by  him  or  her,
-and  in the case of vetoed bills, until such bills have been returned to
+  b. No motion to adjourn sine die shall be in  order  until  all  bills
+transmitted  to  the  Governor shall have been acted upon by him or her,
+and in the case of vetoed bills, until such bills have been returned  to
 each House for at least three legislative calendar days.
-  § 8. Contest of election. A contest of  the  election  of  any  member
-shall  be  referred  to  the  Judiciary  Committee for investigation and
+  §  8.  Contest  of  election.  A contest of the election of any member
+shall be referred to  the  Judiciary  Committee  for  investigation  and
 report.
   § 9. Staff, materials and other perquisites.  Each member of the House
-shall be entitled to an equal  allocation  of  printed  newsletters  and
-other  printed  materials and postage therefor, and stationery and other
-similar perquisites, and each member shall receive  an  equal  allowance
-for  staff personnel, except that the allocation of stationery and other
+shall  be  entitled  to  an  equal allocation of printed newsletters and
+other printed materials and postage therefor, and stationery  and  other
+similar  perquisites,  and  each member shall receive an equal allowance
+for staff personnel, except that the allocation of stationery and  other
 similar perquisites and the allowance for staff personnel may be greater
-for members in majority and minority  leadership  positions,  committee,
+for  members  in  majority and minority leadership positions, committee,
 subcommittee and task force chairpersons and ranking minority members of
-committees,  subcommittees  and  task  forces. Such greater allotment or
-staff shall be commensurate with the additional duties assigned to  such
+committees, subcommittees and task forces.  Such  greater  allotment  or
+staff  shall be commensurate with the additional duties assigned to such
 member.
-  §  10.  Use  of  legislative  printing,  mail  and  mass communication
-facilities. a. The use of legislative printing and mail  facilities  for
-newsletters  and  other  forms  of  mass mailings which bear the name or
+  § 10.  Use  of  legislative  printing,  mail  and  mass  communication
+facilities.  a.  The use of legislative printing and mail facilities for
+newsletters and other forms of mass mailings  which  bear  the  name  or
 likeness of a candidate in a local, special, primary or general election
-shall be prohibited within  thirty  days  of  such  local,  special,  or
-primary  election  and  be  prohibited within sixty days of such general
-election. Members may not utilize other forms  of  Assembly-funded  mass
-communication  media  during  such  thirty  day  and  sixty day periods,
+shall  be  prohibited  within  thirty  days  of  such local, special, or
+primary election and be prohibited within sixty  days  of  such  general
+election.  Members  may  not utilize other forms of Assembly-funded mass
+communication media during  such  thirty  day  and  sixty  day  periods,
 respectively.
-  b. The Assembly shall maintain  a  file  containing  a  copy  of  each
+  b.  The  Assembly  shall  maintain  a  file  containing a copy of each
 newsletter provided by Assembly facilities which file shall be available
 to the public.
   c.  The  provisions  of  this  section  shall  be  applicable  to  all
-communications addressed to the geographic area in which the  member  is
+communications  addressed  to the geographic area in which the member is
 running for election.
-  §  11.  Employee  candidates  for  Senator or member of Assembly.   No
+  § 11. Employee candidates for Senator  or  member  of  Assembly.    No
 Assembly employee shall remain on the Assembly payroll while a candidate
-for Senator or member of Assembly. For the purposes herein, an  employee
-shall  be  deemed a candidate for Senator or member of the Assembly upon
-the  filing  of  designating  petitions  for  such  office   or,   where
-nominations  for  such  office  are  made  other  than by petition, upon
-nomination. Such employee shall remain off the  Assembly  payroll  until
+for  Senator or member of Assembly. For the purposes herein, an employee
+shall be deemed a candidate for Senator or member of the  Assembly  upon
+the   filing   of  designating  petitions  for  such  office  or,  where
+nominations for such office  are  made  other  than  by  petition,  upon
+nomination.  Such  employee  shall remain off the Assembly payroll until
 such  time as his or her candidacy shall cease or upon the day following
 election day for such office, whichever comes first.
                                  RULE VI
@@ -1472,26 +1483,27 @@ Such report shall be made available on the Assembly Internet site.
 administrative records maintained by the Assembly  be  governed  by  the
 same  presumption of disclosure which governs access to executive agency
 records, with similar enumerated exceptions.
-  § 2. Disclosure policy. a. In addition to any records required  to  be
+  § 2. Disclosure policy. a.  In addition to any records required to  be
 made available pursuant to the provisions of section eighty-eight of the
 public   officers   law   and  the  rules  and  regulations  promulgated
-thereunder, all other existing records maintained by the Assembly  shall
-be available for public inspection and copying, except that the Assembly
-may deny access to records or portions thereof that:
-  (1)  are  specifically  exempted  from  disclosure by state or federal
+thereunder, all other existing central administrative records maintained
+by the Assembly shall be available for public  inspection  and  copying,
+except  that the Assembly may deny access to records or portions thereof
+that:
+  (1) are specifically exempted from  disclosure  by  state  or  federal
 statute or a Rule of the Assembly, or Permanent Joint Rule of the Senate
 and Assembly;
-  (2) if disclosed would constitute an unwarranted invasion of  personal
-privacy  as defined in subdivisions two and two-a of section eighty-nine
-or section ninety-six of the public officers  law,  including,  but  not
+  (2)  if disclosed would constitute an unwarranted invasion of personal
+privacy as defined in subdivisions two and two-a of section  eighty-nine
+or  section  ninety-six  of  the public officers law, including, but not
 limited to:
   (a)  the  medical,  financial,  credit  or  employment  history  of  a
-particular person or matters leading  to  the  appointment,  employment,
-promotion,  demotion,  discipline,  suspension,  dismissal or removal of
+particular  person  or  matters  leading to the appointment, employment,
+promotion, demotion, discipline, suspension,  dismissal  or  removal  of
 such person; or
   (b) names, addresses, numbers or other personal identifying details of
-telephone communications or mail correspondence made by or to Members of
-the Assembly or employees thereof;
+communications  or  correspondence made by or to Members of the Assembly
+or employees thereof;
   (3) if disclosed would impair present or imminent contract  awards  or
 collective bargaining negotiations;
   (4)  if  disclosed  would  impair  negotiations relating to pending or
