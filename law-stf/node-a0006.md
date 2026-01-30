@@ -293,7 +293,6 @@ Section 70.        Classification of funds.
         99-n.      Highway construction and maintenance safety education
                      fund.
         99-o.      Arts institutions revolving loan fund.
-        99-p.      Empire state stem cell trust fund.
         99-q.      Volunteer firefighting and volunteer emergency
                      services recruitment and retention fund.
         99-s.      Youth facility per diem account.
