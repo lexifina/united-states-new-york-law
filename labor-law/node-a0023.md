@@ -4,6 +4,7 @@ Section 810.   Statement of public policy.
         811.   Powers and duties of industrial commissioner; personnel.
         812.   Related and supplemental instruction.
         813.   State apprenticeship and training council.
+        813-a. Annual reports by apprenticeship programs.
         814.   Local,    regional   and   state   joint   apprenticeship
                  committees.
         815.   Suggested standards for apprenticeship aggreements.

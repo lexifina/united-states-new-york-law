@@ -47,7 +47,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
                 (§§ 733-739)
        20-C.  Retaliatory action by employers. (§§ 740-741)
        21.    New York call center jobs act. (§§ 770-776)
-       21-A.  Warehouse worker protection act. (§§ 780-788)
+       21-A.  Warehouse worker protection act. (§§ 780-789)
        21-B.  Protection of call center workers from displacement.
                 (§§ 790-793).
        21-C.  Tower technician protections (§§ 795--795-b).
