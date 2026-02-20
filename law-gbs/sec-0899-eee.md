@@ -48,4 +48,4 @@ final amount of the gross proceeds from the claim, the maximum allowable
 charges shall not exceed twenty-five percent of the gross proceeds from
 the applicable legal claim, regardless of the funded amount provided for
 the relevant claim.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026

@@ -52,4 +52,4 @@ the department of state in accordance with the filing procedures set
 forth by the secretary of state.
   9. The secretary of state is hereby authorized to adopt rules and
 regulations to implement the provisions of this section as needed.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026

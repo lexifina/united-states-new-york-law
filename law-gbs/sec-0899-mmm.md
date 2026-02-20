@@ -4,4 +4,4 @@ by any court of competent jurisdiction, such portion shall be deemed
 severable, and such unconstitutionality or invalidity shall not affect
 the validity of the remaining portions of this article, which remaining
 portions shall continue in full force and effect.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026

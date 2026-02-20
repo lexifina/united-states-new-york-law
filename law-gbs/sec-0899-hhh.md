@@ -11,4 +11,4 @@ general.
 of powers or the performance of the duties of the New York state
 attorney general, which such attorney general is authorized to exercise
 or perform by law.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026

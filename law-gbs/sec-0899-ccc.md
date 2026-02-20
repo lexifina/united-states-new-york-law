@@ -46,4 +46,4 @@ adoption, or marriage; spouse; grandparent; or grandchild.
   10. "Resolution date" means the date the funded amount, plus the
 agreed upon charges, are delivered to the consumer litigation funding
 company by the consumer, the consumer's attorney or otherwise.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026
