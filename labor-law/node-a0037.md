@@ -1,4 +1,4 @@
-                               ARTICLE 37
+                              * ARTICLE 37
                            TRAPPED AT WORK ACT
 Section 1050. Definitions.
         1051. Scope.
@@ -7,3 +7,4 @@ Section 1050. Definitions.
         1053. Enforcement.
         1054. Rules.
         1055. Savings clause.
+  * NB Effective December 19, 2026
