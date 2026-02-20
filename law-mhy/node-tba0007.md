@@ -37,4 +37,5 @@ Section 7.01    Declaration of policy.
         7.43    The children's plan.
         7.45    Retaliatory personnel actions.
         7.47    Mental illness anti-stigma grants.
-        7.48.   Addictive social media platform warning labels.
+        7.48    Addictive social media platform warning labels.
+        7.49    Reporting obligations.
