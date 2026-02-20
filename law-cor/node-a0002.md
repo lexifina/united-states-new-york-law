@@ -22,8 +22,8 @@ Section 5.     Department of corrections and community supervision;
                  contracts.
         22-a.  Qualification for employment as a correction officer.
         22-b.  Disclosure of video footage related to the death of
-                 incarcerated individuals involving correctional
-                 officers.
+                 incarcerated individuals involving correction officers
+                 or peace officers employed by the department.
         23.    Transfer of incarcerated individuals from one
                  correctional facility to another; treatment in outside
                  hospitals.

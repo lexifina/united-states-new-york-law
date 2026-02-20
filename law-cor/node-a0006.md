@@ -29,6 +29,7 @@ Section 112.   Powers and duties of commissioner relating to
         134.   Religious dietary requirements.
         135.   New York state department of corrections and community
                  supervision body-worn cameras program.
+        135-a. Fixed camera coverage.
         136.   Correctional education.
         137.   Program of treatment, control, discipline at correctional
                  facilities.
