@@ -10,4 +10,4 @@ made.
 the public, in a manner which maintains the confidentiality of the name
 of each company and consumer, no later than ninety days after the
 reports are submitted.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026

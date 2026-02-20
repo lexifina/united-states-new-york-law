@@ -57,4 +57,4 @@ and/or retains a new attorney with respect to the legal claim.
 of the general obligations law, no prepayment penalties or fees shall be
 charged or collected on consumer litigation funding. A prepayment
 penalty on consumer litigation funding shall be unenforceable.
-  * NB Effective June 17, 2026
+  * NB Effective and Repealed June 17, 2026

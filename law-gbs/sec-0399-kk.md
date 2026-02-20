@@ -64,4 +64,4 @@ person or circumstance is held unconstitutional, such invalidity shall
 not affect other provisions or applications of this section which can be
 given effect without the invalid provision or application, and to this
 end the provisions of this section are severable.
-  * NB Effective March 12, 2026
+  * NB Effective and Repealed March 12, 2026

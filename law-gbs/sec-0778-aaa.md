@@ -40,7 +40,10 @@ community or an amendment thereto;
 association in a common interest community;
   (vi) mortgage loan or a commitment to make or receive a mortgage loan;
   (vii) security agreement under the uniform commercial code relating to
-the sale or rental of personal property or fixtures; or
+the sale or rental of personal property or fixtures;
   (viii) contract with a water, sewer, electrical, telephone, cable, or
-other regulated utility service provider.
+other regulated utility service provider; or
+  (ix) contract, restrictive declaration, regulatory agreement or other
+instrument, which is mandated by a governmental entity or to which a
+governmental entity is a party.
   * NB Effective March 12, 2026
