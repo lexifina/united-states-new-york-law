@@ -15,7 +15,7 @@ Article  1.      Short title; definitions (§§ 1-2).
          4.      Negligence and malfeasance of public officers;
                    taxpayers' remedies (§§ 50-53).
          5.      Powers, limitations and liabilities (§§ 70--99-z).
-         5-A.    Public contracts (§§ 100--109-e).
+         5-A.    Public contracts (§§ 100--109-d).
          5-B.    Common water supplies (§§ 110-117).
          5-C.    Water supply (§§ 118--118-c).
          5-D.    Sewage disposal (§§ 119--119-b).

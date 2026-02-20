@@ -41,4 +41,3 @@ Section 100.   Definitions.
         109-c. Purchases through county contracts by certain
                  not-for-profit corporations.
         109-d. Emergency vehicle warranties.
-        109-e. Additional requirements for right-of-way permits.
