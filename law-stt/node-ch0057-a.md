@@ -4,7 +4,5 @@ Article                                              Section
    I    Office of Information Technology Services    (§§ 101-107)
    II   Internet Security and Privacy Act            (§§ 201-210)
    III  Electronic Signatures and Records Act        (§§ 301-309)
-   IV   Automated employment decision-making in      (§§ 401-402)
+   IV   Automated employment decision-making in      (§§ 401-402-a)
         state government
-   V    Automated decision-making in government      (§§ 501-507)
-        agencies

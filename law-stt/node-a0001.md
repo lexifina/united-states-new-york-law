@@ -11,7 +11,6 @@ Section 101.     Definitions.
         103-d.   Website accessibility; state agencies.
         103-e.   Artificial intelligence (AI) inventory.
         103-f.   Cybersecurity awareness training.
-        103-f*2. Automated decision-making tool inventory.
         104.     Advisory council for technology.
         105.     Functions, powers and duties of the council.
         106.     Responsibility to respond to the freedom of information
