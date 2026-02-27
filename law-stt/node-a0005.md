@@ -5,4 +5,4 @@ Section 501. Definitions.
                agencies.
         503. Impact assessments.
         504. Submission to the governor and legislature.
-  * NB Effective December 19, 2026
+  * NB Repealed July 1, 2028
