@@ -22,8 +22,8 @@
         306-a. Index number in an action or proceeding commenced in
                  supreme or county court.
         306-b. Service of the summons and complaint, summons with
-                 notice, third-party summons and complaint, or petition
-                 with a notice of petition or order to show cause.
+                 notice, or petition with a notice of petition or order
+                 to show cause.
         306-c. Notice of commencement of action for personal injuries by
                  recipient of medical assistance.
         306-d. Additional mailing of notice in an action arising out of
