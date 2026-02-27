@@ -1,10 +1,6 @@
                               ARTICLE 22-A
-         * CONSUMER PROTECTION FROM DECEPTIVE ACTS AND PRACTICES
-  * NB Effective until February 17, 2026
-    * PROTECTION FROM UNFAIR, DECEPTIVE, OR ABUSIVE ACTS AND PRACTICES
-  * NB Effective February 17, 2026
-  Section
-        348.     Purpose and intent of article.
+    PROTECTION FROM UNFAIR, DECEPTIVE, OR ABUSIVE ACTS AND PRACTICES
+Section 348.     Purpose and intent of article.
         349.     Unfair, deceptive, or abusive acts and practices
                    unlawful.
         349-a.   Pricing.
