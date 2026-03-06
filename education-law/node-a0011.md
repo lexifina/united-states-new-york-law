@@ -10,9 +10,9 @@ Section 501.   Definitions.
         507.   Officers of board; custody of funds.
         508.   Investment of funds; interest; accounts; reports.
         508-a. New York state teachers' retirement system MWBE asset
-               management and financial institution strategy.
+                 management and financial institution strategy.
         509.   Statements of teachers' service; determination of service
-               creditable; service certificates.
+                 creditable; service certificates.
         510.   Superannuation retirement.
         511.   Disability retirement.
         511-a. Special service retirement.
@@ -34,20 +34,20 @@ Section 501.   Definitions.
         524.   Exemption from taxation and execution.
         525.   Protection against fraud.
         526.   Merger of local teachers' retirement and pension systems
-               with the state system.
-        527.
+                 with the state system.
+        527.   (Enacted without section heading)
         528.   Pensions-providing-for-increased-take-home-pay.
         529.   Pensions providing for increased take home pay for
-               certain teachers.
+                 certain teachers.
         530.   Pensions-providing-for-increased-take-home-pay-for-teachers.
         531.   Abandonment of unclaimed contributions or other benefits;
-               transfer to the pension accumulation fund.
+                 transfer to the pension accumulation fund.
         532.   Supplemental retirement allowance.
         532-a. Cost-of-living adjustment.
         533.   Non-contributory retirement plan.
         535.   Career retirement plan.
         536.   Deductions from benefits of certain retired members.
         537.   Lump sum payment of de minimis service retirement
-               benefit.
+                 benefit.
         538.   Excess benefit plan.
         539.   Certain actions by retiring members.

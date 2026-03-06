@@ -24,10 +24,6 @@ Section 101.   Education department; regents of the university.
                  department.
         114.   Reduction of salaries for investment in custodial
                  accounts.
-        115.   Use of artificial intelligence systems and automated
-                 decision-making tools by the state university of New
-                 York, the city university of New York, or community
-                 colleges.
         140.   Historical documentary heritage grants and aid.
                                  PART IV
                      SCIENTIFIC AND HISTORIC PLACES
