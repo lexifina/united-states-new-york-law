@@ -1,5 +1,5 @@
-  * § 778-aaa. Definitions. As used in this article, the following
-terms, unless the context requires otherwise, shall have the following
+  § 778-aaa. Definitions. As used in this article, the following terms,
+unless the context requires otherwise, shall have the following
 meanings:
   1. "Person" means a natural person, partnership, association,
 cooperative, corporation, trust, or other legal entity.
@@ -46,4 +46,3 @@ other regulated utility service provider; or
   (ix) contract, restrictive declaration, regulatory agreement or other
 instrument, which is mandated by a governmental entity or to which a
 governmental entity is a party.
-  * NB Effective March 12, 2026

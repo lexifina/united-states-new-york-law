@@ -1,4 +1,4 @@
-  * § 778-ddd. Enforcement; action by the attorney general. Where the
+  § 778-ddd. Enforcement; action by the attorney general. Where the
 attorney general shall have reason to believe that there is an alleged
 violation of this article based upon, among other things, a consumer
 report of an alleged violation, the attorney general, in the name of the
@@ -21,4 +21,3 @@ shall determine that a violation of this article has occurred, the court
 may impose a civil penalty of not more than one thousand dollars for
 each violation. This section shall not be construed to limit any other
 criminal or civil liability such entity may be subject to under law.
-  * NB Effective March 12, 2026
