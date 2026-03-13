@@ -5,6 +5,8 @@
 Section 651.     Definitions.
         652.     New York state higher education services corporation;
                    purposes; board of trustees.
+        652-a.   Employees of the New York state higher education
+                   services corporation; background checks.
         653.     Powers and duties of the board.
         654.     President of the corporation.
         655.     Powers and duties of the president.
@@ -31,8 +33,6 @@ Section 666.     Tuition awards for part-time undergraduate students.
         667.     Tuition assistance program awards.
         667-a.   Supplemental tuition assistance program.
         667-c.   Part-time tuition assistance program awards.
-        667-c-1. New York state part-time scholarship (PTS) award
-                   program.
         667-d.   Enhanced tuition awards.
         668.     Regents awards for children of deceased and disabled
                    veterans.

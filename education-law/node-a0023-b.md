@@ -8,7 +8,8 @@ Section 1125.   Definitions.
         1128.   Duties of school administrators and superintendents upon
                   receipt of a written report alleging child abuse in an
                   educational setting.
-        1128-a. Additional duties of superintendents.
+        1128-a. Additional duties of school administrators and
+                  superintendents.
         1129.   Penalties for failure to comply.
         1130.   Notification by district attorney.
         1131.   Actions upon criminal conviction of a licensed or
