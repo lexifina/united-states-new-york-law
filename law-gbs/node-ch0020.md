@@ -124,7 +124,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          29-H.    Debt collection procedures (§§ 600-603).
          29-HH.   Debt collection procedures related to identity theft
                     (§§ 604--604-b).
-         29-HHH.  Actions involving coerced debts (§§ 604-aa--604-dd).
+         29-HHH.  Actions involving coerced debts (§§ 604-aa--604-gg).
          29-I.    The Storage of Household Goods (§§ 605-610).
          29-J.    Film Rating Labeling (§§ 611-612).
          29-K.    Motor Vehicle Parts Warranty (§§ 616-619).
