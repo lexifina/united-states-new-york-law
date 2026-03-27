@@ -1,4 +1,4 @@
-  * § 396-ii. Cashless policies prohibited. a. As used in this section,
+  § 396-ii. Cashless policies prohibited. a. As used in this section,
 the following terms shall have the following meanings:
   (i) "Cash" means United States coins and currency, including federal
 reserve notes. Cash does not include foreign currency; any paper
@@ -52,4 +52,3 @@ accept cash if such device malfunctions, and that consumers may report
 any violation to the department of state division of consumer
 protection. The department of state may establish by rule additional
 requirements relating to such signs and the display of such signs.
-  * NB Effective March 21, 2026
