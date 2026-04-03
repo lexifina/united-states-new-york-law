@@ -1,7 +1,6 @@
                               ARTICLE 22-A
     PROTECTION FROM UNFAIR, DECEPTIVE, OR ABUSIVE ACTS AND PRACTICES
-Section 348.     Purpose and intent of article.
-        349.     Unfair, deceptive, or abusive acts and practices
+Section 349.     Unfair, deceptive, or abusive acts and practices
                    unlawful.
         349-a.   Pricing.
         349-b.   Residential telephone equipment advertising, sale and
