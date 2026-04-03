@@ -1,4 +1,4 @@
-                                ARTICLE 2
+                               ARTICLE 2.
                           EMPLOYERS' LIABILITY.
 Section  2. Employers' liability for injuries.
          3. Notice to be served.
