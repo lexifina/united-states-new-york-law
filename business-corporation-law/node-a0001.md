@@ -1,5 +1,5 @@
                                 ARTICLE 1
-                 SHORT TITLE; DEFINITIONS; APPLICATIONS;
+                 SHORT TITLE; DEFINITIONS; APPLICATION;
                        CERTIFICATES, MISCELLANEOUS
 Section 101.   Short title.
         102.   Definitions.
