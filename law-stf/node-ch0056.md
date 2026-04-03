@@ -26,7 +26,7 @@ Article  I.     Short title (§ 1).
          VII-A. Citizen-taxpayer actions (§§ 123--123-j).
          VIII.  Fiscal supervision of certain institutions
                   (§§ 125-128).
-         IX.    Contracts (§§ 135-148).
+         IX.    Contracts (§§ 135-149).
          X.     Mortgages (§§ 150-159).
          XI.    State purchasing (§§ 160-168).
          XI-A.  Interest payments on certain amounts owed by state
