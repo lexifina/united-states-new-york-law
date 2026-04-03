@@ -2,3 +2,5 @@
                    DEPARTMENT OF ECONOMIC DEVELOPMENT
 Section 10. Department of economic development; commissioner.
         11. Investing in care.
+        12. Technical assistance to municipalities related to college
+              and university closures.
