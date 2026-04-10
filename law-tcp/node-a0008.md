@@ -1,5 +1,5 @@
-                                ARTICLE 8
-                      FREIGHT TERMINAL CORPORATIONS
+                               ARTICLE 8.
+                     FREIGHT TERMINAL CORPORATIONS.
 Section 100. Definition.
         101. Limitation of powers.
         102. Rates; discrimination; liability.
