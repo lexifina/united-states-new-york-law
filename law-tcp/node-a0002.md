@@ -1,5 +1,5 @@
-                                ARTICLE 2
-                      GAS AND ELECTRIC CORPORATIONS
+                               ARTICLE 2.
+                     GAS AND ELECTRIC CORPORATIONS.
 Section 10. Definitions.
         11. Powers.
         12. Gas and electricity must be supplied on application.

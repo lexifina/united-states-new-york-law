@@ -1,5 +1,5 @@
-                               ARTICLE 10
-                        SEWAGE-WORKS CORPORATIONS
+                               ARTICLE 10.
+                       SEWAGE-WORKS CORPORATIONS.
 Section 115. Definitions.
         116. Consent to incorporation.
         117. Approval by department of health.
