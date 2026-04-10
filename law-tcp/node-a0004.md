@@ -1,5 +1,5 @@
-                                ARTICLE 4
-                        WATER-WORKS CORPORATIONS
+                               ARTICLE 4.
+                        WATER-WORKS CORPORATIONS.
 Section 40. Definition.
         41. Municipal consent to incorporation.
         42. Duty to supply water; contracts with municipalities.

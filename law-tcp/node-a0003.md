@@ -1,5 +1,5 @@
-                                ARTICLE 3
-                  TELEGRAPH AND TELEPHONE CORPORATIONS
+                               ARTICLE 3.
+                  TELEGRAPH AND TELEPHONE CORPORATIONS.
 Section 25.   Definitions.
         26.   Extension of lines.
         27.   Construction of lines.

@@ -1,5 +1,5 @@
-                                ARTICLE 9
-                       DISTRICT STEAM CORPORATIONS
+                               ARTICLE 9.
+                      DISTRICT STEAM CORPORATIONS.
 Section 110. Definition.
         111. Municipal consent to use streets.
         112. Service to be furnished upon application.
