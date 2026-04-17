@@ -5,7 +5,7 @@ Section 40. Notice of injury or death.
         42. Reports of injuries, claims and proceedings.
         43. Determination of claims for benefits.
         44. Presumptions.
-        4   5. Modification of awards, decisions or orders.
+        45. Modification of awards, decisions or orders.
         46. Appeals.
         47. Costs and fees.
         48. Representation before the workers' compensation board.
