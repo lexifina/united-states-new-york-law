@@ -5,7 +5,7 @@
                 (a) Foreign country.
                 (b) Foreign country judgment.
         5302. Applicability.
-        5303. Recognition and enforcement.
+        5303. Recognition enforcement, and proceedings.
         5304. Grounds for non-recognition.
         5305. Personal jurisdiction.
         5306. Stay of a proceeding pending appeal of a foreign country
