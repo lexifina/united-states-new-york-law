@@ -1,7 +1,8 @@
                                 ARTICLE 7
                    LABOR IN CORRECTIONAL INSTITUTIONS
 Section 170. Contracts prohibited.
-        171. Inmates to be employed; products of labor of inmates.
+        171. Incarcerated individuals to be employed; products of labor
+               of incarcerated individuals.
         177. Labor of incarcerated individuals in state and local
                correctional facilities.
         178. Participation in work release and other community
