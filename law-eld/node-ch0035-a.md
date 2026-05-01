@@ -24,6 +24,8 @@ Section 201.   Office for the aging; director.
         213.   Reports.
         214.   Community services for the elderly.
         215.   Social model adult day services programs.
+        215-a. Senior vision services program.
+        215-b. Enriched social adult day services.
         216.   Advisory council to the recreation program for the
                  elderly created; functions, powers and duties.
         217.   Congregate services initiative for the elderly.
