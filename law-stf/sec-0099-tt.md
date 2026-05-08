@@ -1,4 +1,4 @@
-  * § 99-tt. Veterans' services fund. 1. There is hereby established in
+  § 99-tt. Veterans' services fund. 1. There is hereby established in
 the joint custody of the commissioner of taxation and finance, the
 commissioner of veterans' services, and the comptroller, a special fund
 to be known as the "veterans' services fund".
@@ -50,4 +50,3 @@ the comptroller on vouchers approved and certified by the commissioner
 of veterans' services. Any interest received by the comptroller on
 moneys on deposit in the veterans' services fund shall be retained in
 and become part of such fund.
-  * NB Effective May 4, 2026
