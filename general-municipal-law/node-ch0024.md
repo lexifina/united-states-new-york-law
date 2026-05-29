@@ -109,4 +109,6 @@ Article  1.      Short title; definitions (§§ 1-2).
         19-C     Cybersecurity incident reporting requirements for
                    municipal corporations and public authorities (§§
                    995-a--995-c).
+        19-D     Duties of municipal governments and their employees
+                   pertaining to immigration enforcement (§§ 996-996-a).
         20.      Laws repealed; when to take effect (§§ 1000-1001).
