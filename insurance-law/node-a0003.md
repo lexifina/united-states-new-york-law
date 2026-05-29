@@ -43,3 +43,4 @@ Section 301. Regulations by superintendent.
         344. Mental health and substance use disorder parity compliance
                programs.
         345. Health care claims reports.
+        346. Annual report on insurance for multi-family buildings.

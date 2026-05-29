@@ -64,6 +64,9 @@ Section 2301.   Purpose.
         2338.   Appeal from rate service organization action.
         2339.   Charging or receiving of rates; deviations.
         2340.   Credit property insurance.
+        2341.   Prohibition against the use of employment, education,
+                  homeownership, and zip code for private passenger
+                  motor vehicle insurance rates.
         2342.   Expiration of certain provisions.
         2343.   Medical malpractice insurance rates; special additional
                   provisions regarding such rates.
@@ -84,3 +87,4 @@ Section 2301.   Purpose.
         2353.   For-hire motor vehicle safety program; reduction in
                   rates of certain commercial risk insurance premiums
                   for motor vehicles.
+        2356.   Premium change explanations.

@@ -3,7 +3,7 @@
 ARTICLE   1. General provisions. (§§ 101-111-a)
           2. Organization of the department of financial services. (§§
                201-214)
-          3. Administrative and procedural provisions. (§§ 301-343)
+          3. Administrative and procedural provisions. (§§ 301-346)
           4. Insurance frauds prevention. (§§ 401-411)
           5. Certificates of insurance. (§§ 501-505)
          11. Licensing of insurers. (§§ 1101-1124*2)
@@ -19,7 +19,7 @@ ARTICLE   1. General provisions. (§§ 101-111-a)
                (§§ 2101-2140)
          22. Certification of employees of insurers and savings banks
                offering life insurance. (§§ 2201-2209)
-         23. Property/casualty insurance rates. (§§ 2301-2353)
+         23. Property/casualty insurance rates. (§§ 2301-2353, 2356)
          24. Unfair methods of competition and unfair and deceptive acts
                and practices. (§§ 2401-2409)
          25. Prohibitions against controlled business. (§§ 2502-2505)
