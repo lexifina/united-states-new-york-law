@@ -11,7 +11,7 @@ Assembly, do enact as follows:
 Article  1.   Short title (§§ 1--1-a).
          2.   Bill of rights (§§ 2-15).
          2-A. Equal rights to publicly-aided housing (§§ 18-a--19-b).
-         3.   Privilege from arrest (§§ 20-28).
+         3.   Privilege from arrest (§§ 20-29).
          4.   Equal rights in places of public accommodation and
                 amusement (§§ 40-45).
          4-B. Rights of persons with a disability accompanied by guide
@@ -27,6 +27,8 @@ Article  1.   Short title (§§ 1--1-a).
          8.   Causes of action for alienation of affections, criminal
                 conversation, seduction and breach of contract to marry
                 abolished (§§ 80-a--84).
+         8-A. New York state Bivens act (§§ 85-86).
          9.   Right to call police and emergency assistance/victim
                 protections (§§ 90-98).
-         10.  Laws repealed; when to take effect (§§ 100-101).
+         10.  Law enforcement face coverings (§§ 100-102).
+         15.  Laws repealed; when to take effect (§§ 100-101).
