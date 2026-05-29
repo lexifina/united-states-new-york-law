@@ -202,6 +202,7 @@ AN ACT relating to general business, constituting chapter twenty of the
          45.      Safe for kids act (§§ 1500-1508).
          45-A.    Warning labels for addictive feature platforms (§§
                     1520-1526).
+         45-B.    Safe by design act (§§ 1539-1547).
          46.      Laws repealed; when to take effect (§§ 1600-1601).
          47.      Artificial intelligence companion models (§§
                     1700-1704).

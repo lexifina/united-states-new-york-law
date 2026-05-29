@@ -117,6 +117,7 @@ Section 390.         Substitution of spurious oils for internal
         396-e.       Marking articles made of linen.
         396-ee.      Sale of certain weapons; locking devices therefor.
         396-eee.     Unlawful sale or delivery of body armor.
+        396-eeee.    Three-dimensional printers.
         396-f.       Sale of blind made products.
         396-g.       Sale of products processed by the blind.
         396-h.       Fraudulent sale of poppies, forget-me-nots,
