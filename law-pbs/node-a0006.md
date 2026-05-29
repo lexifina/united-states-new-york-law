@@ -21,7 +21,7 @@ Section 105.   Purposes of article.
         112-a. Appointment of temporary operator.
         113.   Reparations and refunds.
         114.   Temporary rates.
-        114-a. Rates not to include cost of legislative lobbying.
+        114-a. Costs not to be included in rates.
         115.   Public letting of contracts.
         116.   Discontinuance of water service to multiple dwellings.
         117.   Consumer deposits.
