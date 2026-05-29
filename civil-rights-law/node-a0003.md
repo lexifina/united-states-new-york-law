@@ -14,3 +14,4 @@ Section 20.   No imprisonment for non-payment of costs in certain cases.
         27.   Discharge of exempt witness.
         28.   Medical attention for persons under arrest.
         28*2. Civil arrest; certain locations.
+        29.   Sensitive locations.
