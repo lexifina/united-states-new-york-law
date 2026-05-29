@@ -11,6 +11,7 @@ Section 60.   Department of law.
         63-c. Action by the people for illegal receipt or disposition of
                 public funds or other property.
         63-d. Attorney-general; death penalty prosecutions.
+        63-e. Office of immigrant trust.
         64.   Costs recovered.
         65.   Register.
         66.   Destruction of certain records, books and other data by

@@ -17,6 +17,7 @@ Section 210.     Division of state police.
         214-h.   Extreme risk protection orders.
         214-h*2. Model law enforcement death notification policy.
         214-i.   Child-sensitive arrests.
+        214-j.   Critical incident policy.
         215.     Organization; salaries; qualifications; appointment;
                    term; rules and regulations.
         216.     Bureau of criminal investigation.
@@ -56,3 +57,4 @@ Section 210.     Division of state police.
         233.     Municipal gun buyback program.
         234.     New York state police body-worn cameras program.
         235.     Firearms safety training, and licensing appeals.
+        236.     Drones.

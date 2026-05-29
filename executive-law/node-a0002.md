@@ -8,7 +8,6 @@ Section 2.   Office and residence of governor.
         5.   Executive records.
         6.   Examination and inspection by the governor.
         7.   Limited operation of holiday.
-        8.   Registration of noncitizens.
         9.   Lease or loan of state property; temporary transfer of
                personnel.
         11.  Indian settlement agreements.
