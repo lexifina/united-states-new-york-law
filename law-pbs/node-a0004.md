@@ -46,8 +46,11 @@ Section 64.     Application of article.
         66-v.   Requirements for certain climate risk-related and energy
                   transition projects.
         66-w.   Finality of charges; small non-residential customers.
+        66-x.   Energy affordability index.
+        66-aa.  Interconnection reforms.
         67.     Inspection of gas and electric meters.
         67-a.   Charges for past services.
+        67-b.   Excelsior power program.
         68.     Certificate of public convenience and necessity.
         68-a.   Statements of nature and extent of interests to be filed
                   upon request.
