@@ -13,11 +13,11 @@ consist of the revenues heretofore and hereafter collected or required
 to be deposited pursuant to paragraph (a) of subdivision eighteen of
 section twenty-eight hundred seven-c, and sections twenty-eight hundred
 seven-j, twenty-eight hundred seven-s and twenty-eight hundred seven-t
-of the public health law, subdivision (b) of section four hundred
-eighty-two and section eleven hundred eighty-six of the tax law and
-required to be credited to the tobacco control and insurance initiatives
-pool, subparagraph (O) of paragraph four of subsection (j) of section
-four thousand three hundred one of the insurance law, section
+of the public health law, subdivisions (b) and (c) of section four
+hundred eighty-two and section eleven hundred eighty-six of the tax law
+and required to be credited to the tobacco control and insurance
+initiatives pool, subparagraph (O) of paragraph four of subsection (j)
+of section four thousand three hundred one of the insurance law, section
 twenty-seven of part A of chapter one of the laws of two thousand two
 and all other moneys credited or transferred thereto from any other fund
 or source pursuant to law.
@@ -29,10 +29,10 @@ twenty-eight hundred seven-c, and sections twenty-eight hundred seven-j,
 twenty-eight hundred seven-s and twenty-eight hundred seven-t of the
 public health law, and shall deposit such moneys in the HCRA resources
 fund. The comptroller shall deposit moneys collected or required to be
-deposited pursuant to subdivision (b) of section four hundred eighty-two
-of the tax law and required to be credited to the tobacco control and
-insurance initiatives pool, subparagraph (O) of paragraph four of
-subsection (j) of section four thousand three hundred one of the
+deposited pursuant to subdivisions (b) and (c) of section four hundred
+eighty-two of the tax law and required to be credited to the tobacco
+control and insurance initiatives pool, subparagraph (O) of paragraph
+four of subsection (j) of section four thousand three hundred one of the
 insurance law, section twenty-seven of part A of chapter one of the laws
 of two thousand two and all other moneys credited or transferred thereto
 from any other fund or source pursuant to law in the HCRA resources

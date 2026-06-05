@@ -219,10 +219,8 @@ Section 70.        Classification of funds.
         97-vvv.    Universal prekindergarten reserve fund.
         97-www.    Cuba lake management fund.
         97-www*2.  Quality child care and protection fund.
-        97-www*3.  Underground facilities safety training account.
-        97-www*4.  Consumer protection account.
-        97-www*5.  Percy T. Phillips educational foundation of the
-                     Dental Society of the state of New York fund.
+        97-www*3.  Consumer protection account.
+        97-www*4.  New York State Dental Foundation fund.
         97-xxx.    Additional mass transportation assistance fund.
         97-xxx*2.  Agriculture in the classroom fund.
         97-yyy.    Children and family services quality enhancement
