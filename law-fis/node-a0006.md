@@ -9,3 +9,4 @@ Section 601. Dispute resolution process established.
                services and surprise bills.
         607. Dispute resolution for surprise bills.
         608. Payment for independent dispute resolution entity.
+        609. Reporting on new criteria for determining a reasonable fee.
