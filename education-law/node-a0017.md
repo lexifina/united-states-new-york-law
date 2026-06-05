@@ -47,3 +47,4 @@ Section 801.   Courses of instruction in patriotism and citizenship and
         817*2. Student government.
         818.   Evidence-based and scientifically based reading
                  instruction.
+        819.   Evidence-based mathematics instruction.
