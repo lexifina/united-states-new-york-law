@@ -8,4 +8,4 @@ established for such assessment roll, such rate shall be applied, and
 eighteen hundred one of this chapter, the equalization rate to be
 applied shall be the applicable class equalization rate used on such
 assessment roll.
-  * NB Repealed January 1, 2027
+  * NB Repealed January 1, 2031
