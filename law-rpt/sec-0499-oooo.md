@@ -32,4 +32,4 @@ the assessment ceiling. The provisions of section five hundred twelve of
 this chapter shall apply so far as may be practicable to a hearing under
 this section. Nothing contained in this subdivision shall be construed
 to require a hearing to be conducted when no complaints have been filed.
-  * NB Repealed January 1, 2027
+  * NB Repealed January 1, 2031
