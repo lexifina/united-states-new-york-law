@@ -11,7 +11,7 @@ The People of the State of New York, represented in Senate and Assembly,
           2.    Governor (§§ 2-12).
           2-A.  Reprieves, commutations and pardons (§§ 15-19).
           2-B.  State  and   local   natural   and   man-made   disaster
-                  preparedness (§§ 20--29-j).
+                  preparedness (§§ 20--29-l).
           3.    Executive department (§§ 30-32).
           4.    Department of audit and control (§§ 40-50).
           4-A.  Office of the state inspector general (§§ 51-55).

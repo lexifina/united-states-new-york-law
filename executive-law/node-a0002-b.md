@@ -27,3 +27,5 @@ Section 20.   Natural and man-made disasters; policy; definitions.
         29-h. Intrastate mutual aid program.
         29-i. Immunity from liability for emergency alerts.
         29-j. Acceptance of gifts.
+        29-k. Northern emergency management assistance compact.
+        29-l. International Emergency Management Assistance Compact.
