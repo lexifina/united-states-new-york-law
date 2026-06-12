@@ -78,7 +78,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        31.    New York professional employer act. (§§ 915-924)
        32.    Licensing of mold inspection, assessment and remediation
                 specialists and minimum work standards. (§§ 930-948)
-       33.    Elevators and other conveyances; licensing. (§§ 950-958)
+       33.    Elevators and other conveyances; licensing. (§§ 950-957)
        34.    Certification of public service employment. (§§ 1000-1002)
        35.    New York youth jobs connector program. (§§ 1005-1008)
        36.    New York state fashion workers act. (§§ 1030-1039)
