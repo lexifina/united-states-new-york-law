@@ -300,6 +300,61 @@ and all that portion of the local highway system known as Prink Hill
 Lane in the town of Durham, Greene County, beginning at the intersection
 of Cochrane Road continuing northerly to the intersection of county road
 twenty.
+  (j-15) Harriet Tubman Underground Railroad scenic byway which shall
+consist of the portion of the highway system beginning on state route
+five at the city limits of Auburn, Cayuga county, to its intersection
+with state route thirty-eight then continuing northerly on state route
+thirty-eight to the city limits of Auburn; and also all that portion of
+the highway system beginning on state route five at the Seneca county
+line in the town of Tyre, continuing westerly on state route five to its
+intersection with Lake street in the city of Geneva, Ontario county,
+continuing westerly on Lake street to its intersection with state route
+fourteen in the city of Geneva, Ontario county, continuing northerly
+along state route fourteen to its intersection with state route
+thirty-one in the town of Lyons, Wayne county, continuing westerly on
+state route thirty-one until its intersection with Chestnut street south
+in the city of Rochester, Monroe county, continuing northerly on
+Chestnut street south to its intersection with Broad street east in the
+city of Rochester, Monroe county, continuing westerly on Broad street
+east to its intersection with state route thirty-one in the city of
+Rochester, Monroe county, continuing westerly on state route thirty-one
+in the city of Rochester, Monroe county to its intersection with East
+avenue in the city of Lockport, Niagara county, continuing westerly on
+East avenue in the city of Lockport, Niagara county to Main street,
+continuing westerly on Main street in the city of Lockport, Niagara
+county to its intersection with West Main street in the city of
+Lockport, Niagara county, continuing on West Main street to its
+intersection with state route seventy-eight in the city of Lockport,
+Niagara county, continuing southerly on state route seventy-eight to its
+intersection with state route two hundred sixty-three in the town of
+Amherst, Erie county, continuing southerly along state route two hundred
+sixty-three to its intersection with United States route sixty-two in
+the town of Amherst, Erie county, continuing southerly along United
+States route sixty-two to its intersection with state route five in the
+town of Amherst, Erie county, continuing westerly on state route five to
+its intersection with Michigan avenue in the city of Buffalo, Erie
+county, continuing southerly on Michigan avenue to its intersection with
+Broadway in the city of Buffalo, Erie county, continuing westerly on
+Broadway to its intersection with Lafayette square in the city of
+Buffalo, Erie county, continuing westerly on Lafayette square to its
+intersection with Court street in the city of Buffalo, Erie county,
+continuing westerly on Court street to its intersection with Niagara
+square in the city of Buffalo, Erie county, continuing northerly on
+Niagara square to its intersection with state route three hundred
+eighty-four in the city of Buffalo, Erie county, continuing northerly on
+state route three hundred eighty-four to its intersection with state
+route two hundred sixty-five in the city of Niagara Falls, Niagara
+county, continuing northerly on state route two hundred sixty-five to
+its intersection with state route three hundred eighty-four in the city
+of Niagara Falls, Niagara county, continuing westerly on state route
+three hundred eighty-four to its intersection with Niagara street in the
+city of Niagara Falls, Niagara county, continuing westerly along Niagara
+street until its intersection with Third street in the city of Niagara
+Falls, Niagara county, continuing northerly on Third street until its
+intersection with Whirlpool street in the city of Niagara Falls, Niagara
+county, and continuing northerly along Whirlpool street to its
+intersection with Depot avenue west in the city of Niagara Falls,
+Niagara county.
   (k) highways designated as scenic roads pursuant to article forty-nine
 of the environmental conservation law;
   (l) parkways as listed in the regulations of the commissioner of the
