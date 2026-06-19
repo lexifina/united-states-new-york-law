@@ -94,6 +94,8 @@ Article     1. General purposes (§§ 1.00-1.05).
                  (§§ 270.00-270.40).
           275. Offenses relating to unauthorized recording of sound
                  (§§ 275.00-275.45).
+          280. Offenses relating to unlawful use of a drone
+                 (§§ 280.00-280.10).
           400. Licensing and other provisions relating to firearms
                  (§§ 400.00-400.30).
           405. Licensing and other provisions relating to fireworks
