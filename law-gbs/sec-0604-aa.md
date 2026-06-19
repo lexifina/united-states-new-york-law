@@ -1,4 +1,4 @@
-  * § 604-aa. Definitions. As used in this article, the following terms
+  § 604-aa. Definitions. As used in this article, the following terms
 shall have the following meanings:
   1. "Action" means any civil judicial proceeding as defined in section
 one hundred five of the civil practice law and rules.
@@ -73,4 +73,3 @@ provides services to persons regarding domestic violence, family
 violence, human trafficking, or abuse of children, the elderly, or
 dependent adults; or (e) member of the clergy of a church or religious
 society or denomination.
-  * NB Effective June 17, 2026
