@@ -1,4 +1,4 @@
-  * § 604-cc. Coerced debt cause of action and affirmative defense. 1. A
+  § 604-cc. Coerced debt cause of action and affirmative defense. 1. A
 debtor shall have a cause of action against a creditor in any court
 having jurisdiction to issue a declaratory judgment establishing that a
 debt or portion of a debt asserted to be owed to such creditor is a
@@ -75,4 +75,3 @@ entity other than the coerced debtor.
   8. Collection activities, for the purpose of this section, do not
 include any communication between a creditor or debtor that is required
 by state or federal law or regulation.
-  * NB Effective June 17, 2026

@@ -1,4 +1,4 @@
-  * § 604-ee. Right of action against person who causes another to incur
+  § 604-ee. Right of action against person who causes another to incur
 coerced debt. A person shall not cause another person to incur a coerced
 debt. 1. A person who causes another person to incur a coerced debt in
 violation of this section shall be civilly liable to the creditor and/or
@@ -13,4 +13,3 @@ fees reasonably incurred in bringing the action.
 of the later of: (a) the creditor's determination that all or part of
 such debt is coerced debt; or (b) a court's determination that all or
 part of such debt is coerced debt.
-  * NB Effective June 17, 2026

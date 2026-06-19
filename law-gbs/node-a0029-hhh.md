@@ -1,4 +1,4 @@
-                            * ARTICLE 29-HHH
+                             ARTICLE 29-HHH
                      ACTIONS INVOLVING COERCED DEBTS
 Section 604-aa. Definitions.
         604-bb. Notice of coerced debt.
@@ -8,4 +8,3 @@ Section 604-aa. Definitions.
                   incur coerced debt.
         604-ff. Attorney general enforcement.
         604-gg. Scope.
-  * NB Effective June 17, 2026

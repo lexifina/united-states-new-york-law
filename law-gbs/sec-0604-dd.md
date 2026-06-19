@@ -1,4 +1,4 @@
-  * § 604-dd. Application to secured debt. 1. Except with respect to
+  § 604-dd. Application to secured debt. 1. Except with respect to
 section six hundred four-ee of this article, this article shall not
 apply to debts secured by real property.
   2. Section six hundred four-bb of this article and the cause of action
@@ -14,4 +14,3 @@ obtaining a court order to retake the subject personal property. The
 affirmative defense shall affect only the coerced debtor's liability for
 any deficiency after the repossession or surrender and disposition of
 the subject collateral.
-  * NB Effective June 17, 2026

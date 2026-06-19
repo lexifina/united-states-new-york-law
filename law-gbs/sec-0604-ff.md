@@ -1,4 +1,4 @@
-  * § 604-ff. Attorney general enforcement. Whenever there shall be a
+  § 604-ff. Attorney general enforcement. Whenever there shall be a
 violation of this article, an application may be made by the attorney
 general in the name of the people of the state of New York to a court or
 justice having jurisdiction to issue an injunction, and upon notice to
@@ -18,4 +18,3 @@ determine that a violation of this article has occurred, unless the
 creditor has provided information that would otherwise show the
 violation was the result of bona fide error, the court may impose a
 civil penalty for each violation up to five thousand dollars.
-  * NB Effective June 17, 2026

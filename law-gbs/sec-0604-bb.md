@@ -1,4 +1,4 @@
-  * § 604-bb. Notice of coerced debt. 1. Within ten business days of
+  § 604-bb. Notice of coerced debt. 1. Within ten business days of
 receipt of the following, a creditor shall cease collection activities
 until completion of the review under subdivision three of this section:
   (a) adequate documentation of coerced debt; and
@@ -149,4 +149,3 @@ and reasonable attorneys' fees incurred in bringing such action.
   (b) Collection activities, for the purposes of this section, do not
 include any communication between a creditor or debtor that is required
 by state or federal law or regulation.
-  * NB Effective June 17, 2026
