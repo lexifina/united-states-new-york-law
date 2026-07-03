@@ -50,7 +50,6 @@ Article 1.    Short title; definitions. (§§ 1-4)
        21-A.  Warehouse worker protection act. (§§ 780-789)
        21-B.  Protection of call center workers from displacement.
                 (§§ 790-793).
-       21-C.  Tower technician protections (§§ 795--795-b).
        22.    Boards of inquiry in labor disputes. (§§ 800-805)
        22-A.  Injunctions in labor disputes. (§§ 807-808)
        23.    Apprenticeship training. (§§ 810-819)
