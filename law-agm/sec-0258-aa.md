@@ -1,11 +1,11 @@
-  * § 258-aa. Dairy promotion act. 1. Declaration of policy. It is
-hereby declared that the dairy industry is a paramount agricultural
-industry of this state, and is an industry affecting the health and
-welfare of the inhabitants of the state; that the continued existence of
-the dairy industry and the continued production of milk on the farms of
-this state is of vast economic importance to the state and to the health
-and welfare of the inhabitants thereof; that it is essential, in order
-to assure such continued production of milk and its handling and
+  § 258-aa. Dairy promotion act. 1. Declaration of policy. It is hereby
+declared that the dairy industry is a paramount agricultural industry of
+this state, and is an industry affecting the health and welfare of the
+inhabitants of the state; that the continued existence of the dairy
+industry and the continued production of milk on the farms of this state
+is of vast economic importance to the state and to the health and
+welfare of the inhabitants thereof; that it is essential, in order to
+assure such continued production of milk and its handling and
 distribution, that prices to producers be such as to return reasonable
 costs of production, and at the same time assure an adequate supply of
 milk and dairy products to consumers at reasonable prices; and to these
@@ -285,4 +285,3 @@ being compelled to allege or prove that an adequate remedy at law does
 not exist. Such application shall be made to the supreme court in any
 district or county provided in the civil practice law or rules, or to
 the supreme court in the third judicial district.
-  * NB Effective July 1, 2026
