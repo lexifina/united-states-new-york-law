@@ -11,7 +11,7 @@ the tax liability for the eligible building in the tax year in which the
 tax abatement is taken.
   (b) The total amount of such tax abatement commencing on or after July
 first, two thousand fourteen and ending on or before June thirtieth, two
-thousand twenty-seven, shall be ten dollars per square foot of a green
+thousand thirty-one, shall be ten dollars per square foot of a green
 roof pursuant to an approved application for tax abatement; provided,
 however, that the amount of such tax abatement shall not exceed two
 hundred thousand dollars. To the extent the amount of such tax abatement
@@ -26,7 +26,7 @@ New York pursuant to subdivision five of this section, shall receive an
 enhanced tax abatement for any green roof. The total amount of such
 enhanced tax abatement commencing on or after July first, two thousand
 nineteen and ending on or before June thirtieth, two thousand
-twenty-seven, shall be fifteen dollars per square foot of a green roof
+thirty-one, shall be fifteen dollars per square foot of a green roof
 pursuant to an approved application for enhanced tax abatement:
 provided, however, that the amount of such enhanced tax abatement shall
 not exceed two hundred thousand dollars. To the extent the amount of
@@ -42,9 +42,9 @@ June thirtieth, two thousand fifteen shall be a maximum of seven hundred
 fifty thousand dollars, and the aggregate amount of tax abatements
 allowed under this subdivision for any tax year commencing on or after
 July first, two thousand fifteen and ending on or before June thirtieth,
-two thousand twenty-seven shall be a maximum of four million dollars. No
+two thousand thirty-one shall be a maximum of four million dollars. No
 tax abatements shall be allowed under this subdivision for any tax year
-commencing on or after July first, two thousand twenty-seven.
+commencing on or after July first, two thousand thirty-one.
   (e) Such aggregate amount of tax abatements including enhanced tax
 abatements, shall be allocated by the department of finance on a first
 come first serve basis among applicants whose applications have been

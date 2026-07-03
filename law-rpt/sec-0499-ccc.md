@@ -1,7 +1,7 @@
   § 499-ccc. Application for tax abatement. 1. To obtain a tax abatement
 pursuant to this title, an applicant must file an application for tax
 abatement, which may be filed on or after January first, two thousand
-nine, and on or before March fifteenth, two thousand twenty-six.
+nine, and on or before March fifteenth, two thousand thirty.
   2. Such application shall be filed with a designated agency no later
 than the March fifteenth before the tax year, beginning July first, for
 which the tax abatement is sought.
