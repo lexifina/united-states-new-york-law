@@ -38,8 +38,8 @@ Article
             (§§ 15.01-15.13)
    17.    Outdoor recreation development bond act (§§ 17.01-17.11)
    19.    Historic sites (§§ 19.01-19.11)
-   19-A.  Title to property held by the office of parks, recreation and
-            historic preservation (§§ 19.13-19.29)
+   19-A.  Property held by the office of parks, recreation and historic
+            preservation (§§ 19.13-19.29)
    20.    New York State park preserve system (§§ 20.01-20.03)
                                        TITLE D
                                      SNOWMOBILES
