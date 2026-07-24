@@ -31,5 +31,5 @@ Article  1.   Short   title;   construction;  applicability  of  certain
         18-A. Specifications   of   liability    for    employers    and
                 employees. (§ 18-201.)
         18-B. Safety in agricultural tourism. (§§ 18-301--18-303.)
-        18-C  Libor discontinuance. (§§ 18-400--18-403)
+        18-C. LIBOR discontinuance. (§§ 18-400--18-403.)
         19.   Laws repealed; effective date. (§§ 19-101--19-103.)
