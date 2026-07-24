@@ -16,7 +16,7 @@ Title  1.   Definitions of terms.
       14.   Enforceability of clauses respecting choice of law and
               choice of forum in certain transactions.
       15.   Statutory short form and other powers of attorney for
-              financial estate planning.
+              financial and estate planning
       15-A. Designation of person in parental relation.
       16.   Continuity of contract.
       17.   Structured settlement protection act.
