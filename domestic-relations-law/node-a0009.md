@@ -4,8 +4,8 @@ Section 140. Action  for judgment declaring nullity of void marriages or
                annulling voidable marriage.
              (a) Former husband or wife living.
              (b) Party under age of consent.
-             (c) Party  a  mentally  retarded  person  or  mentally  ill
-                   person.
+             (c) Party a person with a developmental illness  or  person
+                   with a mental illness.
              (d) Physical incapacity.
              (e) Consent by force, duress or fraud.
              (f) Incurable mental illness for five years.
