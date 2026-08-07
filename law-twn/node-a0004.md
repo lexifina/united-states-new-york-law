@@ -27,6 +27,7 @@ Section 60.     Town board constituted.
         64-l.   Town of Chester preservation funds.
         64-l*2. Town of Orangetown preservation funds.
         64-l*3. Town of Copake preservation funds.
+        64-m.   Town of Clarkstown preservation funds.
         65.     Actions and proceedings by and against towns.
         65-a.   Liability of towns and town superintendents of highways
                   in certain actions.
