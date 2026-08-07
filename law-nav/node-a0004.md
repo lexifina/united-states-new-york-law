@@ -80,7 +80,7 @@ Section 50.   Owners to notify inspector and apply for inspection.
                    PART 2-A--PETROLEUM-BEARING VESSELS
 Section 70.   Minimum conditions for petroleum-bearing vessels in
                 certain areas; tanker-avoidance zones.
-        70-a. Minimum conditions for petroleum-bearing vessesl on the
+        70-a. Minimum conditions for petroleum-bearing vessels on the
                 Hudson river; tanker-avoidance zones.
         71.   Petroleum-bearing vessel advisory commission.
                         PART 3--PLEASURE VESSELS
