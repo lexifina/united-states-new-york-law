@@ -254,6 +254,8 @@ Section 340-a.     Designation of state interstate routes.
         343-e.     Portion of state highway system in the county of
                      Rockland to be designated as the "Vietnam Veterans
                      Memorial Highway".
+        343-ee.    Portion of the state highway system to be dedicated
+                     to Clara H. Barton.
         343-f.     Portion of the state highway system to be designated
                      as "The Norman J. Levy Memorial Highway".
         343-f*2.   Portion of state highway system in the county of
@@ -971,13 +973,30 @@ Section 340-a.     Designation of state interstate routes.
         344-r*9.   Portion of the state highway system to be dedicated
                      to John F. McArdle.
         344-r*10.  Portion of the state highway system to be dedicated
-                     to Detective Thomas Inman.
+                     to Detective Thomas M. Inman.
         344-r*11.  Portion of the state highway system in Oneida county
                      to be dedicated to Officer Michael E. Jensen.
         344-r*12.  Portion of the state highway system to be dedicated
                      to Trooper James M. MacLarnon.
         344-s.     Portion of the state highway system to be dedicated
                      to Lt. Gary A. Scott.
+        344-s*2.   Portion of the state highway system to be dedicated
+                     to Port Authority Police Officer Arthur M. Ansert
+                     Jr.
+        344-s*3.   Portion of the state highway system to be dedicated
+                     to Assembly Member Bobby D'Andrea.
+        344-s*4.   Portion of the state highway system to be dedicated
+                     to Nathaniel Reynolds.
+        344-s*5.   Portion of the state highway system to be dedicated
+                     to War Dogs.
+        344-s*6.   Portion of the state highway system to be dedicated
+                     to Police Officer Frederick G. Maley.
+        344-s*7.   Portion of the state highway system to be dedicated
+                     to PFC Travis C. Krege.
+        344-s*8.   Portion of the state highway system to be dedicated
+                     to Patrick LaFortune Jr.
+        344-s*9.   Portion of the state highway system to be dedicated
+                     to Trooper Gerard B. Kane.
         345-a.     Abandonment and transfer of state highways.
         345-b.     Portion of the state highway system to be designated
                      as the "Doc Schelin Memorial Highway".
@@ -1000,3 +1019,17 @@ Section 340-a.     Designation of state interstate routes.
                      to Major Andrew D. Byers.
         345-d*4.   Portion of the state highway system to be dedicated
                      to Jack Barletta.
+        345-e.     Portion of the state highway system to be dedicated
+                     to East Fishkill veterans.
+        345-e*2.   Portion of the state highway system to be dedicated
+                     to Jomani Wright.
+        345-e*3.   Portion of the state highway system to be dedicated
+                     to Robert Bornt.
+        345-e*4.   Portion of the state highway system to be dedicated
+                     to Officer Stephen L. Raymond.
+        345-e*5.   Portion of the state highway system to be dedicated
+                     to Sergeant Gregory L. Wahl.
+        345-e*6.   Portion of the state highway system to be dedicated
+                     as the Donald Roy McAnn Memorial Highway.
+        345-e*7.   Portion of the state highway system to be dedicated
+                     to Detective Stephen J. Mullen.

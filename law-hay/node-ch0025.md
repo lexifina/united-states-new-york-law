@@ -18,7 +18,7 @@ Article       I.   Short title and definitions (§§ 1-3).
              IX.   Bridges (§§ 230-255).
               X.   Finances (§§ 260-292).
              XI.   Miscellaneous provisions (§§ 300-332).
-            XII.   State routes (§§ 340-a--345-d).
+            XII.   State routes (§§ 340-a--345-e).
             XII-A. State thruways (§§ 346--349-a).
             XII-B. State arterial highways passing through cities
                      (§§ 349-b--349-g).
