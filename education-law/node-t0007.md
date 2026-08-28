@@ -1,5 +1,5 @@
                                 TITLE VII
-       STATE AND CITY COLLEGES AND INSTITUTIONS-CORNELL UNIVERSITY
+      STATE AND CITY COLLEGES AND INSTITUTIONS--CORNELL UNIVERSITY
 Article 115    Cornell University (§§ 5701-5716).
         119    New York State Legislative Institute (§§ 5901-5905).
         121    State University of New York College of Environmental

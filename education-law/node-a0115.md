@@ -1,5 +1,5 @@
                                ARTICLE 115
-                           Cornell University
+                           CORNELL UNIVERSITY
 Section 5701. Cornell university continued.
         5702. Objects and powers of the corporation.
         5703. Trustees.

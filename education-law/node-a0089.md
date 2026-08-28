@@ -6,7 +6,7 @@ Section 4401.   Definitions.
         4402.   Duties of school districts.
         4403.   Duties of education department.
         4404.   Appeal procedures for children with disabilities.
-        4404-a. Meditation program for students with disabilities.
+        4404-a. Mediation program for students with disabilities.
         4405.   Computing financial responsibility for special
                   educational services for certain children with
                   disabilities.
