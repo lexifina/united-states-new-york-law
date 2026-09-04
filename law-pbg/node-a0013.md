@@ -92,8 +92,8 @@ Title  1.     New York City Housing Authority (§§ 400--402-h).
        92.    Village of South Nyack Housing Authority (§ 495).
        93.    Town of Harrietstown Housing Authority (§ 496).
        94.    Village of Tupper Lake Housing Authority (§ 497).
-       94*.   Village of Gouverneur Housing Authority (§ 497*).
-       94**.  Village of Waddington Housing Authority (§ 497**).
+       94*.   Village of Gouverneur Housing Authority (§ 497*2).
+       94**.  Village of Waddington Housing Authority (§ 497*3).
        95.    Town of Albion Housing Authority (§ 498).
        96.    Town of Ramapo Housing Authority (§ 499).
        97.    City of Oneonta Housing Authority (§ 500).
@@ -111,7 +111,7 @@ Title  1.     New York City Housing Authority (§§ 400--402-h).
        104-C. Village of Clayton Housing Authority (§ 509-a).
        104-D. Village of Le Roy Housing Authority (§ 509-d).
        104-E. Village of Painted Post Housing Authority (§ 509-c).
-       104-F. Town of Erwin Housing Authority (§ 509-d*).
+       104-F. Town of Erwin Housing Authority (§ 509-d*2).
        105.   Village of Ellenville Housing Authority (§ 510).
        106.   Newark Housing Authority (§ 511).
        107.   Village of Warwick Housing Authority (§ 512).
@@ -134,12 +134,12 @@ Title  1.     New York City Housing Authority (§§ 400--402-h).
        125.   Village of Island Park Housing Authority (§ 530).
        126.   Village of Montour Falls Housing Authority (§ 531).
        127.   Village of Chittenango Housing Authority (§ 532).
-       127*.  Town of Norfolk Housing Authority (§ 532*).
+       127*.  Town of Norfolk Housing Authority (§ 532*2).
        128.   Town of Hoosick Housing Authority (§ 533).
        128*.  Town of Wheatfield Housing Authority (§ 533*).
        129.   Fredonia Housing Authority (§ 534).
        130.   Town of Warwick Housing Authority (§ 535).
-       130*.  Village of North Syracuse Housing Authority (§ 535*).
+       130*.  Village of North Syracuse Housing Authority (§ 535*2).
        132.   Canajoharie Housing Authority (§ 537).
        133.   Town of DeKalb Housing Authority (§ 538).
        134.   Town of Hermon Housing Authority (§ 539).
@@ -161,7 +161,7 @@ Title  1.     New York City Housing Authority (§§ 400--402-h).
        147.   Village of Watkins Glen Housing Authority (§ 552).
        148.   Village of Horseheads Housing Authority (§ 553).
        150.   Village of Great Neck Housing Authority (§ 555).
-       150*.  Village of New Square Housing Authority (§ 555*).
+       150*.  Village of New Square Housing Authority (§ 555*2).
        151.   Village of Frankfort Housing Authority (§ 556).
        152.   Village of Solvay Housing Authority (§ 557).
        153.   Town of Fowler Housing Authority (§ 558).
@@ -174,11 +174,11 @@ Title  1.     New York City Housing Authority (§§ 400--402-h).
        160.   Town of Lisbon Housing Authority (§ 565).
        161.   Town of Union Housing Authority (§ 566).
        162.   Village of Jordan Housing Authority (§ 567).
-       162*.  Village of Liverpool Housing Authority (§ 567*)
+       162*.  Village of Liverpool Housing Authority (§ 567*2)
        163.   Town of Goshen Housing Authority (§ 568).
-       163*.  Village of Kaser Housing Authority (§ 568*).
+       163*.  Village of Kaser Housing Authority (§ 568*2).
        164.   Town of Mamaroneck Housing Authority (§ 569).
-       164*.  Town of Tully Housing Authority (§ 569*).
+       164*.  Town of Tully Housing Authority (§ 569*2).
        165.   Village of Scotia Housing Authority (§ 570).
        166.   Town of Patterson Housing Authority (§ 571).
        167.   Town of Allegany Housing Authority (§ 572).
