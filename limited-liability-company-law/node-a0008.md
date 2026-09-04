@@ -10,4 +10,3 @@ Section 801.   Governing law.
         807.   Termination of existence.
         808.   Doing business without certificate of authority.
         809.   Action by attorney general.
-        810.   Beneficial ownership disclosure.
