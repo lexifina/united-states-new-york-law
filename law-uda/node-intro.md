@@ -72,7 +72,6 @@ Section   1.       Short title.
                      program.
           16-gg.   Small business seed funding grant program.
           16-gg*2. Division of Broadband Access.
-          16-hh.   Small business and entrepreneurs grant program.
           16-ii.   Empire AI consortium reports.
           17.      Bonds and notes of the corporation.
           18.      Bond authorization.
