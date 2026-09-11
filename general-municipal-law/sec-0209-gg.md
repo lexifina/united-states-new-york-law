@@ -1,0 +1,8 @@
+  § 209-gg. Symbols of hate. 1. A fire district, volunteer fire company,
+or police department shall not sell or display any symbols of hate or
+any similar image, or tangible personal property, inscribed with such an
+image unless the image appears in a book, digital medium, museum, or
+otherwise serves an educational or historical purpose.
+  2. For the purposes of this section, the term "symbols of hate" shall
+include, but not be limited to, symbols of white supremacy, neo-Nazi
+ideology or the Battle Flag of the Confederacy.
