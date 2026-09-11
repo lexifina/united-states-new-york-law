@@ -63,6 +63,7 @@ Section 200.   General duty to protect health and safety of employees;
         209-a. Fraudulent representation in labor organizations.
         210.   Proceedings for nonenforcement.
         210-a. Legal duty to employees.
+        210-b. Access to personnel records.
         211.   Protection of employees.
         211-a. Prohibition against use of funds.
         212.   Drinking water for farm laborers.

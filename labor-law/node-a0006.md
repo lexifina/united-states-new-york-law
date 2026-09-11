@@ -17,6 +17,7 @@ Section 190.   Definitions.
         196-a. Complaints by employees to commissioner.
         196-b. Sick leave requirements.
         196-d. Gratuities.
+        196-e. Construction industry reporting pay provisions.
         197.   Civil penalty.
         198.   Costs, remedies.
         198-a. Criminal penalties.

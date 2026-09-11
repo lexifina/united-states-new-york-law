@@ -35,3 +35,4 @@ Section 220.     Hours, wages and supplements.
         224-f.   Wage requirements for certain climate risk-related and
                    energy transition projects.
         224-f*2. Workers on excavations.
+        224-g.   Wage requirements for reporting and scheduling pay.
