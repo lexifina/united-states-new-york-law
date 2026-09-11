@@ -23,3 +23,5 @@ Section 200.   Statement of policy.
         214.   Management and confidential employees; membership and
                  office in employee organizations.
         215.   Dues or agency shop fee deductions.
+        216.   Falsely impersonating an employee organization or
+                 employee organization representative.
