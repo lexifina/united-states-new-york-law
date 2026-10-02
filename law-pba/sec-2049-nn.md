@@ -1,0 +1,35 @@
+  § 2049-nn. Exemption from taxes, assessments and certain fees. 1. It
+is hereby determined that the creation of the authority and the carrying
+out of its corporate purposes is in all respects for the benefit of the
+people of the counties and the state and is a public purpose and the
+authority shall be regarded as performing a governmental function in the
+exercise of the powers conferred upon it by this title and shall not be
+required to pay any taxes or assessments upon any property owned by it
+or under its jurisdiction, control or supervision or upon its
+activities, income and operations, or any filing, recording or transfer
+fees or taxes in relation to instruments filed, recorded or transferred
+by it or on its behalf provided, however, that the authority shall
+annually pay a sum in lieu of taxes to each of the municipalities in
+which any real property owned by or under its jurisdiction, control or
+supervision of the authority are located in an amount equal to the taxes
+and assessments which would have been levied upon such real property in
+an unimproved state had such real property been owned by a person whose
+real property is subject to taxation. The construction, use, occupation
+or possession of any property owned by the authority or the counties,
+including improvements thereon, by any person or public corporation
+under a lease, lease and sublease or any other agreement shall not
+operate to abrogate or limit the foregoing exemption, notwithstanding
+that the lessee, user, occupant or person in possession shall claim
+ownership for federal income tax purposes. Mortgages made or financed,
+directly or indirectly, by the authority shall be exempt from the
+mortgage recording taxes imposed by article eleven of the tax law.
+  2. Any bonds issued pursuant to this title together with the income
+therefrom as well as the property of the authority shall be exempt from
+taxes, except for transfer, and estate and gift taxes. The state hereby
+covenants with the purchasers and with all subsequent holders and
+transferees of bonds issued by the authority pursuant to this title, in
+consideration of the acceptance of any payment for the bonds, that the
+bonds of the authority issued pursuant to this title and the income
+therefrom and all revenues, moneys, and other property pledged to secure
+the payment of such bonds shall at all times be free from taxation,
+except for transfer, and estate and gift taxes.

@@ -1,0 +1,67 @@
+  § 2799-ggg. General powers of the authority. Except as otherwise
+limited by this title, the authority shall have power:
+  1. to sue and be sued;
+  2. to have a seal and alter the same at pleasure;
+  3. to borrow money and issue bonds for any of its corporate purposes
+or its projects and to provide for the rights of the holders thereof;
+  4. to make and alter by-laws for its organization and management, and,
+subject to agreements with its bondholders, to make and alter rules and
+regulations governing the exercise of its powers and the fulfillment of
+its purposes under this title;
+  5. to acquire by purchase, grant, lease, gift, condemnation pursuant
+to the provisions of the eminent domain procedure law with the approval
+of the city, or otherwise and to hold and use property and facilities
+necessary, convenient or desirable to carry out its corporate purposes,
+and to sell, convey, mortgage, lease, pledge, exchange or otherwise
+dispose of any such property and facilities;
+  6. to acquire, construct, reconstruct, lease, expand, improve,
+maintain, equip, furnish, operate one or more projects and, if
+necessary, to pay or finance the cost thereof;
+  7. to apply for and to accept gifts, grants, loans, or contributions
+of funds or property or financial or other aid in any form from, and
+enter into contracts or other transactions with, the federal government,
+the state or any public corporation or any other source, and to use any
+such gifts, grants, loans or contributions for any of its corporate
+purposes;
+  8. to grant options to renew any lease with respect to any project or
+projects and to grant options to buy any project;
+  9. to designate the depositories of its money;
+  10. to establish its fiscal year;
+  11. to enter into contracts, agreements and leases with the federal
+government, the state, the county, the city, any person or other public
+corporation and to execute all instruments necessary or convenient to
+accomplishing its corporate purposes;
+  12. to appoint such officers, employees and agents as the authority
+may require for the performance of its duties, and to fix and determine
+their qualifications, duties, and compensation subject to the provisions
+of the civil service law and any applicable collective bargaining
+agreement, and to retain or employ counsel, auditors, engineers and
+private consultants on a contract basis or otherwise for rendering
+professional, management or technical services and advice; which
+positions, with the exception of all police positions, shall be in the
+exempt class of civil service;
+  13. with the consent of the mayor to use employees, agents,
+consultants and facilities of the city, paying the city its agreed
+proportion of the compensation or costs;
+  14. to make plans, surveys, and studies necessary, convenient or
+desirable to the effectuation of the purposes and powers of the
+authority and to prepare recommendations in regard thereto;
+  15. to enter upon such lands, waters or premises as in the judgment of
+the authority may be necessary, convenient or desirable for the purpose
+of making surveys, soundings, borings and examinations to accomplish any
+purpose authorized by this title, the authority being liable for actual
+damage done;
+  16. the authority may covenant and consent that the interest on any of
+its bonds or notes issued pursuant to this title shall be includible,
+under the United States Internal Revenue Code of 1986, or any subsequent
+corresponding internal revenue law of the United States, in gross income
+of the holders of the bonds or notes to the same extent and in the same
+manner that the interest on bills, bonds, notes or other obligations of
+the United States is includible in the gross income of the holders
+thereof under said Internal Revenue Code or any such subsequent law;
+  17. to do all things necessary, convenient or desirable to carry out
+its purposes and for the exercise of the powers granted in this title;
+and
+  18. to insure or provide for the insurance of the authority's property
+or operations as required by law and also against such other risks as
+the authority may deem advisable.

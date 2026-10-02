@@ -1,0 +1,62 @@
+  * § 1599-fff. Conveyance of property by the village to the authority;
+acquisition of property by the village or by the authority. (a) The
+village may, by resolution or resolutions of the board of trustees or by
+instruments authorized by such resolutions, convey, with or without
+consideration, to the authority real and personal property owned by the
+village for use by the authority as a project or projects or a part
+thereof. In case of real property so conveyed, the title thereto shall
+remain in the village but the authority shall have the use and occupancy
+thereof for so long as its corporate existence shall continue. In the
+case of personal property so conveyed, the title shall pass to the
+authority.
+  (b) The village may acquire in the name of the village by purchase or
+condemnation real property in the village for any of the projects or for
+the widening of existing roads, streets, avenues or highways, or for new
+roads, streets, avenues or highways, within a radius of one mile to any
+of the projects, or partly for such purposes and partly for other
+village purposes, by purchase or condemnation in the manner provided by
+law for the acquisition of real property by the village. For like
+purposes, the village may close such streets, roads, avenues, or
+highways as may be necessary or convenient, except as to state highways
+and arterial ways which may not be closed without the consent of the
+state commissioner of transportation.
+  (c) Contracts may be entered into between the village and the
+authority providing for the property to be conveyed by the village to
+the authority, the additional property to be acquired by the village and
+so conveyed, the streets, roads, avenues, and highways to be closed by
+the village and the amounts, terms and conditions of payment to be made
+by the authority. Such contracts may also contain covenants by the
+village as to the road, street, avenue and highway improvements to be
+made by the village. Any such contracts between the village and the
+authority may be pledged by the authority to secure its bonds and may
+not be modified thereafter except as provided by the terms of the
+pledge. The board of trustees may authorize such contracts between the
+village and the authority and no other authorization on the part of the
+village for such contracts shall be necessary. Any such contracts may be
+so authorized and entered into by the village and in such manner as the
+board of trustees may determine, and the payments required to be made by
+the village may be made and financed notwithstanding that no provision
+therefor shall have first been made in the capital budget of the
+village. All contractual or other obligations of the village incurred in
+carrying out the provisions of this title shall be included in and
+provided for by each capital budget of the village thereafter made, if
+and to the extent that they may appropriately be included therein.
+  (d) Subject to the provisions of subsection (d) of section fifteen
+hundred ninety-nine-ccc hereof, the authority may itself acquire real
+property for a project in the name of the village at the cost and
+expense of the authority by purchase or condemnation pursuant to the
+condemnation law or pursuant to the laws relating to the condemnation of
+land by the village. The authority shall have the use and occupancy of
+such real property so long as its corporate existence shall continue.
+  (e) In case the authority shall have the use and occupancy of any real
+property which it shall determine is no longer required for a project
+then, if such real property was acquired at the cost and expense of the
+village, the authority shall have power to surrender its use and
+occupancy thereof to the village, or, if such real property was acquired
+at the cost and expense of the authority, then the authority shall have
+power to sell, lease or otherwise dispose of said real property at
+public or private sale, and shall retain and have the power to use the
+proceeds of sale, rentals, or other moneys derived from the disposition
+thereof for its purposes.
+  * NB Authority ceased to exist 06/01/1976
+  * NB There are 2 § 1599-fff's

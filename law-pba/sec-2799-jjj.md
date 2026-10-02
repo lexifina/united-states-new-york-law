@@ -1,0 +1,231 @@
+  § 2799-jjj. Bonds of the authority. 1. The authority shall have the
+power and is hereby authorized from time to time to issue bonds, notes
+or other obligations to pay the cost of any project or for any other
+corporate purpose, including the establishment of reserves to secure the
+bonds, the payment of principal of, premium, if any, and interest on the
+bonds and the payment of incidental expenses in connection therewith.
+The aggregate principal amount of such bonds, notes or other obligations
+shall not exceed three hundred million dollars ($300,000,000), excluding
+bonds, notes or other obligations issued to refund or otherwise repay
+bonds, notes or other obligations theretofore issued for such purposes;
+provided, however, that upon any such refunding or repayment the total
+aggregate principal amount of outstanding bonds, notes or other
+obligations may be greater than three hundred million dollars
+($300,000,000) only if the present value of the aggregate debt service
+of their funding or repayment bonds, notes or other obligations to be
+issued shall not exceed the present value of the aggregate debt service
+of the bonds, notes or other obligations so to be refunded or repaid.
+For purposes of this section, the present values of the aggregate debt
+service of the refunding or repayment bonds, notes or other obligations
+and of the aggregate debt service of the bonds, notes or other
+obligations so refunded or repaid, shall be calculated by utilizing the
+effective interest rate of the refunding or repayment bonds, notes or
+other obligations, which shall be that rate arrived at by doubling the
+semi-annual interest rate (compounded semi-annually) necessary to
+discount the debt service payments on the refunding or repayment bonds,
+notes or other obligations from the payment dates thereof to the date of
+issue of the refunding or repayment bonds, notes or other obligations
+and to the price bid including estimated accrued interest or proceeds
+received by the authority including estimated accrued interest from the
+sale thereof. The authority shall have power and is hereby authorized to
+enter into such agreements and perform such acts as may be required
+under any applicable federal legislation to secure a federal guarantee
+of any bonds.
+  2. The authority shall have power from time to time to renew bonds or
+to issue renewal bonds for such purpose, to issue bonds to pay bonds,
+and, whenever it deems refunding expedient, to refund any bond by the
+issuance of new bonds, whether the bonds to be refunded have or have not
+matured, and may issue bonds partly to refund bonds then outstanding and
+partly for any other corporate purpose of the authority. Bonds (other
+than notes or other evidence of indebtedness) issued for refunding
+purposes, which have a final maturity date longer than the maturity of
+the bonds being refunded, shall be approved by a resolution of the
+common council adopted by a majority vote and approved by the mayor.
+Bonds issued for refunding purposes shall be sold and the proceeds
+applied to the purchase, redemption or payment of the bonds or notes to
+be refunded.
+  3. Bonds issued by the authority may be general obligations secured by
+the faith and credit of the authority or may be special obligations
+payable solely out of particular revenues or other moneys as may be
+designated in the proceedings of the authority under which the bonds
+shall be authorized to be issued, subject as to priority only to any
+agreements with the holders of outstanding bonds pledging any particular
+property, revenues or moneys. The authority may also enter into loan
+agreements, lines of credit and other security agreements and obtain for
+or on its behalf letters of credit, insurance, guarantees or other
+credit enhancements to the extent now or hereafter available, in each
+case for securing its bonds or to provide direct payment of any costs
+which the authority is authorized to pay.
+  4. (a) Bonds shall be authorized by resolution of the authority, be in
+such denominations and bear such date or dates and mature at such time
+or times, as such resolution may provide, provided that bonds and
+renewals thereof shall mature within thirty years from the date of
+original issuance of any such bonds.
+  (b) Bonds shall be subject to such terms of redemption, bear interest
+at such rate or rates, be payable at such times, be in such form, either
+coupon or registered, carry such registration privileges, be executed in
+such manner, be payable in such medium of payment at such place or
+places, and be subject to such terms and conditions as such resolution
+may provide.
+  (c) Notwithstanding any other provision of law, the bonds of the
+authority issued pursuant to this section shall be sold to the bidder
+offering the lowest true interest cost, taking into consideration any
+premium or discount not less than four nor more than fifteen days,
+Sundays excepted, after a notice of such sale has been published at
+least once in a newspaper of general circulation in the area served by
+the authority and on the authority website, which shall state the terms
+of the sale. The terms of the sale may not change unless notice of such
+change is published in such newspaper and on the authority website at
+least one day prior to the date of the sale as set forth in the original
+notice of sale. Advertisements shall contain a provision to the effect
+that the authority, in its discretion, may reject any or all bids made
+in pursuance of such advertisements, and in the event of such rejection,
+the authority is authorized to negotiate a private or public sale or
+re-advertise for bids in the form and manner above described as many
+times as, in its judgment, may be necessary to effect a satisfactory
+sale.
+  (d) Notwithstanding the provisions of the preceding paragraph,
+whenever in the judgment of the authority the interests of the authority
+will be served thereby, the members of the authority, on the written
+recommendation of the chairperson, may authorize the sale of such bonds
+at private or public sale on a negotiated basis or on either a
+competitive or negotiated basis. The authority shall set guidelines
+governing the terms and conditions of any such private or public sales.
+  (e) The private or public bond sale guidelines set by the authority
+shall include, but not be limited to a requirement that where the
+interests of the authority will be served by a private or public sale of
+bonds, the authority shall select underwriters for private or public
+bond sales conducted pursuant to a request for proposal process
+undertaken at least once annually and consideration of proposals from
+qualified underwriters taking into account, among other things,
+qualifications of underwriters as to experience, their ability to
+structure and sell authority bond issues, anticipated costs to the
+authority, the prior experience of the authority with the firm, if any,
+the capitalization of such firms, participation of qualified minority
+and women-owned business enterprise firms in such private or public
+sales of bonds of the authority and the experience and ability of firms
+under consideration to work with minority and women-owned business
+enterprises so as to promote and assist participation by such
+enterprises.
+  (f) The authority shall have the power from time to time to amend such
+private bond sale guidelines in accordance with the provisions of this
+subdivision.
+  (g) No private or public bond sale on a negotiated basis shall be
+conducted by the authority without prior approval of the state
+comptroller and the city comptroller.
+  (h) The authority shall annually prepare and approve a bond sale
+report which shall include the private or public bond sale guidelines as
+specified in this subdivision, amendments to such guidelines since the
+last private or public bond sale report, an explanation of the bond sale
+guidelines and amendments, and the results of any sale of bonds
+conducted during the fiscal year. Such bond sale report may be a part of
+any other annual report that the authority is required to make.
+  (i) The authority shall annually submit its bond sale report to the
+state comptroller and copies thereof to the senate finance committee,
+the assembly ways and means committee and the authority budget office.
+  (j) The authority shall make available to the public copies of its
+bond sale report upon reasonable request therefore.
+  (k) Nothing contained in this subdivision shall be deemed to alter,
+affect the validity of, modify the terms of or impair any contract or
+agreement made or entered into in violation of, or without compliance
+with, the provisions of this subdivision.
+  5. Any resolution or resolutions authorizing bonds or any issue of
+bonds may contain provisions which may be a part of the contract with
+the holders of the bonds thereby authorized as to:
+  (a) pledging all or any part of the revenues, other moneys or property
+of the authority to secure the payment of the bonds, or any costs of
+issuance thereof, including but not limited to any contracts, earnings
+or proceeds of any grant to the authority received from any private or
+public source subject to such agreements with bondholders as may then
+exist;
+  (b) the setting aside of reserves and the creation of sinking funds
+and the regulation and disposition thereof;
+  (c) limitations on the purpose to which the proceeds from the sale of
+bonds may be applied;
+  (d) the rates, rents, fees and other charges to be fixed and collected
+by the authority and the amount to be raised in each year thereby and
+the use and disposition of revenues;
+  (e) limitations on the right of the authority to restrict and regulate
+the use of the project or part thereof in connection with which bonds
+are issued;
+  (f) limitations on the issuance of additional bonds, the terms upon
+which additional bonds may be issued and secured and the refunding of
+outstanding or other bonds;
+  (g) the procedure, if any, by which the terms of any contract with
+bondholders may be amended or abrogated, the amount of bonds the holders
+of which must consent thereto, and the manner in which such consent may
+be given;
+  (h) the creation of special funds into which any revenues or moneys
+may be deposited;
+  (i) the terms and provisions of any trust, mortgage, deed or indenture
+securing the bonds under which the bonds may be issued;
+  (j) vesting in a trustee or trustees such properties, rights, powers
+and duties in trust as the authority may determine which may include any
+or all of the rights, powers and duties of the trustees appointed by the
+bondholders pursuant to this title and limiting or abrogating the rights
+of the bondholders to appoint a trustee under such section or limiting
+the rights, duties and powers of such trustee;
+  (k) defining the acts or omissions to act which may constitute a
+default in the obligations and duties of the authority to the
+bondholders and providing for the rights and remedies of the bondholders
+in the event of such default, including as a matter of right the
+appointment of a receiver, provided, however, that such rights and
+remedies shall not be inconsistent with the general laws of the state
+and other provisions of this title;
+  (l) limitations on the power of the authority to sell or otherwise
+dispose of any project or any part thereof;
+  (m) limitations on the amount of revenues and other moneys to be
+expended for operating, administrative or other expenses of the
+authority;
+  (n) the payment of the proceeds of bonds, revenues and other moneys to
+a trustee or other depository, and for the method of disbursement
+thereof with such safeguards and restrictions as the authority may
+determine; and
+  (o) any other matters of like or different character which in any way
+affect the security or protection of the bonds or the rights and
+remedies of bondholders.
+  6. In addition to the powers herein conferred upon the authority to
+secure its bonds, the authority shall have power in connection with the
+issuance of bonds to adopt resolutions and enter into such trust
+indentures, agreements or other instruments as the authority may deem
+necessary, convenient or desirable concerning the use or disposition of
+its revenues or other moneys or property, including the mortgaging of
+any property and the entrusting, pledging or creation of any other
+security interest in any such revenues, moneys or property and the doing
+of any act, including refraining from doing any act which the authority
+would have the right to do in the absence of such resolutions, trust
+indentures, agreements or other instruments. The authority shall have
+power to enter into amendments of any such resolutions, trust
+indentures, agreements or other instruments. The provisions of any such
+resolutions, trust indentures, agreements or other instruments may be
+made a part of the contract with the holders of bonds of the authority.
+  7. Any provision of the uniform commercial code to the contrary
+notwithstanding, any pledge of or other security interest in revenues,
+moneys, accounts, contract rights, general intangibles or other personal
+property made or created by the authority shall be valid, binding and
+perfected from the time when such pledge is made or other security
+interest attaches without any physical delivery of the collateral or
+further act, and the lien of any such pledge or other security interest
+shall be valid, binding and perfected against all parties having claims
+of any kind in tort, contract or otherwise against the authority
+irrespective of whether or not such parties have notice thereof. No
+instrument by which such a pledge or security interest is created nor
+any financing statement need be recorded or filed.
+  8. Whether or not the bonds are of such form and character as to be
+negotiable instruments under the terms of the uniform commercial code,
+the bonds are hereby made negotiable instruments within the meaning of
+and for all the purposes of the uniform commercial code, subject only to
+the provisions of the bonds for registration.
+  9. Neither the members of the authority nor any person executing its
+bonds shall be liable personally on its bonds or be subject to any
+personal liability or accountability by reason of the issuance thereof.
+  10. Subject to such agreements with bondholders as may then exist, the
+authority shall have power out of any funds available therefor to
+purchase bonds of the authority, which shall thereupon be cancelled, at
+a price not exceeding (a) if the bonds are then redeemable, the
+redemption price then applicable plus accrued interest to the next
+interest payment date, or (b) if the bonds are not then redeemable, the
+redemption price applicable on the first date after such purchase upon
+which the bonds become subject to redemption plus accrued interest to
+the next interest payment date. Bonds so purchased shall thereupon be
+cancelled.

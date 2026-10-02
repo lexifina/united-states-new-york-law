@@ -1,0 +1,17 @@
+  § 2799-kk. Bonds legal for investment and deposit.  The bonds of the
+authority are hereby made securities in which all public officers and
+bodies of the state and all public corporations, municipalities and
+municipal subdivisions, all insurance companies and associations and
+other persons carrying on an insurance business, all banks, bankers,
+trust companies, savings banks and savings associations including
+savings and loan associations, building and loan associations,
+investment companies and other persons carrying on a banking business,
+all administrators, conservators, guardians, executors, trustees and
+other fiduciaries, and all other persons whatsoever who are now or may
+hereafter be authorized to invest in bonds or in other obligations of
+the state, may properly and legally invest funds, including capital, in
+their control or belonging to them. The bonds are also hereby made
+securities which may be deposited with and may be received by all public
+officers and bodies of the state and all municipalities and public
+corporations for any purpose for which the deposit of bonds or other
+obligations of the state is now or may hereafter be authorized.

@@ -1,0 +1,40 @@
+  § 1299-jj. Co-operation and assistance of other agencies. In the
+interest of economy and to promote coordination of authority projects
+with state, local, county and regional plans and also to carry out the
+objective of full participation of all agencies in the development of a
+transportation system and facilities to meet the objectives of this act,
+the authority shall request and use existing studies, master plans,
+surveys, data and other materials completed by or under development by
+any state agency or any municipality or political subdivision of the
+state. The authority shall consult with and cooperate with the
+commissioner of transportation and with planning authorities in the
+areas of its operations and shall utilize local or state planning. When
+a project is contemplated by the authority, the authority shall submit a
+preliminary prospectus thereof to the commissioner of transportation for
+review and comment and shall consider the report of the commissioner in
+formulating detailed plans for such project. When a project is
+contemplated by the authority within the jurisdiction of any county
+planning board or the Genesee-Finger Lakes Regional Planning Board, the
+authority shall prepare a preliminary prospectus thereof, describing the
+purpose, general location, and nature of the project contemplated, with
+such further data relative thereto that the authority shall consider
+pertinent. Within sixty days of receipt of such prospectus such planning
+board or boards shall prepare a report thereon, commenting on its
+conformity or lack of conformity with any related official plan of the
+state or region or any official planning agency within the region. Such
+report shall be considered by the authority in formulating detailed
+plans for such a project. At the request of the authority, each such
+agency, municipality or subdivision which is engaged in highway or other
+transportation activities or in land use or development planning, or
+which is charged with the duty of providing or regulating any
+transportation facility or any other public facility, is further
+authorized to provide the authority with information regarding its plans
+and programs affecting the transportation district so that the authority
+may have available to it current information with respect thereto. The
+officers and personnel of such agencies, municipalities or subdivisions,
+and of any other government or agency whatever, may serve at the request
+of the authority upon such advisory committees as the authority shall
+determine to create and such officers and personnel may serve upon such
+committees without forfeiture of office or employment and with no loss
+or diminution in the compensation, status, rights and privileges which
+they otherwise enjoy.

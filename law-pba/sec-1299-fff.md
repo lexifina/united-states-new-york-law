@@ -1,0 +1,89 @@
+  § 1299-fff. Filing five year performance, capital and operating
+finance plans. 1. (a) On or before October first, nineteen hundred
+ninety-four, and annually thereafter on or before April first, the
+authority shall adopt an operational performance plan for the five-year
+period commencing April first. The plan shall set operational
+performance plan goals and objectives, including but not limited to
+ridership and passenger revenue goals and objectives for the period, for
+fixed route bus operations, and shall establish performance indicators
+to measure standards of service and operations. The performance
+indicators shall include: revenue passengers, total passengers, revenue
+vehicle miles, revenue vehicle hours, number of employees by department,
+vehicle mean distance between failures, on-time performance for total
+service provided, the cost per passenger, the cost per revenue vehicle
+mile and the operating-revenue-to-cost ratio.
+  (b) Quarterly reports shall be prepared for authority members on
+operating performance of fixed route bus operations. The first such
+report shall cover the three-month period commencing April first,
+nineteen hundred ninety-five and shall be submitted no later than thirty
+days after the end of the quarter. Thereafter, quarterly reports shall
+be submitted on the last day of October, January, April, and July of
+each year. The report shall compare the performance indicators for the
+most recent quarter and the year-to-date performance indicators with the
+same time period in the previous year with the annual goals established
+pursuant to this subdivision.
+  2. (a) On or before October first, nineteen hundred ninety-four, and
+annually thereafter on or before April first, the authority shall adopt
+a capital program plan for the five-year period commencing April first.
+The plan shall contain the capital program, separately itemized, by the
+following functions: regular fixed route bus service, demand responsive
+bus service, and any aviation facilities and any marine facilities for
+which it currently has or shall assume responsibility.
+  (b) The plan shall set goals and objectives by function for capital
+spending, establish standards for service and operation, describe each
+capital project to be initiated in each of the years covered by the plan
+and explain how each proposed project supports the goals and objectives
+and the service and operational standards established in the performance
+plan. The plan shall list separately by function those projects
+contributing to the maintenance of the system infrastructure and those
+intended to enhance the system. The plan shall also include an estimated
+cost for each project and set forth an estimate of the amount of capital
+funding required for each year of the plan and the expected sources of
+such funding. It shall also include a project schedule for the
+initiation and completion of each project. Each plan subsequent to the
+first such plan shall describe the current status of each capital
+project which has a total estimated cost of one hundred thousand dollars
+or more and which was included in the previously adopted plan.
+  (c) In addition to the annual update, a quarterly capital plan status
+report shall be provided to the authority members and shall include, but
+not be limited to, a description of any material change in the scope,
+cost, funding or time of initiation or completion of a project which has
+a total estimated cost of one hundred thousand dollars or more, as
+adopted in the plan. The first such report shall cover the three-month
+period commencing April first, nineteen hundred ninety-five and shall be
+submitted no later than thirty days after the end of the quarter.
+Thereafter, quarterly reports shall be submitted on the last day of
+October, January, April, and July of each year.
+  3. (a) On or before October first, nineteen hundred ninety-four, and
+annually thereafter on or before April first, the authority shall adopt
+an operating finance plan for the five-year period commencing April
+first. The plan shall include the annual estimated operating cost for
+the following authority functions: fixed bus operations, demand
+responsive bus operations, and any aviation facilities and any marine
+facilities for which it currently has, or shall assume responsibility.
+The plan shall include the proposed method of financing for the level of
+service defined for each year of the plan and shall fully allocate the
+authority's general costs to each of the above separate functions. The
+plan shall provide a narrative describing the overall financial
+condition of the operating budget of the authority.
+  (b) In addition to the annual update, quarterly operating budget
+reports shall be prepared for the authority members on the financial
+condition of each of the authority's functions. The first such report
+shall cover the three-month period commencing April first, nineteen
+hundred ninety-five and shall be submitted no later than thirty days
+after the end of the quarter. Thereafter, quarterly reports shall be
+submitted on the last day of October, January, April, and July of each
+year. The reports shall include a budgetary comparison of the most
+recent quarter and year-to-date actual revenue and expenditures with the
+same time period in the previous year and with the projections for that
+time period based on the board approved budget. The reporting for fixed
+route bus operations shall be separate from the reporting for demand
+responsive bus service.
+  4. Any and all reports, including interim reports, shall be submitted
+to the director of the division of the budget, the commissioner of
+transportation and the chief executive officers of Genesee, Livingston,
+Monroe, and Wayne counties, the county legislatures of Genesee,
+Livingston, Monroe, and Wayne counties, the temporary president of the
+senate, the speaker of the assembly, the chairpersons of the senate
+finance committee and the assembly ways and means committee, and the
+chairpersons of the senate and assembly transportation committees.
