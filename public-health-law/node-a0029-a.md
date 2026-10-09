@@ -1,0 +1,15 @@
+                              ARTICLE 29-A
+         ACCESS TO COMMUNITY HEALTH CARE SERVICES IN RURAL AREAS
+                                 TITLE I
+                        RURAL HEALTH CARE ACCESS
+Section 2950. Legislative findings.
+        2951. Definitions.
+        2952. Rural health network development grant program.
+        2954. Limitation on liability of network participants.
+        2955. Restraint of trade by networks and network participants.
+        2956. Designation of upgraded diagnostic and treatment centers.
+        2957. Designation of primary care hospitals.
+        2958. Rural health care access development program.
+                                TITLE 1-A
+                      RURAL DENTISTRY PILOT PROGRAM
+Section 2958-a. Rural dentistry pilot program.
