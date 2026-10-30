@@ -229,6 +229,7 @@ Section 390.         Substitution of spurious oils for internal
         399-ii.      Furniture tip restraint device.
         399-ii*2.    Prohibit the sale of crib bumper pads and restrict
                        use of such pads in certain settings.
+        399-iii.     Baby monitors.
         399-j.       Safety standards; moveable soccer goals.
         399-k.       Access to toilet facilities for utility workers.
         399-m.       Disclosures in advertisement and sale of
