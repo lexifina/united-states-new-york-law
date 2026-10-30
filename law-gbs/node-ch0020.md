@@ -206,3 +206,5 @@ AN ACT relating to general business, constituting chapter twenty of the
          46.      Laws repealed; when to take effect (§§ 1600-1601).
          47.      Artificial intelligence companion models (§§
                     1700-1704).
+         48.      Prohibition on unsafe AI companion features for minors
+                    (§§ 1800-1805).
