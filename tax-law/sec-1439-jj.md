@@ -1,0 +1,7 @@
+  * § 1439-jj. Refunds. Whenever the treasurer shall determine that any
+moneys received under the provisions of the local law enacted pursuant
+to this article were paid in error, he or she may cause such moneys to
+be refunded pursuant to such requirements as he or she may prescribe,
+provided that any application for such refund is filed with the
+treasurer within two years from the date the erroneous payment was made.
+  * NB Repealed December 31, 2028

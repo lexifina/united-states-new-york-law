@@ -1,0 +1,7 @@
+  § 1449-hhh. Designation of agents. The treasurer is authorized to
+designate the recording officer to act as its agent for purposes of
+collecting the tax authorized by this article. The treasurer shall
+provide for the manner in which such person may be designated as its
+agent subject to such terms and conditions as it shall prescribe. The
+real estate transfer tax shall be paid to such agent as provided in
+section fourteen hundred forty-nine-ccc of this article.

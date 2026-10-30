@@ -1,0 +1,69 @@
+  * § 1439-eee. Exemptions. 1. The following shall be exempt from the
+payment of the real estate transfer tax imposed by this article:
+  (a) The state of New York, or any of its agencies, instrumentalities,
+political subdivisions, or public corporations (including a public
+corporation created pursuant to an agreement or compact with another
+state or the Dominion of Canada); and
+  (b) The United Nations, the United States of America or any of its
+agencies or instrumentalities.
+  2. The tax shall not apply to any of the following conveyances:
+  (a) Conveyances to the United Nations, the United States of America,
+the state of New York, or any of their instrumentalities, agencies or
+political subdivisions (or any public corporation, including a public
+corporation created pursuant to agreement or compact with another state
+or the Dominion of Canada);
+  (b) Conveyances which are or were used to secure a debt or other
+obligation;
+  (c) Conveyances which, without additional consideration, confirm,
+correct, modify or supplement a deed previously recorded;
+  (d) Conveyances of real property without consideration and otherwise
+than in connection with a sale, including deeds conveying realty as bona
+fide gifts;
+  (e) Conveyances given in connection with a tax sale;
+  (f) Conveyances to effectuate a mere change of identity or form of
+ownership or organization where there is no change in beneficial
+ownership, other than conveyances to a cooperative housing corporation
+of the real property comprising the cooperative dwelling or dwellings;
+  (g) Conveyances which consist of a deed of partition;
+  (h) Conveyances given pursuant to the federal bankruptcy act;
+  (i) Conveyances of real property which consist of the execution of a
+contract to sell real property without the use or occupancy of such
+property or the granting of an option to purchase real property without
+the use or occupancy of such property;
+  (j) Conveyances of real property or a portion or portions of real
+property that are the subject of one or more of the following
+development restrictions:
+  (1) agricultural, conservation, scenic, or an open space easement,
+  (2) covenants or restrictions prohibiting development where the
+property or portion of property being conveyed has had its development
+rights permanently removed,
+  (3) a purchase of development rights agreement where the property or
+portion of property being conveyed has had its development rights
+permanently removed,
+  (4) a transfer of development rights agreement, where the property
+being conveyed has had its development rights removed,
+  (5) real property subject to any locally adopted land preservation
+agreement, provided said exemption is included in the local law imposing
+the tax authorized by this article;
+  (k) Conveyances of real property, where the property is viable
+agricultural land as defined in subdivision seven of section three
+hundred one of the agriculture and markets law and the entire property
+to be conveyed is to be made subject to one of the development
+restrictions provided for in subparagraph two of paragraph (j) of this
+subdivision provided that said development restriction precludes the
+conversion of the property to a non-agricultural use for at least eight
+years from the date of transfer, and said development restriction is
+evidenced by an easement, agreement, or other suitable instrument which
+is to be conveyed to the town simultaneously with the conveyance of the
+real property; or
+  (l) Conveyances of real property for open space, parks, or historic
+preservation purposes to any not-for-profit tax exempt corporation
+operated for conservation, environmental, or historic preservation
+purposes.
+  3. An exemption of one hundred thousand dollars shall be allowed on
+the consideration of the conveyance of improved real property or an
+interest therein, and an exemption of fifty thousand dollars shall be
+allowed on the consideration of the conveyance of unimproved real
+property.
+  * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-eee's

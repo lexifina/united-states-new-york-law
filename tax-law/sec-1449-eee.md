@@ -1,0 +1,34 @@
+  § 1449-eee. Exemptions. 1. The following shall be exempt from payment
+of the real estate transfer tax:
+  (a) The state of New York, or any of its agencies, instrumentalities,
+political subdivisions, or public corporations (including a public
+corporation created pursuant to agreement or compact with another state
+or the Dominion of Canada).
+  (b) The United Nations, the United States of America and any of its
+agencies and instrumentalities.
+  The exemption of such governmental bodies or persons shall not,
+however, relieve a grantee from them of liability for the tax.
+  2. The tax shall not apply to any of the following conveyances:
+  (a) Conveyances to the United Nations, the United States of America,
+the state of New York, or any of their instrumentalities, agencies or
+political subdivisions (or any public corporation, including a public
+corporation created pursuant to agreement or compact with another state
+or the Dominion of Canada);
+  (b) Conveyances which are or were used to secure a debt or other
+obligation;
+  (c) Conveyances which, without additional consideration, confirm,
+correct, modify or supplement a prior conveyance;
+  (d) Conveyances of real property without consideration and otherwise
+than in connection with a sale, including conveyances conveying realty
+as bona fide gifts;
+  (e) Conveyances given in connection with a tax sale;
+  (f) Conveyances to effectuate a mere change of identity or form of
+ownership or organization where there is no change in beneficial
+ownership, other than conveyances to a cooperative housing corporation
+of the real property comprising the cooperative dwelling or dwellings;
+  (g) Conveyances which consist of a deed of partition;
+  (h) Conveyances given pursuant to the federal bankruptcy act; and
+  (i) Conveyances of real property which consist of the execution of a
+contract to sell real property without the use or occupancy of such
+property or the granting of an option to purchase real property without
+the use or occupancy of such property.

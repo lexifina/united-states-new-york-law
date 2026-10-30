@@ -1,0 +1,45 @@
+  * § 1439-kkk. Deposit and disposition of revenue. 1. All taxes,
+penalties and interest imposed by the town under the authority of
+section fourteen hundred thirty-nine-bbb of this article, which are
+collected by the treasurer or their agents, shall be deposited in a
+single trust fund for the town and shall be kept in trust and separate
+and apart from all other monies in possession of the treasurer. Moneys
+in such fund shall be deposited and secured in the manner provided by
+section ten of the general municipal law. Pending expenditure from such
+fund, moneys therein may be invested in the manner provided in section
+eleven of the general municipal law. Any interest earned or capital gain
+realized on the moneys so deposited or invested shall accrue to and
+become part of such fund.
+  2. The treasurer shall retain such amount as they may determine to be
+necessary for refunds with respect to the tax imposed by the town, under
+the authority of section fourteen hundred thirty-nine-bbb of this
+article, out of which the treasurer shall pay any refunds of such taxes
+to those taxpayers entitled to a refund pursuant to the provisions of
+this article.
+  3. The treasurer, after reserving such refunds, shall on or before the
+twelfth day of each month pay to the town supervisor the taxes,
+penalties and interest imposed by the town under the authority of
+section fourteen hundred thirty-nine-bbb of this article, collected by
+the treasurer, pursuant to this article during the next preceding
+calendar month. The amount so payable shall be certified to the town
+supervisor by the treasurer, who shall not be held liable for any
+inaccuracy in such certification. Provided, however, any such
+certification may be based on such information as may be available to
+the treasurer at the time such certification must be made under this
+section. Where the amount so paid over to the town in any such
+distribution is more or less than the amount due to the town, the amount
+of the overpayment or underpayment shall be certified to the town
+supervisor by the treasurer, who shall not be held liable for any
+inaccuracy in such certification. The amount of the overpayment or
+underpayment shall be so certified to the town supervisor as soon after
+the discovery of the overpayment or underpayment as reasonably possible
+and subsequent payments and distributions by the treasurer to the town
+shall be adjusted by subtracting the amount of any such overpayment from
+or by adding the amount of any such underpayment to such number of
+subsequent payments and distributions as the treasurer and town
+supervisor shall consider reasonable in view of the overpayment or
+underpayment and all other facts and circumstances.
+  4. All monies received from the treasurer shall be deposited in the
+fund of the town, pursuant to section sixty-four-l of the town law.
+  * NB Repealed December 31, 2045
+  * NB There are 2 § 1439-kkk's
