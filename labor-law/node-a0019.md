@@ -15,4 +15,5 @@ Section 650. Statement of public policy.
         662. Penalties.
         663. Civil action.
         664. Referrals by employment agencies.
-        665. Savings clause.
+        665. Cannabis industry wage board.
+        669. Savings clause.

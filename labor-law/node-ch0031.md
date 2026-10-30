@@ -33,7 +33,7 @@ Article 1.    Short title; definitions. (§§ 1-4)
        16.    Explosives. (§§ 450-465)
        17.    Public safety. (§§ 470-475)
        18.    Unemployment insurance law. (§§ 500-643)
-       19.    Minimum wage act. (§§ 650-665)
+       19.    Minimum wage act. (§§ 650-669)
        19-A.  Minimum wage standards and protective labor practices for
                 farm workers. (§§ 670-683)
        19-B.  Domestic workers and household employees. (§§ 690-694)
