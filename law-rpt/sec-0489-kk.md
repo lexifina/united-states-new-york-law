@@ -1,0 +1,25 @@
+  § 489-kk. Tentative determination of railroad ceiling; notice,
+complaints and hearing. 1. Each year the commissioner shall make a
+tentative determination of each railroad ceiling. Thereafter, the
+commissioner shall give notice in writing to each assessing unit and
+each railroad company for which such tentative determination of a
+railroad ceiling shall have been made specifying the amount of such
+ceiling and the time and place where the commissioner will meet to hear
+any complaint concerning such tentative determination. Such notice must
+be served at least twenty days prior to the date specified for the
+hearing.
+  2. A railroad company or assessing unit objecting to a tentative
+determination of the railroad ceiling must serve its complaint upon the
+commissioner in writing and a copy thereof upon the assessing unit or
+railroad company, as the case may be, at least five days before the day
+specified for the hearing, specifying its objections to such tentative
+determination. Service may be made either in person or by mail. On or
+before the date specified for the hearing an affidavit of service shall
+be filed with the commissioner stating in substance that service has
+been made in accordance with the provisions of this section.
+  3. The commissioner shall meet at the time and place specified in such
+notice to hear complaints in relation to the tentative determination of
+the railroad ceiling. The provisions of section five hundred twelve of
+this chapter shall apply so far as may be practicable to a hearing under
+this section. Nothing contained in this subdivision shall be construed
+to require a hearing to be conducted when no complaints have been filed.

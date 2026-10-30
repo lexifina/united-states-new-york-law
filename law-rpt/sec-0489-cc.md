@@ -1,0 +1,27 @@
+  § 489-cc. Assessment of real property of railroads. 1. The assessor in
+each city, town and village and in each county having a county
+department of assessment shall annually assess all real property of
+railroad companies situated in such city, town, village or county, as
+the case may be, including all railroad real property of such railroad
+companies as defined in subdivision three of section four hundred
+eighty-nine-bb of this chapter. Where a village has enacted a local law
+as provided in subdivision three of section fourteen hundred two of this
+chapter, the town or county assessor shall apportion that part of the
+railroad property assessment applicable to the village for purposes of
+the copy of the part of the town or county assessment roll used for
+village tax purposes.
+  2. Railroad real property shall be separately assessed from real
+property of railroad companies not used for transportation purposes, and
+subsidized railroad real property shall be separately assessed from all
+other railroad real property. The commissioner and railroad companies
+upon request shall furnish the assessor information and data relating to
+the classification of the real property of railroads as transportation
+and non-transportation property and to the identification of subsidized
+railroad real property. Action by assessors under this subdivision shall
+not in any way affect the classification of property or the segregation
+of assessments in accordance with section four hundred eighty-nine-mm of
+this chapter in connection with the application of railroad ceilings.
+  3. Railroad real property shall be assessed according to its value and
+ownership as of the dates specified by subdivision four of section four
+hundred eighty-nine-ee of this title for the computation of the ceiling
+of such property.
