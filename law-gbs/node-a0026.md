@@ -203,7 +203,7 @@ Section 390.         Substitution of spurious oils for internal
         399-ccc.     Smoke detecting devices.
         399-cccc.    Wireless telephone services; domestic violence
                        victims.
-        399-ccccc.   Connected vehicle technology; domestic violence
+        399-ccccc.   Connected vehicle service; domestic violence
                        victims.
         399-d.       Children attending public bowling alleys under
                        certain conditions.
