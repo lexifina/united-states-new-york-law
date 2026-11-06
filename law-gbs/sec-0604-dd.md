@@ -1,0 +1,16 @@
+  § 604-dd. Application to secured debt. 1. Except with respect to
+section six hundred four-ee of this article, this article shall not
+apply to debts secured by real property.
+  2. Section six hundred four-bb of this article and the cause of action
+authorized by subdivision one of section six hundred four-cc of this
+article shall not apply to debts secured by personal property.
+  3. For debts secured by personal property, the affirmative defense
+authorized by section six hundred four-cc of this article shall not
+affect the creditor's right to enforce any security interest upon
+default of the financing and security agreement under article nine of
+the uniform commercial code including, but not limited to, repossession
+or voluntary surrender of the subject personal property or seeking and
+obtaining a court order to retake the subject personal property. The
+affirmative defense shall affect only the coerced debtor's liability for
+any deficiency after the repossession or surrender and disposition of
+the subject collateral.
