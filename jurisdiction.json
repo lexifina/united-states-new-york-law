@@ -1,0 +1,9 @@
+{
+  "path": "us/ny",
+  "code": "US-NY",
+  "name": "United States (New York)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-new-york-law",
+  "build": "partial",
+  "acts": 1
+}

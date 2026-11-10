@@ -1,0 +1,31 @@
+{
+ "country": "US-NY",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "N.Y. Const.",
+   "title": "Constitution of the State of New York",
+   "url": "https://dos.ny.gov/new-york-state-constitution-0",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 206,
+     "source_url": "https://elections.ny.gov/system/files/documents/2023/10/constitution-january-1-2022.pdf",
+     "sha256": "fe42c4f6f9c52d549d8b21d00523cdf4750d30dc076310cedc9fe416fe3f3f8b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 206,
+     "source_url": "https://dos.ny.gov/system/files/documents/2025/01/constitution-january-1-2025.pdf",
+     "sha256": "a6ce1bfdb4bfbb66f07fe0855bfbfad234eb033f277dee20906d0ab20aa7ce1c"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 206,
+     "source_url": "https://dos.ny.gov/system/files/documents/2025/12/constitution-january-1-2026.pdf",
+     "sha256": "541dac0fe3936317debad127261a7ce15eedef346a2cb167cf6b2385899c13c6"
+    }
+   ]
+  }
+ ]
+}
