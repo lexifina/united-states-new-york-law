@@ -26,6 +26,20 @@
      "sha256": "541dac0fe3936317debad127261a7ce15eedef346a2cb167cf6b2385899c13c6"
     }
    ]
+  },
+  {
+   "slug": "limited-liability-company-law",
+   "short": "N.Y. Limited Liability Company Law",
+   "title": "New York Limited Liability Company Law",
+   "url": "https://www.nysenate.gov/legislation/laws/LLC",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20260103230629/https://www.nysenate.gov/legislation/laws/LLC",
+     "sha256": "9617b812a0e9a67c827e2372cb4d8b7bbdaf37654b0fb37ccc4c700a91a21e36"
+    }
+   ]
   }
  ]
 }
