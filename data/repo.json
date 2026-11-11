@@ -1,7 +1,13 @@
 {
- "country": "US-NY",
- "name": "United States (New York)",
- "tz": "America/New_York",
- "future_branch": "future",
- "publisher": "New York Department of State"
+  "country": "US-NY",
+  "name": "United States (New York)",
+  "tz": "America/New_York",
+  "future_branch": "future",
+  "publisher": "New York Department of State",
+  "acts": 57,
+  "versions": 2867,
+  "checked_on": "2026-11-11",
+  "verified_api_entries": 56,
+  "api_snapshot_versions": 2866,
+  "build": "partial"
 }

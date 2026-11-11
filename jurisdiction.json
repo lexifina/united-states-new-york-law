@@ -5,5 +5,8 @@
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-new-york-law",
   "build": "partial",
-  "acts": 3
+  "acts": 57,
+  "versions": 2867,
+  "verified_api_entries": 56,
+  "history_type": "Official publication snapshots with labelled prior representations"
 }

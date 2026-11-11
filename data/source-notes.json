@@ -1,0 +1,76 @@
+{
+  "blank_source_documents": {
+    "ENV": [
+      {
+        "date": "2026-08-21",
+        "locationId": "13-0901"
+      },
+      {
+        "date": "2026-09-04",
+        "locationId": "13-0901"
+      },
+      {
+        "date": "2026-10-30",
+        "locationId": "13-0901"
+      }
+    ],
+    "GBS": [
+      {
+        "date": "2021-07-09",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-07-16",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-08-13",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-09-10",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-09-24",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-10-15",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-10-22",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-10-29",
+        "locationId": "399-ZZZZZ*2"
+      },
+      {
+        "date": "2021-11-12",
+        "locationId": "399-ZZZZZ*2"
+      }
+    ],
+    "GMU": [
+      {
+        "date": "2019-08-30",
+        "locationId": "855"
+      },
+      {
+        "date": "2019-09-06",
+        "locationId": "855"
+      },
+      {
+        "date": "2019-09-13",
+        "locationId": "855"
+      },
+      {
+        "date": "2019-10-11",
+        "locationId": "855"
+      }
+    ]
+  },
+  "history_type": "Official approximately weekly publication snapshots; exact legal commencement not inferred",
+  "coverage": "Reviewed subset of the official API listing; other entries are not represented as verified current API coverage"
+}
