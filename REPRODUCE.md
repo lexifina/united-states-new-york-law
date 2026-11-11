@@ -1,5 +1,3 @@
 # Verification
 
-48 newly reviewed API entries; 1591 snapshots.
-
-Official-source word and byte checks, dated reader checks and trailer checks: zero defects. Independent append replay: identical law commits. All protected published law trees remain unchanged. Coverage and exact legal commencement history remain partial.
+85 current official snapshots added in this append. Each was compared word for word with its official API response and passed tools/check_repo.py. The law commits replayed identically from the retained official responses. Earlier publication history and exact legal commencement remain incomplete.

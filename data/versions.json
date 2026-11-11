@@ -13361,8 +13361,1708 @@
           "date_basis": "API publishedDate; not exact legal commencement"
         }
       ]
+    },
+    {
+      "slug": "criminal-procedure-law",
+      "short": "Criminal Procedure",
+      "title": "Criminal Procedure",
+      "law_id": "CPL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "11-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/CPL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-02",
+          "commit": "01fbcb2e01f891f737b0a12917fea59ae7abad8c",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/CPL?full=true&date=2026-10-02",
+          "sha256": "dac9293da341bed697596b5b75a54990d928b4976d6b7d5a8f753bf1e5cf3e1a",
+          "units": 694,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "education-law",
+      "short": "Education",
+      "title": "Education",
+      "law_id": "EDN",
+      "law_type": "CONSOLIDATED",
+      "chapter": "16",
+      "url": "https://legislation.nysenate.gov/api/3/laws/EDN",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-02",
+          "commit": "9d21eb7df813e8c1d8b086fc15f6c6577bdcfc60",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/EDN?full=true&date=2026-10-02",
+          "sha256": "ce95e3a75c7b7959eb7edc6829a7540fa2ef4827a0f2920d1fc9ecfdbb44d7e6",
+          "units": 2120,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-eln",
+      "short": "Election",
+      "title": "Election",
+      "law_id": "ELN",
+      "law_type": "CONSOLIDATED",
+      "chapter": "17",
+      "url": "https://legislation.nysenate.gov/api/3/laws/ELN",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "96e7bcaa7befde6420e45111e40a424f2e263551",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/ELN?full=true&date=2026-10-30",
+          "sha256": "8cbdd2e5c74ac985dfda81b75b44de95b3ee548180403e0cfb2a5b5fa2128fd8",
+          "units": 513,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-env",
+      "short": "Environmental Conservation",
+      "title": "Environmental Conservation",
+      "law_id": "ENV",
+      "law_type": "CONSOLIDATED",
+      "chapter": "43-B",
+      "url": "https://legislation.nysenate.gov/api/3/laws/ENV",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "4a26d20e766cf8539b1846f30a9a632573b9affe",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/ENV?full=true&date=2026-10-30",
+          "sha256": "ac80965ff339432e687ec282980b35301b7ce1dde278cf50d1bc1600c4748a2d",
+          "units": 2149,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "executive-law",
+      "short": "Executive",
+      "title": "Executive",
+      "law_id": "EXC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "18",
+      "url": "https://legislation.nysenate.gov/api/3/laws/EXC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "0f975278478bf6ed2d228c37daa009d02f9f43c7",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/EXC?full=true&date=2026-10-30",
+          "sha256": "4dde651ed8d3cc4c014de1943163acddcf6385792e9c2da72688f6e822c4f647",
+          "units": 1041,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-gbs",
+      "short": "General Business",
+      "title": "General Business",
+      "law_id": "GBS",
+      "law_type": "CONSOLIDATED",
+      "chapter": "20",
+      "url": "https://legislation.nysenate.gov/api/3/laws/GBS",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-11-06",
+          "commit": "aace17d5c8a67e7235666a7404d84d106e86b51e",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/GBS?full=true&date=2026-11-06",
+          "sha256": "58784d588b293e11608875886b1682de75d504d2d415cb364f1650161e68e231",
+          "units": 1588,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "general-municipal-law",
+      "short": "General Municipal",
+      "title": "General Municipal",
+      "law_id": "GMU",
+      "law_type": "CONSOLIDATED",
+      "chapter": "24",
+      "url": "https://legislation.nysenate.gov/api/3/laws/GMU",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-11",
+          "commit": "f6224c6582047c6f933992106174110982ccc9a0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/GMU?full=true&date=2026-09-11",
+          "sha256": "8a2efe0daf56ffc4542f676095077a19f9b6ba028e25ea6374c9c3baab34ef7c",
+          "units": 1216,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "insurance-law",
+      "short": "Insurance",
+      "title": "Insurance",
+      "law_id": "ISC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "28",
+      "url": "https://legislation.nysenate.gov/api/3/laws/ISC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-02",
+          "commit": "585d378f7ebf3abbff0d341e71cf2586b0a272c0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/ISC?full=true&date=2026-10-02",
+          "sha256": "ba3c7a5ec682045428b99ef48b66d310a8787d79726bc196167df5c6972d2217",
+          "units": 1137,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-jud",
+      "short": "Judiciary",
+      "title": "Judiciary",
+      "law_id": "JUD",
+      "law_type": "CONSOLIDATED",
+      "chapter": "30",
+      "url": "https://legislation.nysenate.gov/api/3/laws/JUD",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-08-28",
+          "commit": "b1ee1430aeb997341882e1b7b23797e7949b8c4c",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/JUD?full=true&date=2026-08-28",
+          "sha256": "35b51422eeae648069a64b6dff6aa12da94df7c9ebd485cf8cec51b281e9b007",
+          "units": 585,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "labor-law",
+      "short": "Labor",
+      "title": "Labor",
+      "law_id": "LAB",
+      "law_type": "CONSOLIDATED",
+      "chapter": "31",
+      "url": "https://legislation.nysenate.gov/api/3/laws/LAB",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "88f0355dbe74772c04dc34b4a30c85aa9d0de571",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LAB?full=true&date=2026-10-30",
+          "sha256": "346a3f3f69267f68a8f5eb8e9408ab032f189cdb05b1c52b326f2acfcfbdfc7f",
+          "units": 857,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-leg",
+      "short": "Legislative",
+      "title": "Legislative",
+      "law_id": "LEG",
+      "law_type": "CONSOLIDATED",
+      "chapter": "32",
+      "url": "https://legislation.nysenate.gov/api/3/laws/LEG",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-05-29",
+          "commit": "9f00f89fc5707c09a4b8f6bae7402ae0b091b6cd",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEG?full=true&date=2026-05-29",
+          "sha256": "c94b186a5fb4413e5f0f37c703103956a4bfded1a89dfc68d986b781fe269ee3",
+          "units": 143,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-leh",
+      "short": "Local Emergency Housing Rent Control Act 21/62",
+      "title": "Local Emergency Housing Rent Control Act 21/62",
+      "law_id": "LEH",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "21-1962",
+      "url": "https://legislation.nysenate.gov/api/3/laws/LEH",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-02-13",
+          "commit": "bbb3e0bfd7f3ca3c45557b4f3c2e1819335b3cb3",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2026-02-13",
+          "sha256": "8bce91f36cb758eacf704cd66643dd84120a1d05b8ee27ed4278a85995255f56",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-lfn",
+      "short": "Local Finance",
+      "title": "Local Finance",
+      "law_id": "LFN",
+      "law_type": "CONSOLIDATED",
+      "chapter": "33-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/LFN",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-04",
+          "commit": "ae978f54ce91305c29e03be73fad75cda3a93e43",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LFN?full=true&date=2026-09-04",
+          "sha256": "2380177be3279f46ff24e68882e221ed864fc479bbc687683c446d1ef42feb8d",
+          "units": 182,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-lie",
+      "short": "Lien",
+      "title": "Lien",
+      "law_id": "LIE",
+      "law_type": "CONSOLIDATED",
+      "chapter": "33",
+      "url": "https://legislation.nysenate.gov/api/3/laws/LIE",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2025-11-28",
+          "commit": "226eca71895c92a832f65ed54b5c6c877f296f3d",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2025-11-28",
+          "sha256": "e0d3449efc1666ade379c5e1b15ee1fc3a33c3f2e7659dc830706820dd2573ce",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-lsa",
+      "short": "Lost and Strayed Animals 115/1894",
+      "title": "Lost and Strayed Animals 115/1894",
+      "law_id": "LSA",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "115",
+      "url": "https://legislation.nysenate.gov/api/3/laws/LSA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2015-02-20",
+          "commit": "08373104c060fc306b389204d6fec7d54d5fd95a",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LSA?full=true&date=2015-02-20",
+          "sha256": "1c0917401a1e6d83fd036de727b2cb3547a5ecc6a3769f1a662bd73e3a48aae5",
+          "units": 21,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mcf",
+      "short": "Medical Care Facilities Finance Agency 392/73",
+      "title": "Medical Care Facilities Finance Agency 392/73",
+      "law_id": "MCF",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "392",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MCF",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-04",
+          "commit": "6901524631968ff4d14698d57b184ec0bc050d75",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MCF?full=true&date=2026-09-04",
+          "sha256": "51e428451c37a51723ba2c85d9b2aca6fabda48f8ea3ec68925348c1e43e8c0e",
+          "units": 32,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mdw",
+      "short": "Multiple Dwelling",
+      "title": "Multiple Dwelling",
+      "law_id": "MDW",
+      "law_type": "CONSOLIDATED",
+      "chapter": "61-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MDW",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-08-28",
+          "commit": "9a831cb81608398a023725ad6a4e5454d16333f4",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MDW?full=true&date=2026-08-28",
+          "sha256": "77215e44d9deceac826c35ec03cc97e28c5cefaec00488c9b96fae353cc95222",
+          "units": 225,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mha",
+      "short": "Municipal Housing Authorities",
+      "title": "Municipal Housing Authorities",
+      "law_id": "MHA",
+      "law_type": "CONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MHA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-04-10",
+          "commit": "cad2adfb0faada54e5e6937689f1f233ce32b277",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MHA?full=true&date=2026-04-10",
+          "sha256": "661bac9598d194cc440506eca46d45d4d45dd3cc4b428c0dad2a9427a5b1bd55",
+          "units": 20,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mhr",
+      "short": "Municipal Home Rule",
+      "title": "Municipal Home Rule",
+      "law_id": "MHR",
+      "law_type": "CONSOLIDATED",
+      "chapter": "36-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MHR",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-05-29",
+          "commit": "be8c54bcecc228d3bbb11ce5376a043d7ced1761",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MHR?full=true&date=2026-05-29",
+          "sha256": "69c08296bafd201b03f3c48fa91704b31ba22520cdef3a8c46e27cdbcf0c7937",
+          "units": 45,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mhy",
+      "short": "Mental Hygiene",
+      "title": "Mental Hygiene",
+      "law_id": "MHY",
+      "law_type": "CONSOLIDATED",
+      "chapter": "27",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MHY",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-06-26",
+          "commit": "3c3c431f17737360b3d33ab93096d8c2f50094e2",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MHY?full=true&date=2026-06-26",
+          "sha256": "df13e32ade155c2f559d20c5af7a43337fd10370f8dbe4f5ca65e40cdd57e07e",
+          "units": 557,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mil",
+      "short": "Military",
+      "title": "Military",
+      "law_id": "MIL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "36",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MIL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-11",
+          "commit": "3a6b55a92cdabb4e87c8b8ac8b741509d47fb6e9",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MIL?full=true&date=2026-09-11",
+          "sha256": "49a3f3879bdefae8ccb2434691761db6a1564f094e3770e478fd85875a96b406",
+          "units": 329,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-mre",
+      "short": "Multiple Residence",
+      "title": "Multiple Residence",
+      "law_id": "MRE",
+      "law_type": "CONSOLIDATED",
+      "chapter": "61-B",
+      "url": "https://legislation.nysenate.gov/api/3/laws/MRE",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-05-01",
+          "commit": "48c5ed02b9f83602339542b3d629ff145a8500d9",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2026-05-01",
+          "sha256": "e20f1d0598e0daa4f25870f750202c56c58768a49104ffb4d679eb4185f1f792",
+          "units": 127,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-nav",
+      "short": "Navigation",
+      "title": "Navigation",
+      "law_id": "NAV",
+      "law_type": "CONSOLIDATED",
+      "chapter": "37",
+      "url": "https://legislation.nysenate.gov/api/3/laws/NAV",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "da3e68e058e107d12c2892a9ca15ccdb880a92c4",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/NAV?full=true&date=2026-10-30",
+          "sha256": "90534596ae1e115ce8a19119543e0443ca64d36cd4a6b00b8dafb7b96ad0b71e",
+          "units": 248,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-nny",
+      "short": "New, New York Bond Act 649/92",
+      "title": "New, New York Bond Act 649/92",
+      "law_id": "NNY",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "649-1992",
+      "url": "https://legislation.nysenate.gov/api/3/laws/NNY",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "6553e290ab62f13b15ee6cdb8ce5449c2058fe28",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/NNY?full=true&date=2014-09-22",
+          "sha256": "9d3bfc680b610c0aa945a7f081b32ee27b1c780b43460da1b90c077f59f0faef",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-npc",
+      "short": "Not-for-Profit Corporation",
+      "title": "Not-for-Profit Corporation",
+      "law_id": "NPC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "35",
+      "url": "https://legislation.nysenate.gov/api/3/laws/NPC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "78a6f5771372a545b10b5c84ef5daaf93e0a90e8",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/NPC?full=true&date=2026-10-30",
+          "sha256": "018da838ebab37016eb2cda6a25a5d3aa6c3492801dc472ff9bbcf265555d658",
+          "units": 284,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-nyp",
+      "short": "NYS Project Finance Agency Act7/75",
+      "title": "NYS Project Finance Agency Act7/75",
+      "law_id": "NYP",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "7",
+      "url": "https://legislation.nysenate.gov/api/3/laws/NYP",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "7e3235502a7cad87db31c371151906f0dd8c14fe",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/NYP?full=true&date=2014-09-22",
+          "sha256": "dc392b039dd5dcce06f163329a338449a2e53e00c925c4c1ba0c67abf40bf9f0",
+          "units": 24,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-nyw",
+      "short": "N. Y. wine/grape 80/85",
+      "title": "N. Y. wine/grape 80/85",
+      "law_id": "NYW",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "80",
+      "url": "https://legislation.nysenate.gov/api/3/laws/NYW",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "ba0590b140b44ecc005a4c173bff3b3d0c3f6a30",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/NYW?full=true&date=2014-09-22",
+          "sha256": "3cb2b55ec2c3cf71b5ffa0eb9f4fc7933e44bc8813bd48a57bf4f70189a74fe4",
+          "units": 13,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pab",
+      "short": "Private Activity Bond 47/90",
+      "title": "Private Activity Bond 47/90",
+      "law_id": "PAB",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PAB",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "632412849df81dd8dbf79701621916cb20fe83ef",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PAB?full=true&date=2014-09-22",
+          "sha256": "97739db8f449688572d265151d53ce1bd59358307e8a20035cf6a33fe67d5dac",
+          "units": 15,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-par",
+      "short": "Parks, Recreation and Historic Preservation",
+      "title": "Parks, Recreation and Historic Preservation",
+      "law_id": "PAR",
+      "law_type": "CONSOLIDATED",
+      "chapter": "36-B",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PAR",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-07-03",
+          "commit": "e0f5552fb858c91f9f9d6b0ca71044a48636f37b",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PAR?full=true&date=2026-07-03",
+          "sha256": "21937c6a7708c781a344864489c73c38b7bd3b2db5fa671dec5ab7b35a91105e",
+          "units": 200,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pba",
+      "short": "Public Authorities",
+      "title": "Public Authorities",
+      "law_id": "PBA",
+      "law_type": "CONSOLIDATED",
+      "chapter": "43-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-02",
+          "commit": "443f431228890a9621366519ce1863b2f6a12275",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBA?full=true&date=2026-10-02",
+          "sha256": "112e3ddd757aa5e4734eb6e418dc10ab1c6613586c54bfe1939867804821e30f",
+          "units": 3458,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pbb",
+      "short": "Public Buildings",
+      "title": "Public Buildings",
+      "law_id": "PBB",
+      "law_type": "CONSOLIDATED",
+      "chapter": "44",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBB",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2025-12-19",
+          "commit": "765a6aa25f279499d1f0b9ac6e81ea98e083780f",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBB?full=true&date=2025-12-19",
+          "sha256": "bdd59dd0aa1ceb61b0b381b47786d7bfc0c1bcecf1b9dfb21c4ecde1bfe12500",
+          "units": 67,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pbg",
+      "short": "Public Housing",
+      "title": "Public Housing",
+      "law_id": "PBG",
+      "law_type": "CONSOLIDATED",
+      "chapter": "44-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBG",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-04",
+          "commit": "9174e760888c7562dded5600095efe593962248b",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBG?full=true&date=2026-09-04",
+          "sha256": "9ca6a12b5c1c2797995780a34cb71b3263a5d87799e15c51a0ec711980c06499",
+          "units": 582,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "public-health-law",
+      "short": "Public Health",
+      "title": "Public Health",
+      "law_id": "PBH",
+      "law_type": "CONSOLIDATED",
+      "chapter": "45",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBH",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-09",
+          "commit": "351a30599b23df65ab877fa3e5ecf0c96e6121df",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBH?full=true&date=2026-10-09",
+          "sha256": "9c3c1f6af611085eb6a000d3963955d5d6894a336e23966b4d4c4b90cd51028c",
+          "units": 2071,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pbl",
+      "short": "Public Lands",
+      "title": "Public Lands",
+      "law_id": "PBL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "46",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2022-12-23",
+          "commit": "4f87979dc5a62c66fb1f22998fcb31b9af480457",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2022-12-23",
+          "sha256": "343301913a2f426702c36c063b7b8cb4c4178b11c9fb857e9e3eecc48be49ccf",
+          "units": 88,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pbo",
+      "short": "Public Officers",
+      "title": "Public Officers",
+      "law_id": "PBO",
+      "law_type": "CONSOLIDATED",
+      "chapter": "47",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBO",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "fc1d38813cad35f90adc2e5139f65fd912153121",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBO?full=true&date=2026-10-30",
+          "sha256": "877e7646072c357655563892410a36a4a96c1a2b5a61a18d140f56935ccd92ba",
+          "units": 127,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pbs",
+      "short": "Public Service",
+      "title": "Public Service",
+      "law_id": "PBS",
+      "law_type": "CONSOLIDATED",
+      "chapter": "48",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PBS",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-07-03",
+          "commit": "013b0f704e735862132146dbabb669719627fe9f",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBS?full=true&date=2026-07-03",
+          "sha256": "cf5aa5879ec3910fb4e23de36fb007c82b30c227be09deb595090bc007794c26",
+          "units": 291,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pcm",
+      "short": "Police Certain Municipalities 360/11",
+      "title": "Police Certain Municipalities 360/11",
+      "law_id": "PCM",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PCM",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "043b0f7f01ef8ea0c35b68f66edb6213d09e108a",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PCM?full=true&date=2014-09-22",
+          "sha256": "6bb2329a19c779b3fadb6045f8387d992ecbf82955bfe1a14d3cb64ae8da4208",
+          "units": 6,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "penal-law",
+      "short": "Penal",
+      "title": "Penal",
+      "law_id": "PEN",
+      "law_type": "CONSOLIDATED",
+      "chapter": "40",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PEN",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-23",
+          "commit": "0acb0784fb6158fd6fd87d416becb5f122dd335c",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PEN?full=true&date=2026-10-23",
+          "sha256": "cd25ebe5cc2973809b314dadfb3886e6dadf29f7d67cfd171488610b98808491",
+          "units": 1000,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pep",
+      "short": "Personal Property",
+      "title": "Personal Property",
+      "law_id": "PEP",
+      "law_type": "CONSOLIDATED",
+      "chapter": "41",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PEP",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-07-03",
+          "commit": "7f504f273c549efc7e5368f49b10697743f4e614",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PEP?full=true&date=2026-07-03",
+          "sha256": "eab7624f6056f79f9ab622e2e2f26e466cae55035ac8e0c1e251a65ef193f8dd",
+          "units": 149,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pml",
+      "short": "Racing, Pari-Mutuel Wagering and Breeding Law",
+      "title": "Racing, Pari-Mutuel Wagering and Breeding Law",
+      "law_id": "PML",
+      "law_type": "CONSOLIDATED",
+      "chapter": "47-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PML",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-07-24",
+          "commit": "960f095fb7078d86ede2d09eebc203ad6556ea3f",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PML?full=true&date=2026-07-24",
+          "sha256": "fddd43c3ab343bb6b9d35698c5abd034dde75219e4e5595f0e8c3023d390693b",
+          "units": 402,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pny",
+      "short": "Port of New York Authority 154/21",
+      "title": "Port of New York Authority 154/21",
+      "law_id": "PNY",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PNY",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2024-10-04",
+          "commit": "1d482f50a503a4ef5eb4f7b5e12c5f378edebb20",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PNY?full=true&date=2024-10-04",
+          "sha256": "2d2e4263f4f30ad0c55e386f7f41dcad957439bf5e425a70cf195c3c0eea7eff",
+          "units": 4,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-poa",
+      "short": "Port of Albany 192/25",
+      "title": "Port of Albany 192/25",
+      "law_id": "POA",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "192",
+      "url": "https://legislation.nysenate.gov/api/3/laws/POA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "81ed0db3f4a1dc5d369720b719b4d1c2c8989e30",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/POA?full=true&date=2014-09-22",
+          "sha256": "360b483f4f1a5bc00d17215cadc8a472ce374b2386dd9493f286b53158f22c67",
+          "units": 19,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-ppd",
+      "short": "New York State Printing and Public Documents",
+      "title": "New York State Printing and Public Documents",
+      "law_id": "PPD",
+      "law_type": "CONSOLIDATED",
+      "chapter": "58",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PPD",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "395947611d82c771bda630bd37e4fc3b23e5fb2a",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PPD?full=true&date=2014-09-22",
+          "sha256": "153a6b3c3d3a459f26d832072fe9c215c1cf6aaa1fe3f9d8dd88b2952bcf3f0c",
+          "units": 21,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-ptr",
+      "short": "Partnership",
+      "title": "Partnership",
+      "law_id": "PTR",
+      "law_type": "CONSOLIDATED",
+      "chapter": "39",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PTR",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-04",
+          "commit": "81a6d05c44523a4f39fed47924a5d6e13860f091",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PTR?full=true&date=2026-09-04",
+          "sha256": "ae95e8d9e5ccd646aa8caf8cb63ec637efa67fb8ce9762fc35ba38737eb0808b",
+          "units": 177,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-pvh",
+      "short": "Private Housing Finance",
+      "title": "Private Housing Finance",
+      "law_id": "PVH",
+      "law_type": "CONSOLIDATED",
+      "chapter": "44-B",
+      "url": "https://legislation.nysenate.gov/api/3/laws/PVH",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-08-07",
+          "commit": "bbe926705604b3441324974229c6ebc50bd60662",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PVH?full=true&date=2026-08-07",
+          "sha256": "33f3a24fceda818ed5ccb92f353563055bfe868f0c5a10fe350cd9a0659bf80b",
+          "units": 483,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rat",
+      "short": "Rapid Transit",
+      "title": "Rapid Transit",
+      "law_id": "RAT",
+      "law_type": "CONSOLIDATED",
+      "chapter": "48-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RAT",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-06-26",
+          "commit": "0544b0f718839f3447549396d8a90fdac4dca7e0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RAT?full=true&date=2026-06-26",
+          "sha256": "98f6d0d4fc94306dd8d8e6e37dd981dbc730f1925cf86ffbb1eeb8d81d71002d",
+          "units": 89,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rco",
+      "short": "Religious Corporations",
+      "title": "Religious Corporations",
+      "law_id": "RCO",
+      "law_type": "CONSOLIDATED",
+      "chapter": "51",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RCO",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2025-12-19",
+          "commit": "0da1249a73e2c614ac36aef297297c6a79eaaed4",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RCO?full=true&date=2025-12-19",
+          "sha256": "bc37d5b1a5c78a7635bfd4677d2a31145588bab3d2231adabdc87540ddf98f89",
+          "units": 372,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rel",
+      "short": "Rural Electric Cooperative",
+      "title": "Rural Electric Cooperative",
+      "law_id": "REL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "77-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/REL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2021-07-09",
+          "commit": "adc13e6db33cc8329ed0510bc8ca83ce44f66240",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/REL?full=true&date=2021-07-09",
+          "sha256": "12c2f9ba788866e07cffa0a69c9d9d8153a1db84541f3ecf4cec33d73fc714c7",
+          "units": 54,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rla",
+      "short": "Regulation of Lobbying Act 1040/81",
+      "title": "Regulation of Lobbying Act 1040/81",
+      "law_id": "RLA",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RLA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "f6ad22ae447f666e063aa2dfd6f82a586d806afe",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RLA?full=true&date=2014-09-22",
+          "sha256": "e8ecd7c33c29e7e6c246bd7d3d87d0fcc436eed1742cddeac032279b6df40b33",
+          "units": 16,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rpa",
+      "short": "Real Property Actions & Proceedings",
+      "title": "Real Property Actions & Proceedings",
+      "law_id": "RPA",
+      "law_type": "CONSOLIDATED",
+      "chapter": "81",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RPA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-07-03",
+          "commit": "318158ff0abeb7b8f7706f9c83237c103d8f4dd0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RPA?full=true&date=2026-07-03",
+          "sha256": "22c8ceee729b8454792a5c0a2a442bfb65a1dea9b28332a8637421cec6812d7f",
+          "units": 393,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "real-property-law",
+      "short": "Real Property",
+      "title": "Real Property",
+      "law_id": "RPP",
+      "law_type": "CONSOLIDATED",
+      "chapter": "50",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RPP",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-04",
+          "commit": "4e2c0c961ef5e9c69b2e42c5bf07b6a5ca87ee75",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RPP?full=true&date=2026-09-04",
+          "sha256": "96c03d47a8ce86a66e923a5cfaa0e5f947904f3ea954ff68f6ab11f39dad91d4",
+          "units": 490,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rpt",
+      "short": "Real Property Tax",
+      "title": "Real Property Tax",
+      "law_id": "RPT",
+      "law_type": "CONSOLIDATED",
+      "chapter": "50-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RPT",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "7702f085d729975fede1451a4140164bc310e2c2",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RPT?full=true&date=2026-10-30",
+          "sha256": "0feaf3eeab9754d502533d1f31a8a332b2b1d430c8591f3daedd3bcaa36b50ae",
+          "units": 889,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rrd",
+      "short": "Railroad",
+      "title": "Railroad",
+      "law_id": "RRD",
+      "law_type": "CONSOLIDATED",
+      "chapter": "49",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RRD",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2024-02-16",
+          "commit": "d0548d42c26b718e3b8193a31ee30e21079ca235",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RRD?full=true&date=2024-02-16",
+          "sha256": "e9ec126708d2bfb17506e391825eb4f58f04a357c724e1ca9c8af7d6d3bd835e",
+          "units": 210,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-rss",
+      "short": "Retirement & Social Security",
+      "title": "Retirement & Social Security",
+      "law_id": "RSS",
+      "law_type": "CONSOLIDATED",
+      "chapter": "51-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/RSS",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-02",
+          "commit": "6cdc28ecd75282b9d9a4f008fa5fe8f781f811a5",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/RSS?full=true&date=2026-10-02",
+          "sha256": "b8912361402a75f665a8dddd828b0b50b2d3632c2fc8c9c83ff11abbc2bc7d87",
+          "units": 637,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-sap",
+      "short": "State Administrative Procedure Act",
+      "title": "State Administrative Procedure Act",
+      "law_id": "SAP",
+      "law_type": "CONSOLIDATED",
+      "chapter": "82",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SAP",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "80e329b4087380f729e0688dd9a23c6f2ce4c811",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SAP?full=true&date=2026-10-30",
+          "sha256": "a608c7aaa37a18329672d5c69c07c38ba68c65e4b33b8bb5dce83ef6d7808d3d",
+          "units": 39,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-scc",
+      "short": "Second Class Cities",
+      "title": "Second Class Cities",
+      "law_id": "SCC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "53",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SCC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-06-19",
+          "commit": "1c12b14909791b31207c7e320d0ce84b71a1d649",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SCC?full=true&date=2026-06-19",
+          "sha256": "0a155cb0da7def60f20095021b283c4a96215f9169334aee2abbc392918808cc",
+          "units": 164,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-scp",
+      "short": "Surrogate's Court Procedure",
+      "title": "Surrogate's Court Procedure",
+      "law_id": "SCP",
+      "law_type": "COURT_ACTS",
+      "chapter": "59-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SCP",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-18",
+          "commit": "b3596e01a342e13f3828a423b8827a786bbc673a",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SCP?full=true&date=2026-09-18",
+          "sha256": "12b014850b8d6bd2319da6266cab49f3549b46bdadffc664c3dc74bfede09960",
+          "units": 416,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-sct",
+      "short": "Suffolk County Tax Act",
+      "title": "Suffolk County Tax Act",
+      "law_id": "SCT",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SCT",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2016-12-09",
+          "commit": "c4e4dce10a1081452a8f8e4e839a62d1df5a99b7",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SCT?full=true&date=2016-12-09",
+          "sha256": "d1f5820517c07a2512a2513b293df2e5ff3c057a5b8fd11c48a00b7a8d417161",
+          "units": 92,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-slg",
+      "short": "Statute of Local Governments",
+      "title": "Statute of Local Governments",
+      "law_id": "SLG",
+      "law_type": "CONSOLIDATED",
+      "chapter": "58-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SLG",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "4263952b42c1b36888bd8577e7f81a2154285ed2",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SLG?full=true&date=2014-09-22",
+          "sha256": "2290aaa7fe755ce9bbcbfa5c2a6fae98ece4dc10871b4e8dae295d974ba83307",
+          "units": 13,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-snh",
+      "short": "Special Needs Housing Act 261/88",
+      "title": "Special Needs Housing Act 261/88",
+      "law_id": "SNH",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "1988",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SNH",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "23cdbf03fe125afd16d7b81b44da70a93ed68118",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SNH?full=true&date=2014-09-22",
+          "sha256": "7a64295abbefd8274e70912bde261cbb176c67f1f35b7eb1979aeed7c57ea2bf",
+          "units": 6,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-stf",
+      "short": "State Finance",
+      "title": "State Finance",
+      "law_id": "STF",
+      "law_type": "CONSOLIDATED",
+      "chapter": "56",
+      "url": "https://legislation.nysenate.gov/api/3/laws/STF",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-23",
+          "commit": "ce95bd6abe3f5aa9fd546994d8c97c38aaf02d08",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/STF?full=true&date=2026-10-23",
+          "sha256": "0a00d8d9683e38601823cc8323721cfd3894da9fe88c5c352b4c4b1d78ce88cf",
+          "units": 607,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-stl",
+      "short": "State",
+      "title": "State",
+      "law_id": "STL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "57",
+      "url": "https://legislation.nysenate.gov/api/3/laws/STL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-01-09",
+          "commit": "438f3d438404aefb9ea4d838ecf3cf3a5c8b06c8",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/STL?full=true&date=2026-01-09",
+          "sha256": "5033998ce4cbb1bafbb62403d4868fb836ad3a99213c869d650f1fdfc424b159",
+          "units": 116,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-stt",
+      "short": "State Technology",
+      "title": "State Technology",
+      "law_id": "STT",
+      "law_type": "CONSOLIDATED",
+      "chapter": "57-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/STT",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-03-20",
+          "commit": "7897c8f334b4389aaf30643a4764491b914d8755",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/STT?full=true&date=2026-03-20",
+          "sha256": "41d8af32a439d5f4ffd1a7cd2ede8bae680f92bec7bb517eb6a06bf47cf2ff4d",
+          "units": 49,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-swc",
+      "short": "Soil & Water Conservation Districts",
+      "title": "Soil & Water Conservation Districts",
+      "law_id": "SWC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "9-B",
+      "url": "https://legislation.nysenate.gov/api/3/laws/SWC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2023-04-28",
+          "commit": "501c69210ac515fd1f36539c89eaf6ffac32b448",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/SWC?full=true&date=2023-04-28",
+          "sha256": "65671f813ac0cc1aece668e66f017c004d0063fb93dbb63758842fbfe56e71f9",
+          "units": 22,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "tax-law",
+      "short": "Tax",
+      "title": "Tax",
+      "law_id": "TAX",
+      "law_type": "CONSOLIDATED",
+      "chapter": "60",
+      "url": "https://legislation.nysenate.gov/api/3/laws/TAX",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "36b21dfe8dbf60b5e7f0d9ec1660256ea1a5832d",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TAX?full=true&date=2026-10-30",
+          "sha256": "993a0d22dbc7db1e175bd6169e3bd72bff6b8a3b0fe57a281f5685f08c749e30",
+          "units": 1533,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-tcp",
+      "short": "Transportation Corporations",
+      "title": "Transportation Corporations",
+      "law_id": "TCP",
+      "law_type": "CONSOLIDATED",
+      "chapter": "63",
+      "url": "https://legislation.nysenate.gov/api/3/laws/TCP",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-04-10",
+          "commit": "21001dbe80e4bffbd22e32862b351b7637dc9b66",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TCP?full=true&date=2026-04-10",
+          "sha256": "7e597081be757b0a68a3a63cd0a2260407ca50251f9c8d3b17e73c58bd282aea",
+          "units": 83,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-tra",
+      "short": "Transportation",
+      "title": "Transportation",
+      "law_id": "TRA",
+      "law_type": "CONSOLIDATED",
+      "chapter": "61-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/TRA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-09",
+          "commit": "3dcdc80652f9dc1fc29be1224e32a9fd57fb21cc",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TRA?full=true&date=2026-10-09",
+          "sha256": "dcc1ecfd7dce50a1b588701a395143447b35ac08e6e6d57ebd72f1fb6b036327",
+          "units": 358,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-try",
+      "short": "City of Troy Issuance of Serial Bonds",
+      "title": "City of Troy Issuance of Serial Bonds",
+      "law_id": "TRY",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/TRY",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "6b367f787835485c07e8ec1534bee48e74a54801",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TRY?full=true&date=2014-09-22",
+          "sha256": "fc338aeafeac1d6c17a323347b7c34518bfdfca3d2f1684cec325e1f6856fa9e",
+          "units": 18,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-tsf",
+      "short": "Tobacco Settlement Financing Corporation Act",
+      "title": "Tobacco Settlement Financing Corporation Act",
+      "law_id": "TSF",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "CONTENTS",
+      "url": "https://legislation.nysenate.gov/api/3/laws/TSF",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2022-12-23",
+          "commit": "197452e329979730417a60938e30177a527fafda",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TSF?full=true&date=2022-12-23",
+          "sha256": "64b750d03be3e007cdd14c5f07fd71e93b83fc3818b0a6d197cf8018e8a330c2",
+          "units": 17,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-twn",
+      "short": "Town",
+      "title": "Town",
+      "law_id": "TWN",
+      "law_type": "CONSOLIDATED",
+      "chapter": "62",
+      "url": "https://legislation.nysenate.gov/api/3/laws/TWN",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "4ed44b4ea5b1a77f34c05de54562562eed205337",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TWN?full=true&date=2026-10-30",
+          "sha256": "e6c16544022904244f03d8305065ca85cdc26d4877c817c783925533a95e52f1",
+          "units": 400,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-ucc",
+      "short": "Uniform Commercial Code",
+      "title": "Uniform Commercial Code",
+      "law_id": "UCC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "38",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UCC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-06-12",
+          "commit": "6b93c07b7f22407f9ad2eda6ee51dd8b959f582e",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UCC?full=true&date=2026-06-12",
+          "sha256": "daa72ed040d9efec02ba6d024899d5d80a82f8236e6d6f0ca4543ba9bfd8f06c",
+          "units": 732,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-uct",
+      "short": "Uniform City Court Act",
+      "title": "Uniform City Court Act",
+      "law_id": "UCT",
+      "law_type": "COURT_ACTS",
+      "chapter": "497",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UCT",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-05-29",
+          "commit": "7ab4494b1aaaeeef84fad10868e30f547b25e4e9",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UCT?full=true&date=2026-05-29",
+          "sha256": "bfdce3496ab20dc0d3ee34999f631bb60bf570ba4c6407dc690a3e7fb828d1e9",
+          "units": 157,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-uda",
+      "short": "Urban Development Corporation Act 174/68",
+      "title": "Urban Development Corporation Act 174/68",
+      "law_id": "UDA",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "INTRO",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UDA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-04",
+          "commit": "949f5260a761aad70a3fd81f7eed81b18cf6631d",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UDA?full=true&date=2026-09-04",
+          "sha256": "dd1d6e95c572bd163ce842c5ce282cfe70b95ab2aa9a407afed8627a70ad7720",
+          "units": 110,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-udc",
+      "short": "Uniform District Court Act",
+      "title": "Uniform District Court Act",
+      "law_id": "UDC",
+      "law_type": "COURT_ACTS",
+      "chapter": "565",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UDC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-06-26",
+          "commit": "13fd5409fe290cbf78c32824b2c7598cd606d7a7",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UDC?full=true&date=2026-06-26",
+          "sha256": "138b23dc896ed9581ec88a7f33b871cd6f4e72bf1b5d55a7f1fc383e33ac59ae",
+          "units": 208,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-udg",
+      "short": "Urban development guarantee fund of New York 175/68",
+      "title": "Urban development guarantee fund of New York 175/68",
+      "law_id": "UDG",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UDG",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "a8a55d24453ea208def1bde757e59cb067adca0d",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UDG?full=true&date=2014-09-22",
+          "sha256": "2949bcc395478845ab7feaf6f218c6641b6d89c8b8a629c6a6f12fc799d6cf44",
+          "units": 20,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-udr",
+      "short": "Urban development research corporation act 173/68",
+      "title": "Urban development research corporation act 173/68",
+      "law_id": "UDR",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "173",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UDR",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "dffcfda46aa0c1ec18af94fc35658acdd7577041",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UDR?full=true&date=2014-09-22",
+          "sha256": "bcbd7f6bc724c0495eee95f1fe7d66ba47a8a9e51ef64bdae8b3bece32120021",
+          "units": 27,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-ujc",
+      "short": "Uniform Justice Court Act",
+      "title": "Uniform Justice Court Act",
+      "law_id": "UJC",
+      "law_type": "COURT_ACTS",
+      "chapter": "898",
+      "url": "https://legislation.nysenate.gov/api/3/laws/UJC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2024-12-20",
+          "commit": "6888f28c1d85ede5970f241414df4b47aafb0b8a",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/UJC?full=true&date=2024-12-20",
+          "sha256": "4210ca5445a1265be2639925d085137451079cf4689ca9aba291f743de38fd13",
+          "units": 142,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "vehicle-and-traffic-law",
+      "short": "Vehicle & Traffic",
+      "title": "Vehicle & Traffic",
+      "law_id": "VAT",
+      "law_type": "CONSOLIDATED",
+      "chapter": "71",
+      "url": "https://legislation.nysenate.gov/api/3/laws/VAT",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "789a3a8e351847696bd5fc05af888a2ec77dd321",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/VAT?full=true&date=2026-10-30",
+          "sha256": "23f1fef1ee00730c1c5fe6a4ca6e2db9297cd1bc588a8c782d856a4835f9501d",
+          "units": 1083,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-vaw",
+      "short": "Volunteer Ambulance Workers' Benefit",
+      "title": "Volunteer Ambulance Workers' Benefit",
+      "law_id": "VAW",
+      "law_type": "CONSOLIDATED",
+      "chapter": "64-B",
+      "url": "https://legislation.nysenate.gov/api/3/laws/VAW",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-04-17",
+          "commit": "fae8abd5fd74d768df75b5fe151dcc06d559d5ba",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/VAW?full=true&date=2026-04-17",
+          "sha256": "b112d58395b60f5d661d99333985b64673003bb7bc1202d4c2d937ee58da4fa9",
+          "units": 61,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-vet",
+      "short": "Veterans' Services",
+      "title": "Veterans' Services",
+      "law_id": "VET",
+      "law_type": "CONSOLIDATED",
+      "chapter": "13",
+      "url": "https://legislation.nysenate.gov/api/3/laws/VET",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-05-08",
+          "commit": "d180eb85ec0d6ff4c62554a64ec302ad458681d8",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/VET?full=true&date=2026-05-08",
+          "sha256": "4143421c655dfd6d9739bed4531039dd1ead7c86a06c6b4356f2454c0351c217",
+          "units": 50,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-vil",
+      "short": "Village",
+      "title": "Village",
+      "law_id": "VIL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "64",
+      "url": "https://legislation.nysenate.gov/api/3/laws/VIL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-10-30",
+          "commit": "329cbba7029542f228de12dbaa136303056cab3d",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/VIL?full=true&date=2026-10-30",
+          "sha256": "a9b71f184f637e37f8a7ec90a79ca3007f9392d9862567c17b9b74b489ab25f0",
+          "units": 267,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-vol",
+      "short": "Volunteer Firefighters' Benefit",
+      "title": "Volunteer Firefighters' Benefit",
+      "law_id": "VOL",
+      "law_type": "CONSOLIDATED",
+      "chapter": "64-A",
+      "url": "https://legislation.nysenate.gov/api/3/laws/VOL",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-05-15",
+          "commit": "8f4cebc3b7cadd4935224c0061fbbc4ef663a01f",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/VOL?full=true&date=2026-05-15",
+          "sha256": "e98eebc0c24ded72e77c6eb985115472c058a00aae72841f48a45f75e077d80f",
+          "units": 65,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-wkc",
+      "short": "Workers' Compensation",
+      "title": "Workers' Compensation",
+      "law_id": "WKC",
+      "law_type": "CONSOLIDATED",
+      "chapter": "67",
+      "url": "https://legislation.nysenate.gov/api/3/laws/WKC",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2026-09-11",
+          "commit": "c803b82228c101bdcd22b90b76db6fd9280d8857",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/WKC?full=true&date=2026-09-11",
+          "sha256": "7ee7c7aa220613a60240c37d65c57574f0bbc1057b590855364cd36e5f0051de",
+          "units": 336,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-yfa",
+      "short": "Yonkers financial emergency act 103/84",
+      "title": "Yonkers financial emergency act 103/84",
+      "law_id": "YFA",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "1984",
+      "url": "https://legislation.nysenate.gov/api/3/laws/YFA",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "c5cb2728f031027cf9c5d4fc78b41b9e2260d17c",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/YFA?full=true&date=2014-09-22",
+          "sha256": "bbf4a8a598a9f6ed804a33d2c88d4f1f36c4d75f4b33e460d67c02fc1c247c70",
+          "units": 15,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
+    },
+    {
+      "slug": "law-yts",
+      "short": "Yonkers income tax surcharge",
+      "title": "Yonkers income tax surcharge",
+      "law_id": "YTS",
+      "law_type": "UNCONSOLIDATED",
+      "chapter": "",
+      "url": "https://legislation.nysenate.gov/api/3/laws/YTS",
+      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "versions": [
+        {
+          "from": "2014-09-22",
+          "commit": "9ddb2a94fa3a57b1683b6109d1e6a638b376cdf2",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/YTS?full=true&date=2014-09-22",
+          "sha256": "02410da1481d503345dde088877c206354ca113479b086c8116d494cd022fac1",
+          "units": 36,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        }
+      ]
     }
   ],
   "checked_on": "2026-11-11",
-  "history_type": "Official publication snapshots with protected prior representations"
+  "history_type": "Official publication snapshots; some laws have current snapshot only"
 }

@@ -5,9 +5,9 @@
   "future_branch": "future",
   "publisher": "New York Department of State",
   "build": "partial",
-  "acts": 51,
-  "versions": 1596,
-  "verified_api_entries": 48,
-  "api_snapshot_versions": 1591,
+  "acts": 136,
+  "versions": 1681,
+  "verified_api_entries": 133,
+  "api_snapshot_versions": 1676,
   "checked_on": "2026-11-11"
 }
