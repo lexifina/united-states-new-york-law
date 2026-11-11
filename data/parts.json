@@ -6,6 +6,12 @@
    ],
    "sha256": "67fea06471a2bdcebd956d8197741f93ef744d6da569784180517bc47c99de3d"
   },
+  "50-bsc.json": {
+   "acts": [
+    "business-corporation-law"
+   ],
+   "sha256": "3e292b4bbd3a622d6e44e73d9a6f0229d7701cacd53bdba633f0a793d38bbc44"
+  },
   "50-llc.json": {
    "acts": [
     "limited-liability-company-law"

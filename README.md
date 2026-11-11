@@ -9,6 +9,7 @@ The law of New York as a git history: one file per provision, with `git blame` a
 | Folder | What | Sections | Versions (in force from) | Source |
 | --- | --- | ---: | --- | --- |
 | `constitution/` | Constitution of the State of New York: preamble and 20 articles | 206 | 2022-01-01, 2025-01-01, 2026-01-01 | Department of State editions |
+| `business-corporation-law/` | New York Business Corporation Law | 109 | 2024-07-26 | Internet Archive copy of nysenate.gov, 2025-04-05 to 2026-10-27 |
 | `limited-liability-company-law/` | New York Limited Liability Company Law | 124 | 2024-06-14 | Internet Archive copy of nysenate.gov, 2025-02-20 to 2026-10-26 |
 
 `constitution/art-01-sec-011.md` is N.Y. Const. art. I, § 11; a lettered section such as art. VI, § 36-a is `art-06-sec-036-a.md`; the preamble is `preamble.md`. In a Consolidated Law, `limited-liability-company-law/sec-1101.md` is LLC Law § 1101 (numbers zero-padded to four digits, so `sec-0010-0000.md` is § 10.00 and `sec-0001-a.md` is § 1-a). Each file starts with the section heading line as printed, then one paragraph per line.

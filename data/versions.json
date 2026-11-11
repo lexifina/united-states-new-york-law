@@ -28,6 +28,20 @@
    ]
   },
   {
+   "slug": "business-corporation-law",
+   "short": "N.Y. Business Corporation Law",
+   "title": "New York Business Corporation Law",
+   "url": "https://www.nysenate.gov/legislation/laws/BSC",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 109,
+     "source_url": "https://web.archive.org/web/20261018160402/https://www.nysenate.gov/legislation/laws/BSC",
+     "sha256": "be0e11c36c6380471b7027f4a34b6c755e25468a1929d52f5e7a5280271a0120"
+    }
+   ]
+  },
+  {
    "slug": "limited-liability-company-law",
    "short": "N.Y. Limited Liability Company Law",
    "title": "New York Limited Liability Company Law",
