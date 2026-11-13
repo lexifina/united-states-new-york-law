@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders and 1706 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
+This record contains 136 law folders and 1708 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -73,7 +73,7 @@ This record contains 136 law folders and 1706 official publication snapshots. Ea
 | LEH | Local Emergency Housing Rent Control Act 21/62 | `law-leh/` | 6 |
 | LFN | Local Finance | `law-lfn/` | 1 |
 | LIE | Lien | `law-lie/` | 8 |
-| LSA | Lost and Strayed Animals 115/1894 | `law-lsa/` | 1 |
+| LSA | Lost and Strayed Animals 115/1894 | `law-lsa/` | 3 |
 | MCF | Medical Care Facilities Finance Agency 392/73 | `law-mcf/` | 1 |
 | MDW | Multiple Dwelling | `law-mdw/` | 1 |
 | MHA | Municipal Housing Authorities | `law-mha/` | 2 |

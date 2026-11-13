@@ -13746,11 +13746,27 @@
       "law_type": "UNCONSOLIDATED",
       "chapter": "115",
       "url": "https://legislation.nysenate.gov/api/3/laws/LSA",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "9897b19b995e2214ba596ff3e5b0f3e9591b6ed9",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LSA?full=true&date=2014-09-22",
+          "sha256": "37d9533fa4cadd2e1c626c2d7bfe27999747f57ae138ac5689ea87187fa68356",
+          "units": 21,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2014-12-26",
+          "commit": "e88887bb83b435537243266820ab63ce3b02e987",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LSA?full=true&date=2014-12-26",
+          "sha256": "d64531d0a2c1f012d08886e53078efe4fe4c7a3ff1246dfc95a2e4fdab38afaf",
+          "units": 21,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2015-02-20",
-          "commit": "08373104c060fc306b389204d6fec7d54d5fd95a",
+          "commit": "b414ff1df00fd5c2449d7f7aa21fc8eb6ea18787",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/LSA?full=true&date=2015-02-20",
           "sha256": "1c0917401a1e6d83fd036de727b2cb3547a5ecc6a3769f1a662bd73e3a48aae5",
           "units": 21,
