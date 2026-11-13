@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders and 1715 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
+This record contains 136 law folders and 1719 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -106,7 +106,7 @@ This record contains 136 law folders and 1715 official publication snapshots. Ea
 | PVH | Private Housing Finance | `law-pvh/` | 1 |
 | RAT | Rapid Transit | `law-rat/` | 1 |
 | RCO | Religious Corporations | `law-rco/` | 1 |
-| REL | Rural Electric Cooperative | `law-rel/` | 1 |
+| REL | Rural Electric Cooperative | `law-rel/` | 5 |
 | RLA | Regulation of Lobbying Act 1040/81 | `law-rla/` | 1 |
 | RPA | Real Property Actions & Proceedings | `law-rpa/` | 1 |
 | RPP | Real Property | `real-property-law/` | 1 |

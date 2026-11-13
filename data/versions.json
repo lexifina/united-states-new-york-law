@@ -14518,11 +14518,43 @@
       "law_type": "CONSOLIDATED",
       "chapter": "77-A",
       "url": "https://legislation.nysenate.gov/api/3/laws/REL",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "ff76fc43753750828e21221c092e49d8a62fca55",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/REL?full=true&date=2014-09-22",
+          "sha256": "6857508eedec785a4d1d616bac7eb26b1f5fe4edb77a320267d870467249d031",
+          "units": 52,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2018-10-05",
+          "commit": "b232886f783a18199c12ae786e64ee78a2f071d4",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/REL?full=true&date=2018-10-05",
+          "sha256": "bd096a41d54981c6ef91df04cc76c5608199b20e45a977f4444ba9c2dfbcc813",
+          "units": 54,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-01-18",
+          "commit": "82af65fad1106c864c4faeb56fee7734a72932a6",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/REL?full=true&date=2019-01-18",
+          "sha256": "9067ba496720f03ae670d60aa038596893d81557ba4c4501a1a3f3db41f38514",
+          "units": 54,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-04-19",
+          "commit": "a99f87156b36602542db08387627bd57f5999eed",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/REL?full=true&date=2019-04-19",
+          "sha256": "27bcbe8c5a5a7e8dcb4c7780d0defc05f0bf284da43fe4208533ed7d49e5df8c",
+          "units": 54,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2021-07-09",
-          "commit": "adc13e6db33cc8329ed0510bc8ca83ce44f66240",
+          "commit": "ddea331f0a157a802d95889957df1e40a3fd896c",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/REL?full=true&date=2021-07-09",
           "sha256": "12c2f9ba788866e07cffa0a69c9d9d8153a1db84541f3ecf4cec33d73fc714c7",
           "units": 54,
