@@ -1,5 +1,5 @@
-                                ARTICLE 7
-                         PIPE LINE CORPORATIONS
+                               ARTICLE 7.
+                         PIPE LINE CORPORATIONS.
 Section 80.   Definitions.
         81.   Additional powers.
         81-a. Misconduct of officers and agents of pipe-line
