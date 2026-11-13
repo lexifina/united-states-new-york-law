@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders. 85 laws added in this append have one current official publication snapshot each; their earlier publication history remains to be added. The official API lists 137 entries.
+This record contains 136 law folders and 1705 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -70,17 +70,17 @@ This record contains 136 law folders. 85 laws added in this append have one curr
 | JUD | Judiciary | `law-jud/` | 1 |
 | LAB | Labor | `labor-law/` | 1 |
 | LEG | Legislative | `law-leg/` | 1 |
-| LEH | Local Emergency Housing Rent Control Act 21/62 | `law-leh/` | 1 |
+| LEH | Local Emergency Housing Rent Control Act 21/62 | `law-leh/` | 6 |
 | LFN | Local Finance | `law-lfn/` | 1 |
-| LIE | Lien | `law-lie/` | 1 |
+| LIE | Lien | `law-lie/` | 8 |
 | LSA | Lost and Strayed Animals 115/1894 | `law-lsa/` | 1 |
 | MCF | Medical Care Facilities Finance Agency 392/73 | `law-mcf/` | 1 |
 | MDW | Multiple Dwelling | `law-mdw/` | 1 |
-| MHA | Municipal Housing Authorities | `law-mha/` | 1 |
+| MHA | Municipal Housing Authorities | `law-mha/` | 2 |
 | MHR | Municipal Home Rule | `law-mhr/` | 1 |
 | MHY | Mental Hygiene | `law-mhy/` | 1 |
 | MIL | Military | `law-mil/` | 1 |
-| MRE | Multiple Residence | `law-mre/` | 1 |
+| MRE | Multiple Residence | `law-mre/` | 7 |
 | NAV | Navigation | `law-nav/` | 1 |
 | NNY | New, New York Bond Act 649/92 | `law-nny/` | 1 |
 | NPC | Not-for-Profit Corporation | `law-npc/` | 1 |
@@ -92,7 +92,7 @@ This record contains 136 law folders. 85 laws added in this append have one curr
 | PBB | Public Buildings | `law-pbb/` | 1 |
 | PBG | Public Housing | `law-pbg/` | 1 |
 | PBH | Public Health | `public-health-law/` | 1 |
-| PBL | Public Lands | `law-pbl/` | 1 |
+| PBL | Public Lands | `law-pbl/` | 6 |
 | PBO | Public Officers | `law-pbo/` | 1 |
 | PBS | Public Service | `law-pbs/` | 1 |
 | PCM | Police Certain Municipalities 360/11 | `law-pcm/` | 1 |
