@@ -7,5 +7,6 @@
   "build": "partial",
   "acts": 136,
   "verified_api_entries": 133,
-  "history_type": "Official publication snapshots; some laws have current snapshot only"
+  "history_type": "Published source snapshots; legal in-force dates unverified",
+  "in_force_dates_verified": false
 }

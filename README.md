@@ -2,7 +2,7 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="New York law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<img alt="New York law in this repository: what it holds, publication snapshot coverage by year, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
 Official New York law texts published by the New York State Senate through Open Legislation.
@@ -148,8 +148,8 @@ This record contains 136 law folders and 1719 official publication snapshots. Ea
 | — | Constitution of the State of New York | `constitution/` | 3 |
 | — | New York Limited Liability Company Law | `limited-liability-company-law/` | 1 |
 
-Publication snapshot dates come from the Senate API publishedDates and lawVersion.activeDate fields. They do not establish exact legal commencement. Earlier wording is included only where an earlier snapshot is recorded. The three pre-API law folders retain their published representation.
+The API dates recorded here identify publication snapshots, not verified legal commencement. Existing API history and its dated-reading results have not been verified as the law legally in force on those dates. Additional publication snapshots are excluded until their legal dates can be established from official sources. The three pre-API law folders retain their published representation.
 
 Text-bearing structural documents are retained with sections. Publisher: New York State Senate. Government edicts are not copyrightable; Georgia v. Public.Resource.Org, Inc., 590 U.S. 255 (2020).
 
-Use `python tools/on.py YYYY-MM-DD <folder>` to read a publication snapshot.
+The dated-reading utility selects records using existing stored dates; its output does not establish legal applicability.

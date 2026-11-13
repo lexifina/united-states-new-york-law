@@ -8,6 +8,7 @@
   "acts": 136,
   "versions": 1719,
   "verified_api_entries": 133,
-  "api_snapshot_versions": 1676,
-  "checked_on": "2026-11-13"
+  "api_snapshot_versions": 1714,
+  "checked_on": "2026-11-13",
+  "in_force_dates_verified": false
 }
