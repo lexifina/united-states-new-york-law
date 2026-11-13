@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders and 1705 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
+This record contains 136 law folders and 1719 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -73,7 +73,7 @@ This record contains 136 law folders and 1705 official publication snapshots. Ea
 | LEH | Local Emergency Housing Rent Control Act 21/62 | `law-leh/` | 6 |
 | LFN | Local Finance | `law-lfn/` | 1 |
 | LIE | Lien | `law-lie/` | 8 |
-| LSA | Lost and Strayed Animals 115/1894 | `law-lsa/` | 1 |
+| LSA | Lost and Strayed Animals 115/1894 | `law-lsa/` | 3 |
 | MCF | Medical Care Facilities Finance Agency 392/73 | `law-mcf/` | 1 |
 | MDW | Multiple Dwelling | `law-mdw/` | 1 |
 | MHA | Municipal Housing Authorities | `law-mha/` | 2 |
@@ -106,7 +106,7 @@ This record contains 136 law folders and 1705 official publication snapshots. Ea
 | PVH | Private Housing Finance | `law-pvh/` | 1 |
 | RAT | Rapid Transit | `law-rat/` | 1 |
 | RCO | Religious Corporations | `law-rco/` | 1 |
-| REL | Rural Electric Cooperative | `law-rel/` | 1 |
+| REL | Rural Electric Cooperative | `law-rel/` | 5 |
 | RLA | Regulation of Lobbying Act 1040/81 | `law-rla/` | 1 |
 | RPA | Real Property Actions & Proceedings | `law-rpa/` | 1 |
 | RPP | Real Property | `real-property-law/` | 1 |
@@ -122,12 +122,12 @@ This record contains 136 law folders and 1705 official publication snapshots. Ea
 | STF | State Finance | `law-stf/` | 1 |
 | STL | State | `law-stl/` | 1 |
 | STT | State Technology | `law-stt/` | 1 |
-| SWC | Soil & Water Conservation Districts | `law-swc/` | 1 |
+| SWC | Soil & Water Conservation Districts | `law-swc/` | 8 |
 | TAX | Tax | `tax-law/` | 1 |
 | TCP | Transportation Corporations | `law-tcp/` | 1 |
 | TRA | Transportation | `law-tra/` | 1 |
 | TRY | City of Troy Issuance of Serial Bonds | `law-try/` | 1 |
-| TSF | Tobacco Settlement Financing Corporation Act | `law-tsf/` | 1 |
+| TSF | Tobacco Settlement Financing Corporation Act | `law-tsf/` | 2 |
 | TWN | Town | `law-twn/` | 1 |
 | UCC | Uniform Commercial Code | `law-ucc/` | 1 |
 | UCT | Uniform City Court Act | `law-uct/` | 1 |
