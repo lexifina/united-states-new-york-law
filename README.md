@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders and 1705 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
+This record contains 136 law folders and 1706 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -127,7 +127,7 @@ This record contains 136 law folders and 1705 official publication snapshots. Ea
 | TCP | Transportation Corporations | `law-tcp/` | 1 |
 | TRA | Transportation | `law-tra/` | 1 |
 | TRY | City of Troy Issuance of Serial Bonds | `law-try/` | 1 |
-| TSF | Tobacco Settlement Financing Corporation Act | `law-tsf/` | 1 |
+| TSF | Tobacco Settlement Financing Corporation Act | `law-tsf/` | 2 |
 | TWN | Town | `law-twn/` | 1 |
 | UCC | Uniform Commercial Code | `law-ucc/` | 1 |
 | UCT | Uniform City Court Act | `law-uct/` | 1 |

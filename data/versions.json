@@ -14922,11 +14922,19 @@
       "law_type": "UNCONSOLIDATED",
       "chapter": "CONTENTS",
       "url": "https://legislation.nysenate.gov/api/3/laws/TSF",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "0cdfb77c536b3e25daa4f9b80b8bfab49597fa6f",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/TSF?full=true&date=2014-09-22",
+          "sha256": "1ba3db8dc92ef0af46c6f087ce949c88a4900a58b1683cd58f98e7952dae6e5a",
+          "units": 17,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2022-12-23",
-          "commit": "197452e329979730417a60938e30177a527fafda",
+          "commit": "6d1bec848c5e8fce22e2c70996bc399a21869ba5",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/TSF?full=true&date=2022-12-23",
           "sha256": "64b750d03be3e007cdd14c5f07fd71e93b83fc3818b0a6d197cf8018e8a330c2",
           "units": 17,
