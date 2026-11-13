@@ -13590,11 +13590,51 @@
       "law_type": "UNCONSOLIDATED",
       "chapter": "21-1962",
       "url": "https://legislation.nysenate.gov/api/3/laws/LEH",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "572739c8741af723ccaf12c8785734359dc89068",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2014-09-22",
+          "sha256": "f3772051755a06ef65a1b1385d22bb11ef75493a17ee92574ef83d535b47dd7e",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2015-07-03",
+          "commit": "56cf15c2b85552513cd7893ff7d18f0b56ddbd61",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2015-07-03",
+          "sha256": "75ca16e586274357c428b772edc2b4fc7bd624d33d170c472360673af3a5477f",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-06-28",
+          "commit": "9f3afec5d79e262e6ce7ab87f008add92c8160b0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2019-06-28",
+          "sha256": "13f4e6f3d9c28ca96387f92fcd28d22a51d38151727644ed4b01f0bac228d90a",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2020-04-17",
+          "commit": "5b689deea28241cc564db70ac08a1898b6ae2142",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2020-04-17",
+          "sha256": "bc3d457ab138b2a6c76d6e62e375bab0e4d345024903929a8a55adc89d255e81",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2021-11-12",
+          "commit": "5705d5ce0d979e7a4ffd151c6541cf1e78b311bb",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2021-11-12",
+          "sha256": "2823d4f83ddc3d5867bc5d303c837d0587ea12533a1ed67060fb5680e09fa896",
+          "units": 1,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2026-02-13",
-          "commit": "bbb3e0bfd7f3ca3c45557b4f3c2e1819335b3cb3",
+          "commit": "06c8e67944d68e5fc980f6c47422fc2442160494",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/LEH?full=true&date=2026-02-13",
           "sha256": "8bce91f36cb758eacf704cd66643dd84120a1d05b8ee27ed4278a85995255f56",
           "units": 1,
@@ -13630,11 +13670,67 @@
       "law_type": "CONSOLIDATED",
       "chapter": "33",
       "url": "https://legislation.nysenate.gov/api/3/laws/LIE",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "240d08467126ae25538e64bac535d1ac8bcef9b9",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2014-09-22",
+          "sha256": "99d31e54d709eaad2f2ebf371c22fc71e645454fd6b931917b5abb9eeb9d740d",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2015-02-20",
+          "commit": "adce4576249112e29c48764ecbd2f8f9ee227985",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2015-02-20",
+          "sha256": "8a0b90a2117f284a9f407e39893c23a5373b852cdf951591b5469819a11b7ff0",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2015-12-04",
+          "commit": "b89cc6275d61e3859224187ab9831cd0758ff8e6",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2015-12-04",
+          "sha256": "15486678784a531d05e8088fa02e9d1171de9d433cd9a2f6c14c258d158f816f",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2018-08-31",
+          "commit": "692a5faaf2cac8e4b83f03603912598a07f99246",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2018-08-31",
+          "sha256": "5c51d90fb0628c5509be44965c1e5648783a1218ab30f45ef6437a6622ddf845",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-11-01",
+          "commit": "70aa39e24027735bc1b71e59d301eb8a24064c66",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2019-11-01",
+          "sha256": "2ae64a8651083fd5f31c801c47a41b4519ce1acb4fff26fa8e0ab80429f9c478",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-11-29",
+          "commit": "9df94f4f133429996934c36465f16922b27963c2",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2019-11-29",
+          "sha256": "89d91d39198dadadd3b443ee51de521497c64a48ff994bf859cab410d28ad16d",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2020-04-24",
+          "commit": "7a61ba400d4397fcf753cc9527235625bb9db553",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2020-04-24",
+          "sha256": "f0dac8d5e75904fc802b868946c82955f31fcafd6f2bdcd31fcd4571f01fa519",
+          "units": 190,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2025-11-28",
-          "commit": "226eca71895c92a832f65ed54b5c6c877f296f3d",
+          "commit": "d5679acefa674277cc3ac6c7011f853bbf474798",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/LIE?full=true&date=2025-11-28",
           "sha256": "e0d3449efc1666ade379c5e1b15ee1fc3a33c3f2e7659dc830706820dd2573ce",
           "units": 190,
@@ -13710,11 +13806,19 @@
       "law_type": "CONSOLIDATED",
       "chapter": "",
       "url": "https://legislation.nysenate.gov/api/3/laws/MHA",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "6215d3870b07cc7316e6f2198c6e5bc16a337eb1",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MHA?full=true&date=2014-09-22",
+          "sha256": "ce1539675ea2813c387a70ce4fc7a9c7ce67401481016ab566c149a51f08cbe7",
+          "units": 20,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2026-04-10",
-          "commit": "cad2adfb0faada54e5e6937689f1f233ce32b277",
+          "commit": "df5385e145aec3fce81038b5cb57b4283c012eb9",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/MHA?full=true&date=2026-04-10",
           "sha256": "661bac9598d194cc440506eca46d45d4d45dd3cc4b428c0dad2a9427a5b1bd55",
           "units": 20,
@@ -13790,11 +13894,59 @@
       "law_type": "CONSOLIDATED",
       "chapter": "61-B",
       "url": "https://legislation.nysenate.gov/api/3/laws/MRE",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "e6ca7e53ff1c0b16347349831f6f44604501fff0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2014-09-22",
+          "sha256": "518f2a642a670a4f8a617d515984cac3be814b281482d9cdcb713f33527c47be",
+          "units": 125,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-01-11",
+          "commit": "4ef61a8ada3194837687b2fdd80e0806a499b9cf",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2019-01-11",
+          "sha256": "d02877ae92cf76bcd7fec443b96738a8464dd17c57fb6538d1336c5a7f180cfb",
+          "units": 125,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-11-08",
+          "commit": "b4ee3ba49f181cd57faa780986775ff9cb81577e",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2019-11-08",
+          "sha256": "5ffee84aea0732b7a91483ac9b6b2df73f4f92abea0f9344d4c7a812d930eb60",
+          "units": 126,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2023-11-26",
+          "commit": "944f48c7f46d9a8fc62954402c59d1f5566dbbe9",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2023-11-26",
+          "sha256": "6ea9b55bfcae8f2d0de7cd557fec38135d0cd4d7a26ee3239fb90fb21742cc42",
+          "units": 127,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2024-02-02",
+          "commit": "471ba1f8ab6aa0b113013862474bc2d61993627d",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2024-02-02",
+          "sha256": "91237ba148a36bdf6428952438ca9da1ee64e7ebb747826ab028feae756d4700",
+          "units": 127,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2024-02-16",
+          "commit": "1ef874584b42f9ecfd40a9811a2ff173d60306b0",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2024-02-16",
+          "sha256": "50247372f80922d4772d65d750e5fb1683b3588d9bdbebd93faa6ea5ea1c53cb",
+          "units": 127,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2026-05-01",
-          "commit": "48c5ed02b9f83602339542b3d629ff145a8500d9",
+          "commit": "0e3a019f6413ff30880e7d042e56124622377a5b",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/MRE?full=true&date=2026-05-01",
           "sha256": "e20f1d0598e0daa4f25870f750202c56c58768a49104ffb4d679eb4185f1f792",
           "units": 127,
@@ -14030,11 +14182,51 @@
       "law_type": "CONSOLIDATED",
       "chapter": "46",
       "url": "https://legislation.nysenate.gov/api/3/laws/PBL",
-      "history_type": "Current official publication snapshot; earlier snapshots not yet included",
+      "history_type": "Official weekly published snapshots",
       "versions": [
         {
+          "from": "2014-09-22",
+          "commit": "74c70ecf743c9156a7e8f326d420a4d45aaf6e2e",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2014-09-22",
+          "sha256": "f88fd2c0e943c33dee7269076b5814899f825599147366924173d503114365ab",
+          "units": 88,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2016-04-22",
+          "commit": "f12705e77c5038b2c9cfee715ad55ae5bf008148",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2016-04-22",
+          "sha256": "98bfb6089aed1120e03106b529acbda1cb9b47f60c6c0035249cabd6eb2e785f",
+          "units": 88,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2016-12-02",
+          "commit": "d62ba5585e7fd9436ea1c279af628a5552cca2ce",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2016-12-02",
+          "sha256": "fb17802f0d94780cd80e1aaca640140a7868eddac953e132d1d6032bd5313660",
+          "units": 88,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2019-12-20",
+          "commit": "3401da68a5747ed7998fce83bc7932f93473660c",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2019-12-20",
+          "sha256": "122dee006df917bcb6faf1800afe79bd3de6b8b3437b828fdfc150b0f05a03c0",
+          "units": 88,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
+          "from": "2022-07-29",
+          "commit": "58da79196213fbb21506c433cba5fafc3bd3ed80",
+          "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2022-07-29",
+          "sha256": "79d1f988fa8fb27dbafc394361314733f7e3a74a285fb998cbf0050f17bdc298",
+          "units": 88,
+          "date_basis": "API publishedDate; exact legal commencement not established"
+        },
+        {
           "from": "2022-12-23",
-          "commit": "4f87979dc5a62c66fb1f22998fcb31b9af480457",
+          "commit": "cc9901d1e0ab79575b72fdc7d61a7d04f494e8b9",
           "source_url": "https://legislation.nysenate.gov/api/3/laws/PBL?full=true&date=2022-12-23",
           "sha256": "343301913a2f426702c36c063b7b8cb4c4178b11c9fb857e9e3eecc48be49ccf",
           "units": 88,
@@ -15063,6 +15255,6 @@
       ]
     }
   ],
-  "checked_on": "2026-11-11",
+  "checked_on": "2026-11-13",
   "history_type": "Official publication snapshots; some laws have current snapshot only"
 }
