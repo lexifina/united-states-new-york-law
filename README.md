@@ -1,5 +1,10 @@
 # United States (New York): law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="New York law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Official New York law texts published by the New York State Senate through Open Legislation.
 
 This record contains 136 law folders. 85 laws added in this append have one current official publication snapshot each; their earlier publication history remains to be added. The official API lists 137 entries.
