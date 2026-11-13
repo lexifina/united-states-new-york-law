@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders and 1708 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
+This record contains 136 law folders and 1715 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -122,7 +122,7 @@ This record contains 136 law folders and 1708 official publication snapshots. Ea
 | STF | State Finance | `law-stf/` | 1 |
 | STL | State | `law-stl/` | 1 |
 | STT | State Technology | `law-stt/` | 1 |
-| SWC | Soil & Water Conservation Districts | `law-swc/` | 1 |
+| SWC | Soil & Water Conservation Districts | `law-swc/` | 8 |
 | TAX | Tax | `tax-law/` | 1 |
 | TCP | Transportation Corporations | `law-tcp/` | 1 |
 | TRA | Transportation | `law-tra/` | 1 |
