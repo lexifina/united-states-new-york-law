@@ -7,7 +7,7 @@
 
 Official New York law texts published by the New York State Senate through Open Legislation.
 
-This record contains 136 law folders and 1719 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
+This record contains 136 law folders and 3955 official publication snapshots. Earlier snapshots remain incomplete for other laws. The official API lists 137 entries.
 
 | Law ID | Official title | Folder | Publication snapshots |
 | --- | --- | --- | ---: |
@@ -30,7 +30,7 @@ This record contains 136 law folders and 1719 official publication snapshots. Ea
 | CNT | County | `law-cnt/` | 55 |
 | COM | Economic Development Law | `law-com/` | 66 |
 | COR | Correction | `law-cor/` | 135 |
-| CPL | Criminal Procedure | `criminal-procedure-law/` | 1 |
+| CPL | Criminal Procedure | `criminal-procedure-law/` | 156 |
 | CRC | New York City Criminal Court Act | `law-crc/` | 13 |
 | CTC | Court of Claims | `law-ctc/` | 15 |
 | CVP | Civil Practice Law & Rules | `civil-practice-law-and-rules/` | 121 |
@@ -44,7 +44,7 @@ This record contains 136 law folders and 1719 official publication snapshots. Ea
 | EDP | Eminent Domain Procedure | `law-edp/` | 3 |
 | EHC | Expanded Health Care Coverage Act 703/88 | `law-ehc/` | 1 |
 | ELD | Elder | `law-eld/` | 55 |
-| ELN | Election | `law-eln/` | 1 |
+| ELN | Election | `law-eln/` | 156 |
 | EML | Employers' Liability | `law-eml/` | 2 |
 | ENG | Energy | `law-eng/` | 14 |
 | ENV | Environmental Conservation | `law-env/` | 1 |
@@ -67,81 +67,81 @@ This record contains 136 law folders and 1719 official publication snapshots. Ea
 | HHC | New York City health and hospitals corporation act 1016/69 | `law-hhc/` | 3 |
 | IND | Indian | `law-ind/` | 8 |
 | ISC | Insurance | `insurance-law/` | 1 |
-| JUD | Judiciary | `law-jud/` | 1 |
+| JUD | Judiciary | `law-jud/` | 93 |
 | LAB | Labor | `labor-law/` | 1 |
-| LEG | Legislative | `law-leg/` | 1 |
+| LEG | Legislative | `law-leg/` | 30 |
 | LEH | Local Emergency Housing Rent Control Act 21/62 | `law-leh/` | 6 |
-| LFN | Local Finance | `law-lfn/` | 1 |
+| LFN | Local Finance | `law-lfn/` | 54 |
 | LIE | Lien | `law-lie/` | 8 |
 | LSA | Lost and Strayed Animals 115/1894 | `law-lsa/` | 3 |
-| MCF | Medical Care Facilities Finance Agency 392/73 | `law-mcf/` | 1 |
-| MDW | Multiple Dwelling | `law-mdw/` | 1 |
+| MCF | Medical Care Facilities Finance Agency 392/73 | `law-mcf/` | 29 |
+| MDW | Multiple Dwelling | `law-mdw/` | 12 |
 | MHA | Municipal Housing Authorities | `law-mha/` | 2 |
-| MHR | Municipal Home Rule | `law-mhr/` | 1 |
-| MHY | Mental Hygiene | `law-mhy/` | 1 |
-| MIL | Military | `law-mil/` | 1 |
+| MHR | Municipal Home Rule | `law-mhr/` | 11 |
+| MHY | Mental Hygiene | `law-mhy/` | 143 |
+| MIL | Military | `law-mil/` | 41 |
 | MRE | Multiple Residence | `law-mre/` | 7 |
-| NAV | Navigation | `law-nav/` | 1 |
+| NAV | Navigation | `law-nav/` | 42 |
 | NNY | New, New York Bond Act 649/92 | `law-nny/` | 1 |
-| NPC | Not-for-Profit Corporation | `law-npc/` | 1 |
+| NPC | Not-for-Profit Corporation | `law-npc/` | 71 |
 | NYP | NYS Project Finance Agency Act7/75 | `law-nyp/` | 1 |
 | NYW | N. Y. wine/grape 80/85 | `law-nyw/` | 1 |
 | PAB | Private Activity Bond 47/90 | `law-pab/` | 1 |
-| PAR | Parks, Recreation and Historic Preservation | `law-par/` | 1 |
+| PAR | Parks, Recreation and Historic Preservation | `law-par/` | 48 |
 | PBA | Public Authorities | `law-pba/` | 1 |
-| PBB | Public Buildings | `law-pbb/` | 1 |
-| PBG | Public Housing | `law-pbg/` | 1 |
+| PBB | Public Buildings | `law-pbb/` | 25 |
+| PBG | Public Housing | `law-pbg/` | 54 |
 | PBH | Public Health | `public-health-law/` | 1 |
 | PBL | Public Lands | `law-pbl/` | 6 |
-| PBO | Public Officers | `law-pbo/` | 1 |
-| PBS | Public Service | `law-pbs/` | 1 |
+| PBO | Public Officers | `law-pbo/` | 117 |
+| PBS | Public Service | `law-pbs/` | 97 |
 | PCM | Police Certain Municipalities 360/11 | `law-pcm/` | 1 |
 | PEN | Penal | `penal-law/` | 1 |
-| PEP | Personal Property | `law-pep/` | 1 |
-| PML | Racing, Pari-Mutuel Wagering and Breeding Law | `law-pml/` | 1 |
-| PNY | Port of New York Authority 154/21 | `law-pny/` | 1 |
+| PEP | Personal Property | `law-pep/` | 11 |
+| PML | Racing, Pari-Mutuel Wagering and Breeding Law | `law-pml/` | 73 |
+| PNY | Port of New York Authority 154/21 | `law-pny/` | 9 |
 | POA | Port of Albany 192/25 | `law-poa/` | 1 |
 | PPD | New York State Printing and Public Documents | `law-ppd/` | 1 |
-| PTR | Partnership | `law-ptr/` | 1 |
-| PVH | Private Housing Finance | `law-pvh/` | 1 |
-| RAT | Rapid Transit | `law-rat/` | 1 |
-| RCO | Religious Corporations | `law-rco/` | 1 |
+| PTR | Partnership | `law-ptr/` | 10 |
+| PVH | Private Housing Finance | `law-pvh/` | 76 |
+| RAT | Rapid Transit | `law-rat/` | 3 |
+| RCO | Religious Corporations | `law-rco/` | 12 |
 | REL | Rural Electric Cooperative | `law-rel/` | 5 |
 | RLA | Regulation of Lobbying Act 1040/81 | `law-rla/` | 1 |
-| RPA | Real Property Actions & Proceedings | `law-rpa/` | 1 |
-| RPP | Real Property | `real-property-law/` | 1 |
-| RPT | Real Property Tax | `law-rpt/` | 1 |
-| RRD | Railroad | `law-rrd/` | 1 |
-| RSS | Retirement & Social Security | `law-rss/` | 1 |
-| SAP | State Administrative Procedure Act | `law-sap/` | 1 |
-| SCC | Second Class Cities | `law-scc/` | 1 |
-| SCP | Surrogate's Court Procedure | `law-scp/` | 1 |
-| SCT | Suffolk County Tax Act | `law-sct/` | 1 |
+| RPA | Real Property Actions & Proceedings | `law-rpa/` | 67 |
+| RPP | Real Property | `real-property-law/` | 92 |
+| RPT | Real Property Tax | `law-rpt/` | 165 |
+| RRD | Railroad | `law-rrd/` | 8 |
+| RSS | Retirement & Social Security | `law-rss/` | 94 |
+| SAP | State Administrative Procedure Act | `law-sap/` | 28 |
+| SCC | Second Class Cities | `law-scc/` | 4 |
+| SCP | Surrogate's Court Procedure | `law-scp/` | 28 |
+| SCT | Suffolk County Tax Act | `law-sct/` | 3 |
 | SLG | Statute of Local Governments | `law-slg/` | 1 |
 | SNH | Special Needs Housing Act 261/88 | `law-snh/` | 1 |
 | STF | State Finance | `law-stf/` | 1 |
-| STL | State | `law-stl/` | 1 |
-| STT | State Technology | `law-stt/` | 1 |
+| STL | State | `law-stl/` | 22 |
+| STT | State Technology | `law-stt/` | 37 |
 | SWC | Soil & Water Conservation Districts | `law-swc/` | 8 |
 | TAX | Tax | `tax-law/` | 1 |
-| TCP | Transportation Corporations | `law-tcp/` | 1 |
-| TRA | Transportation | `law-tra/` | 1 |
+| TCP | Transportation Corporations | `law-tcp/` | 7 |
+| TRA | Transportation | `law-tra/` | 43 |
 | TRY | City of Troy Issuance of Serial Bonds | `law-try/` | 1 |
 | TSF | Tobacco Settlement Financing Corporation Act | `law-tsf/` | 2 |
-| TWN | Town | `law-twn/` | 1 |
-| UCC | Uniform Commercial Code | `law-ucc/` | 1 |
-| UCT | Uniform City Court Act | `law-uct/` | 1 |
-| UDA | Urban Development Corporation Act 174/68 | `law-uda/` | 1 |
-| UDC | Uniform District Court Act | `law-udc/` | 1 |
+| TWN | Town | `law-twn/` | 65 |
+| UCC | Uniform Commercial Code | `law-ucc/` | 16 |
+| UCT | Uniform City Court Act | `law-uct/` | 16 |
+| UDA | Urban Development Corporation Act 174/68 | `law-uda/` | 47 |
+| UDC | Uniform District Court Act | `law-udc/` | 10 |
 | UDG | Urban development guarantee fund of New York 175/68 | `law-udg/` | 1 |
 | UDR | Urban development research corporation act 173/68 | `law-udr/` | 1 |
-| UJC | Uniform Justice Court Act | `law-ujc/` | 1 |
+| UJC | Uniform Justice Court Act | `law-ujc/` | 16 |
 | VAT | Vehicle & Traffic | `vehicle-and-traffic-law/` | 1 |
-| VAW | Volunteer Ambulance Workers' Benefit | `law-vaw/` | 1 |
-| VET | Veterans' Services | `law-vet/` | 1 |
-| VIL | Village | `law-vil/` | 1 |
-| VOL | Volunteer Firefighters' Benefit | `law-vol/` | 1 |
-| WKC | Workers' Compensation | `law-wkc/` | 1 |
+| VAW | Volunteer Ambulance Workers' Benefit | `law-vaw/` | 8 |
+| VET | Veterans' Services | `law-vet/` | 23 |
+| VIL | Village | `law-vil/` | 34 |
+| VOL | Volunteer Firefighters' Benefit | `law-vol/` | 17 |
+| WKC | Workers' Compensation | `law-wkc/` | 61 |
 | YFA | Yonkers financial emergency act 103/84 | `law-yfa/` | 1 |
 | YTS | Yonkers income tax surcharge | `law-yts/` | 1 |
 | — | New York Business Corporation Law | `business-corporation-law/` | 1 |
